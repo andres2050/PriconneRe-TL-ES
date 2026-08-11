@@ -1,0 +1,146 @@
+ラン加入=Unirse a Clan
+クラン検索=Buscar Clan
+クラン結成=Crear Clan
+勧誘リスト=Lista de Invitaciones
+
+条件:誰でも加入=Abierto a todos
+方針:指定なし=Política: Ninguna
+人数:指定なし=Miembros: Ninguno
+クランバトル:クランモード=BC: Modo Clan
+
+勧誘設定:受け付ける=Recibir invitaciones
+勧誘設定:受け付けない=No recibir invitaciones
+設定変更=Cambiar ajustes
+勧誘設定を変更しますか？=¿Cambiar ajustes de invitación?
+クランからの勧誘を受け付けるか選択できます。\nすでにクランに所属している場合は、新たに勧誘はされません。=Selecciona si recibir o no invitaciones de clanes.\nNo recibirás invitaciones si ya estás en un Clan.
+受け付けない=No aceptar
+受け付ける=Aceptar
+
+※2文字以上=Mín. 2 caracteres
+クラン名検索=Buscar por nombre de Clan
+メンバー人数=Miembros
+
+活動方針=Estilo
+自由にプレイ=Juego libre
+まったりプレイ=Casual
+がっつりプレイ=Hardcore
+初心者OK=Principiantes bienvenidos
+わいわいプレイ=Solo por diversión
+r:"^クランバトル([0-9,.]+)位以内$"=Top $1
+毎日ログイン=Conectado a diario
+2日以内ログイン=Conectado en 2 días
+朝プレイメイン=Principalmente mañanas
+昼プレイメイン=Principalmente tardes
+夜プレイメイン=Principalmente noches
+深夜プレイメイン=Principalmente madrugadas
+
+加入条件=Requisitos
+誰でも加入=Abierto a todos
+承認あり=Con aprobación
+勧誘のみ=Solo invitación
+
+シングルモード=Modo Individual
+クランモード=Modo Clan
+
+申請中=Pendiente
+勧誘を拒否する=Rechazar invitación
+加入申請する=Solicitar
+
+プレイヤー情報を見る=Ver datos del jugador
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入申請を出しますか？\[-\]\[-\]$"=[3C404E]¿Solicitar unirse a\n[FFBB00,CE4F00]$1[-]?[-]
+加入申請確認=Solicitud
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入申請を出しました。\[-\]\[-\]$"=[3C404E]Has solicitado unirte a\n[FFBB00,CE4F00]$1[-].[-]
+加入申請完了=Solicitud enviada
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]に申請中です。\n申請を取り消しますか？\[-\]\[-\]$"=[3C404E]¿Cancelar solicitud para unirse a\n[FFBB00,CE4F00]$1[-]?[-]
+申請取り消し確認=Cancelar Solicitud
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消しました。\[-\]\[-\]$"=[3C404E]Has cancelado tu solicitud para unirte a\n[FFBB00,CE4F00]$1[-].[-]
+申請取り消し完了=Solicitud cancelada
+
+[FF7C4E,D62146]検索結果に一致するクランが見つかりませんでした。[-]=[FF7C4E,D62146]No se encontraron clanes que coincidan con tu búsqueda.[-]
+
+交代=Cambiar
+サブリーダー=Sublíder
+任命=Nombrar
+勧誘や、加入申請の管理=Reclutamiento, gestión de solicitudes
+クラン名やクラン説明の編集\nクランメンバーの管理\n勧誘や、加入申請の管理=Editar nombre y descripción del clan, reclutar miembros y gestionar solicitudes
+以下のメンバーの役職変更・管理を行います。=Se cambiará el rol del siguiente miembro.
+[3C404E][3C404E]<Player name regex here>を\nクランから除名しますか？[-][-]=[3C404E]¿Debemos expulsar a <Regex capture here> del clan?[-]
+[3C404E][3C404E]<Player name regex here>を\nクランから除名しました。[-][-]=[3C404E]<Regex capture here> ha sido expulsado del clan.[-]
+除名を取り消すことはできません。=Expulsar a este jugador no se puede deshacer.
+除名確認=Confirmar Expulsión
+除名完了=Expulsión Completada
+クラン説明=Descripción del Clan
+クラン名=Nombre del Clan
+クランの情報を設定します。=Configura la información del clan.
+※60文字以内=※Máx. 60 caracteres
+※2文字以上10文字以内=※Entre 2 y 10 caracteres
+クラン名を2文字以上入力してください。=El nombre del clan debe tener al menos 2 caracteres.
+結成する=Crear
+[FF7C4E,D62146]設定内容は結成後でも変更できます。[-]=[FF7C4E,D62146]Los ajustes se pueden cambiar después[-].
+r:"^\[3C404E\]\[3C404E\]クラン\[FFBB00\,CE4F00\](.+)\[-\]を\n結成しました。\[-\]\[-\]$"=[3C404E]Clan creado\n[FFBB00,CE4F00]$1[-].[-]
+クラン結成完了=Clan Creado
+解散=Disolver
+[3C404E][3C404E]クランを[-][FF7C4E,D62146]解散[-][3C404E]します。\nよろしいですか？[-][-]=[FF7C4E,D62146]¿Disolver[-][3C404E] este clan?[-]
+[FF7C4E,D62146]解散後24時間はクランの結成・加入ができません。[-]=[FF7C4E,D62146]No puedes unirte ni crear un clan durante\n24 horas tras disolverlo.[-]
+クラン編集=Editar Clan
+[FF7C4E,D62146]加入申請中のプレイヤーがいません。[-]=[FF7C4E,D62146]No hay solicitudes de jugadores.[-]
+メンバー管理=Gestión de Miembros
+勧誘プレイヤーリスト=Lista de jugadores a invitar
+加入申請リスト=Lista de solicitudes
+加入/勧誘リスト=Lista de Solicitudes/Invitaciones
+メンバーを探す=Buscar Miembros
+r:"^プレイヤーLv ： ([0-9 ～]+)$"=Nv. de jugador : $1
+プレイヤー情報=Info de jugador
+勧誘=Invitar
+勧誘を解除=Cancelar invitación
+除名する=Eliminar
+クラン勧誘=Invitación de Clan
+よろしくお願いします。=Encantado.
+シングルモード参加=Participación en modo individual
+r:"^(.+)をクランに勧誘しますか？$"=¿Invitar a $1 a unirse al clan?
+勧誘コメント=Mensaje de invitación
+r:"^(.+)を勧誘しました。$"=Has enviado una invitación a $1.
+
+r:"^(.+)への勧誘を取り消しました。$"=Invitación a $1 cancelada.
+勧誘取り消し=Cancelar Invitación
+すでに勧誘済みです。=Ya invitado
+加入する=Unirse
+勧誘
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの勧誘を\n拒否しますか？\[-\]\[-\]$"=[3C404E]¿Rechazar invitación de\n[FFBB00,CE4F00]$1[-]?[-]
+勧誘拒否確認=Rechazar Invitación
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの勧誘を\n拒否しました。\[-\]\[-\]$"=[3C404E]Has rechazado la invitación de\n[FFBB00,CE4F00]$1[-].[-]
+勧誘拒否完了=Invitación Rechazada
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの加入を\n拒否しますか？\[-\]\[-\]$"=[3C404E]¿Rechazar solicitud de\n[FFBB00,CE4F00]$1[-]?[-]
+加入拒否確認=Rechazar Solicitud
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの加入を\n拒否しました。\[-\]\[-\]$"=[3C404E]Has rechazado la solicitud de\n[FFBB00,CE4F00]$1[-].[-]
+加入拒否完了=Solicitud Rechazada
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入しますか？\[-\]\[-\]$"=[3C404E]¿Quieres unirte a\n[FFBB00,CE4F00]$1[-]?[-]
+加入確認=Confirmación de Unión
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入しました。\[-\]\[-\]$"=[3C404E]Te has unido a\n[FFBB00,CE4F00]$1[-].[-]
+加入完了=Unirse al Clan
+
+クランを解散しました。=Clan disuelto.
+r:"^(\d+)時間(\d+)分後にクラン結成が可能です。$"=Puedes crear un clan después de $1h$2m.
+r:"^(\d+)分後にクラン結成が可能です。$"=Puedes crear un clan después de $1m.
+r:"^(\d+)時間(\d+)分後にクラン加入が可能です。$"=Puedes unirte a un clan después de $1h$2m.
+r:"^(\d+)分後にクラン加入が可能です。$"=Puedes unirte a un clan después de $1m.
+初心者応援クラン=Clan de apoyo a principiantes
+まったりやりましょう=Vamos a tomarlo con calma.
+サーバーエラー=Error de Servidor
+前回、このプレイヤーから勧誘を拒否されました。\n勧誘拒否から24時間以内は勧誘できません。=La última vez rechazaste una invitación de este jugador. No puedes invitar dentro de las 24 horas tras rechazar la invitación.
+NPC
+他のプレイヤーと、クランを結成しましょう。\nクランを結成すると、クランバトルやダンジョンで協力して戦えます。=Únete a otros jugadores para formar un clan.\nAsí podréis luchar juntos en la Batalla de Clan y las Mazmorras.
+
+クランに入れるらしいわよ\nせっかくだから入ってみたら？\nけっこう楽しいみたいよ♪=Parece que puedes unirte a un Clan.\n¿Por qué no lo pruebas?\n¡Puede ser muy divertido!♪
+こちらでクランに加入できます\n素敵なクランがたくさんあって、\n目移りしてしまいますね=Puedes unirte a un Clan aquí.\nHay tantos Clanes maravillosos que es difícil elegir.
+クランに加入してみませんか？\nみんなといっしょに冒険した方が、\n楽しいですよ！= ¿Quieres unirte a un clan?\n ¡Es mucho más divertido ir de aventuras en equipo!
+ねぇ…クランに加入してみない？\n一人も楽しいけど、みんなと\n一緒も賑やかでいいと思うの=Oye... ¿Por qué no te unes a un clan? Estar solo está bien, pero creo que un grupo animado también es bueno.

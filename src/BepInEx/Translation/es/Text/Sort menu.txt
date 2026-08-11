@@ -1,0 +1,18 @@
+表示順=Orden de muestra
+ソート=Ordenar
+★の数=Núm. de ★
+レベル=Nivel
+マイセレクト=Mis favoritos
+50音順=ABC
+スフィア使用中=Esferacrecimiento
+★6登場済=Personaje ★6
+役職=Posición
+ロール=Rol
+編成順=Orden de formación
+
+まとめて強化対象設定=Config. de objetivo de mejora a la vez
+まとめて強化対象の設定をします。=Configura un objetivo de mejora a la vez.
+シンクロ対象=Objetivo de sincronización
+専用１SP登場済=UE-1SP
+
+本日編成したキャラを優先して表示=Priorizar personajes usados en equipos hoy

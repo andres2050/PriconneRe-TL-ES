@@ -1,0 +1,120 @@
+究極錬成=Síntesis\nDefinitiva
+サブステータス=Subestado
+錬成されていません。=No sintetizado.
+錬成=Síntesis
+カスタム錬成=Síntesis Personalizada
+変換=Conversión
+EX装備錬成Pt=Pt de Síntesis de Equipo EX
+パラメータを最大値にするスロット=Ranuras para maximizar parámetros
+錬成スフィア=Esfera de Alquimista
+錬成スフィア使用確認=Uso de Esfera de Alquimista confirmado
+錬成スフィアが不足しています。=Esfera de Alquimista insuficiente.
+EX装備錬成確認=Síntesis de Equipo EX confirmada
+以下のアイテムを消費して錬成します。=Se consumen los siguientes objetos para transmutar.
+
+錬成結果を反映し、終了します。=Revisa el resultado de la síntesis y confirma.
+結果確定=Confirmar
+破棄=Descartar
+終了後のステータス=Estados tras completar
+錬成結果反映確認=Confirmar Resultado de Síntesis
+
+錬成結果を破棄し、終了します。=Revisa el resultado de la síntesis antes de descartarlo.
+錬成結果破棄確認=Descartar Resultado de Síntesis
+再錬成=Refabricación
+
+
+橙=Naranja
+緑=Verde
+紫=Morado
+金=Oro
+銀=Plata
+銅以下=Cobre o inferior
+空=Cielo
+桃以上=Rosa o superior
+銅=Cobre
+
+表示可能な素材が存在しません。=No hay material disponible para mostrar.
+おまかせ変換設定=Ajuste de conversión automática
+おまかせ変換する=Convertir automáticamente
+EX装備錬成Pt変換=Conversión de Pt de Síntesis de Equipo EX
+変換する素材を選択済みです。=Materiales a convertir seleccionados.
+変換する素材を選択してください。=Selecciona el material a convertir.
+以下の素材を変換します。=Convierte los siguientes materiales.
+変換する=Convertir
+EX装備錬成Pt変換確認=Conversión de Pt de Síntesis de Equipo EX confirmada
+
+最大値=Valor máximo
+最小値=Valor mínimo
+抽選するサブステータス=Subestado a obtener
+選択中の装備に付与される\nサブステータス一覧を確認できます。=Puedes comprobar la lista de subestados otorgados al equipo seleccionado.
+サブステータス確認=Comprobar Subestado
+
+
+まとめて変換する=Convertir en lote
+アイテム個数選択=Seleccionar número de objetos
+sr:"^変換する(.+)の\n個数を選択する。$"=Selecciona el número de $1 a convertir.
+変換結果=Resultados de conversión
+変換したアイテムは元に戻せません。=Los objetos convertidos no se pueden restaurar.
+
+
+まだ見ていないストーリーです。=Es una historia que aún no has visto.
+
+
+錬成結果を破棄する場合に、確認ダイアログを表示するか設定します。=Configura si mostrar un diálogo de confirmación al descartar los resultados de síntesis.
+EX装備錬成結果破棄の確認ダイアログ=Diálogo de confirmación para descartar Síntesis de Equipo EX
+EX装備錬成結果反映の確認ダイアログ=Diálogo de confirmación de Resultados de Síntesis de Equipo EX
+錬成結果を反映する場合に、確認ダイアログを表示するか設定します。=Configura si mostrar un diálogo de confirmación al revisar los resultados de síntesis.
+錬成スフィアの使用確認ダイアログ=Diálogo de confirmación de uso de Esfera de Síntesis
+錬成スフィアを使用する場合に、確認ダイアログを開きます。=Abre un diálogo de confirmación al usar una Esfera de Síntesis.
+
+
+
+
+
+
+
+
+
+-------
+条件を満たすサブステータスが抽選された場合は、途中で錬成を停止します。=La síntesis se detendrá antes si se obtiene un Subestado que cumpla las condiciones.
+実行回数=N.º de intentos
+指定した条件で実行回数分、繰り返し錬成します。=Realiza la Síntesis repetidamente el número de veces especificado con las condiciones seleccionadas.
+条件なし=Ninguno
+カスタム錬成設定=Ajustes de Síntesis Personalizada
+サブステータス条件=Condiciones de Subestado
+グレード条件=Condiciones de Grado
+最大消費数=Usos máximos
+Sグレード=Grado S
+Aグレード以上=Grado A o superior
+Bグレード以上=Grado B o superior
+Cグレード以上=Grado C o superior
+[3C404E]サブステータスの評価には D ～ [F374FF,95289F]S[-] グレードがありま\nす。\n\n　[F374FF,95289F]S[-] グレード（最高）\n　[FF5C77,CE0030]A[-] グレード\n　[2DB075,31635C]B[-] グレード\n　[FFBB00,CE4F00]C[-] グレード\n　D グレード（最低）\n\n錬成を実行すると、装備ごとに決められた種類の中からランダムにサブステータスの種類とグレードが抽選されます。[-]=[3C404E]Los Subestados se clasifican de D a [F374FF,95289F]S[-] Grado.\n\n　[F374FF,95289F]S[-] Grado (Máximo)\n　[FF5C77,CE0030]A[-] Grado\n　[2DB075,31635C]B[-] Grado\n　[FFBB00,CE4F00]C[-] Grado\n　D Grado (Mínimo)\n\nAl realizar la Síntesis, el tipo y grado del Subestado se seleccionan aleatoriamente de las opciones disponibles para ese equipo.[-]
+サブステータスのグレードについて=Sobre los Grados de Subestado
+カスタム錬成は、指定した種類とグレードの両方の条件を満たすサブステータスが抽選されるまで錬成を繰り返します。\n\n条件を満たすサブステータスが抽選されなかった場合\nは、設定した最大実行回数まで錬成が実行されます。=La Síntesis Personalizada repite la Síntesis hasta obtener un Subestado que cumpla tanto el tipo como el grado especificados.\n\nSi no se obtiene un Subestado que cumpla las condiciones,\nla Síntesis continuará hasta alcanzar el número máximo de intentos configurado.
+カスタム錬成について=Sobre la Síntesis Personalizada
+グレードについて=Sobre los Grados
+
+1種類選択中=1 Tipo Seleccionado
+r:"^(\d+)種類選択中$"=$1 Tipos Seleccionados
+r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]錬成します。$"=Consume los siguientes objetos para realizar hasta [FFBB00,CE4F00]$1[-] Síntesis.
+カスタム錬成確認=Confirmar Síntesis Personalizada
+途中結果=Resultados Intermedios
+消費したアイテム=Objetos Consumidos
+r:"^(\d+)回\[-\]\[3C404E\]錬成を行いました。$"=Realizadas [FFBB00,CE4F00]$1[-][3C404E] Síntesis.
+カスタム錬成完了=Síntesis Personalizada Completada
+カスタム錬成 設定確認=Comprobación de Ajustes de Transmutación Personalizada
+選択中のサブステータス=Subestado seleccionado
+カスタム錬成 途中結果=Transmutación Personalizada: Resultados Intermedios
+カスタム錬成 設定確認=Confirmación de Ajustes de Síntesis Personalizada
+選択中のサブステータス=Subestados seleccionados
+カスタム錬成 途中結果=Progreso de Síntesis Personalizada
+
+一度に実行できる回数の上限です。=Este es el número máximo de veces que se puede realizar a la vez.
+
+
+
+錬成結果を破棄して再錬成します。=Descarta el resultado de síntesis actual y refabrica de nuevo.
+前回の錬成結果=Resultado de Síntesis Anterior
+r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]錬成します。前回の錬成結果を破棄してから再錬成します。$"=Consume los siguientes objetos para realizar hasta [FFBB00,CE4F00]$1[-] síntesis.\nEl resultado de síntesis anterior se descartará antes de refabricar.
+カスタム再錬成確認=Confirmar Refabricación Personalizada
+条件を満たすサブステータスが抽選されました。=Se ha obtenido un Subestado que cumple las condiciones.

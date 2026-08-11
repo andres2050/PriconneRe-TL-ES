@@ -1,0 +1,30 @@
+タイトルへ=Volver al Título
+エラー=Error
+アプリ終了=Salir de la app
+タイムアウト=Tiempo agotado
+[3C404E]しばらく操作されなかったため、\nゲームを終了して、DMM GAME PLAYERから再起動してください。[-]=[3C404E]Sin respuesta durante un tiempo\nCierra el juego y reinicia desde DMM GAME PLAYER. [-]
+新しいバージョンがあります。\nゲームを一度終了し、DMM GAME PLAYERから再起動を行ってください。=Hay una nueva versión del juego.\nSal del juego y reinicia desde DMM GAME PLAYER.
+[3C404E]エラーコード：201\n接続が途切れました。\nタイトルに戻ります。[-]=[3C404E]Código de error: 201\nSe interrumpió la conexión.\nVolviendo al título.[-]
+
+ネットワーク接続エラーが発生しました。\nエラーコード：1-3-0=Ha ocurrido un error de conexión de red.\nCódigo de error: 1-3-0
+
+
+エラーコード：3319\nプリンセスアリーナにおける接続が途切れました。\nタイトルに戻ります。=Código de error: 3319\nSe interrumpió la conexión en la Arena de Princesa.\nVolviendo al título.
+エラーコード：2002\nこのプレゼントは受け取り期限を過ぎています。=Código de error: 2002\nEste regalo ha caducado.
+[3C404E]エラーコード：216\nエラーが発生しました。\n直接ゲームを起動することはできません。\nプラットフォーム指定の方法で\nゲームを起動してください。[-]=[3C404E]Código de error: 216\nNo puedes iniciar el juego directamente.\nInicia el juego usando el método especificado por la plataforma.[-]
+[3C404E]タイムアウトしました。[-]=[3C404E]Tiempo agotado [-].
+[3C404E]エラーコード：3511\n開催中のクエストがありません。[-]=[3C404E]Código de error: 3511\nNo hay misiones en curso.[-]
+
+[3C404E]エラーコード：205\nエラーが発生しました。\nタイトルに戻ります。[-]=[3C404E]Código de error: 205\nHa ocurrido un error\nVolviendo al título.[-]
+[3C404E]エラーコード：501\nエラーが発生しました。\nタイトルに戻ります。[-]=[3C404E]Código de error: 501\nHa ocurrido un error\nVolviendo al título.[-]
+エラーコード：501\nエラーが発生しました。\nタイトルに戻ります。=Código de error: 501\nHa ocurrido un error\nVolviendo al título.
+エラーコード:2\n処理中にエラーが発生しました=Código de error: 2\nerror durante el procesamiento
+[3C404E]エラーコード:2\n処理中にエラーが発生しました[-]=[3C404E]Código de error: 2\nerror durante el procesamiento[-]
+
+エラーコード：208\nエラーが発生しました。=Código de error: 208\nHa ocurrido un error.
+---Sistema---
+[3C404E]ネットワーク接続エラーが発生しました。[-]=[3C404E]Ha ocurrido un error de conexión de red. [-]
+[3C404E]新しいデータがあります。\nタイトルへをタップすると\nダウンロードが始まります。[-]=[3C404E]Hay nuevos datos.\nPulsa en el título\npara empezar la descarga. [-]
+[3C404E]エラーコード：218-40\nエラーが発生しました[-]=[3C404E]Código de error: 218-40\nHa ocurrido un error[-]
+ネットワーク接続エラーが発生しました。\nエラーコード：1-2-0=Ha ocurrido un error de conexión de red.\nCódigo de error: 1-2-0
+[3C404E]ただいまメンテナンス中です。\n完了までしばらくお待ちください。[-]=[3C404E]Actualmente en mantenimiento.

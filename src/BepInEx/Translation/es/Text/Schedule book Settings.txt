@@ -1,0 +1,85 @@
+予定の整理=Ajustes de Agenda
+イベントのデイリーミッション設定=Ajuste de Misión Diaria de Evento
+開催中のイベントのデイリーミッションが達成済みで、報酬を受け取っていないものがあるとき\n予定帳に表示するかどうかを設定できます。=Puedes configurar si la agenda muestra una tarea para las misiones diarias de evento completadas\ncon recompensas sin reclamar.
+
+イベントボス設定=Ajuste de Jefe de Evento
+イベントボス（VERY HARD）を討伐していないときに予定帳に表示するかどうかを設定できます。\n開催中のイベントが無い、イベントボス（VERY HARD）が未解放の場合は設定によらず表示されません。\n複数のイベントが平行して開催されている場合はイベントごとに表示されます。=Puedes configurar si la agenda muestra una tarea para un jefe de evento (MUY DIFÍCIL) no derrotado.\nSi no hay evento en curso o el jefe de evento (MUY DIFÍCIL) no está desbloqueado,\nno se mostrará independientemente de este ajuste.\nSi hay varios eventos en paralelo, habrá una tarea por cada evento.
+
+通常ショップ設定=Ajustes de Tienda Normal
+通常ショップで購入されていないアイテムがある場合、予定帳に表示するかどうかを設定できます。=Puedes configurar una tarea para comprar objetos en la Tienda Normal.
+
+通常ショップ詳細設定=Ajustes Detallados de Tienda Normal
+通常ショップに指定したアイテムに購入していないものがある場合、予定帳に表示する設定ができます。\n「通常ショップ設定」の項目で「表示しない」設定にしている場合は購入の有無によらず表示されません。=Puedes configurar una tarea para un tipo específico de objeto en la Tienda Normal que no se haya comprado.\nSi has configurado «Ajustes de Tienda Normal» en «No mostrar», no se mostrará independientemente de este ajuste.
+
+限定ショップ設定=Ajustes de Tienda Bonus
+限定ショップで購入されていないアイテムがある場合、予定帳に表示するかどうかを設定できます。=Puedes configurar una tarea para comprar objetos en la Tienda Bonus.
+
+限定ショップ詳細設定=Ajustes Detallados de Tienda Bonus
+限定ショップに指定したアイテムに購入していないものがある場合、予定帳に表示する設定ができます。\n「限定ショップ設定」の項目で「表示しない」設定にしている場合は購入の有無によらず表示されません。=Puedes configurar una tarea para comprar un tipo específico de objeto en la Tienda Bonus.\nSi has configurado «Ajustes de Tienda Bonus» en «No mostrar», no se mostrará independientemente de este ajuste.
+
+ダンジョン設定=Ajustes de Mazmorra
+ダンジョンの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。=Puedes configurar una tarea que intentará u omitirá la Mazmorra si aún te quedan intentos.
+
+スペシャルダンジョン開催中詳細設定=Ajustes Detallados de Mazmorra Especial
+スペシャルダンジョン開催中にダンジョンの挑戦回数が残っているとき\n予定帳からダンジョンをスキップ可能にするか表示するかを設定できます。\n「ダンジョン設定」の項目で「表示する」設定にしている場合はスキップできません。\n「ダンジョン設定」の項目で「表示しない」設定にしている場合はスキップできず表示もされません。=Puedes configurar una tarea que intentará u omitirá la Mazmorra Especial si aún te quedan intentos.\nNo puedes omitirla si has configurado «Mostrar» en «Ajustes de Mazmorra».\nSi has configurado «No mostrar» en «Ajustes de Mazmorra», no se mostrará independientemente de este ajuste.
+ダンジョンの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップの設定であってもスペシャルダンジョンの開催期間中はスキップできません。=Cuando queden intentos de mazmorra,\npuedes configurar si permitir la omisión desde la agenda o solo mostrarla.\nIncluso si se permite la omisión, no se puede omitir durante el periodo de Mazmorra Especial.
+
+追憶戦報酬受け取り設定=Ajuste de Recogida de Recompensas de Batalla de Recuerdo
+追憶戦の報酬を受け取っていないとき\n予定帳から報酬を受け取れるようにするか、表示するか設定できます。\n記憶領域1層をクリアしていない場合は設定によらず表示されません。=Cuando haya recompensas sin recoger de Batallas de Recuerdo,\npuedes configurar si permitir recoger recompensas desde la agenda o solo mostrarlas.\nSi no has superado la Fase 1 del Dominio de Memoria, no se mostrará independientemente del ajuste.
+
+追憶戦・覇設定=Ajuste de Recuerdo y Conquista
+追憶戦・覇の挑戦回数が残っているとき予定帳に表示するか設定できます。\n挑戦できるボスがいない場合は設定によらず表示されません。=Puedes configurar si mostrar Recuerdo y Conquista\nen la agenda cuando queden intentos de desafío.\nSi no hay jefes disponibles para desafiar, no se mostrará independientemente del ajuste.
+
+
+経験値クエスト設定=Ajustes de Misión de EXP
+経験値クエストの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップ可能なクエストが無い場合はスキップできません。=Puedes configurar una tarea que mostrará u omitirá las misiones de EXP de la Gruta si aún te quedan intentos.\nSi no hay misiones omitibles, no se mostrará independientemente del ajuste.
+
+マナクエスト設定=Ajustes de Misión de Mana
+マナクエストの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップ可能なクエストが無い場合はスキップできません。=Puedes configurar una tarea que mostrará u omitirá las misiones de Mana de la Gruta si aún te quedan intentos.\nSi no hay misiones omitibles, no se mostrará independientemente del ajuste.
+
+バトルアリーナ設定=Ajustes de Arena de Batalla
+バトルアリーナで1度もバトルしていないとき予定帳に表示するかどうかを設定できます。=Puedes configurar un recordatorio para luchar en la Arena de Batalla si aún no lo has hecho hoy.
+
+アリーナコイン受け取り設定=Ajustes de Recogida de Monedas de Arena
+
+バトルアリーナで1度もアリーナコインを受け取っていないとき\n予定帳からアリーナコインを受け取れるようにするか、表示するか設定できます。\n受け取れるアリーナコインがない場合は予定帳に表示されません。=Puedes configurar una tarea que mostrará o recogerá Monedas de Arena\nsi aún no las has recogido de la Arena de Batalla.\nSi no hay Monedas de Arena que recoger, esta tarea no se mostrará.
+
+プリンセスアリーナ設定=Ajustes de Arena de Princesa
+プリンセスアリーナで1度もバトルしていないとき予定帳に表示するかどうかを設定できます。=Puedes configurar un recordatorio para luchar en la Arena de Princesa si aún no lo has hecho hoy.
+
+プリンセスアリーナコイン受け取り設定=Ajustes de Recogida de Monedas de Arena de Princesa
+
+プリンセスアリーナで1度もプリンセスアリーナコインを受け取っていないとき\n予定帳からプリンセスアリーナコインを受け取れるようにするか、表示するか設定できます。\n受け取れるプリンセスアリーナコインがない場合は予定帳に表示されません。=Puedes configurar una tarea que mostrará o recogerá Monedas de Arena de Princesa\nsi aún no las has recogido de la Arena de Batalla.\nSi no hay Monedas de Arena de Princesa que recoger, esta tarea no se mostrará.
+
+ノーマルガチャ設定=Ajustes de Gacha Normal
+ガチャを引く=Tirar del Gacha
+ノーマルガチャを1度も引いていないとき予定帳からノーマルガチャを引けるようにするか、\n表示するか設定できます。=Puedes configurar una tarea que mostrará o tirará del Gacha Normal si aún no lo has hecho hoy.
+
+ノーマルガチャ詳細設定=Ajustes Detallados de Gacha Normal
+ノーマルガチャの利用回数がリセットされたとき「ノーマルガチャ設定」の項目の達成状況を\nリセットするか設定できます。=Puedes decidir si el estado de completitud de la tarea en «Ajustes de Gacha Normal» se reiniciará cuando el Gacha Normal vuelva a estar disponible dentro del día.
+リセットしない=No reiniciar
+
+「いいね」設定=Ajustes de «Me gusta»
+「いいね」をしていないとき予定帳から「いいね」できるようにするか、表示するか設定できます。\n予定帳から「いいね」する場合はランダムなクランメンバーが選択されます。\nクランに所属していないまたはクランに自分以外のクランメンバーがいない場合は「いいね」できません。=Puedes configurar una tarea que mostrará o dará «Me gusta» automáticamente a una casa de gremio.\nSe seleccionará un miembro de clan aleatorio si eliges dar «Me gusta» desde la Agenda.\nNo puedes dar «Me gusta» si no estás en un clan o si eres el único miembro de tu clan.
+「いいね」する=Dar «Me gusta»
+
+
+ギルドハウス設定=Ajustes de Casa de Gremio
+ギルドハウスから1度もアイテムを受け取っていないとき予定帳からアイテムを受け取れるようにするか、\n表示するか設定できます。受け取れるアイテムがない場合は予定帳に表示されません。=Puedes configurar una tarea que recogerá objetos de la Casa de Gremio si aún no lo has hecho hoy.\nSi no hay objetos que recibir, esta tarea no se mostrará.
+
+マナ購入設定=Ajustes de Compra de Mana
+設定した回数マナを購入していないとき予定帳からマナを購入可能にするか、表示するか設定できます。=Puedes configurar una tarea que mostrará el menú de Compra de Mana o comprará Mana directamente desde la Agenda.
+
+マナ購入回数設定=Ajustes de Cantidad de Compra de Mana
+予定帳からマナを購入する回数を設定できます。\n事前にマナを購入していた場合はその購入回数とあわせて設定した回数になるようマナを購入します。=Puedes elegir el número de veces para comprar mana mediante la tarea de la Agenda.\nSi ya has comprado Mana hoy,\nla tarea comprará Mana suficientes veces para alcanzar el número que configures aquí.
+
+マナ購入詳細設定=Ajustes Detallados de Compra de Mana
+消費する=Consumir
+消費しない=No consumir
+予定帳からマナを購入するときに無償ジュエルが不足していた場合、有償ジュエルを消費するか設定できます。=Puedes elegir si consumes Joyas de pago al comprar Mana desde la Agenda si no tienes suficientes Joyas gratis.
+
+ルナの塔設定=Ajustes de Torre de Luna
+ルナの塔に1度も挑戦していないとき予定帳に表示するかどうかを設定できます。\nルナの塔が開催中でない場合は設定によらず表示されません。=Puedes configurar un recordatorio para luchar en la Torre de Luna si aún no la has desafiado hoy.\nSi la Torre de Luna no está abierta, esta tarea no se mostrará independientemente de los ajustes.
+
+クランバトル設定=Ajustes de Batalla de Clan
+クランバトルに1度も挑戦していないとき予定帳に表示するかどうかを設定できます。\nクランバトルが開催されていない、クランに所属していない場合は設定によらず表示されません。=Puedes configurar un recordatorio para luchar en la Batalla de Clan si aún no has batallado hoy.\nSi no hay Batalla de Clan en curso, esta tarea no se mostrará independientemente de los ajustes.

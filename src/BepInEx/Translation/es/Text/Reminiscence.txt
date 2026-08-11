@@ -1,0 +1,39 @@
+３rdアニバーサリーフォトブック=Fotolibro del 3.º Aniversario
+フォト\nブック=Fotolibro
+追憶の戦域=Campo de Batalla del Recuerdo
+追憶戦=Recuerdo
+追憶戦・覇=Recuerdo y Conquista
+Reminiscence &\nConquestへ=A Recuerdo y Conquista
+追憶戦・覇へ=A Recuerdo y Conquista
+
+宝箱詳細=Detalles del cofre
+受け取り=Recepción
+次の報酬まで\n--:--=Hasta la próxima recompensa:
+
+ゼーンの領域=Dominio de Zane
+r:"^ゼーンの領域(\d+)層$"=Nivel de Zane $1
+覇瞳皇帝の領域=Dominio del\nEmperador Kaiser Insight
+r:"^覇瞳皇帝の領域(\d+)層$"=Nivel de Kaiser Insight $1
+
+ミロクの領域=Dominio de Miroku
+r:"^ミロクの領域(\d+)層$"=Nivel de Miroku $1
+
+
+アラクネの領域=Dominio de Arachne
+r:"^アラクネの領域(\d+)層$"=Nivel de Arachne $1
+
+r:"^記憶領域(\d+)層$"=Fase de Memoria $1
+
+r:"^(\d+)層$"=Fase $1
+r:"^記憶領域(\d+)層をクリアしよう$"=Supera la Fase $1 del Dominio de Memoria
+追憶戦宝箱詳細=Detalles del cofre de Recuerdo
+一定時間ごとにクリア済みの階層に応じて\n以下のアイテムが獲得できます。=A intervalos regulares, puedes obtener los siguientes objetos según los niveles que hayas superado.
+記憶領域1層クリアで解放されます。=Supera la Fase 1 del Dominio de Memoria para desbloquearlo.
+r:"^次の報酬まで\n([0-9:]+)$"=Hasta la próxima recompensa\n$1
+挑戦する難易度を変更できます。=Puedes cambiar la dificultad del desafío.
+
+毎月更新 究極錬成パック=Paquete de Síntesis Definitiva de Actualización Mensual
+追憶戦・覇に挑戦しよう=Desafía el Recuerdo y Conquista
+追憶戦の報酬を受け取ろう=Recibe las recompensas de la Batalla de Recuerdo
+サーヴァント・ブレド=Hoja Servidor
+サーヴァント・マギ=Magos Servidor

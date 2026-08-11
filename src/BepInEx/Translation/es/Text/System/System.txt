@@ -1,0 +1,49 @@
+プレゼント=Regalos
+ミッション=Misiones
+お知らせ=Avisos
+クラン=Clan
+ショップ=Tienda
+ガチャ=Gacha
+ギルドハウス=Casa de Gremio
+クエスト=Misiones
+ストーリー=Historia
+マイページ=Inicio
+
+属性ボーナス有効=Bonus elemental
+編成5キャラ=5 Personajes
+編成4キャラ=4 Personajes
+編成3キャラ=3 Personajes
+編成2キャラ=2 Personajes
+編成1キャラ=1 Personaje
+属性ボーナス詳細=Detalles de bonus elemental
+有効=Afinidad
+弱点=Debilidad
+発動属性ボーナス=Bonus elemental activado
+このクエストに有効な属性はありません。=No hay elementos afines para esta misión.
+
+イベント開催のお知らせ=Anuncio de evento
+予告を見る=Ver tráiler
+
+キャラ=Personajes
+後衛=Atrás
+中衛=Medio
+前衛=Delante
+
+闇=Oscuridad
+光=Luz
+水=Agua
+火=Fuego
+風=Viento
+
+ユニオンバースト=Estallido de Unión
+スキル効果=Efecto de habilidad
+スキル=Habilidades
+EXスキル=Habilidad EX
+r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1¡Desbloquea en RANGO $2!
+---menú de salida---
+中断=Detener
+[3C404E]リプレイを中断しますか？\nリプレイはクリアパーティ一覧から\n再度見ることができます。[-]=[3C404E]¿Detener repetición?\n Las repeticiones se pueden ver de nuevo\ndesde la lista de equipos.[-]
+
+チケットで再戦=Omitir
+再戦する=Repetir
+リタイア=Salir

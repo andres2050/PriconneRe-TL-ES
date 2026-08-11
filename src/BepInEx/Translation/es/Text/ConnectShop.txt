@@ -1,0 +1,9 @@
+コネクトショップ=Tienda Connect
+コネクト=Connect
+主さま、コネクトショップではコネクトコインを使って貴重なアイテムと交換ができるようです。コネクトコインはガチャを引くことで手に入りますよ。=Mi señor, parece que en la Tienda Connect puedes intercambiar objetos valiosos usando Connect Coins. Las Connect Coins se obtienen al tirar del gacha.
+（未獲得分）= (No adquirido)
+
+r:"^\[3C404E\]\[3B3F4D\]過去に開催されたガチャで、\n未獲得となっているマスターピースです。\n\nあと\[-\]\[FFBB00\,CE4F00\](\d+)回\[-\]\[3B3F4D\]購入できます。\[-\]\[-\]$"=[3C404E][3B3F4D]Esta es una Obra Maestra que quedó sin adquirir de un gacha pasado.[-]\n\n Puedes comprarla [FFBB00,CE4F00]$1[-] vez más.[-]
+
+r:"^\[3C404E\]\[3B3F4D\]毎月1回購入できるマスターピースです。\n購入しなかったマスターピースは\n次月以降も購入可能となります。\n\nあと\[-\]\[FFBB00\,CE4F00\](\d+)回\[-\]\[3B3F4D\]購入できます。\[-\]\[-\]$"=[3C404E][3B3F4D]Esta es una Obra Maestra que se puede comprar una vez al mes. Las Obras Maestras no compradas seguirán disponibles en los meses siguientes.[-]\n\n Puedes comprarla [FFBB00,CE4F00]$1[-] vez más.[-]
+（マスターショップ）= (Tienda Maestra)

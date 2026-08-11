@@ -1,0 +1,38 @@
+---Menú---
+キャンセル=Cancelar
+一括ダウンロード=Descargar todo
+お問い合わせ=Contáctanos
+データ修復=Reparar datos
+データ\n連携=Enlace\nde datos
+メニュー=Menú
+ゲーム起動中=Iniciando juego
+データダウンロード=Descarga de datos
+ＳＤカード保存設定=Ajustes de almacenamiento en tarjeta SD
+情報の外部送信について=Sobre la transmisión externa de información
+
+
+---Enlace de Datos---
+既にプリンセスコネクト！Re:Diveをプレイしている場合は「データ連携」を選択してください。\n以前のゲームデータと連携してプレイすることが出来ます。=Selecciona «Enlace de Datos» si ya estás jugando a Princess Connect! Re: Dive.\nEsto te permitirá enlazar tus datos de juego existentes.
+連携方法を選択してください。=Selecciona un método de enlace.
+連携方法を選ぶ=Seleccionar método de enlace
+パスワードを使う=Usar contraseña
+[3C404E]連携パスワードを入力して連携する[-]=[3C404E]Enlazar con contraseña de enlace[-]
+[3C404E]連携パスワードを設定する[-]=[3C404E]Configurar contraseña de enlace[-]
+プレイヤーIDと連携パスワードを入力してください。=Introduce tu ID de jugador y contraseña de enlace.
+プレイヤーID=ID de jugador
+連携パスワード=Contraseña de enlace
+
+---Reparar datos---
+[3C404E]データ修復を行うと動作が軽くなることがあります。\nプレイ中のゲームデータは削除されません。\n\nデータ修復を行う際\nタイトルに戻り、再度データをダウンロードします。\nタイトルに戻るまでに時間がかかる場合がございます。\nアプリを強制終了させないように、ご注意ください。\nまた、通信状況により、データダウンロードに\n時間がかかる場合があります。\n\nデータ修復を行いますか？[-]=[3C404E]Reparar los datos puede hacer que el funcionamiento sea más ligero.\nLos datos de juego en uso no se eliminarán.\nAl reparar los datos, el juego volverá al título y descargará los datos de nuevo.\nTen cuidado de no forzar el cierre de la aplicación.\nPuede tardar un poco en volver al título.\nAdemás, la descarga de datos puede tardar según el estado de la conexión.\n\n¿Quieres reparar los datos?[-]
+---formulario de consulta---
+お問い合わせフォームを開きます。よろしいですか？=Abrir el formulario de consulta. ¿Está bien?
+問い合わせる=Consultar
+アプリバージョン=Versión de la app
+ご利用機種名=Info del dispositivo
+フォームに引き継ぐ項目=Elementos a transferir al formulario
+※チェックされた情報は、アプリからお問い合わせフォームに\n引き継がれ、お客様のご利用状況を確認するために使用します。\n情報がない場合、確認や調査ができないことがございます。=※La información marcada se transferirá desde la app al formulario de consulta y se usará para comprobar el estado de uso del cliente.\nSin esta información, es posible que no podamos confirmar o investigar los problemas.
+ご利用機種の\nOSバージョン=Versión de SO\nde tu dispositivo
+---Descargar todo---
+r:"^\[3C404E\]すべてのデータのダウンロードを行います。\n通信環境の良いところでの\nダウンロードを推奨いたします。\nダウンロードを開始してよろしいですか？\n\(([0-9,.]+) ([MG])B\)\[-\]$"=[3C404E]Descargar todos los datos.\nRecomendamos descargar con una buena conexión.\n¿Seguro que quieres iniciar la descarga?\n($1 $2B)[-]
+
+[3C404E]ダウンロードが完了しました。\n再起動します。[-]=[3C404E]Descarga completada.\nReiniciando.[-]

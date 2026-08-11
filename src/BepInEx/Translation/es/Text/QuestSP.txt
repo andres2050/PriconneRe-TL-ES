@@ -1,0 +1,121 @@
+報酬アイテム=Objetos de recompensa
+auto限定=Solo auto
+1回のみ=Una sola vez
+1回だけ=Una sola vez
+何度でも=Repetible
+クエスト内容=Detalles de misión
+バトルに勝利する。=Gana la batalla.
+納品アイテム=Objetos recompensados
+
+出現モンスター=Monstruos
+
+裏世界での戦闘訓練=Entrenamiento de combate en el Mundo Inverso
+【トワイライトキャラバン】出動！=¡Despacho del Caravano Crepuscular!
+裏世界への修学旅行？=¿Viaje de estudios al Mundo Inverso?
+《EX》危険な影と怪鳥獣=《EX》Sombras Peligrosas y Monstruos
+《EX》危険な影の群れ=《EX》Bandada de Sombras Peligrosas
+《EX》危険な影の群れ・偶像=《EX》Bandada de Sombras Peligrosas: Ídolos
+《EX》危険な影の群れ・救護=《EX》Bandada de Sombras Peligrosas: Orphane
+《EX》危険な影の群れ・財団=《EX》Bandada de Sombras Peligrosas: Fundación
+《EX》危険な影の群れ・美食=《EX》Bandada de Sombras Peligrosas: Gourmet
+《EX》危険な影の群れ・黄昏=《EX》Bandada de Sombras Peligrosas: Crepúsculo
+《EX》危険な影の群れ・学院=《EX》Bandada de Sombras Peligrosas: Academia
+《EX》危険な影の群れ・白翼=《EX》Bandada de Sombras Peligrosas: Alas Blancas
+《EX》危険な影の群れ・竜巣=《EX》Bandada de Sombras Peligrosas: Nido del Dragón  
+《EX》危険な影の群れ・森精=《EX》Bandada de Sombras Peligrosas: Espíritus del Bosque
+《EX》危険な影の群れ・仲良=《EX》Bandada de Sombras Peligrosas: Amigos
+《EX》危険な影の群れ・魔軍=《EX》Bandada de Sombras Peligrosas: Ejército Demoníaco
+《EX》危険な魔物・鷲獅子=《EX》Monstruo Peligroso y Águila León
+《EX》危険な魔物・深海竜=《EX》Monstruo Peligroso: Dragón de Mar Profundo
+衝突、母性vs商魂！？=¡Choque: Amor Materno vs. Espíritu Mercantil!?
+冥界に漂う魔性の香り=El Aroma Encantador que Flota en el Inframundo
+《EX》危険な影の群れ・堕天=《EX》Bandada de Sombras Peligrosas: Ángel Caído
+《EX》危険な影の群れ・魔学=《EX》Bandada de Sombras Peligrosas: Artes Oscuras
+
+《EX》危険な魔物・眼蔓ふたたび=《EX》Monstruo Peligroso: Zarcillos Oculares, Otra Vez
+うるわしや、冥界べっぴん旅行客=Hermosas, hermosas turistas del inframundo
+冥府の魔鎧=Armadura Demoníaca del Inframundo
+
+ギャングとヒーロー=Pandillas y Héroes
+《EX》危険な魔物・大鬼ふたたび=《EX》Monstruos Peligrosos: Gran Oni Otra Vez
+
+襲来！赤髪盗賊三姉妹！？=¡Ataque! ¿¡Tres hermanas bandidas pelirrojas!?
+《EX》天才発明家の三女、襲来=《EX》La 3.ª Hija de un Inventor Genial, Ataque
+《EX》危険な魔物・狂熊と翼竜=《EX》Oso Loco y Dragón Alado Peligrosos
+《EX》危険な影と魔物・雷々傲M=《EX》Monstruos Peligrosos con Arrogancia Atronadora
+《EX》受難体質の次女、遭難=《EX》La 2.ª Hija de Constitución Sensible, Perdida
+《EX》危険な魔物・大鬼と雷鳥=《EX》Monstruos Peligrosos: Gran Oni y Pájaro Trueno
+《EX》豪放磊落の長女、狂酔=《EX》La Hija Mayor de Nobleza Desenfrenada, Ebriedad
+《EX》危険な魔物・胡狼と眼蔓=《EX》Demonio Peligroso, Horo y Zarcillo Ocular
+迷子の鳥を導け！=¡Guía al Pájaro Perdido!  
+白き剣と黒き盾=Espada Blanca y Escudo Negro
+冥界を笑わせに来ました！=¡Vine a Hacer Reír al Inframundo!
+大人女子会へようこそ=Bienvenida a la Reunión de Damas Adultas
+裏世界安全講習会=Sesión de Seguridad del Mundo Inverso
+
+おさんぽはアツアツヒヤヒヤ=Paseo Caliente, Caliente y Frío
+冥界の魔物調査=Investigación de Criaturas del Inframundo
+魔と闇の令嬢=La Joven del Mal y la Oscuridad
+
+小悪魔妹と堕天使妹=Hermana Diablilla y Hermana Ángel Caído
+ルイズマリーの成功しすぎてるフライ=El Frito Demasiado Exitoso de Louise Marie
+冥府のドM=Masoquista del Inframundo
+煉獄に降り立つ氷竜=Dragón de Hielo Descendiendo al Purgatorio
+ウツクシキ黒天使たち=Hermosos Ángeles Negros
+ウサギ追いしジオ・ゲヘナ=Cazando Conejos en Gio-Gehenna
+湯あたりにご注意を=Cuidado con las Aguas Termales
+カスミの真実見抜くボンボン・ショコラ=Bonbon Chocolat que Ve la Verdad de Kasumi
+裏世界にも事件の香り=Aroma de Incidente en el Mundo Inverso
+煉獄に咲く華のような=Como una Flor que Florece en el Purgatorio
+ドラゴン姉妹の頼みごと=Petición de las Hermanas Dragón
+裏世界オンステージ！=¡Escenario en el Mundo Inverso!
+姫たちのお風呂外交=Diplomacia de Princesas en el Baño
+裏世界復興支援本部=Cuartel General de Apoyo a la Reconstrucción del Mundo Inverso
+妹たちのお世話合戦=Batalla de Cuidados de las Hermanas
+裏世界開拓記=Crónica de Desarrollo del Mundo Inverso
+ワクワク森パニック！=¡Pánico Emocionante del Bosque!
+甘海に掲げる大漁旗=Bandera de Gran Pesca Izada en el Mar Dulce
+挨拶代わりの裏世界カチコミ！=¡Incursión al Mundo Inverso como Saludo!
+新ビジネスの甘～い香り=Dulce Aroma de Nuevo Negocio
+ロケットパンチで魔物さん退治！=¡Derrotando Demonios con Puño Cohete!
+裏世界でのピクニック？=¿Picnic en el Mundo Inverso?
+リトル・リバース・アドベンチャー=Pequeña Aventura Inversa
+いざ、裏世界出征？=¡Vamos, a Conquistar el Mundo Inverso?
+甘くておいしい美容法=Método de Belleza Dulce y Delicioso
+ドＭとショタを確保せよ=Asegura al Masoquista y al Shota
+ジオ・ゲヘナの魔法研究=Investigación Mágica en Gio-Gehenna
+ミミのコロコロお手玉おにぎり=Onigiri Malabares de Mimi
+裏世界の迷子ちゃん=Niña Perdida en el Mundo Inverso
+大人の余裕を見せつけろ=Muestra tu Compostura de Adulto
+深淵なる煉獄での邂逅=Encuentro en el Purgatorio Abismal
+灼熱のケンカタイム=Tiempo de Pelea Ardiente
+危険な影の群れ・獣苑=Bandada de Sombras Peligrosas: Jardín de Bestias
+花と刃が舞い踊る=Danza de Flores y Filos
+傀儡の糸を払いのけろ=Sacude los Hilos del Titiritero
+
+冥界ファッションショー☆=Desfile de Moda del Inframundo☆
+忍者冥剣伝=Crónicas de la Espada Ninja del Inframundo
+《EX》危険な影の群れ・光願=EX: Bandada de Sombras Peligrosas – Deseo Radiante
+
+
+このクエストはクリア後の挑戦ができません。=Esta misión no se puede intentar tras completarla.
+挑戦確認=Confirmación de desafío
+このクエストは再度クリアしても\n報酬を獲得できません。\n挑戦しますか？=No obtendrás recompensas aunque la ganes de nuevo.\n¿Quieres desafiar?
+
+危険な影の群れ・遊戯=Bandada de Sombras Peligrosas: Juegos
+イオ先生の裏世界教室=Aula del Mundo Inverso de la Profesora Io
+軽やかなる乙女たち=Doncellas Gráciles
+甘やかすのは誰か=Quién te Mimarará
+お腹ペコペコデュエット=Dúo de Estómago Hambriento
+以下の報酬を受け取りました。=Recibidas las siguientes recompensas.
+
+ミスト・イン・リビングデッド=Bruma en los Muertos Vivientes
+《EX》危険な魔物・懶獣=《EX》 Monstruo Peligroso: Raiju
+《EX》危険な魔物・鬼騎兵=《EX》Monstruo Peligroso: Caballería Oni
+《EX》危険な魔物・雷鳥ふたたび=《EX》 Monstruo Peligroso: Pájaro Trueno Otra Vez
+凸凹楽団三重奏=Trío de la Banda Desigual
+
+蒼海の孤島=Isla Aislada en el Mar Azul
+アラクネの肉マシマシマシ炒め野菜入り=Carne Extra-Extra-Extra de Arachne con Verduras Salteadas
+目立つ女と目立たない少女=La Mujer Llamativa y la Chica Discreta
+《EX》危険な魔物・翼竜ふたたび=<EX> Monstruo Peligroso: Dragón Alado, Otra Vez

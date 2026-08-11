@@ -1,0 +1,20 @@
+各種キャラ詳細画面にデフォルトで表示するキャラの画像を変更できます。=Puedes cambiar la imagen predeterminada del personaje que se muestra en sus distintas páginas de detalles.
+キャラ詳細表示=Visualización de detalles de personaje
+各画面に表示されているアイコンを変更できます。=Puedes cambiar el icono que representa a este personaje.
+アイコン表示=Visualización de icono
+通常ポーズ=Genérica
+個別ポーズ=Única
+バトルで勝利した時のポーズを変更できます。\n※ポーズ変更は、一部のキャラでのみ可能です。=Puedes cambiar la pose de victoria del personaje. ※ Esto solo es posible con algunos personajes.
+勝利ポーズ=Pose de victoria
+★2以前=★2 
+★3以降=★3+
+バトル中やマップに表示されるキャラの表示を変更できます。= Puedes cambiar qué chibi se usa durante el combate y en el mapa.
+バトルキャラ表示=Visualización de personaje chibi
+★6以降=★6+
+★6のキャラは★変更を利用できません。=No se puede usar con personajes ★6.
+
+
+「★1、★2、★6への変更」「本来★５ではないキャラからの変更」はできません。=No se puede «cambiar a ★1, ★2 o ★6» ni «cambiar desde personajes que originalmente no son ★5».
+★の数を選択したパーティに合わせる=Igualar nivel de ★ al equipo seleccionado
+選択したパーティと現状のキャラの★の数が異なります。=El equipo seleccionado y el personaje actual tienen distintos niveles de ★.
+現状のキャラの★=Nivel ★ actual del personaje

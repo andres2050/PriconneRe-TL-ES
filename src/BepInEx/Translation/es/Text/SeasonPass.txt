@@ -1,0 +1,85 @@
+明日5:00以降のログインでミッションが進行します。=Las misiones progresarán al iniciar sesión después de las 5:00 de mañana.
+獲得できるミッション報酬がありません。=No hay recompensas para esta misión.
+SPダンジョン残り挑戦回数=Intentos de Mazmorra SP
+ダンジョン残り挑戦回数=Intentos de Mazmorra
+シーズンパス=Pase de Temporada
+Lv購入=Comprar Nv
+r:"^シーズンパス([A-Z]*)$"=Pase de Temporada $1
+
+シーズンパスミッションへ=A Misión del Pase de Temporada
+シーズンパスミッション=Misión del Pase de Temporada
+ミッション報酬受取=Recibir recompensas de misión
+次のLvまで=Hasta el siguiente Nv
+完了=Hecho
+r:"^(\d+)Lv購入$"=Comprar $1 Nv
+レベルを有償ジュエルで引くことができます。=Puedes comprar niveles con joyas de pago.
+有償ジュエルを使用してシーズンパスのパスLvを購入しますか？=¿Comprar un nivel de pase del Pase de Temporada con joyas de pago?
+シーズンパス　パスLv購入=Pase de Temporada: Compra de Nivel de Pase
+購入Lv数指定=Especificar nivel de compra
+獲得できる報酬=Recompensas obtenidas
+プレミアム枠の報酬と\n20Lvが\n獲得できます=Puedes obtener recompensas premium y avanzar 20 niveles.
+プレミアム枠の報酬が\n獲得できます=Puedes obtener recompensas premium.
+有償ジュエルを使用してプレミアムパスを購入しますか？=¿Quieres comprar el Pase Premium con joyas de pago?
+プレミアムパス購入=Compra de Pase Premium
+
+r:"^パスLvが(\d+)を超えているため購入できません。$"=No puedes comprar esto porque tu nivel de pase supera $1.
+
+
+繰り返し報酬について=Sobre Recompensas Repetibles
+期間中一定ポイントを獲得する度に報酬が獲得できます=Puedes obtener recompensas cada vez que ganes un cierto número de puntos durante el periodo del evento.
+
+プレミアムパス購入確認=Confirmación de Compra de Pase Premium
+このプレミアムパスは有償ジュエルで購入できます。=Solo se puede comprar con Joyas de pago.
+
+r:"^\[FFBB00,CE4F00\](\d+)ジュエル\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\]シーズンパス\[-\]\[3C404E\]のプレミアムパスを\n購入しますか？\n今シーズンのプレミアムパス販売期間：\n([0-9/ :]+)まで\[-\]$"=[3C404E]¿Gastar [FFBB00,CE4F00]$1 Joyas[-] para desbloquear el\n[FFBB00,CE4F00]Pase de Temporada[-] Pase Premium?\nPeriodo de venta del Pase Premium de esta temporada:\nDisponible hasta $2[-]
+
+ポイント付きプレミアムパス購入確認=Confirmación de Compra de Pase Premium con Puntos
+r:"^\[FFBB00,CE4F00\](\d+)ジュエル\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\]シーズンパス\[-\]\[3C404E\]の\n(\d+)レベル付きプレミアムパスを購入しますか？\n今シーズンのプレミアムパス販売期間：\n([0-9/ :]+)まで\[-\]$"=[3C404E]¿Gastar [FFBB00,CE4F00]$1 Joyas[-] para desbloquear el\n[FFBB00,CE4F00]Pase de Temporada[-] Pase Premium +$2 Niveles?\nPeriodo de venta del Pase Premium de esta temporada:\nDisponible hasta $3[-]
+
+以下のミッション報酬を受け取りました。=Recibidas las siguientes recompensas de misión.
+シーズンパスpt\r\n=Pt de Pase de Temporada\r\n
+
+
+
+
+残り期限=Fecha límite
+シーズン=Temporada
+シーズンパス画面へ=A Pase de Temporada
+シーズンパス画面=Pase de Temporada
+r:"^究極錬成を(\d+)回行おう$"=Realiza Síntesis Definitiva $1 veces
+r:"^コネクトRANKを合計(\d+)上げよう$"=Sube tu RANK de Connect un total de $1
+r:"^キャラのレベルを合計で(\d+)上げよう$"=Sube el nivel de tu personaje un total de $1
+r:"^黎明界ラビリンスをスキップせずに(\d+)回クリアしよう$"=Completa el Laberinto del Alba $1 veces sin omitir
+ミッションが開催されていません。=La misión no está en curso.
+
+ゲームに1回ログインしよう=Inicia sesión en el juego una vez
+r:"^ゲームに合計(\d+)回ログインしよう$"=Inicia sesión en el juego un total de $1 veces
+
+
+r:"^スタミナを(\d+)消費しよう$"=Gasta $1 de Resistencia
+r:"^スタミナを合計(\d+)消費しよう$"=Gasta un total de $1 de Resistencia
+r:"^メイン・イベント・サイドいずれかのクエストを(\d+)回クリアしよう$"="Completa «Misión Principal», «Misión de Evento» o «Misión Paralela» $1 veces"
+
+r:"^経験値クエストかマナクエストを合計(\d+)回クリアしよう$"="Completa «Misión de EXP» o «Misión de Mana» $1 veces"
+
+r:"^深域クエストを(\d+)回クリアしよう$"="Completa «Misión Profunda» $1 veces"
+ジュノー=Juno
+
+r:"^スペシャルダンジョンのバトルを20回クリアしよう$"=Completa las batallas de Mazmorra Especial $1 veces
+r:"^バトルアリーナかプリンセスアリーナで合計(\d+)回戦おう$"="Participa en «Arena de Batalla» o «Arena de Princesa» $1 veces"
+r:"^追憶の戦域 追憶戦・覇を(\d+)回クリアしよう$"="Completa «Batalla de Recuerdo y Conquista» $1 veces."
+r:"^深淵討伐戦でボスに(\d+)回挑戦しよう$"=Desafía al jefe $1 veces en la Batalla de Subyugación del Abismo
+r:"^深淵討伐戦で(\d+)0億Pt獲得しよう$"=Consigue $1 mil millones de Pt en la Batalla de Subyugación del Abismo
+
+
+トレジャークエストは除く=Excepto Misiones de Tesoro
+r:"^次元断層で(\d+)回勝利しよう$"="Completa «Falla Dimensional» $1 veces."
+r:"^エルピス討魔戦線でボスバトルを(\d+)回クリアしよう$"=Completa la batalla de jefe $1 veces en el Frente Demoníaco Elpis.
+r:"^クランバトルに合計(\d+)回挑戦しよう$"="Participa en «Batalla de Clan» $1 veces"
+
+ルナの塔頂上をクリアしよう=Supera la cima de la Torre de Luna.
+
+r:"^覇瞳皇帝の領域(\d+)層をクリアしよう$"=Supera el Nivel $1 del Dominio del Emperador Kaiser Insight.
+r:"^ゼーンの領域(\d+)層をクリアしよう$"=Supera el Nivel $1 del Dominio de Zane.
+r:"^アラクネの領域(\d+)層をクリアしよう$"=Supera el Nivel $1 del Dominio de Arachne.
+r:"^バトルスタジアムで★を合計(\d+)個獲得しよう$"=Consigue un total de $1 ★ en el Estadio de Batalla

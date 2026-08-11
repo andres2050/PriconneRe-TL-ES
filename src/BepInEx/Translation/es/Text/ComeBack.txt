@@ -1,0 +1,6 @@
+カムバックログイン=Inicio de sesión de regreso
+カムバック=Regreso
+
+
+
+r:"^(:?.+?)?([0-9,.]+)日(:?.+?)?ぶりにログインしました。(:?.+?)?([0-9,.]+)日分(:?.+?)?の家具から生成されたスタミナを\nプレゼントボックスから受け取れます(.+)$"=[3C404E]Has iniciado sesión por primera vez en [FFBB00,CE4F00]$1 días[-].\nPuedes recoger la resistencia generada por los muebles de [FFBB00,CE4F00]$2 días[-]\ndesde el buzón de regalos.[-]

@@ -1,0 +1,126 @@
+フレンド一覧=Lista de Amigos
+フレンド管理=Gestionar
+r:"^申請中:(\d+)/(\d+)人$"=Solicitando: $1/$2
+r:"^フレンド:(\d+)/(\d+)人$"=Amigo: $1/$2
+r:"^承認待ち:(\d+)/(\d+)人$"=En espera: $1/$2
+フレンド:=Amigo:
+r:"^プレイヤーLv:([0-9～ ]+)$"=Nv. de jugador: $1
+r:"^プレイヤーID:([0-9 ]+)$"=ID de jugador: $1
+
+プレイヤーIDを入力してください=Introduce un ID de jugador
+取り消す=Cancelar
+サポートキャラにはLv10以上のキャラを設定できます。=Puedes configurar un personaje de Nv. 10 o superior como Personaje de Apoyo.
+サポートキャラを設定しておくと、マナを獲得できます。=¡Configura Personajes de Apoyo para empezar a ganar Mana!
+フレンド申請しているプレイヤーです。=Ya has enviado una solicitud de amistad.
+サポート時間=Duración
+獲得マナ=Mana
+
+
+サポート終了=Terminar
+フレンド=Amigos
+フレンド一覧=Lista de Amigos
+フレンド上限に達しています。=Límite de amigos alcanzado.
+フレンド承認=Amigo aprobado
+承認=Aprobar
+拒否=Rechazar
+
+[FF7C4E,D62146]表示できるフレンドがいません。[-]=[FF7C4E,D62146]No tienes amigos.[-]
+[FF7C4E,D62146]該当Lv帯のプレイヤーが見つかりませんでした。[-]=[FF7C4E,D62146]No se encontraron jugadores en el rango de Nv. solicitado.[-]
+フレンド管理は\nこちらになります\n新しいフレンドとの出会いを\n楽しんでくださいね！=La gestión de amigos está aquí. ¡Disfruta conociendo nuevos amigos!
+
+最終ログイン=Último inicio de sesión
+
+申請中リスト=Pendientes
+[FF7C4E,D62146]フレンド申請中のプレイヤーはいません。[-]=[FF7C4E,D62146]No has enviado solicitudes de amistad.[-]
+承認待ちリスト=Por aceptar
+[FF7C4E,D62146]フレンド申請を受けているプレイヤーはいません。[-]=[FF7C4E,D62146]No has recibido solicitudes de amistad.[-]
+
+フレンドを探す=Buscar
+検索設定=Ajustes de búsqueda
+フレンド申請=Añadir
+
+プレイヤーID検索=Búsqueda por ID de jugador
+
+フレンドバトル編成=Configurar equipo
+チャット投稿=Publicar en clan
+投稿=Configurar
+編成=Editar
+フレンドバトル=Batalla Amistosa
+対戦可能なフレンド=Pelear con amigos
+対戦可能なクランメンバー=Pelear con clan
+フレンド申請されているプレイヤーです。=Este es un jugador que te ha enviado una solicitud de amistad.
+
+フレンドが設定しているパーティはありません。=No hay equipos configurados por amigos.
+フレンド解除=Eliminar amigo
+サポートキャラを設定\nできます=Configura un\nPersonaje de Apoyo
+サポート完了=Apoyo completado
+
+サポート設定確認=Comprobar Ajustes de Apoyo
+サポートキャラに設定しますか？=¿Quieres configurar este personaje como Apoyo?
+サポート終了確認=Confirmación de fin de apoyo
+[3C404E]サポートを終了して、報酬を受け取りますか？[-]=[3C404E]¿Quieres terminar el Apoyo y recibir recompensas?[-]
+サポート回数報酬=Recompensa por uso de apoyo
+サポート時間報酬=Recompensa por duración de apoyo
+サポートキャラ=Personaje de Apoyo
+自分とバトル=Pelear contigo mismo
+バトル編成=Formación de batalla
+固定サポートキャラ=Personaje de Apoyo fijo
+
+
+設定後30分間はサポートを終了できません。=El apoyo no se puede terminar durante 30 minutos tras configurarlo.
+「編成」ボタンからフレンドバトル用のパーティを設定できます。=Pulsa el botón «Editar» para configurar un equipo para Batallas Amistosas.
+[3C404E]リタイアします。\n\nよろしいですか？[-]=[3C404E]¿Seguro que quieres retirarte?[-]
+非表示設定=Ocultar personajes
+非表示にするキャラを設定できます。=Puedes elegir qué personajes ocultar.
+非表示キャラ数=N.º ocultos
+
+「編成」ボタンから自分とバトル用のパーティを設定できます。=Pulsa el botón «Editar» para configurar un equipo para pelear contigo mismo.
+
+設定しているパーティはありません。=No hay equipo configurado.
+自分の設定したパーティと対戦できます=Puedes pelear contra tu propio equipo.
+残りHP=HP restante
+残りHP合計=HP restante total
+
+
+
+フレンド解除確認=Confirmación de eliminación de amigo
+r:"^(.{1,10})を\nフレンド解除しますか？$"=¿Quieres eliminar a\n$1 de tus amigos?
+フレンド解除完了=Amigo eliminado
+r:"^\[3C404E\](.{1,10})を\nフレンドから外しました。\[-\]$"=[3C404E]$1\nfue eliminado de tu lista de amigos. [-]
+パーティ１０文字最大=Máx. 10 caracteres para nombres de equipo.
+
+r:"^(.{1,10})からの\nフレンド申請を承認しますか？$"=¿Quieres aceptar la solicitud de amistad\nde $1?
+フレンド承認確認=Confirmación de solicitud de amistad
+
+r:"^(.{1,10})と\nフレンドになりました。$"=Te has hecho amigo de\n$1.
+フレンド承認完了=Solicitud de amistad aceptada
+
+r:"^(.{1,10})へ\nフレンド申請しますか？$"=¿Quieres enviar una solicitud de amistad a\n$1?
+フレンド申請確認=Solicitud de amistad
+
+r:"^(.{1,10})へ\nフレンド申請しました。$"=Solicitud enviada a\n$1.
+フレンド申請完了=Solicitud de amistad enviada
+
+r:"^(.{1,10})への\nフレンド申請を取り消しますか？$"=¿Quieres cancelar tu solicitud de amistad\na $1?
+フレンド申請取り消し確認=Cancelar solicitud de amistad
+
+r:"^\[3C404E\](.{1,10})への\nフレンド申請を取り消しました。\[-\]$"=[3C404E]Cancelada la solicitud de amistad a\n$1.[-]
+フレンド申請取り消し完了=Solicitud de amistad cancelada
+
+r:"^(.{1,10})からの\nフレンド申請を拒否しますか？$"=¿Quieres rechazar la solicitud de amistad de\n$1?
+フレンド拒否確認=Rechazar solicitud de amistad
+
+r:"^(.{1,10})からの\nフレンド申請を拒否しました。$"=Rechazada la solicitud de amistad de $1.
+フレンド拒否完了=Solicitud de amistad rechazada
+以下のプレイヤーヘフレンド申請しますか?=¿Quieres enviar una solicitud de amistad al siguiente jugador?
+---NPC---
+こちらがフレンドの\n皆さんです\n素敵な関係を\n築いてくださいね！=¡Aquí puedes encontrar a tus amigos, espero que tengáis una maravillosa relación!
+主さま、フレンドを作りましょう。フレンドからはクエストにてサポートキャラをレンタルすることができますよ。=Mi señor, ahora es el momento perfecto para hacer amigos. \nUna vez que te hagas amigo de alguien, podrás alquilar sus personajes como apoyo en diversas misiones.
+サポートキャラを設定してフレンドの方々をお助けいたしましょう。また、サポートを設定すると主さまもマナを獲得できますよ。=Puedes configurar personajes de apoyo para ayudar a tus amigos en batalla.\nTambién ganarás Mana por proporcionarles apoyo.
+主さま、こちらでサポートキャラの設定ができますよ。\n設定してクランのメンバーやフレンドの方々をお助けいたしましょう。\nまた、サポートを設定すると主さまもマナを獲得できます。=Mi señor, configuremos un personaje de apoyo para ayudar a nuestros amigos y miembros del clan.\nTambién podemos obtener Mana por proporcionar este apoyo.
+ギルド管理協会です\nフレンドに関しては\nこちらでご確認ください=Esta es la Asociación de Gestión de Gremios. Puedes encontrar amigos aquí.
+こちらの一覧で\nフレンドのプロフィールを\n確認できますよ=Puedes comprobar los perfiles de tus amigos en esta lista.
+気になるパーティと\nバトルをしてみましょう！\nどちらが勝利するのか、\n私も楽しみにしていますね=¡Aquí puedes pelear contra cualquier equipo que quieras! Estoy deseando\nver quién gana.
+フレンドやクランメンバーと手合わせをいたしましょう。また、自分で編成したパーティと対戦することも可能です。主さまの鍛錬の成果、楽しみにしております。=Puedes entrenar con tus amigos y miembros del clan aquí. También es posible luchar contra tus propios equipos. \nMi señor, estoy deseando ver los resultados de tu entrenamiento.
+クランのチャットへフレンドバトルのパーティを投稿できるようです。主さまのご自慢のパーティをお披露目してくださいませ。=Parece que puedes publicar tus equipos de Batalla Amistosa en el chat del clan.\nAprovecha esta oportunidad para presumir de tus mejores equipos.
+フレンド管理は\nこちらになります\n新しいフレンドとの出会いを\n楽しんでくださいね！=Puedes gestionar a tus amigos aquí.\n ¡Disfruta conociendo nuevos aliados!

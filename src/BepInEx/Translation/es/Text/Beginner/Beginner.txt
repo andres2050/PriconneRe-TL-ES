@@ -1,0 +1,29 @@
+---Introducir nombre---
+r:"^※(\d+)文字以内で入力してください。名前は後でも変更できます。$"=※Entre 1 y $1 caracteres..
+登録する=Registrar
+プレイヤー名登録=Registro de nombre de jugador
+
+名前登録確認=Confirmación de registro de nombre
+
+[3C404E]プレイヤー名の登録が完了しました。[-]=[3C404E]El registro del nombre de jugador se ha completado.[-]
+名前登録完了=Registro de nombre completado
+
+---Menú bloqueado---
+r:"^メインクエスト([\s\S]*)クリアで解放$"=Supera Misión Principal\n$1
+r:"^メインクエスト([\s\S]*)クリアで$"=Se ha superado la Misión Principal $1.
+---Registro de cumpleaños---
+誕生日登録=Registro de cumpleaños
+登録した誕生日はプロフィールから確認できます。=El cumpleaños registrado se puede ver en tu perfil.
+好きな日付を誕生日として登録できます。=Puedes registrar cualquier fecha como tu cumpleaños.
+誕生日を後から変更することはできません。=No puedes cambiar tu cumpleaños más tarde.
+あなたの誕生日を入力してください。\n誕生日から7日間、キャラたちのお祝い\nメッセージを聞くことができます。=Introduce tu cumpleaños.\nPuedes escuchar los mensajes de felicitación\nde los personajes durante 7 días desde tu cumpleaños.
+あなたの誕生日を下記で登録します。=Registrando tu cumpleaños como se indica abajo.\n ¿Está bien?
+
+誕生日を登録しました。=Cumpleaños registrado:
+{playername} さん=$1-san
+{playername}さん=$1-san
+
+---Perfil---
+‐年‐月合計スコア=Sin participación aún.
+‐階=Sin info
+‐位=Sin rango

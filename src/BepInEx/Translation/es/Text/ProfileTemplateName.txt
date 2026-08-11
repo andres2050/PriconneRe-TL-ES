@@ -1,0 +1,29 @@
+フレームデザイン選択=Selección de diseño de marco
+アニバーサリー=Aniversario
+ピンク=Rosa
+レッド=Rojo
+イエロー=Amarillo
+グリーン=Verde
+ライトブルー=Azul claro
+ブルー=Azul
+パープル=Morado
+グレー=Gris
+
+
+カードデザイン選択=Seleccionar diseño de tarjeta
+不思議の国の平原=Llanura del País de las Maravillas
+不思議の国のお城=Castillo del País de las Maravillas
+ハロウィンの昼=Tarde de Halloween
+きのこと小川=Setas de Ogawa
+きのこと秋の渓谷=Valle Otoñal Lleno de Setas
+クリスマスの夜=Noche de Navidad
+クリスマスの昼=Tarde de Navidad
+初日の出=Salida de sol de Año Nuevo
+願い竹の村の夜=Noche del Pueblo de Bambín Pacífico
+願い竹の村の昼=Día del Pueblo de Bambín Pacífico
+天の川=Vía Láctea
+ハロウィンの夜=Noche de Halloween
+海中の背景=Fondo Submarino
+サマービーチの朝日=Amanecer en la Playa de Verano
+サマービーチの夕日=Atardecer en la Playa de Verano
+サマービーチの星空=Cielo Estrellado en la Playa de Verano

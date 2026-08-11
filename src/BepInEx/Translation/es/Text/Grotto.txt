@@ -1,0 +1,29 @@
+マナクエスト=Misiones de Mana
+経験値クエスト=Misiones de EXP
+マナを大量獲得=Consigue mucho Mana
+EXPポーションを大量獲得=Consigue muchas Pociones de EXP
+キャラのLvアップに使う\nEXPポーションを獲得=Consigue Pociones de EXP para subir el nivel de los personajes.
+スキル強化や装備強化\nショップで使うマナを獲得=Consigue Mana para mejorar habilidades y equipo en la tienda.
+
+スキップチケットと挑戦回数を消費してクエストを\n実行します。よろしいですか？=¿Usar tickets de omisión y intentos\npara completar esta misión?
+
+---npc dialogue---
+育成に必要なアイテムが\n獲得できるクエストです\nわたくし、主さまのために、\n強くなりますよ=En esta misión puedes conseguir objetos necesarios para el entrenamiento.\nMe haré más fuerte por ti, mi señor.
+
+このクエストを攻略すれば、\nアイテムがもらえますよ\nたくさん集めて、どんどん\n強くなっちゃいましょう！=¡Recibirás buenos objetos al completar esta misión! ¡Reúne tantos como puedas y hazte muy fuerte!
+
+クエストを攻略すると、\nアイテムが手に入るんだって\nもらえるものは、\nもらっておきましょ！=También puedes recibir objetos al completar misiones.\n¡Vamos a tomar todo lo que podamos!
+
+このクエストを攻略すると、\nアイテムが手に入るらしいわ。\nもっと強くなるために、\n一生懸命がんばるわね！=Parece que al completar esta misión podemos obtener buenos objetos. ¡Haré todo lo posible para ser aún más fuerte!
+キャラ強化に必要な「EXPポーション」を獲得できるクエストと「マナ」を獲得できるクエストの２種類があります。１日に挑戦できる回数は、それぞれのクエストで２回ずつです。=Hay dos tipos de misiones: las que ofrecen Pociones de EXP necesarias para subir el nivel de los personajes y las que ofrecen Mana. Cada tipo de misión se puede jugar hasta dos veces al día.
+こちらでは★6才能開花に必要なアイテム、「プリンセスオーブ」を手に入れられます。たくさん集めて、才能開花を目指しましょう。=En este templo deberíamos poder encontrar Orbes de Princesa, un recurso necesario para mejorar personajes a ★6. Vamos a reunir tantos como podamos y alcanzar nuevas cotas de fuerza.
+------
+
+経験値クエストへ=A Misiones de EXP
+マナクエストへ=A Misiones de Mana
+探索TOPへ=A Gruta
+
+枚=tickets
+
+r:"^リセットまであと(\d+)時間$"=Reinicia en $1 horas
+r:"^リセットまであと(\d+)分$"=Reinicia en $1 minutos

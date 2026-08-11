@@ -1,0 +1,120 @@
+---Arena---
+
+リプレイ=Repetición
+マイパーティ保存=Guardar equipo
+ダメージレポート=Informe de daño
+r:"^(\d+)/時間$"=$1/hora
+r:"^(\d+)日前$"=hace $1d
+r:"^(\d+)時間前$"=hace $1h
+r:"^(\d+)分前$"=hace $1m
+チャット=Chat
+更新まで=Reinicia en
+対戦相手を\n選択してください。=Selecciona\nun rival.
+総戦力=Poder
+プレイヤーLv=Nv. de jugador
+受取可能な報酬=Reclamable
+タイム報酬=Recompensa de tiempo
+クールタイム=Enfriamiento
+防衛設定=Editar defensa
+対戦履歴=Historial
+受け取る=Recibir
+遊び方=Consejos
+確認したい遊び方を選択してください。=Selecciona los consejos que quieres ver.
+リスト更新=Actualizar lista
+歴代最高ランク=Mejor rango histórico
+報酬一覧= Lista de premios
+プリンセスアリーナランキング=Rankings de Arena de Princesa
+バトルアリーナランキング=Rankings de Arena de Batalla
+r:"^グループ (\d+)$"=Grupo $1
+所属グループ=Pertenencia a grupo
+r:"^パーティ(\d+)$"=Equipo $1
+r:"^プリセット(\d+)$"=Preset $1
+対戦相手のパーティ1=Equipo 1 del rival
+対戦相手のパーティ2=Equipo 2 del rival
+対戦相手のパーティ3=Equipo 3 del rival
+対戦相手のパーティ=Equipo del rival
+残り編成時間=Reinicia en
+対戦履歴詳細=Detalles del historial
+対戦内訳=Resultado
+現在の防衛パーティ=Equipo de defensa actual
+防衛結果=Resultados de defensa
+パーティ状況=Equipo actual
+このログを削除=Eliminar este registro
+ログを削除=Eliminar registro
+バトルログ投稿完了=Registro de batalla publicado
+[3C404E]パーティ編成を保存しました。[-]=[3C404E]La formación del equipo se ha guardado.[-]
+[FF7C4E,D62146]マイパーティに保存されている数が上限に達しています。\n上書きして保存するパーティを選択してください。[-]=[FF7C4E,D62146]No hay más ranuras disponibles en Mi Equipo.\nSelecciona el equipo a reemplazar. [-]
+ここに保存=Guardar aquí
+上書きして保存するパーティを選択してください。=Selecciona el equipo a sobrescribir y guardar.
+保存場所を選択=Selecciona una ubicación de guardado
+編成制限のため選択できません。=No se puede seleccionar por restricciones de formación.
+保存完了=Guardado completado
+バトルアリーナではオートのみになります。=Solo AUTO está disponible en la Arena de Batalla.
+バトルアリーナでは選択できません。=No se puede seleccionar en la Arena de Batalla.
+[3B3F4D]クールタイム中です。\nジュエル×[-][FFBB00,CE4F00]10[-][3B3F4D]を使用して\nクールタイムを解除しますか？[-]=[3B3F4D]Estás en enfriamiento.\n¿Usar Joyas × [FFBB00,CE4F00]10[-]\n para reiniciar el enfriamiento?[-]
+[FF7C4E,D62146]スキップ設定になっています。[-]=[FF7C4E,D62146]Está configurado para omitir.[-]
+[3C404E]パーティ編成が時間切れになりました。\n対戦相手を選択し直してください。[-]=[3C404E]La formación del equipo ha expirado.\nVuelve a seleccionar tu rival.[-]
+現在クールタイムです。\nしばらくお待ちください。=Está en enfriamiento,\nespera un momento.
+r:"^パーティ(.)にキャラが選択されていません。$"=No se han seleccionado personajes para el Equipo $1.
+r:"^パーティ(.)、パーティ(.)にキャラが選択されていません。$"=No se han seleccionado personajes para el Equipo $1 y el Equipo $1.
+フレンド以外のプレイヤーのキャラは、ステータスが\\n下方補正されている場合があります。=Los personajes de jugadores que no son tus amigos\\npueden tener sus estadísticas reducidas.
+別のパーティに編成中のキャラは選択できません。=Los personajes usados en otro equipo no se pueden seleccionar.
+
+
+[3C404E]対戦相手のランキングが更新されました。[-]=[3C404E] El ranking del rival se ha actualizado. [-]
+sr:"^(?:\[3C404E\])?対戦相手のランキングが(\d+位)に変更されました。\n対戦しますか？(?:\[-\])?$"=[3C404E]El ranking del rival ha cambiado al puesto $1. ¿Quieres jugar?[-]
+相手の編成確認=Equipo del rival
+リスト更新まで=Reinicia en
+
+報酬獲得=Recompensas
+タイム報酬は時間経過で溜まります。=Las recompensas de tiempo se acumulan con el paso del tiempo.
+1～50位のプレイヤーのため、表示できません。=No se puede mostrar porque los jugadores están en el puesto 1-50.
+対戦履歴はありません。=No hay historial de partidos.
+r:"^\[3C404E\](\d)勝(\d)敗\[-\]$"="[3C404E]victorias:$1 derrotas:$2[-]"
+r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位アップし、\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位になりました。\[-\]$"=[3B3F4D]Subes [FFBB00,CE4F00]$1[-] puestos, Rango actual: [FFBB00,CE4F00]$2[-].[-]
+プリンセスアリーナではオートのみになります。=Solo AUTO está disponible en la Arena de Princesa
+
+[FF7C4E,D62146]ランキング変動なし、スキップ不可のバトルです。[-]=[FF7C4E,D62146]Esta es una batalla no omisible, sin cambio de ranking.[-]
+3パーティの総戦力=Poder total de 3 equipos
+
+[FF7C4E,D62146]相手または自分が50位以内のためスキップ不可です。[-]=[FF7C4E,D62146]Solo los de rango inferior a 50 pueden omitir.
+[3C404E]クールタイム中です。\n解除しますか？[-]=[3C404E]En enfriamiento.\n¿Quieres reiniciar el enfriamiento?[-]
+[FF7C4E,D62146]メッセージは必須ではありません。[-]=[FF7C4E,D62146]El mensaje no es obligatorio.[-]
+※80文字以下=※80 caracteres o menos
+バトルログをクランチャットに投稿しますか？=¿Quieres publicar el registro de batalla en el chat del clan?
+投稿する=Publicar
+バトルログ投稿確認=Confirmación de publicación de registro
+
+[3C404E]現在対戦中です。\nしばらくお待ちください。[-]=[3C404E]Actualmente en partida.\nEspera un momento.[-]
+[3C404E]現在他のプレイヤーと対戦中です。\nしばらくしてから再度挑戦するか、別の対戦相手を\n探してください。[-]=[3C404E]Actualmente en partida contra otro jugador.\nInténtalo de nuevo más tarde o busca\notro rival.[-]
+対戦確認=Confirmación de batalla
+---Info de recompensas---
+sr:"^(\[[0-9A-F,]{6,13}\])最高ランク：(\d+位)\[-\]$"=$1Mejor rango: $2[-]
+最高ランク=Mejor rango
+毎日19:00のランキングにより獲得できます。\n※報酬はプレゼントに送られます。=Puedes obtener recompensas según tu ranking cada día a las 19:00.\n※Las recompensas se enviarán a tu Buzón de Regalos.
+デイリー報酬=Diario
+1日5回まで、防衛成功時に獲得できます。\n※報酬はプレゼントに送られます。=Puedes obtener recompensas por defensas exitosas hasta 5 veces/día.\n※Las recompensas se enviarán a tu Buzón de Regalos.
+防衛報酬=Recompensa de defensa
+防衛成功時=Defensa exitosa 
+sr:"^(\d+位)～(\d+位)$"=$1 a $2
+
+最高ランクの更新時に獲得できます。\n※報酬はプレゼントに送られます。=Puedes obtener recompensas según tu mejor rango. \n※Las recompensas se enviarán a tu Buzón de Regalos.
+r:"^\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回の防衛に成功！報酬はプレゼントに送られました。\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E]×defensas exitosas. Las recompensas se han enviado.[-]
+
+現在、対戦可能な相手がいません=Actualmente no hay rivales disponibles
+※一定時間経過後、リストが更新されると表示される場合があります=※Tras un cierto tiempo, puede mostrarse cuando se actualice la lista
+バトルが行われていないため、閲覧できません。=No se puede ver porque la batalla no ha tenido lugar.
+
+[3C404E]リプレイを中断しますか？\nリプレイは対戦履歴から再度見る事ができます。[-]=[3C404E]¿Quieres terminar la repetición?\nPuedes volver a ver la repetición\ndesde el historial de partidos.[-]
+
+sr:"^対戦相手のランキングが(\d+位)に変更されました。\n勝利してもランキングは変わりません。\n対戦しますか？$"=El ranking del rival ha cambiado al puesto $1. El ranking no cambia aunque ganes.\n¿Quieres jugar?
+
+
+グループシャッフル後、バトルアリーナに移動していないためアリーナコインが受け取れません。=Tras el barajado de grupos, no puedes recibir monedas de arena porque no te has movido a la arena de batalla.
+---Ayuda NPC---
+対戦相手に勝利すると、対戦相手と順位が入れ替わります。\n対戦相手は、自分と同等の強さか、格上の相手が登場します。\nランキングを上げてアリーナコインやジュエルを獲得しましょう。=Derrota a un rival y tomarás su puesto en el ranking. Te enfrentarás a rivales de rango similar o superior al tuyo. ¡Sube en el ranking y gana Monedas de Arena y Joyas!
+
+最大15キャラ対15キャラのバトルです。\nバトルを勝ち抜いて、ランキングの頂点を目指しましょう。\n上位ランクインするほど、Pアリーナコインが多く手に入ります。=Las batallas de Arena de Princesa se disputan entre equipos de hasta 15 personajes cada uno. Sigue ganando batallas para llegar a la cima del ranking. A mayor rango, más Monedas de Arena de Princesa obtendrás.
+
+プリンセスアリーナでは選択できません。=Esta opción no está disponible en la Arena de Princesa.
+バトルアリーナでは選択できません。=Esta opción no está disponible en la Arena de Batalla.

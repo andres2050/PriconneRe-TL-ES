@@ -1,0 +1,137 @@
+プレゼントボックス=Buzón de Regalos
+すべて受け取る=Recibir todo
+受け取り履歴=Historial
+[FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]Los regalos se eliminarán automáticamente cuando caduquen.\nSe pueden recibir hasta 100 regalos a la vez.[-]
+スタミナ以外=Excepto resistencia
+新しい順=Más nuevos
+古い順=Más antiguos
+家具=Muebles
+ギルドハウス家具は、メインクエスト2-1（NORMAL）クリアで受け取れます。=Los muebles de la Casa de Gremio se pueden recibir al superar la misión principal $1.
+[FF7C4E,D62146]受け取れるアイテムがありません。[-]=[FF7C4E,D62146]No hay objetos.[-]
+[FF7C4E,D62146]受け取ったアイテムはありません。[-]=[FF7C4E,D62146]No hay objetos.[-]
+
+運営からの補てんの品です。=Es una compensación de la administración.
+以下のプレゼントをまとめて受け取りますか？=¿Quieres recibir todos los siguientes regalos?
+プレゼント受け取り=Recibir regalo
+報酬はプレゼントに送られました。=La recompensa se ha enviado al Buzón de Regalos.
+所持上限を超えたアイテムはプレゼントに送られました。=Los objetos que superan el límite de posesión se han enviado como regalos.
+「信頼度エピソード」で獲得したアイテムです。=Objeto obtenido de «Episodio de Confianza»
+運営からのお詫びの品です。=Disculpas de la administración.
+ミニゲームで獲得したアイテムです。=Objeto obtenido de un minijuego.
+プレゼントに送られたアイテムがあります。=Algunos objetos se han enviado al Buzón de Regalos.
+
+ガチャ更新によりキャラ交換Ptを変換したアイテムです。=Objeto convertido desde Pt de intercambio de personajes por actualización de gacha.
+sr:"^(.+)を購入して獲得したアイテムです。$"=Objeto obtenido de comprar $1.
+---Recibir objetos---
+sr:"^(\[[0-9A-Fa-f,]{6,13}\])?([\s\S]+?)(（.+）)?(の(?:ピュア)?メモリーピース|の設計図)?(?:\[-\])?(?:\[[0-9A-Fa-f,]{6,13}\])? ?(?:×|x)(?:\[-\])?(\[[0-9A-Fa-f,]{6,13}\])?([0-9,.]+)(\[-\])?(?:\[-\])?$"=$1$2$3$4 × $5$6$7
+
+sr:"^「(.+)」キービジュアル カスタムマイぺージ$"=""$1" Imagen Clave de Inicio Personalizado"
+
+以下の交換結果になりました。=Los resultados del intercambio son los siguientes:
+
+イベントミッション達成で獲得したアイテムです。=Este objeto se obtuvo al completar una misión de evento.
+イベントクエスト（HARD）クリアで獲得したアイテムです。=Este objeto se obtuvo al completar una misión de evento (DIFÍCIL).
+
+
+---ordenar---
+フィルタ=Filtro
+期限あり=Tiempo limitado
+期限なし=Sin límite
+プレゼントの種類=Tipo de regalo
+メモリーピース=Fragmentos de Memoria
+コイン=Monedas
+その他=Otros
+
+---objetos---
+受け取り期限=Fecha límite
+獲得日時=Obtenido
+受け取り日時=Fecha y hora
+プリンセスアリーナの防衛報酬です。=Recompensa de defensa de Arena de Princesa.
+バトルアリーナの防衛報酬です。=Recompensa de defensa de Arena de Batalla.
+sr:"^「(.+)」で獲得したアイテムです。$"="Este es un objeto obtenido en "$1"."
+sr:"^バトルアリーナ(\d+位)のランキング報酬です。$"="Recompensa de ranking de Arena de Batalla $1."
+sr:"^プリンセスアリーナ(\d+位)のランキング報酬です。$"="Recompensa de ranking de Arena de Princesa $1."
+sr:"^(\d+月)クランバトルランキング(\d+位)の報酬です。$"="Recompensa de ranking de Batalla de Clan ($1) $2."
+みんなのカレンダー内で獲得したアイテムです。=Este objeto se obtuvo en el calendario de todos.
+マスターショップ=Tienda Maestra
+このアイテムはメインクエスト等では入手できません=Este objeto no se puede obtener en la misión principal ni en otras misiones
+
+スタミナ\n受取対象外=Excluir\nResistencia
+期限を過ぎていたため、一部のプレゼントは受け取れませんでした。=Algunos regalos no se recibieron porque había caducado.
+所持上限を超えて獲得したスタミナです。=Es resistencia obtenida por encima del límite superior.
+スタミナ受取対象外にチェックしているため受け取れません。=La resistencia está excluida actualmente. Desmarca «Excluir Resistencia» para reclamarla.
+ウマ娘「The Game Awards 2025」受賞記念★3確定ガチャチケット=Ticket de Gacha ★3 Garantizado Conmemorativo del Premio «The Game Awards 2025» de Uma Musume =
+---Bonus de inicio---
+
+クリスマス=Navidad
+謹賀新年 お正月=Feliz Año Nuevo
+元日特別=Especial de Año Nuevo
+元日特別ログインボーナス=Bonus de inicio de sesión especial de Año Nuevo
+復刻イベント=Evento Revival
+スタートダッシュログイン=Inicio de Salida 
+事前登録=Prerregistro
+メインストーリー第3部開始記念ログイン=Inicio de sesión conmemorativo del inicio de la Parte 3 de la historia principal
+
+大吉=Gran Suerte
+中吉=Buena Suerte
+吉=Bendición
+小吉=Suerte Justa
+末吉=Suerte Futura
+末小吉=Suerte Justa Futura
+末中吉=Buena Suerte Futura
+大凶=Gran Mala Suerte
+凶=Infortunio
+吉凶未分=Sin determinar
+sr:"^「(.*)ログインボーナス」(\d+日)目「(.+)」で獲得したアイテムです。$"="Objeto obtenido el $2 día($3) del «$1 Bonus de Inicio»."
+sr:"^「(.+)ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Objeto obtenido el $2 día del «$1 Bonus de Inicio»."
+
+
+r:"^([0-9,.]+) Year Anniversary カウントダウン$"=Cuenta atrás del $1 Aniversario
+r:"^([0-9,.]+)th Anniversary カウントダウンログインボーナス$"=Bonus de inicio de sesión de cuenta atrás del $1.º Aniversario
+
+r:"^([0-9,.]+) Year Anniversary スペシャル$"=$1 Aniversario Especial
+期間限定ストーリーの通知=Notificación de historia por tiempo limitado
+r:"^([0-9,.]+) Year Anniversary カウントダウンログインボーナスの開催期間中、通知を表示するか設定します。$"=$1 Aniversario Configurado para mostrar una notificación durante el bonus de inicio de sesión de cuenta atrás.
+謹賀新年 お正月ログインボーナス」2日目「大吉=⁇  Bonus de inicio de Año Nuevo ⁇  Día 2, ⁇ Daikichi ⁇
+
+sr:"^「ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Objeto obtenido el $1 día del «Bonus de Inicio»."
+sr:"^「(.+)キャンペーン」(\d+日)目で獲得したアイテムです。$"="Objeto obtenido el $2 día de la «$1 Campaña»."
+
+メンテナンスにご協力いただいたお礼です。=Gracias por tu cooperación con el mantenimiento.
+運営からのプレゼントです。=Regalo de la administración.
+
+---Premium---
+sr:"^(?:\[3C404E\])?([0-9]*.+?)(\d+)日目のアイテムセット\[-\] \[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([0-9,.]+)\[-\]\[3C404E\]日有効(?:\[-\])?(?: \[3C404E\](\+\d+)日予約中(?:\[-\])?)?$"=[3C404E]$1: Recompensa del día $2. [FFBB00,CE4F00]$3[-]$4[3C404E] día(s) restante(s).[-]
+
+sr:"^(?:\[3C404E\])?(.+)「(.+)」\[-\] \[3C404E\]あと\[-\]\[FFBB00\,CE4F00\]([0-9,.]+)\[-\]\[3C404E\]日有効$"=$1 [$2] recompensa. [FFBB00,CE4F00]$3[-][3C404E] día(s) restante(s).[-]
+
+
+sr:"^(?:\[3C404E\])?(.+)のアイテムです。(?:\[-\])?$"="Objeto obtenido de "$1""
+
+スタミナ上限に到達しました。\n獲得したスタミナをプレゼントに送ります。=Tu Resistencia ha alcanzado el máximo. La Resistencia restante se enviará al Buzón de Regalos.
+
+所持上限に達しているアイテムがあります。\n対象アイテムは受け取れませんでした。=Límite de objetos alcanzado.\nNo se pudo recibir el objeto designado.
+
+無料対象キャラは無料分のみの強化になります。=Los personajes gratuitos solo se mejorarán de forma gratuita.
+所持上限を超えて獲得したダイスです。=Dados obtenidos por encima del límite de posesión.
+ダイス=Dados
+
+
+シリアルコードの報酬を獲得しました。=Recibida la recompensa del código serie.
+r:"^プリコネフェス([0-9 ]+) シリアルコード(.)$"=PriConne Fes $1 Código Serie $2
+r:"^プリコネフェス([0-9 ]+) 特別協賛記念カスタムマイぺージ(.)$"=PriConne Fes $1 Inicio Personalizado Conmemorativo de Patrocinio Especial $2
+
+r:"^「(.+)」(.*) カスタムマイぺージ(.)?$"=""$1" $2 Inicio Personalizado $3"
+EX★5防具交換チケット=Ticket de Intercambio de Armadura EX★5
+
+r:"^([0-9,.]+)周年記念カスタムマイページ$"=Inicio Personalizado Conmemorativo del $1.º Aniversario
+
+r:"^([0-9,.]+)年ピュアメモリーピース交換チケット$"=$1 Ticket de Intercambio de Fragmento de Memoria Puro
+r:"^([0-9,.]+)年メモリーピース交換チケット$"=$1 Ticket de Intercambio de Fragmento de Memoria
+r:"^([0-9,.]+)周年セレクトガチャ$"=Gacha Selectivo del $1.º Aniversario
+
+ウマ娘「The Game Awards 2025」受賞記念★3確定ガチャチケット=Ticket de Gacha ★3 Garantizado Conmemorativo del Premio «The Game Awards 2025» de Uma Musume
+
+
+r:"^イベントクエスト（(.+)）クリアで獲得したアイテムです。$"=Estos son objetos obtenidos al completar la Misión de Evento ($1).
+所持上限を超えて獲得した復刻イベントログインボーナスの報酬です。=Estas son recompensas del bonus de inicio de sesión del Evento Revival, obtenidas en exceso del límite máximo de posesión.

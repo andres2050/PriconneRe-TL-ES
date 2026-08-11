@@ -1,0 +1,61 @@
+r:"^条件(\d+)$"=Condición $1
+r:"^強化上限 (\d+)$"=Límite de mejora $1
+強化状況=Estado de mejora
+r:"^ボーナス(\d+)$"=Bonus $1
+総コネクトRANK=RANK de Connect total
+r:"^属性ボーナスアップ(\[-\] \[FFBB00,CE4F00\])?([0-9＋+.%％]*)$"=Bonus elemental$1$2[-]
+r:"^パーティダメージブースト(\[-\] \[FFBB00,CE4F00\])?([LvVl0-9.%％]*)$"=Bonus de daño de equipo$1$2[-]
+r:"^キャラLv上限突破(\[-\] \[FFBB00,CE4F00\])?([0-9＋+.%％]*)$"=Límite de Nv. de personaje$1$2[-]
+
+すでに強化できるコネクトRANKの最大値を設定しています。=Ya se ha configurado el valor máximo de mejora de RANK de Connect disponible.
+解放済みのコネクトRANKボーナスはありません。=No hay bonus de RANK de Connect desbloqueados.
+以下のアイテムを消費してコネクトRANKアップします。\nよろしいですか？=Se consumirán los siguientes objetos para aumentar el RANK de Connect.\n¿Está bien?
+コネクトRANK選択=Seleccionar RANK de Connect
+選択したコネクトRANKまでまとめて強化できます。=Puedes mejorar hasta el RANK de Connect seleccionado de una vez.
+アイテムの入手場所を確認できます。=Puedes comprobar dónde obtener el objeto.
+
+
+r:"^コネクト (\d+)$"=Connect $1
+r:"^コネクトRANK (\d+)$"=RANK de Connect $1
+r:"^(\[[a-f,0-9]+\])?コネクト(RANK )? ?(\d+)(?:\[-\])?$"=$1Connect $2$3[-]
+コネクトRANKボーナス詳細=Detalles de Bonus de RANK de Connect
+コネクトRANK強化に必要なアイテムを確認できます。=Puedes comprobar los objetos necesarios para mejorar el RANK de Connect.
+r:"^コネクトRANK強化上限を(\d+)から(\d+)に解放$"=Desbloquear límite de mejora de RANK de Connect de $1 a $2
+
+被ダメカット=Reducción de daño recibido
+
+マスターオブラビリンスの効果により、以下のアイテムを入手しました。=Como resultado de los efectos de Maestro del Laberinto, obtuve los siguientes objetos:
+UE-SP
+表示する強化内容がありません。=No hay mejoras que mostrar.
+
+コネクトRANK達成=RANK de Connect alcanzado
+達成済み=Completado
+専用装備１SP詳細=Detalles de Equipo Único 1 SP
+専用装備１SPの情報を確認できます。=Puedes comprobar la información del EU-1SP.
+キャラを★5以上にする=Personaje ★5 o superior
+r:"^コネクトRANKを(\d+)以上にする$"=RANK de Connect $1 o superior
+r:"^専用装備１をLvMAX（Lv(\d+)）にする$"=Equipo Único-1 Nv. MÁX (Nv. $1)
+装備後に確認できます。=Puedes verlo tras equiparlo.
+
+追加ステータス=Estado adicional
+
+アイテムを消費してコネクトRANK上限を解放します。\nよろしいですか？=Consume objetos para desbloquear el límite de RANK de Connect.\n¿Está bien?
+コネクトRANK上限解放=Desbloquear límite de RANK de Connect
+r:"^(\[[a-f,0-9]+\])?上限(\d+)(?:\[-\])?$"=$1Límite $2[-]
+[3C404E]専用装備１SP条件[-] =[3C404E]Requisito EU-1 SP[-] 
+
+専用装備１SP条件=Requisito EU-1 SP
+専用１SP強化可能=Desbloquear EU-1 SP
+アイテムを消費して専用装備１SPを解放します。=Consume objetos para desbloquear EU 1 SP.
+専用１SP強化済=EU 1 SP mejorado
+
+おまかせ変換設定を行ってください。=Configura los ajustes de Conversión Automática.
+一度に選択可能な個数の上限に達しています。=Has alcanzado el límite de objetos seleccionables a la vez.
+コネクトRANK応援 特別=Soporte de RANK de Connect Especial
+
+必要素材が不足しています。\n以下で入手場所を確認できます。=Faltan materiales necesarios.\nPuedes comprobar dónde obtenerlos abajo.
+
+「キャラ専用装備１SP」が解放されました。\n強化を進めるためには、厳しい条件をクリアする必要があるようです。\n焦らずゆっくり、着実に強化を進めてまいりましょう、主さま。=Se ha desbloqueado el «Equipo Único 1 SP del personaje».\nPara avanzar en su mejora, parece que debes cumplir condiciones exigentes.\nNo hay prisa, vamos a mejorarlo poco a poco y con seguridad, mi señor.
+
+主さま、新たな強化「コネクトRANK」が登場しました。アイテムを消費して、キャラをさらに強化することができるようになりますよ。アイテムは様々な場所で獲得できますから、頑張って集めましょう。=Mi señor, ha llegado un nuevo sistema de mejora, el «RANK de Connect». Consumiendo objetos, podrás mejorar aún más a tus personajes. Estos objetos se pueden obtener en varios lugares, así que esfuérzate por recolectarlos.
+コネクトRANKの強化にはRANKアップと上限解放がございます。RANKアップと上限解放を繰り返してコネクトRANKを上げるとステータスや専用のボーナスが獲得できるようです。=La mejora del RANK de Connect incluye Subidas de RANK y Desbloqueos de Límite. Al repetir Subidas de RANK y Desbloqueos de Límite para aumentar el RANK de Connect, puedes obtener estadísticas mejoradas y bonus exclusivos.

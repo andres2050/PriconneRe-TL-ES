@@ -1,0 +1,38 @@
+[FF7C4E,D62146]異なるOSにデータ連携した場合、連携前のOSで\n所持していた有償ジュエルと有償マナは連携後の\nOSでは使用できません。\n連携前のOSに戻ると使用できるようになります。[-]=[FF7C4E,D62146]Las Joyas de pago, el Mana y los paquetes\nde pago no se transfieren entre sistemas operativos[-]
+
+[3C404E]連携パスワードを再設定する[-]=[3C404E]Restablecer contraseña de enlace [-]
+[3C404E]連携パスワードを入力して引き継ぐ[-]=[3C404E]Transferir con contraseña de enlace [-]
+連携パスワードについて選択してください。=Selecciona una de las siguientes opciones:
+
+
+[FF7C4E,D62146]データ連携には、「プレイヤーID」が必要です。\nプレイヤーIDは、スクリーンショットやメモで、\n忘れないようにしてください。\n※プレイヤーIDの確認は、タイトル画面の右下や、\nフッターメニュー「メニュー」内の「プロフィール」\nから行えます。[-]=[FF7C4E,D62146]Se requiere el Enlace de Datos para guardar tu progreso.\nGuarda tu ID de juego y tu contraseña\ncon una captura de pantalla o una nota.\nComprueba tu ID en la pantalla de título o en la tarjeta de perfil\n(ejemplo: 123 456 789)[-]
+プライバシーポリシーは必ず確認し、次の画面で連携パスワードの設定をしてください。=Asegúrate de revisar la Política de Privacidad y luego configura tu contraseña de enlace en la siguiente pantalla.\nPuedes reutilizar tu contraseña de enlace tantas veces como quieras.
+連携パスワードの設定を行います。よろしいですか？=Configurando la contraseña de enlace. ¿Está bien?
+設定する=Configurar
+連携パスワードの設定=Configurar contraseña de enlace
+
+プライバシーポリシーを確認し同意する=Aceptar la Política de Privacidad
+プライバシーポリシー=Política de Privacidad
+アカウント削除申請=Eliminar cuenta
+利用規約・権利表記=Términos del Servicio y Aviso de Copyright
+機能を選択してください。=Selecciona la función.
+
+入力確認=Repetir contraseña
+※数字、大文字、小文字を組み合わせた8文字以上16文字以下=※Debe tener números, mayúsculas y minúsculas, entre 8 y 16 caracteres.	
+連携パスワードを入力してください=Introduce tu contraseña de enlace
+
+
+データ連携を行うことで、複数の端末でプリンセスコネクト！Re:Diveのゲームデータを共有してプレイできます。データ連携には「プレイヤーID」と「連携パスワード」が必要です。=Enlazar los datos permite jugar a Princess Connect! Re: Dive en varios dispositivos usando los mismos datos de usuario. Se requiere un ID de jugador y una contraseña de enlace para enlazar los datos.
+
+サーバーエラー=Error de Servidor
+エラーが発生しました。\n画面を更新してください。=Ha ocurrido un error\nActualiza la pantalla.
+[3C404E]このゲームデータは他のPC版アカウントと連携しています。\nPC版アカウントと連携可能なゲームデータは1つのみです。[-]=[3C404E]Estos datos de juego están enlazados a otra cuenta de PC.\nSolo se puede enlazar un dato de juego por cuenta de PC.[-].
+
+[3C404E]連携パスワードの設定が完了しました。\n\n連携パスワードは、\n他の人に教えないようにしてください。[-]=[3C404E]La configuración de la contraseña de enlace se ha completado.\n\nNo compartas la contraseña de enlace con otras personas.[-]
+データ連携パスワード設定完了=Configuración de Contraseña de Enlace Completada
+
+[3C404E]ログインしたアカウントは、すでに現在のプリンセスコネクト！Re:Diveのゲームデータと連携しています。[-]=[3C404E]La cuenta actual ya está enlazada a los datos de juego de Princess Connect! Re:Dive.[-]
+データ引き継ぎ済み=Datos Transferidos
+
+[3C404E]プレイヤーIDと連携パスワードが一致しませんでした。\nご確認のうえ、再度お試しください。[-]=[3C404E]El ID de jugador y la contraseña de enlace no coinciden.\nCompruébalo e inténtalo de nuevo.[-]
+データ引き継ぎエラー=Error de Transferencia de Datos

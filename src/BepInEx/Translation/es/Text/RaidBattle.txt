@@ -1,0 +1,43 @@
+レイドバトル=Batalla de Incursión
+初回討伐完了までチャレンジ報酬は獲得できません。=Las recompensas de desafío no se pueden obtener hasta completar la primera derrota.
+初回討伐まで消費なし=Sin consumo hasta la primera derrota
+大慾暴君・カジノ王=Tirano Codicioso: Rey del Casino
+
+---Misión---
+倒そう=Derrota
+
+sr:"^(.+?)(（.+）)?を([0-9０-９]+)回倒そう$"=Derrota a $1$2 $3 vez/veces
+
+sr:"^(.+?)に累計([0-9,.]+)ダメージ与えよう$"=Inflige un total de $2 de daño a $1
+sr:"^(.+?)に１度のバトルで([0-9,.]+)ダメージ与えよう$"=Inflige $2 de daño a $1 en una sola batalla
+
+
+sr:"^(.+?)(?:と|を)([0-9０-９]+)回(バトル|倒そう)(?:しよう)? \(全難易度共通\)$"=$3 $1 $2 vez/veces (Todas las dificultades)
+
+レイドバトルのデイリーミッション報酬を受け取ろう=Reclama las recompensas de la misión diaria de la batalla de incursión
+r:"^レイドバトルでボスを合計([0-9０-９]+)回倒そう$"=Derrota jefes de Batalla de Incursión un total de $1 veces
+
+全体ミッション=Misión total
+全体=Todos
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを20%減らそう=Colabora con todos los jugadores para reducir el HP Total del Tirano Codicioso: Rey del Casino un 20%
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを40%減らそう=Colabora con todos los jugadores para reducir el HP Total del Tirano Codicioso: Rey del Casino un 40%
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを60%減らそう=Colabora con todos los jugadores para reducir el HP Total del Tirano Codicioso: Rey del Casino un 60%
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを80%減らそう=Colabora con todos los jugadores para reducir el HP Total del Tirano Codicioso: Rey del Casino un 80%
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを100%減らそう=Colabora con todos los jugadores para reducir el HP Total del Tirano Codicioso: Rey del Casino un 100%
+
+---Otros---
+討伐報酬券を所持していません。=No tienes Tickets de Recompensa de Derrota.
+
+
+自身にダメージ減衰=Aplica Atenuación de Daño a sí mismo
+
+このボスバトルではサポートキャラを最大５人まで\n編成できます。また、マナも消費されません。=En esta Batalla de Jefe, se pueden incluir hasta 5 Personajes de Apoyo en el equipo.\nAdemás, no se consume Mana.
+HARD解放=HARD desbloqueado
+VERY HARD解放=VERY HARD desbloqueado
+
+全難易度共通=Todas las dificultades
+---NPC---
+イベントボスには非常に高い「Total HP」が設定されております。\n「Total HP」は、皆さまがバトル中に与えたダメージの分だけ減らせる\nのだとか。豪華報酬を目指し、力を合わせて討伐いたしましょう。=Los Jefes de Evento tienen valores de «HP Total» extremadamente altos.\nEl «HP Total» disminuye según el daño infligido por todos durante la batalla.\nColaborad para derrotarlos y conseguir lujosas recompensas.
+ボスバトルは、イベント期間中に配布される「討伐チケット」を消費して\n挑戦できます。また、難易度は「ボス詳細」から変更できますよ。\n討伐を達成した難易度はスキップも行えるので、活用してくださいまし。=Las Batallas de Jefe se pueden desafiar consumiendo «Tickets de Derrota» distribuidos durante el evento.\nTambién puedes cambiar la dificultad desde «Detalles del Jefe».\nLas dificultades superadas se pueden omitir, así que aprovecha esto.
+
+報酬交換では「討伐報酬券」と様々なアイテムを交換できます。\n目玉となるリセット対象報酬を引くことで、より多くのアイテムが\n獲得できる次のラインナップへと進めるそうです。=En el Intercambio de Recompensas, puedes cambiar «Tickets de Recompensa de Derrota» por diversos objetos.\nAl obtener la recompensa destacada de reinicio, puedes avanzar al siguiente catálogo,\ndonde se pueden adquirir aún más objetos.

@@ -1,0 +1,390 @@
+専用装備=Único
+専用装備２=EU 2
+専用装備１=EU 1
+才能開花=Ascensión
+スキル強化=Habilidades
+強化スキル1=Mejorar Habilidad 1
+強化スキル2=Mejorar Habilidad 2
+Lv強化=Subir de nivel
+装備=Equipar
+絆ストーリー=Historia
+★変更=Cambiar ★
+使用する素材が変更されました。=Los materiales usados han cambiado.
+作成Ptが不足しています。=Pt de creación insuficientes.
+専用装備をまだ装備していません。=Aún no has equipado Equipo Único.
+専用装備１をまだ装備していません。=Aún no has equipado Equipo Único 1.
+専用装備２をまだ装備していません。=Aún no has equipado Equipo Único 2.
+強化できる箇所がありません。=No hay áreas que mejorar.
+自分のキャラではないので★変更できません。=No puedes cambiar el nivel ★ del personaje de otra persona.
+無料で装備強化できる上限です。=Este es el máximo que puedes equipar gratis.
+無料強化対象キャラは無料強化分のみ強化されました。=Los personajes de mejora gratuita solo se\nmejoraron con la parte gratuita.
+強化Ptが不足しています。=Pt insuficientes.
+必要強化Pt=Pt requeridos
+複数種類のピュアメモリーピースが消費されます。\nそのまま強化しますか？=Se consumirán múltiples tipos de Fragmentos de Memoria Pura.\n¿Quieres crearlo así?
+複数種類のピュアメモリーピースが消費されます。\nそのまま作成しますか？=Se consumirán múltiples tipos de Fragmentos de Memoria Pura.\n¿Quieres crearlo así?
+そのまま作成=Crear así
+そのまま強化=Seguir mejorando
+アイテム、装備、もしくはマナが不足しているため強化できません。=Faltan objetos, equipo o mana.
+おまかせ強化=Optimizar
+まとめて装備=Equipar todo
+装備する=Equipar
+入手方法=Cómo\nobtener
+装備入手方法=Cómo\nobtener
+解放OK！=Listo para\n¡Desbloquear!
+未開放ユニット=Unidad bloqueada
+限定キャラのため解放できません。=Los personajes limitados no se pueden desbloquear.
+限界突破するための素材が足りません。=No tienes suficientes materiales para Romper el Límite.
+降順=DESC
+昇順=ASC
+未解放キャラ=Personajes bloqueados
+メモリーピースが不足しています。=Fragmentos de Memoria insuficientes.
+メモリーピースとマナが不足しています。=Faltan Fragmentos de Memoria y Mana.
+ャラ強化=Mejorar personajes
+強化する=Refinar
+専用装備グロウスフィアを使用するにはRANK7にする必要があります。=El personaje debe ser al menos RANK 7 para equipar una Esferacrecimiento de EU.
+専用装備１グロウスフィアを使用するにはRANK7にする必要があります。=El personaje debe ser al menos RANK 7 para equipar la Esferacrecimiento de EU-1.
+ランクアップ=Subir de Rango
+装備ステータス=Estadísticas de equipo
+使う=Usar
+強化ポーションを所持していません=¡No quedan Pociones de EXP!
+あと=Quedan:
+マイパーティ=Mis equipos
+エクストラキャラ=Personaje Extra
+[FF7C4E,D62146]必要素材が不足しています。[-]=[FF7C4E,D62146]Faltan materiales necesarios.[-]
+表示切替=Apariencia
+おまかせ強化確認=Mejorar personaje
+消費マナ=Coste
+消費アイテム=Coste de objetos
+消費装備=Equipo consumido
+キャラLvとスキルLvのみ強化=Ignorar equipo
+上限解放する=Desbloquear límite
+無料対象のLv強化を行ってください。=Sube de nivel gratis.
+強化、上限解放済みを含める=Incluye mejorados y con límite desbloqueado
+
+装備/作成確認=Equipo/Confirmar creación
+必要作成Pt=Pt de creación requeridos
+専用装備２を装備/作成します。よろしいですか？=Se equipará/creará el Equipo Único 2. ¿Está bien?
+
+マイセレクトを解除しました。=Se ha deseleccionado Mis favoritos.
+以下のアイテムを装備してランクアップしますか？=¿Equipar los siguientes objetos para subir de rango?
+強化素材選択=Seleccionar\nmateriales de mejora
+まとめてリセット=Reiniciar todo
+獲得強化Pt=Pt de mejora
+強化=Refinar
+最大まで強化=Maximizar
+合計Pt=Pt totales
+強化確認=Refinar equipo
+Lv上限に達しているため強化できません。=No se puede refinar porque ha alcanzado el Nv. máximo.
+キャラLv以上にスキルLvは上げられません。=El Nv. de habilidad no puede ser mayor que el Nv. de personaje.
+RANK7で解放されます。=Se desbloqueará en RANK 7.
+RANK4で解放されます。=Se desbloqueará en RANK 4.
+RANK2で解放されます。=Se desbloqueará en RANK 2.
+この装備の強化段階は最大です。=Este equipo no se puede refinar más.
+強化素材を選択してください。=Selecciona un material de mejora.
+装備可能なスロットがありません。=No hay ranura equipable.
+以下のアイテムを消費しておまかせ強化しますか？=¿Usar los siguientes objetos para mejorar\nel personaje como recomendado?
+おまかせ無料強化対象キャラ=Personaje(s) elegible(s) para mejora gratuita
+キャラLvとスキルLvのみ強化のため、原鉱は消費できません。=Solo se mejoran el Nv. de personaje y de habilidad, así que no se puede consumir Mineral.
+r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F00\]([0-9,.]+)\[-\]\[3C404E\]に解放します。\nよろしいですか？\[-\]$"=[3C404E]Consume objetos para aumentar el límite de Nv. a [FFBB00,CE4F00]$1[-].\n¿Está bien? [-]
+おまかせ装備強化確認=Confirmar mejora de equipo
+以下のアイテムを消費しておまかせ装備強化します。\nよろしいですか？=¿Gastar los siguientes objetos\npara mejorar tu equipo?
+キャラ解放確認=Desbloquear personaje
+解放する=Desbloquear
+アイテムが不足しています。=Faltan objetos.
+メモリーピース入手方法=Cómo obtener Fragmentos de Memoria
+ピース=Fragmento
+入手場所=Buscar
+現在、このアイテムは\nメインクエスト等では入手できません。=Este objeto no se puede obtener en la Misión Principal.
+以下のアイテムの入手場所を確認できます。=Descubre dónde obtener los siguientes objetos.
+
+専用装備１を装備した状態のキャラが装備できます。=Solo se puede equipar tras equipar EU 1.
+
+キャラのRANKが7以上で装備できます。=Se puede equipar en RANK 7.
+[FF7C4E,D62146]キャラのRANKが7以上で装備できます。[-]=[FF7C4E,D62146]Equipable en RANK 7.[-]
+
+この装備は今後登場予定です。=Este equipo se lanzará más adelante.
+このキャラの★6は今後登場予定です。=La ascensión 6★ de este personaje\nse introducirá más adelante.
+パーティ情報がありません。=No hay información de equipo.
+
+この専用装備は今後登場予定です。=[3C404E]Este Equipo Único se introducirá más adelante.[-]
+この専用装備１は今後登場予定です。=[3C404E]Este Equipo Único-1 se introducirá más adelante.[-]
+この専用装備２は今後登場予定です。=[3C404E]Este Equipo Único-2 se introducirá más adelante.[-]
+
+この専用装備１のSP強化は今後登場予定です。=La mejora SP de este Equipo Único 1\nse introducirá más adelante.
+
+[FF7C4E,D62146]専用装備グロウスフィアを使用できます。[-]=[FF7C4E,D62146]Se puede usar Esferacrecimiento de EU.[-]
+[FF7C4E,D62146]専用装備１グロウスフィアを使用できます。[-]=[FF7C4E,D62146]Se puede usar Esferacrecimiento de EU-1.[-]
+[FF7C4E,D62146]専用装備２グロウスフィアを使用できます。[-]=[FF7C4E,D62146]Se puede usar Esferacrecimiento de EU-2.[-]
+
+アイテム入手方法=Cómo obtener objetos
+★6解放クエストに必要なアイテムの一部をセットします。よろしいですか？=Equipando objetos necesarios para la misión de desbloqueo 6★. ¿Seguro?
+まとめてセット確認=Confirmación de fusión por lotes
+
+今の私にできることが\n解放可能になりました。=Lo que puedo hacer ahora se ha liberado.
+あるけな=De alguna manera
+生産者の顔=Cara del productor
+上限解放に必要なキャラLvを満たしていません。\n「まとめて強化」ではEXPポーションを使用して\n上限解放を行えます。=No se cumple el Nv. de personaje necesario para desbloquear el límite. Puedes desbloquear el límite usando Pociones de EXP en «Desbloquear límite + Nv.».
+---Equipar---
+以下のアイテムを消費して装備しますか？=¿Quieres consumir y equipar los siguientes objetos?
+まとめて装備確認=¿Equipar todo?
+原晶を消費する=Consumir
+原鉱を\n消費する=Consumir\nMineral
+装備確認=Verificación
+[FF7C4E,D62146]Lv不足[-]=[FF7C4E,D62146]Nv. insuficiente[-]
+入手する=Obtener
+装備をリクエスト=Solicitud de equipo
+この装備はリクエストできません=No puedes solicitar este equipo.
+この装備は素材から作成できません。=No puedes fabricar este equipo.
+---Mineral---
+原鉱を使えば作成できます。=Se puede crear usando Mineral.
+今後このメッセージを表示しない\n※設定から変更可=No mostrar este mensaje en el futuro.\n※Se puede cambiar después desde [Ajustes].
+原鉱消費確認=Confirmación de consumo de Mineral
+以下の原鉱が消費されます。\nよろしいですか？=Se consumirá el siguiente mineral.\n¿Está bien?
+消費装備が十分のため、原鉱を消費できません。=No hace falta, tienes suficiente equipo.
+原鉱を消費しなければ装備を作成できません。=No puedes crear equipo sin consumir mineral.
+---Subir de rango---
+にランクアップしますか？=¿Quieres subir de rango?
+獲得スキル=Habilidades adquiridas
+ランク=Rango
+ランクアップ完了=Subida de rango completada
+必要素材が不足しています=Faltan materiales
+ランクアップ後の 所持数/必要数 です。=Cantidad requerida tras subir de rango.
+sr:"^ (\[[0-9a-fA-F,]{6,14}\])RANK(\d+)\[-\] \[3C404E\]の装備一覧\[-\]$"=" $1RANK$2[-] [3C404E]Lista de equipo[-]"
+
+上限に達しているため限界突破できません。=No se puede romper el límite más.
+EXスキルスロット=Ranura de habilidad EX
+ランク ブロンズで開放=Se abre en Rango Bronce
+セット=Configurar
+
+★6解放クエストに必要なアイテムをセットします。よろしいですか？=Configura los objetos necesarios para la misión de desbloqueo ★6. ¿Está bien?
+
+素材を購入=Comprar material
+
+装備品・強化アイテムは\\nクエストで入手することができます=El equipo y los objetos de mejora se pueden\\nobtener en misiones
+使用できる素材がありません=No hay material disponible
+この装備はこれ以上強化できません。=Este equipo no se puede refinar más.
+この装備は強化できません。=Este equipo no se puede refinar.
+---Detalle de subida de rango---
+未装備のステータス=Estadísticas sin equipo
+装備強化MAX=Refinamiento MÁX.
+未装備=Sin equipar
+ランクアップ詳細=Detalle de subida de rango
+装備強化MAXのステータス=Estadísticas de refinamiento MÁX.
+上限に達したアイテムは\\nプレゼントに送られます。=Los objetos que alcancen el límite\\nse enviarán como regalos.
+所持上限を超えたアイテムは、プレゼントに送られます。=Los objetos que superen el límite de posesión se enviarán a tu buzón.
+
+以下のアイテムが返還されました。=Se han devuelto los siguientes objetos.
+装備強化アイテム返還=Devolución de objetos de mejora de equipo
+消費装備一覧=Equipo consumido
+
+---cambio de ★---
+★変更確認=Confirmación de cambio de ★
+下記キャラの★の数を変更します。=Cambia el «★» del personaje.
+差を非表示にする=Ocultar la diferencia
+変更する=Cambiar
+★5になると★変更を利用できます。=Solo disponible cuando el personaje sea 5★
+変更する★の数を選択してください。=Selecciona el nuevo nivel ★ del personaje.
+現在の★=★ actual
+★変更中は才能開花できません。=No se puede ascender cuando se ha cambiado ★.
+---Romper límite---
+アストライアリング一覧=Lista de Anillos Astraea
+限界突破内容=Contenido de Romper Límite
+所持アストライアリング一覧=Lista de Anillos Astraea en posesión
+キャラLv上限=Límite de Nv. de personaje
+スキルLv上限=Límite de Nv. de habilidad
+限界突破=Romper Límite
+なし=Ninguno
+使用するアストライアリングを選択してください。=Selecciona el Anillo Astraea a usar.
+使用するアストライアリングを選択してください。キャラの最大Lv上限を上昇できます。=Elige el Anillo Astraea que quieres usar\npara aumentar el nivel máximo de tu personaje
+
+キャラLv限界突破確認=Confirmación de Romper Límite
+[3C404E]アイテムを消費して、キャラのLv上限を[-][FFBB00,CE4F00]10[-][3C404E]突破します。\nよろしいですか？[-]=[3C404E]¿Consumir fragmentos para romper el límite de nivel del personaje en[FFBB00,CE4F00] 10[-]?[-]
+限界突破する=Romper Límite
+このキャラは編成から外せません。=Este personaje no se puede quitar de la formación.
+
+---6 estrellas---
+合計ボーナス=Bonus total
+まとめてセット=Combinar todo
+才能開花確認=Confirmación de Ascensión
+才能開花完了=Ascensión completada
+強化前=Antes
+強化後=Después
+
+絆ランク上限=Vínculo máximo
+
+セット確認=Confirmación de colocación
+以下のアイテムを消費してセットします。=Se consumen los siguientes objetos.
+セットボーナス=Bonus de estadísticas
+
+アイテムを消費して、セット/強化します。=Se consumen los siguientes objetos.
+アイテム強化確認=Confirmación de mejora
+
+ステータスアップ=Mejora de estado
+以下のセットボーナスを獲得しました！=¡Has obtenido los siguientes bonus de estadísticas!
+最大まで強化しています。=Refinamiento ya al máximo
+すでにセットしています。=Ya está colocado
+必要なメモリーピースの上限に達しています。=Se ha alcanzado el número requerido de Fragmentos de Memoria.
+★6才能開花に必要なアイテムをセットするには\n専用装備が必要です。\n\nまた、専用装備を装備するには\nRANK7にする必要があります。\n\nランクアップしますか？=Para configurar los objetos necesarios para la ascensión 6★, se requiere Equipo Único.\n\nPara equipar el Equipo Único,\nel personaje debe subir a RANK 7.\n\n ¿Subir de rango ahora?
+★6才能開花に必要なアイテムをセットするには\n専用装備１が必要です。\n\nまた、専用装備１を装備するには\nRANK7にする必要があります。\n\nランクアップしますか？=Para configurar los objetos necesarios para la ascensión 6★, se requiere Equipo Único 1.\n\nPara equipar el Equipo Único 1,\nel personaje debe subir a RANK 7.\n\n ¿Subir de rango ahora?
+
+
+★6才能開花に必要なアイテムをセットするには\n専用装備が必要です。\n\n専用装備を作成しますか？=Para configurar los objetos necesarios para la ascensión 6★, se requiere Equipo Único. ¿Quieres crear Equipo Único?
+★6才能開花に必要なアイテムをセットするには\n専用装備１が必要です。\n\n専用装備１を作成しますか？=Para configurar los objetos necesarios para la ascensión 6★, se requiere Equipo Único 1. ¿Quieres crear Equipo Único 1?
+専用装備作成確認=Confirmación de creación de Equipo Único
+専用装備１作成確認=Confirmación de creación de Equipo Único 1
+専用装備へ=A Equipo Único
+---Mejora recomendada---
+おすすめ強化メニュー=Mejora recomendada
+装備強化=Refinar
+装備強化でステータスアップ！=¡Refina objetos para mejorar sus estadísticas!
+消費Pt=Coste en Pt
+装備を手に入れてランクアップしよう！=¡Consigue equipo para subir de rango!
+おすすめクエスト=Misión
+------
+強化ボーナス=Bonus de estado
+プリンセスオーブ詳細=Detalles de Orbe de Princesa
+強化段階=Fase
+必要数=Req.
+購入数=Precio
+
+セットに必要なプリンセスオーブ=Orbe de Princesa requerido para la fusión
+セットに必要なプリンセスオーブ=Orbe de Princesa requerido para la fusión
+プリンセスオーブは最大まで強化する必要があります。\n各段階で必要数が異なります。=Necesitas Orbes de Princesa para mejorar.\nEl número requerido varía en cada fase.
+このクエストは勝利するまで何度でも挑戦可能です。=Esta misión se puede desafiar\ntantas veces como quieras hasta ganar.
+編成固定キャラ=Requerido
+
+編成固定=Fijo
+編成済=Organizado
+UB予約を有効にする=Activar reserva de UB
+UB発動時に演出を再生するか設定します。=Configura si reproducir la animación al activar un Estallido de Unión.
+
+[3C404E]リタイアすると報酬は獲得できませんが、\nクリアするまで何度でも再挑戦できます。[-]=[3C404E]Si te retiras, no obtendrás recompensas,\npero puedes reintentar hasta superar la misión.[-]
+r:"^(\d+)文字以上(\d+)文字以下で入力してください。$"=Introduce entre $1 y $2 caracteres.
+強化上限に達しています。上限解放を行ってください。="Has alcanzado el límite de mejora.\nPuedes mejorar seleccionando «Desbloquear límite»."
+---subir de rango---
+ランクアップ確認=Subir de rango de personaje
+以下のアイテムを装備してランクアップします。\nよろしいですか？=¿Equipar los siguientes objetos?
+キャラLvとスキルLvはこれ以上強化できません。=No se puede mejorar más.
+おまかせ強化します。よろしいですか？=¿Usar los siguientes objetos para mejorar\nel personaje como recomendado?
+RANKボーナス詳細=Detalles de Bonus de RANK
+RANKボーナス詳細のステータス=Detalles de estadísticas
+下のアイテムを装備してランクアップしますか？=¿Subir de rango equipando\nlos siguientes objetos?
+
+消費なし=Gratis
+
+現在の最高ランクです。=Ya estás en el rango más alto.
+
+消費する装備、マナはありません。=No hay equipo ni mana que consumir.
+消費する装備やマナがない場合は、\nこのダイアログを表示しない。=Si no tienes nada que gastar,\neste diálogo no aparecerá.
+
+---EU---
+装備/強化確認=Equipar personaje
+専用装備を装備/強化します。よろしいですか？=¿Equipar Equipo Único?
+専用装備１を装備/強化します。よろしいですか？=¿Equipar Equipo Único 1?
+専用装備２を装備/強化します。よろしいですか？=¿Equipar Equipo Único 2?
+
+作成に必要なマナ=Coste de Mana
+作成に必要な素材=Objetos requeridos
+強化に必要なマナ=Coste de Mana para mejora
+強化に必要なプリンセスオーブ=Coste de Orbe de Princesa para mejora
+強化に必要な素材=Objetos requeridos para mejora
+強化Lv上限までLvアップする=Subir al Nv. máximo
+強化Lv上限確認=Confirmación de mejora
+選択した強化Lv上限まで上限解放できます。=Niveles disponibles para mejora
+必要合計数=Req.
+上限解放確認=Confirmar desbloqueo de límite
+まとめて強化確認=Confirmación de mejora
+以下のアイテムを消費して専用装備を強化しますか？=¿Quieres gastar los siguientes objetos\npara mejorar el Equipo Único?
+以下のアイテムを消費して専用装備１を強化しますか？=¿Quieres gastar los siguientes objetos\npara mejorar el Equipo Único 1?
+以下のアイテムを消費して専用装備２を強化しますか？=¿Quieres gastar los siguientes objetos\npara mejorar el Equipo Único 2?
+上限解放に必要なマナ=Coste de Mana
+消費数=Coste
+上限解放に必要な素材=Objetos requeridos
+素材が不足しています。=Faltan materiales
+この装備は最大まで強化されています。=Este equipo no se puede refinar más.
+これ以上上限を解放できません。=Este equipo no puede desbloquear el límite más.
+必要な装備を所持していません。=No tienes el equipo necesario.
+装備入手=Obtener equipo
+作成=Fabricar
+まとめてクエストスキップ=Buscar misiones para omitir
+女神の秘石ショップ=Tienda de Amuletos Divinos
+バトルアリーナショップ=Tienda de Arena de Batalla
+プリンセスアリーナショップ=Tienda de Arena de Princesa
+まとめて強化へ=Mejora\nautomática
+キャラ名から検索=Buscar personajes
+アイテム名を入力してください=Introduce el nombre del objeto
+
+まとめておまかせランクアップ確認=Mejora automática: Confirmación de subida de rango
+まとめておまかせランクアップ完了=Mejora automática: Subida de rango completada
+以下のアイテムを消費してランクアップしますか？=¿Gastar los siguientes objetos para subir de rango?
+ランクアップ対象キャラ=Personaje(s) objetivo de subida de rango
+無料ランクアップ対象キャラ=Personajes elegibles para subida de rango gratuita
+まとめておまかせランクアップキャラ詳細=Información detallada de personajes para subida de rango por lotes
+無料強化可能なキャラが選択されています。=Se han seleccionado personajes que se pueden mejorar gratis.
+
+消費する強化素材=Materiales de mejora consumidos
+以下のアイテムを消費して専用装備を強化します。\nよろしいですか？=Consume los siguientes objetos para refinar el Equipo Único.\n¿Está bien?
+以下のアイテムを消費して専用装備１を強化します。\nよろしいですか？=Consume los siguientes objetos para refinar el Equipo Único 1.\n¿Está bien?
+以下のアイテムを消費して専用装備２を強化します。\nよろしいですか？=Consume los siguientes objetos para refinar el Equipo Único 2.\n¿Está bien?
+
+強化の素材が不足しています。=Faltan materiales de mejora.
+
+ランクアップへ=A Subir de rango
+★6才能開花=Ascensión ★6
+原鉱=Mineral
+グロウスフィア=Esferacrecimiento
+作成確認=Confirmación de creación
+装備やメモリーピースを消費して、\n専用装備１を作成します。=Consume objetos y Fragmentos de Memoria para crear Equipo Único 1.
+[FF7C4E,D62146]作成した専用装備１を元に戻すことはできません。[-]=[FF7C4E,D62146]No puedes desequipar EU 1 una vez creado.[-]
+キャラ専用装備の所持最大数に達しています。=Este personaje ya tiene EU equipado.
+作成確認=Confirmación de creación
+
+専用装備スフィア=Esferas de Equipo Único
+キャラスフィア=Esferas de personaje
+専用装備上限Lv=Nv. máximo de EU
+専用装備１上限Lv=Nv. máximo de EU 1
+専用装備２上限Lv=Nv. máximo de EU 2
+専用装備Lv=Nv. de EU
+専用装備１Lv=Nv. de EU 1
+専用装備２Lv=Nv. de EU 2
+未登場=N/D
+登場=Implementado
+専用装備グロウスフィア=Esferas de EU
+専用装備１グロウスフィア=Esferas de EU 1
+専用装備２グロウスフィア=Esferas de EU 2
+
+（キャラ）=(Personaje)
+
+
+r:"^強化数:([0-9/]+)$"=Mejoras: $1
+
+
+専用装備をまだ装備していません。\n作成するにはRANK7にする必要があります。\n\nランクアップしますか？=Aún no puedes equipar Equipo Único\nDebes ser RANK 7 o superior para crear Equipo Único.\n\n¿Quieres subir de rango?
+専用装備１をまだ装備していません。\n作成するにはRANK7にする必要があります。\n\nランクアップしますか？=Aún no puedes equipar Equipo Único 1\nDebes ser RANK 7 o superior para crear Equipo Único 2.\n\n¿Quieres subir de rango?
+---NPC---
+「キャラLv限界突破」によりプレイヤーLvを超えてキャラLvを強化できます。ステータスアップやスキルLvの強化上限が解放されるので各キャラのメモリーピースとマナを集め、限界突破を目指しましょう。=Puedes aumentar el Nivel de Personaje más allá del Nivel de Jugador mediante «Romper Límite de Nv. de Personaje». Las estadísticas y el Nv. de habilidad se desbloquearán, así que reúne Fragmentos de Memoria y Mana para cada personaje y aspira a romper sus límites.
+
+プレイヤーLvが、キャラクターLvの上限になります。\nメインクエストやミッション達成で、プレイヤーEXPをGETし\nLvアップを目指しましょう。=Los Niveles de Personaje solo pueden llegar hasta tu Nivel de Jugador. Completa Misiones Principales y misiones para ganar EXP de Jugador y subir de Nivel.
+装備の欠片・設計図が足りない場合は、\n原鉱を代用して装備の作成が可能になりました。\n皆さまの強化に役立ててくださいまし。=Si te faltan fragmentos o planos de equipo, ahora puedes usar Mineral como sustituto. Úsalo para mejorar a tus personajes.
+メモリーピースとは、キャラの記憶の欠片が封印されたアイテムです。\nたくさん集めると、対象キャラを「才能開花」することができます。\nキャラをパワーアップできるので頑張って集めましょう。=Los Fragmentos de Memoria son cristales con recuerdos olvidados sellados. Necesitas reunirlos para Ascender personajes, así que intenta recolectar tantos como puedas para potenciar tu plantel.
+
+マナを使ってスキルLv、ユニオンバーストのLvを強化できます。冒険で立ちはだかる強敵も、スキル強化で撃退しましょう。=Puedes usar Mana para mejorar habilidades y Estallidos de Unión.\n¡Mejora tus habilidades y derrota a los enemigos más poderosos que encuentres en tus aventuras!
+
+装備には、強化できるものがあります。装備を強化すると、ステータスがアップします。強敵に備え、装備を強化しておきましょう。=Algunos equipos se pueden refinar para potenciar sus estadísticas. Refina tu equipo para prepararte ante enemigos peligrosos.
+
+キャラは、最大★６まで才能開花できます。★５まで才能開花すると、ＥＸスキルがＥＸスキル＋となり、さらにパワーアップしますよ。=Los personajes se pueden ascender hasta ★6.\nAlcanzar ★5 transformará la habilidad EX del personaje en una habilidad EX+, haciéndolos aún más poderosos.
+
+専用装備１を装備したら★6才能開花に必要なアイテムを集めましょう。\n「ピュアメモリーピース」はメインクエストのVERY HARD、\n「プリンセスオーブ」は神殿調査から入手できますよ。=Tras equipar su EU 1, reúne los objetos necesarios para mejorar un personaje a ★6. Los Fragmentos de Memoria Pura se pueden obtener en misiones MUY DIFÍCILES, y los Orbes de Princesa en la Expedición del Templo.
+
+最後に、解放クエストをクリアすると才能開花ができます。ステータスに加え、ユニオンバーストもパワーアップしますよ。みなさまの真の力の解放を目指して頑張りましょう。=Finalmente, al completar la Misión de Ascensión del personaje, podrán ascender a nuevas cotas. Además de sus estadísticas, su Estallido de Unión también se potenciará. ¡Hagamos todos nuestro mejor esfuerzo para liberar nuestro verdadero poder!
+
+
+ミッションをクリアすると報酬が\n受け取れるわ。ジャンジャン\nクリアしてバリバリ強化して\nあげなさい♪=Completa las misiones para recibir recompensas. ¡Complétalas rápido y mejora a tu personaje♪
+
+
+
+
+
+
+シンクロ=Sincronización
+ご覧ください、主さま。マナや装備を消費せずに強化ができるようになったようですよ。みなさまのお力を借りて、より万全な状態でクエストに挑みましょう。=Mira, mi señor. Parece que ahora se pueden realizar mejoras sin consumir Mana ni equipo. Con el apoyo de todos, vamos a afrontar las misiones en un estado aún más preparado.

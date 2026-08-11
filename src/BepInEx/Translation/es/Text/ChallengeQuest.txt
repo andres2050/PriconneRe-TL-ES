@@ -1,0 +1,24 @@
+今回の達成数=Conteo de logros actual
+チャレンジクエストでは、10体の強力なボスが待ち受けております。\n敵を討伐すると、報酬を手にすることができますよ。相手の弱点を突ける\n有利な属性でパーティを編成し、万全の態勢で挑みましょう。=En el Desafío de Misiones, 10 poderosos jefes te esperan.\nAl derrotar enemigos, puedes obtener recompensas. Forma un equipo con elementos ventajosos\nque exploten las debilidades del enemigo y afronta el desafío bien preparado.
+チャレンジクエスト=Desafío de Misiones
+模擬戦のため挑戦目標は達成できません。=Los objetivos de desafío no se pueden completar en Combates de Práctica.
+
+mission
+火属性キャラを5人編成して勝利=Gana con un equipo de 5 personajes de atributo Fuego
+水属性キャラを5人編成して勝利=Gana con un equipo de 5 personajes de atributo Agua
+地属性キャラを5人編成して勝利=Gana con un equipo de 5 personajes de atributo Tierra
+風属性キャラを5人編成して勝利=Gana con un equipo de 5 personajes de atributo Viento
+光属性キャラを5人編成して勝利=Gana con un equipo de 5 personajes de atributo Luz
+闇属性キャラを5人編成して勝利=Gana con un equipo de 5 personajes de atributo Oscuridad
+
+r:"^魔法タイプキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes de tipo Mágico
+r:"^物理タイプキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes de tipo Físico
+r:"^アタッカーキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes Atacantes
+r:"^ブレイカーキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes Rompedores
+r:"^バッファーキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes Mejoradores
+r:"^デバッファーキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes Perjudicadores
+r:"^ブースターキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes Potenciadores
+r:"^ヒーラーキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes Sanadores
+r:"^タンクキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes Tanques
+r:"^ジャマーキャラを(\d+)人以上編成して勝利$"=Gana con un equipo de $1 o más personajes Interrumpidores
+召喚=Invocación

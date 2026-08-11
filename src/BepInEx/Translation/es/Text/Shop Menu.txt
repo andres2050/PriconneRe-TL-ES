@@ -1,0 +1,175 @@
+通常=Normal
+Pアリーナ=Arena P.
+Bアリーナ=Arena B.
+アリーナ=Arena
+マスター=Maestro
+限定=Bonus
+購入する=Comprar
+r:"^所持数：(\d+)$"=En posesión: $1
+sr:"^(\d+月)(\d+)日まで販売中$"=En venta hasta $2 $1 
+残り0回=Agotado
+r:"^残り(\d+)回$"=$1 veces restantes
+ダンジョンショップ=Tienda de Mazmorra
+残り購入回数=Restantes
+すべて選択=Seleccionar todo
+全て解除=Borrar
+全て選択=Seleccionar todo
+すべて解除=Cancelar
+[FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Los personajes limitados no se pueden\ndesbloquear con Fragmentos de Memoria.[-]
+主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=Mi señor, preparemos nuestro viaje. Así será una aventura aún más gratificante.
+
+これ以上、\n購入できません=No se puede comprar\nmás.
+これ以上、\\n購入できません=No se puede comprar\nmás.
+所持コイン=Monedas en posesión:
+これ以上購入回数を減らせません。=El número de compras no se puede reducir más.
+ポーション=Poción de EXP
+r:^"([0-9,.]+)でまとめて購入する$"=Comprar todo con: $1
+まとめて購入する=Comprar todo
+---Confirmar---
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,.]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]¿Usar $1 × [FFBB00,CE4F00]$2[-]\npara comprar los siguientes objetos?[-]
+
+---Lista de compras---
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,.]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]Has usado $1 × [FFBB00,CE4F00]$2[-]\n para comprar los siguientes objetos.[-]
+
+sr:"^(?:\[3C404E\])?(.+)×\[FFBB00,CE4F00\]([0-9,.]+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\]([0-9,.]+)\[-\]を購入しました。(?:\[-\])?$"=[3C404E]Has usado $1 × [FFBB00,CE4F00]$2[-] para comprar\n$3 × [FFBB00,CE4F00]$4[-].[-]
+
+---orden---
+ピュアメモリー\nピースのみ=Solo Fragmento\nde Memoria Pura
+メモリーピースのみ=Solo Fragmento de Memoria
+表示項目=Objeto mostrado
+ポジション=Posición
+価格順=Precio
+入手順=Fecha
+決定=OK
+
+---ventana de compra---
+購入完了=Compra completada
+ショップを閉じる=Cerrar tienda
+購入確認=¿Comprar objetos?
+所持マナ=Mana en posesión:
+女神の秘石必要数確認=Confirmación de intercambio de Amuletos Divinos
+
+---bonus---
+マスターショップ （開店準備中）=Tienda Maestra (En preparación)
+マスターショップ (開店準備中)=Tienda Maestra (En preparación)
+マスターコイン獲得で解放=Desbloqueado al obtener Monedas Maestras
+限定ショップ （準備中）=Tienda Bonus (Cerrada)
+
+限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=Se ha alcanzado el número máximo de apariciones de la Tienda Bonus, y no aparecerá hasta las 04:59 (JST).
+
+ショップ閉店確認=Cerrar Tienda
+[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]¿Quieres cerrar\nla Tienda Bonus de hoy ahora?\n\nLa próxima apertura será [FFBB00,CE4F00]después de las 05:00 (JST).[-][-]
+
+限定ショップ=Tienda Bonus
+必要マナ=Mana req.
+
+限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=Se han añadido nuevos objetos a la Tienda Bonus.
+
+本日の出現数=Apariciones
+限定ショップは開かれていません。=La Tienda Bonus no está abierta.
+今日の出現回数上限に達しました。\n回数上限は05:00にリセットされます。=Se ha alcanzado el número máximo de apariciones de hoy, y se reiniciará a las 05:00.
+購入するアイテムを選択してください。=Selecciona el objeto a comprar.
+購入できるアイテムがありません。=No hay objetos que se puedan comprar.
+---tienda maestra---
+マスターコイン上限確認=Límite de Monedas Maestras
+マスターコインはプレイヤーLvと所持EXPが上限に達した状態でスタミナ消費した際に獲得できます。=Las Monedas Maestras se pueden obtener consumiendo resistencia cuando el Nv. y EXP del jugador han llegado al máximo.
+現在の獲得状況=Estado actual
+コイン獲得上限確認=Límite de Monedas Maestras
+リセット対象のアイテムがありません。=No hay objetos que reiniciar.
+
+r:"^(\d+)で一部ラインナップを今すぐ更新$"=Reiniciar parte del catálogo: $1
+r:"^([0-9,.]+)で今すぐ更新$"=$1: Reiniciar
+r:"^([0-9,.]+)で一部更新$"=$1: Reiniciar parte.
+一部ラインナップは毎日5:00更新=Parte del catálogo se reinicia diariamente a las 5:00 (JST)
+r:"^([0-9/]+) 枚$"=$1 Monedas
+
+
+sr:"^(.{4,20})不足$"=$1 insuficiente
+sr:"^購入に必要な(.{4,20})が不足しています。$"=$1 insuficiente para comprar.
+バトルアリーナへ=A Arena de Batalla
+プリンセスアリーナへ=A Arena de Princesa
+ダンジョンへ移動しますか?=¿Ir a la Mazmorra?
+プリンセスアリーナへ移動しますか?=¿Ir a la Arena de Princesa?
+バトルアリーナへ移動しますか?=¿Ir a la Arena de Batalla?
+
+
+---npc---
+主さま、マスターコインをマスターショップで入手困難なアイテムと\n交換できるようです。プレイヤーLvを上限まで上げた後、スタミナを消費\nすることでマスターコインが手に入るようです。=Mi señor, parece que puedes intercambiar Monedas Maestras por objetos difíciles de obtener en la Tienda Maestra. Una vez alcanzado el Nv. máximo de jugador, puedes obtener Monedas Maestras consumiendo resistencia al llegar al límite de EXP.
+---Amuletos Divinos---
+在のメモリーピース1個あたりの単価=Precio por Fragmento: 
+現在のメモリーピース1個あたりの単価=Precio por Fragmento: 
+対象アイテムのメモリーピース個あたりの単価が=Precio por Fragmento de Memoria: 
+
+ピュアメモリーピース1個あたりの単価=Precio por Fragmento de Memoria Pura: 
+ピュアメモリーピース単価一覧=Lista de precios de Fragmento de Memoria Pura
+ピュアメモリーピース購入時の、1個あたりの女神の秘石の\n必要数の詳細は下記をご覧ください。=Ver abajo los detalles del número de Amuletos Divinos necesarios por Fragmento al comprar un Fragmento de Memoria Pura.
+
+メモリーピース購入数=Cantidad de compra
+そのまま購入=Comprar así
+r:"^([0-9,.]+)で購入$"=comprar $1
+★6才能開花に必要な数を超えています。=Excede el número necesario para Ascensión ★6.
+[FF7C4E,D62146]専用装備１作成に必要な数を超えています。[-]=[FF7C4E,D62146]Excede el número necesario para crear EU-1.[-]
+[FF7C4E,D62146]専用装備１作成に必要な数を所持しています。[-]=[FF7C4E,D62146]Tienes la cantidad necesaria para crear EU-1.[-]
+[FF7C4E,D62146]専用装備２作成に必要な数を超えています。[-]=[FF7C4E,D62146]Excede el número necesario para crear EU-2.[-]
+[FF7C4E,D62146]専用装備２作成に必要な数を所持しています。[-]=[FF7C4E,D62146]Tienes la cantidad necesaria para crear EU-2.[-]
+[FF7C4E,D62146]専用装備１の最大上限解放に必要な数を所持しています。[-]=[FF7C4E,D62146]Tienes la cantidad necesaria para desbloquear el Nv. máx. de EU-1.[-]
+[FF7C4E,D62146]専用装備１の最大上限解放に必要な数を超えています。[-]=[FF7C4E,D62146]Tienes la cantidad necesaria para desbloquear el Nv. máx. de EU-1.[-]
+
+
+必要素材が不足しています。=Faltan materiales necesarios.
+[FF7C4E,D62146]コネクトランク最大上限解放に\n必要な数を所持しています。[-]=[FF7C4E,D62146]Tienes la cantidad\nnecesaria para desbloquear el RANK de Connect.[-]
+
+
+ア
+使用可能なスロットがありません。=No hay ranuras disponibles.
+sr:"^\[FF7C4E,D62146\]([べ-・ー＆]{2,11})(\（.{2,10}\）)?の専用装備(.)を\n(.)段階強化するのに必要な数を超えています。\[-\]$"=[FFF7C4E,D621446]Tienes la cantidad necesaria para mejorar\nel Equipo Único-$3 de $1$2 en $4 nivel(es).[-]
+
+sr:"^\[FF7C4E,D62146\]([べ-・ー＆]{2,11})(\（.{2,10}\）)?の専用装備２を\n作成するのに必要な数を所持しています。\[-\]$"
+[FF7C4E,D62146]ミオ（デレマス）の専用装備(.)を\n作成するのに必要な数を所持しています。[-]=[FFF7C4E, D621446] Tienes el número necesario para crear el Equipo Único-$3 de $1$2.[-]
+
+[FF7C4E,D62146]専用装備１作成に必要な数を超えています。[-]=[FFF7C4E,D621446]Esto excede el número necesario para crear el Equipo Único-1.[-]
+[FF7C4E,D62146]専用装備１作成に必要な数を所持しています。[-]=[FFF7C4E,D621446]Tienes el número necesario para crear el Equipo Único-1.[-]
+
+[FF7C4E,D62146]専用装備２作成に必要な数を超えています。[-]=[FFF7C4E,D621446]Esto excede el número necesario para crear el Equipo Único-2.[-]
+[FF7C4E,D62146]専用装備２作成に必要な数を所持しています。[-]=[FFF7C4E,D621446]Tienes el número necesario para crear el Equipo Único-2.[-]
+
+キャラLv限界突破に必要な数が含まれています。\n専用装備１の上限解放に必要な数を購入できます。=Contiene el número necesario para Romper el Límite del personaje.\nPuedes comprar el número necesario para desbloquear el límite del Equipo Único 1.
+特定の強化分の購入数を超えています。\nそのまま購入しますか？=Excede el número necesario para la mejora de EU.\n¿Quieres continuar con la compra?
+★5に必要な個数まで指定できます。=Puedes especificar hasta el número necesario para ★5.
+★4に必要な個数まで指定できます。=Puedes especificar hasta el número necesario para ★4.
+★3に必要な個数まで指定できます。=Puedes especificar hasta el número necesario para ★3.
+★2に必要な個数まで指定できます。=Puedes especificar hasta el número necesario para ★2.
+限定ショップは開かれていません=La Tienda Bonus no está abierta
+メモリーピース購入数=Número de Fragmentos de Memoria comprados
+以下のアイテムを購入しますか?=¿Compras los siguientes objetos?
+メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=El número de Amuletos Divinos necesarios por Fragmento\ndepende del número de Fragmentos de Memoria comprados.\nVer detalles abajo.
+メモリーピース単価一覧=Lista de precios de Fragmento de Memoria
+sr:"^([べ-ヺー＆＝]+)(（.+）)?のメモリーピースの購入数が(\d)になりました。$"=El número de compras de $1$2 ahora es $4.
+
+r:"^(\d)個になります。$"=$1 por Fragmento
+
+対象アイテム1個あたりの単価が=El precio unitario por objeto objetivo es
+sr:"^([べ-ヺー＆＝]+) ?(（.+）)?の\nメモリーピースの購入数が(\d+)になりました。$"=El número total de compras de\nFragmento de Memoria de $1$2 es $3.
+---Reiniciar---
+一部毎日5:00更新=Parte se reinicia diariamente a las 5:00 (JST)
+
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]¿Usar $1 ×[FFBB00,CE4F00]$2[-]\npara reiniciar el contenido de la tienda?[-]
+
+r:"^\[3B3F4D\]マスターコイン×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n?以下のアイテムをリセットしますか？\[-\]$"=[3B3F4D]¿Usar Moneda Maestra ×[FFBB00,CE4F00]$1[-]\npara reiniciar los siguientes objetos?[-]
+[FF7C4E,D62146]リセット対象外のアイテムはリセットされません。[-]=[FF7C4E,D62146] Los objetos no aptos para reinicio no se reiniciarán.[-]
+リセット対象外のアイテム=Objetos que no se reinician
+リセット対象のアイテム=Objetos a reiniciar
+r:"^次回ラインナップは(\d+):00更新$"=Próximo reinicio a las $1:00 (JST)
+毎日5:00ラインナップ更新=Reinicia diariamente a las 5:00 (JST)
+毎日5:00更新　出現数4/5
+r:"^毎日5:00更新　出現数(\d)/5$"=Reinicia diariamente a las 5:00 (JST) Apariciones:$1/5
+
+r:"^本日の出現数　([0-9/]+)回$"=Apariciones hoy: $1
+メインクエストのクリア時に\n出現することがあります。=Aparece ocasionalmente tras\ncompletar Misiones Principales.
+
+獲得したアイテムは直接付与されます。=Los objetos obtenidos se añadirán directamente.
+交換しました。=Intercambiado.
+ピース交換完了=Intercambio de fragmentos completado
+
+
+こちらのタブは現在使用できません。「メニュー」の「ジュエルショップ」から購入してください。=Esta pestaña no está disponible actualmente. Cómpralo desde la «Joyería» en el «Menú».

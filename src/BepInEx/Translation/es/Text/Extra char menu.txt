@@ -1,0 +1,39 @@
+説明=Desc.
+セットする=Configurar
+アイテム交換=Intercambio de objetos
+アイテムを集めてキャラを解放=Reúne objetos para desbloquear al personaje.
+
+セットするマナの量を指定してください。=Especifica la cantidad de Mana.
+r:"^最小単位は([0-9,.]+)です。$"=La unidad mínima es $1.
+
+必要アイテム=Objetos necesarios
+
+メモリーピース(選択可)=Fragmento de Memoria (Seleccionado)
+交換必要数=Para desbloquear
+
+所持している、才能開花が★5以上のすべてのキャラの\nメモリーピースから使用数を指定してセットできます。\n女神の秘石を代わりにのメモリーピース個使用してセットできます。=Solo puedes seleccionar fragmentos de memoria de personajes que ya sean 5★ o usar Amuletos Divinos.
+所持している、才能開花が★5以上のすべてのキャラのメモリーピースから使用数を指定してセットできます。女神の秘石を代わりに5個使用してセットできます。=Solo puedes seleccionar Fragmentos de Memoria de personajes que ya sean 5★ o superior. Alternativamente, puedes usar Amuletos Divinos.
+
+セットしていないアイテムがあるため、解放できません。=No se puede desbloquear porque hay objetos sin configurar.
+最小単位は10,000で、一度に最大1億までセットできます。=Se pueden configurar entre 10.000 y 100.000.000 a la vez.
+
+アイテム交換確認=Confirmación de intercambio
+
+キャラの才能開花が★5以上で選択できます。=Solo puedes seleccionar Fragmentos de Memoria de personajes que ya sean 5★
+使用アイテム選択=Selecciona los objetos a configurar
+限定キャラのメモリーピースが含まれています。=Este Fragmento de Memoria es de un Personaje Limitado.
+このアイテムはこれ以上セットできません=Este objeto no se puede configurar más
+アイテム1個あたりの女神の秘石必要数は5です。=Se necesitan 5 Amuletos Divinos para equivaler a 1 Fragmento de Memoria.
+セットしたアイテムは元に戻せません。=Los objetos configurados no se pueden restaurar.
+このアイテムはこれ以上セットできません。=Este objeto no se puede configurar más.
+合計消費数=Número total consumido
+
+sr:"^セットする([べ-ヺー＆＝]+) ?(（.+）)?のメモリーピースの\n数を変更しますか？$"=¿Configurar Fragmentos de Memoria de $1$2?
+sr:"^([べ-・ー＆]{2,16})(（.+）)?解放 $"=$1$2 Desbloqueado
+交換数確認=Confirmación de número
+
+このキャラのアイテム交換にはカリンの解放が必要です。=Para intercambiar objetos por este personaje, Karin debe estar desbloqueada.
+以下のアイテムを消費してセットしました。=Se consumieron y configuraron los siguientes objetos.
+アイテム交換完了=Intercambio de objetos completado
+
+いろいろなキャラのメモリーピースとマナを使用して解放できる特別なキャラ「エクストラキャラ」が登場いたしました。新たな仲間との出会いを目指して、アイテムを探しに行きましょう。=Ahora se pueden desbloquear personajes especiales llamados «Personajes Extra» usando Mana y Fragmentos de Memoria de otros personajes. Vamos a buscar estos objetos para reclutar nuevos aliados.

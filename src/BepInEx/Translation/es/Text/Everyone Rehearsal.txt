@@ -1,0 +1,55 @@
+みんなの稽古場=Sala de Práctica de Todos
+
+ガーゴイル=Gárgola
+剛力なる鳥像=Estatua de ave robusta
+
+マグスガーゴイル=Gárgola Magus
+魔業なる鳥像=Estatua de ave mágica
+
+ガードガーゴイル=Gárgola Guardia
+堅固なる鳥像=Estatua de ave resistente
+
+ガーゴイル・バースト=Gárgola Burst
+剛力の浮石を従えし鳥像=Estatua de ave con piedras flotantes robustas
+
+ガーゴイル・マギ=Gárgola Magi
+魔業の浮石を従えし鳥像=Estatua de ave con piedras flotantes mágicas
+
+高い物理攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたボスが現れる。=Aparece un jefe programado con alto ATQ. FIS.\ny poderosos ataques de área.
+高い魔法攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたボスが現れる。=Aparece un jefe programado con alto ATQ. MAG.\ny poderosos ataques de área.
+防御力アップスキルで高い耐久力を誇り、相手の攻撃を凌ぐようプログラムされたボスが現れる。=Aparece un jefe programado con alta durabilidad y para\nresistir ataques enemigos con una habilidad de mejora de defensa.
+高い物理攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたマルチターゲットのボスが現れる。=Aparece un jefe multiobjetivo programado con alto ATQ. FIS.\ny poderosos ataques de área.
+高い魔法攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたマルチターゲットのボスが現れる。=Aparece un jefe multiobjetivo programado con alto ATQ. MAG.\ny poderosos ataques de área.
+
+モンスターHPが\n減少しない状態にする=El HP del monstruo\nno puede disminuir
+
+
+クランバトルボス=Jefe de Batalla de Clan
+
+sr:"^(\d+)年(\d+月) クランバトル（([0-9 :/]+)まで）$"=Batalla de Clan $2 $1 (hasta $3)
+
+
+前月のクランバトル登場ボスとバトルできます。=Desafía al jefe de la Batalla de Clan del mes pasado.
+※限界突破によるキャラの強化内容は反映されません。=※El nivel de Límite Roto del personaje no se aplica.
+
+
+稽古場バトルをリタイアしますか？=¿Quieres retirarte de la batalla de la Sala de Práctica?
+稽古場バトルリタイア=Retirada de batalla de Sala de Práctica
+申請相手のフレンドが上限に達しています。=El amigo del solicitante ha alcanzado el límite.
+無料対象のためアイテムやマナは消費しません。=Gratis, sin coste de objetos ni mana.
+r:"^難易度「(.+)」のクリア報酬です。$"="Es una recompensa de completar la dificultad "$1"."
+初回クリア報酬獲得=Obtener recompensa de primera victoria
+初回クリア報酬=Recompensa de Primera Victoria
+---Misión---
+稽古場ミッション=Misión de Práctica
+稽古場=Sala de práctica
+
+sr:"^(\[[0-9A-F]{6}\])?(ガーゴイル|マグスガーゴイル|ガードガーゴイル|ガーゴイル・バースト|ガーゴイル・マギ)（([\w\W]+)）をクリアしよう(\[-\])?$"="$1Derrota a $2 ($3) en Práctica$4"
+
+---NPC---
+ここで腕試しを\nしていきましょう！\n全力全開、\nがんばっちゃいますよ～！=¡Puedes poner a prueba tus habilidades aquí! ¡Vamos a darlo todo a tope!
+ここで腕試しが\nできるみたいね。\n試してみるのも\nいいんじゃない？=Parece que puedes probar tus habilidades aquí. Siempre es bueno practicar, ¿no?
+腕試しをがんばれば、\n報酬がもらえますよ。\n挑戦していきましょう☆=Si lo haces bien en estas pruebas, ¡te recompensarán!\n¡Vamos a intentarlo!☆
+こちらでは、さまざまなタイプのボスと腕試しができます。\n何度でも挑戦することができますので、\n主さまに合った難易度で挑戦してみましょう。=Aquí puedes probar tus habilidades contra distintos tipos de jefes. Puedes intentarlo tantas veces como quieras, así que pruébalo con la dificultad que mejor se adapte a ti.
+腕試しができるようです。\nここで練習を重ね、実戦に\n活かしてまいりましょう。=Parece que aquí puedes poner a prueba tus habilidades. Practiquemos y apliquemos lo aprendido en combate real.
+ここでは腕試しが\nできるんですって。\n自分の実力を測るのに、\nちょうどよさそうね。=Puedes probar tus habilidades aquí. Parece una buena forma de medir tus habilidades.

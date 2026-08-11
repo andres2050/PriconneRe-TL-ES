@@ -1,0 +1,36 @@
+12月=Dic
+11月=Nov
+10月=Oct
+09月=Sep
+08月=Ago
+07月=Jul
+06月=Jun
+05月=May
+04月=Abr
+03月=Mar
+02月=Feb
+01月=Ene
+9月=Sep
+8月=Ago
+7月=Jul
+6月=Jun
+5月=May
+4月=Abr
+3月=Mar
+2月=Feb
+1月=Ene
+
+
+sr:"^1月(\d+日)のストーリー(\d)?$"=Enero $1 Historia $2
+sr:"^2月(\d+日)のストーリー(\d)?$"=Febrero $1 Historia $2
+sr:"^3月(\d+日)のストーリー(\d)?$"=Marzo $1 Historia $2
+sr:"^4月(\d+日)のストーリー(\d)?$"=Abril $1 Historia $2
+sr:"^5月(\d+日)のストーリー(\d)?$"=Mayo $1 Historia $2
+sr:"^6月(\d+日)のストーリー(\d)?$"=Junio $1 Historia $2
+sr:"^7月(\d+日)のストーリー(\d)?$"=Julio $1 Historia $2
+sr:"^8月(\d+日)のストーリー(\d)?$"=Agosto $1 Historia $2
+sr:"^9月(\d+日)のストーリー(\d)?$"=Septiembre $1 Historia $2
+sr:"^10月(\d+日)のストーリー(\d)?$"=Octubre $1 Historia $2
+sr:"^11月(\d+日)のストーリー(\d)?$"=Noviembre $1 Historia $2
+sr:"^12月(\d+日)のストーリー(\d)?$"=Diciembre $1 Historia $2
+sr:"^(\d+月)(\d+日)/(.+)歳$"=$1 $2 ($3 años)

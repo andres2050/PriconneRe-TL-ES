@@ -1,0 +1,48 @@
+カスタムマイページ=Ajustes de Inicio
+ストーリーイベント=Evento de Historia
+設定完了=Guardar
+順番入れ替え=Orden
+ミニゲーム=Minijuego
+カスタムマイページ1=Inicio Personalizado 1
+カスタムマイページ2=Inicio Personalizado 2
+カスタムマイページ3=Inicio Personalizado 3
+カスタムマイページ4=Inicio Personalizado 4
+カスタムマイページ5=Inicio Personalizado 5
+変更= +
+はずす=-
+マイページに移動する\nたびにランダム表示する=Aleatorio cada vez\nque vuelvas a Inicio
+BGM変更=BGM
+現在のBGM=♪Reproduciendo
+表示設定=Ajustes de visualización
+マイページBGM設定=Ajustes de BGM
+初期BGMに戻す=BGM predeterminado
+BGM購入へ=Comprar BGM
+変更確認=Confirmación de ajustes
+並べ替えたい順に押してください。=Pulsa en el orden que quieras ordenar.
+最低1つ以上設定する必要があります。=Debe haber al menos uno.
+
+
+アニメ内\n音声=Voz en\nanimación
+
+マイページ1のBGMを初期設定に戻します。\nよろしいですか？=Restablecer la música de fondo de la pantalla de Inicio 1 a la configuración predeterminada.
+
+BGM購入ページへ移動=Ir a la tienda de BGM
+[3C404E]BGM購入ページへ移動しますか?[-]=[3C404E]¿Quieres ir a la tienda de BGM?
+移動する=Ir
+[FF7C4E,D62146]設定を完了していないカスタムマイページ\n設定は破棄されます。[-]=[FF7C4E,D62146]Los ajustes de Inicio Personalizado\nno completados se descartarán.[-]
+購入順=Orden de compra
+発売順=Fecha de lanzamiento
+曲名順=Título de canción
+
+---Orden---
+あ行=A, I, U, E, O, V, W
+か行=K/C/Q, G
+さ行=S/Z, J/Dj
+な行=N
+は行=H, B, V, F, P
+ま行=M
+や行=Y
+ら行=L, R
+わ行=Wa
+た行=T, D, Ch
+表示絞り込み=Filtrar

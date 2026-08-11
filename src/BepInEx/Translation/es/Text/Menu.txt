@@ -1,0 +1,13 @@
+アイテム=Artículos
+設定=Configuración
+タイトルへ戻る=Volver al Título
+SDカード保存設定=Transferir datos a SD
+称号=Título
+実績=Rendimiento
+コード入力=Introducir código
+アカウント連携=Vincular redes sociales
+４コマまんが=Manga 4-koma
+サポート=Soporte
+フレンド=Amigo
+アルバム=Álbum
+ジュエル\nショップ=Joyería

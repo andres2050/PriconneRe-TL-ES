@@ -1,0 +1,222 @@
+---Lista de personajes---
+戦力=Poder 
+物攻=ATQ. FIS.
+魔攻=ATQ. MAG.
+物防=DEF. FIS.
+魔防=DEF. MAG.
+r:"^\[3C404E\]戦力 ([0-9.%％]+)\[-\]$"=[3C404E]Poder $1[-]
+r:"^\[3C404E\]物攻 ([0-9.%％]+)\[-\]$"=[3C404E]ATQ. FIS. $1[-]
+r:"^\[3C404E\]魔攻 ([0-9.%％]+)\[-\]$"=[3C404E]ATQ. MAG. $1[-]
+r:"^\[3C404E\]物防 ([0-9.%％]+)\[-\]$"=[3C404E]DEF. FIS. $1[-]
+r:"^\[3C404E\]魔防 ([0-9.%％]+)\[-\]$"=[3C404E]DEF. MAG. $1[-]
+---Estado---
+HP吸収=Drenaje de HP
+HP自動回復=Regen. de HP
+TP上昇=Mejora de TP
+ＴＰ上昇=Mejora de TP
+TP自動回復=Regen. de TP
+TP消費軽減=Retención de TP
+物理攻撃力=ATQ. Físico
+物理防御力=DEF. Físico
+魔法防御貫通=Pen. DEF. MAG.
+物理防御貫通=Pen. DEF. FIS.
+物理クリティカル=Tasa de Crít. Fís.
+魔法攻撃力=ATQ. Mágico
+魔法防御力=DEF. Mágico
+魔法クリティカル=Tasa de Crít. Mág.
+回復量上昇=Bonus de curación
+命中=Precisión
+回避=Evasión
+強化スキル=Mejorar habilidad
+戦力=Poder
+ダメージカット=Reducción de daño
+物理=Físico
+魔法=Mágico
+
+TPダウン=TP Bajo
+
+
+ＴＰ=TP
+ＨＰ=HP
+ＴＰ回復量=Cantidad de recuperación de TP
+ＨＰ回復量=Cantidad de recuperación de HP
+TP回復量=Cantidad de recuperación de TP
+HP回復量=Cantidad de recuperación de HP
+回復=Recuperación
+
+現在のHP=HP del jefe
+あなたのターンです。=Tu turno.
+
+バージョンエラー=Error de versión
+特殊スキル=Habilidad especial
+通常時=Habilidad normal
+
+
+属性ボーナスアップ=Bonus elemental arriba
+---Ventana de estado---
+
+
+
+スキル切り替え！=¡Cambio de habilidades!
+r:"^与ダメアップ[＋+]([0-9.%％]+)$"=Daño arriba +$1
+r:"^被ダメカット[＋+]([0-9.%％]+)$"=Reducción de daño +$1
+r:"^属性ボーナスアップ[＋+]([0-9.%％]+)$"=Bonus elemental arriba +$1
+r:"^属性ボーナス[＋+]([0-9.%％]+)$"=Bonus elemental +$1
+r:"^魔法クリティカルダメージ倍率[＋+]([0-9.%％]+)$"=Multiplicador de Daño Crít. Mág. +$1
+r:"^物理クリティカルダメージ倍率[＋+]([0-9.%％]+)$"=Multiplicador de Daño Crít. Mág. +$1
+
+r:"^魔法防御貫通[＋+]([0-9.%％]+)$"=Pen. DEF. MAG. +$1
+r:"^物理防御貫通[＋+]([0-9.%％]+)$"=Pen. DEF. FIS. +$1
+r:"^魔法攻撃力アップ[＋+]([0-9.%％]+)$"=ATQ. Mágico arriba +$1
+r:"^魔法攻撃力ダウン[＋+]([0-9.%％]+)$"=ATQ. Mágico abajo +$1
+r:"^魔法防御力ダウン[＋+]([0-9.%％]+)$"=DEF. Mágico abajo +$1
+r:"^魔法防御力アップ[＋+]([0-9.%％]+)$"=DEF. Mágico arriba +$1
+r:"^魔法ダメージ[＋+]([0-9.%％]+)$"=Daño Mág. +$1
+r:"^範囲魔法ダメージ[＋+]([0-9.%％]+)$"=Daño Mág. en área +$1
+r:"^単体魔法ダメージ[＋+]([0-9.%％]+)$"=Daño Mág. individual +$1
+r:"^全体魔法ダメージ[＋+]([0-9.%％]+)$"=Daño Mág. total +$1
+r:"^追加魔法ダメージ[＋+]([0-9.%％]+)$"=Daño Mág. adicional +$1
+r:"^龍眼状態の敵への魔法ダメージ[＋+]([0-9.%％]+)$"=Daño Mág. a enemigos con estado Ojo de Dragón $1
+
+r:"^物理攻撃力アップ[＋+]([0-9.%％]+)$"=ATQ. Físico arriba +$1
+r:"^物理攻撃力ダウン[＋+]([0-9.%％]+)$"=ATQ. Físico abajo +$1
+r:"^物理防御力アップ[＋+]([0-9.%％]+)$"=DEF. Físico arriba +$1
+r:"^物理防御力ダウン[＋+]([0-9.%％]+)$"=DEF. Físico abajo +$1
+r:"^物理ダメージ[＋+]([0-9.%％]+)$"=Daño Físico +$1
+r:"^範囲物理ダメージ[＋+]([0-9.%％]+)$"=Daño Fís. en área +$1
+r:"^単体物理ダメージ[＋+]([0-9.%％]+)$"=Daño Fís. individual +$1
+r:"^全体物理ダメージ[＋+]([0-9.%％]+)$"=Daño Fís. total +$1
+r:"^追加物理ダメージ[＋+]([0-9.%％]+)$"=Daño Fís. adicional +$1
+
+r:"^HP自動回復[＋+]([0-9.%％]+)$"=Regen. de HP +$1
+r:"^HP吸収[＋+]([0-9.%％]+)$"=Drenaje de HP +$1
+r:"^ＨＰ回復量[＋+]([0-9.%％]+)$"=Cantidad de recuperación de HP +$1
+r:"^TP自動回復[＋+]([0-9.%％]+)$"=Regen. de TP +$1
+r:"^ＴＰ回復量[＋+]([0-9.%％]+)$"=Cantidad de recuperación de TP +$1
+r:"^回復量[＋+]([0-9.%％]+)$"=Cantidad de recuperación +$1
+r:"^回復量上昇[＋+]([0-9.%％]+)$"=Aumento de cantidad de recuperación +$1
+
+r:"^回避[＋+]([0-9.%％]+)$"=Evasión +$1
+r:"^命中[＋+]([0-9.%％]+)$"=Precisión +$1
+r:"^ＴＰダメージ[＋+]([0-9.%％]+)$"=Daño de TP +$1
+
+r:"^反撃ダメージ[＋+]([0-9.%％]+)$"=Daño de contraataque +$1
+r:"^反撃時の物理ダメージ[＋+]([0-9.%％]+)$"=Daño Fís. al contraatacar +$1
+r:"^１秒当たりのダメージ量[＋+]([0-9.%％]+)$"=Daño por segundo +$1
+r:"^１秒当たりのＨＰ回復量[＋+]([0-9.%％]+)$"=Recuperación de HP por segundo +$1
+r:"^無効ダメージ量[＋+]([0-9.%％]+)$"=Cantidad de daño nulo +$1
+r:"^最大ＨＰアップ[＋+]([0-9.%％]+)$"=HP máx. arriba +$1
+r:"^吸収ダメージ量[＋+]([0-9.%％]+)$"=Daño absorbido +$1
+r:"^継続時間[＋+]([0-9,.]+)秒$"=Duración +$1
+r:"^無敵時間[＋+]([0-9,.]+)秒$"=Tiempo invencible +$1
+r:"^召喚するドクロ親父のＬｖ[＋+]([0-9.%％]+)$"=Nv. de invocación de Padre Calavera +$1
+r:"^行動速度低下の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de Ralentización +$1
+r:"^束縛の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de Atadura +$1
+r:"^時間停止の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de Paro de Tiempo +$1
+r:"^恐慌の確定成功Ｌv[＋+]([0-9.%％]+)$"=Nv. de éxito de Miedo +$1
+r:"^暗闇の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de Ceguera +$1
+r:"^混乱の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de Confusión +$1
+r:"^誘惑の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de Encanto +$1
+r:"^麻痺の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de Parálisis +$1
+r:"^スタンの確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de Aturdimiento +$1
+r:"^呪詛の初期ダメージ量[＋+]([0-9.%％]+)$"=Cantidad de daño inicial de Hex +$1
+r:"^呪いの1秒当たりのダメージ量[＋+]([0-9.%％]+)$"=Daño de Maldición por segundo +$1
+r:"^毒の1秒当たりのダメージ量[＋+]([0-9.%％]+)$"=Daño de Veneno por segundo +$1
+r:"^猛毒の1秒当たりのダメージ量[＋+]([0-9.%％]+)$"=Daño de Veneno Mortal por segundo +$1
+r:"^確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Nv. de éxito de inflicción +$1
+------
+r:"^装備必要キャラLv：([0-9.%％]+)$"=[3C404E]Nv. requerido: $1[-]
+r:"^上限解放必要キャラLv:([0-9.%％]+)$"=Nv. de personaje requerido para desbloquear el límite: $1
+上限解放に必要なキャラLvを満たしていません。=Nv. de personaje insuficiente para desbloquear el límite.
+r:"^\[FF7C4E,D62146\]装備必要キャラLv：([0-9.%％]+)\[-\]$"=[FF7C4E,D62146]Nv. requerido: $1[-]
+r:"^強化Lv上限  ([0-9.%％]+)$"=Nv. máx. $1
+r:"^上限Lv([0-9.%％]+)$"=Nv. $1
+---Equipo de mejora de estado---
+r:"^HP吸収[＋+]([0-9.%％]+)$"=Drenaje de HP +$1
+r:"^HP自動回復[＋+]([0-9.%％]+)$"=Regen. de HP +$1
+r:"^回復量上昇[＋+]([0-9.%％]+)$"=Bonus de curación +$1
+
+r:"^TP上昇[＋+]([0-9.%％]+)$"=Mejora de TP +$1
+r:"^TP自動回復[＋+]([0-9.%％]+)$"=Regen. de TP +$1
+r:"^TP消費軽減[＋+]([0-9.%％]+)$"=Retención de TP +$1
+
+r:"^物理攻撃力[＋+]([0-9.%％]+)$"=ATQ. Físico +$1
+r:"^物理防御力[＋+]([0-9.%％]+)$"=DEF. Físico +$1
+r:"^物理クリティカル[＋+]([0-9.%％]+)$"=Crít. Físico +$1
+
+r:"^魔法攻撃力[＋+]([0-9.%％]+)$"=ATQ. Mágico +$1
+r:"^魔法防御力[＋+]([0-9.%％]+)$"=DEF. Mágico +$1
+r:"^魔法クリティカル[＋+]([0-9.%％]+)$"=Crít. Mágico +$1
+r:"^命中[＋+]([0-9.%％]+)$"=Precisión +$1
+r:"^回避[＋+]([0-9.%％]+)$"=Evasión +$1
+r:"^戦力[＋+]([0-9.%％]+)$"=Poder de combate +$1
+
+
+r:"^回復強化[＋+]([0-9.%％]+)$"=Recuperación +$1
+r:"^バフ強化[＋+]([0-9.%％]+)$"=Mejora de buff +$1
+r:"^デバフ強化[＋+]([0-9.%％]+)$"=Mejora de debuff +$1
+
+r:"^通常攻撃強化[＋+]([0-9.%％]+)$"=Ataque normal +$1
+---Bonus de RANK---
+r:"^RANK([0-9.%％]+)が登場した場合、RANK([0-9.%％]+)では\nRANKボーナスが獲得されていない状態になります。$"=Cuando aparece el RANK $1, el RANK $2\nno podrá obtener el bonus de RANK.
+
+r:"^(\[[0-9A-F,]+\])RANK([0-9.%％]+)\[-\]\[3C404E\]まで強化したため\n以下のステータスボーナスを獲得しています。\[-\]$"=[3C404E]Se obtienen los siguientes bonus de estado por mejorar al $1RANK $2[-].[-]
+
+
+---Caballero Princesa---
+Atributos a mejorar a la vez
+まとめて強化対象属性=Mejora elemental a la vez
+以下のアイテムを消費してまとめて強化しますか？=¿Gastar los siguientes objetos para mejorarlos todos a la vez?
+r:"^火属性攻撃力[＋+]([0-9.%％]+)$"=Ataque Fuego +$1
+r:"^水属性攻撃力[＋+]([0-9.%％]+)$"=Ataque Agua +$1
+r:"^風属性攻撃力[＋+]([0-9.%％]+)$"=Ataque Viento +$1
+r:"^光属性攻撃力[＋+]([0-9.%％]+)$"=Ataque Luz +$1
+r:"^闇属性攻撃力[＋+]([0-9.%％]+)$"=Ataque Oscuridad +$1
+
+
+##Filtro
+
+基本設定=Ajuste básico
+絞り込み設定=Ajustes de filtro
+すべて含む=Incluir todo
+どれかを含む=Contiene cualquiera
+攻撃属性=Tipo de ataque
+攻撃特性=Especialidad de ataque
+単体=Individual
+範囲=Área
+継続ダメージ=DoT
+隊列=Formación
+
+
+強化効果=Efecto de buff
+速度アップ=Velocidad arriba
+加算速度アップ=Velocidad adicional arriba
+物クリアップ=Tasa Crít. Fís. arriba
+魔クリアップ=Tasa Crít. Mág. arriba
+物クリダメアップ=Daño Crít. Fís. arriba
+魔クリダメアップ=Daño Crít. Mág. arriba
+弱体効果=Efecto de debuff
+
+速度ダウン=Velocidad abajo
+ＨＰ回復=Recuperación de HP
+継続ＨＰ回復=Recuperación continua de HP
+物理無効=Anulación física
+魔法無効=Anulación mágica
+物理魔法無効=Anulación Fís./Mág.
+物理吸収=Absorción física
+魔法吸収=Absorción mágica
+物理魔法吸収=Absorción Fís./Mág.
+行動不能=Incapacitación
+魅了・混乱=Encanto y Confusión
+挑発=Provocación
+飛行=Vuelo
+調和=Armonía
+行動不能無効=Anulación de incapacitación
+スキルの設定で使用可能です。=Se puede usar en los ajustes de habilidad.
+
+
+
+低い順=Ascendente
+高い順=Descendente
+並び順=Orden
+レアリティ=Rareza

@@ -1,0 +1,502 @@
+---Alquiler de personajes---
+サポートキャラを設定\\nできます=Configura personaje de alquiler
+対象クエスト一覧=Lista de misiones disponibles:
+対象のクエストは以下のものとなります。=Las misiones disponibles que pueden\nusar personaje de alquiler son las siguientes.
+
+クエスト・イベント=Misión y Evento
+ダンジョン・追憶の戦域=Mazmorra y Recuerdo
+
+メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(SPECIAL＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト\n深淵討伐戦\nエルピス討魔戦線=Misión Principal (NORMAL)\nMisión Principal (DIFÍCIL)\nMisión Principal (MUY DIFÍCIL)\nGruta EXP\nGruta Mana\nEstudio del Santuario\nExpedición del Templo\nMisión de Evento (NORMAL)\nMisión de Evento (DIFÍCIL)\nJefe de Evento (ESPECIAL+)\nHistoria Paralela (NORMAL)\nHistoria Paralela (DIFÍCIL)\nMisión Profunda\nBatalla del Abismo\nFrente Demoníaco Elpis
+
+クランバトル・ルナの塔=BC y Torre de Luna
+
+対象コンテンツ一覧=Lista de contenido objetivo
+対象のコンテンツは以下のものとなります。=El contenido objetivo es el siguiente:
+
+
+r:"^\-(\d+)日-(\d+)時間-(\d+)分$"=-$1d-$2h-$3m
+r:"^トレーニングログ保存件数 ([0-9/]+)$"=Registros de entrenamiento guardados: 6/30
+サポート設定へ=A Sala de alquiler
+サポート獲得マナ通知=Notificación de Mana obtenido por alquiler
+サポートで獲得した報酬です。=Recompensas obtenidas mediante apoyo.
+後でちゃんとマニュアル読んだ=Leeré el manual más tarde
+マイログ保存完了=Mi Registro guardado
+マイログに保存しました。=Guardar en Mi Registro.
+r:"^([0-9/]+)回$"=$1×
+
+[3C404E]サポート設定で獲得できるマナが\n合計[-][FFBB00,CE4F00]5,000,000[-][3C404E]マナ以上たまりました。[-]=[3C404E]El Mana total obtenido mediante ajustes de apoyo ha superado los [FFBB00,CE4F00]5.000.000[-] de mana.[-]
+
+---Lista de clanes---
+r:"^\[FFBB00\,CE4F00\]最終ログイン:(\d+)時間以内\[-\]$"=[FFBB00,CE4F00]Conectado: $1h[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:(\d+)日前\[-\]$"=[FFBB00,CE4F00]Último inicio: hace $1d[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:(\d+)時間前\[-\]$"=[FFBB00,CE4F00]Último inicio: hace $1h[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:(\d+)分前\[-\]$"=[FFBB00,CE4F00]Último inicio: hace $1m[-]
+---[FFBB00,CE4F00]最終ログイン:9時間前[-]---
+
+---Chat del clan---
+==[FFBB00,CE4F00]1日前[-][3C404E][-]
+r:"^\[FFBB00\,CE4F00\](\d+)日前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]hace $1d[-]
+r:"^\[FFBB00\,CE4F00\](\d+)時間前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]hace $1h[-]
+r:"^\[FFBB00\,CE4F00\](\d+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]hace $1m[-]
+
+---Me gusta por resistencia---
+r:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを(\d+)獲得しました。(\[-\])?$"=$1Le diste «Me gusta» a $2-san\ny obtuviste $3 de resistencia.$4
+
+r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Miembro del clan te dio «Me gusta»,\nRecibes Mana × [FFBB00,CE4F00]$2[-][-]
+
+月間=Mes
+[FF7C4E,D62146]いいねされたクランメンバーにはマナがおくられます。[-]=[FF7C4E,D62146]Los miembros del clan con «Me gusta» recibirán Mana.[-]
+クランを脱退しました。=Has salido del clan.
+いいね完了=«Me gusta» completado
+除名=expulsar
+r:"^(.{1,10})がクランに加入しました。$"=$1 se ha unido al clan.
+r:"^(.{1,10})がリーダーになりました。$"=$1 se ha convertido en líder.
+r:"^(.{1,10})がサブリーダーになりました。$"=$1 se ha convertido en sublíder.
+r:"^(.{1,10})がクランを結成しました。$"=$1 ha creado un clan.
+r:"^(.{1,10})がクランから脱退しました。$"=$1 ha salido del clan.
+r:"^(.{1,10})をクランから除名しました。$"=$1 ha sido expulsado del clan.
+
+r:"^([\-0-9]+)日 ?([\-0-9]+)時間 ?([\-0-9]+)分$"=$1d $2h $3m
+r:"^([\-0-9]+)日 ?([\-0-9]+)時間$"=$1d $2h
+r:"^([\-0-9]+)時間 ?([\-0-9]+)分$"=$1h $2m
+r:"^([\-0-9]+)日 ?([\-0-9]+)分$"=$1d $2m
+変更期限：=Fecha límite de cambio:
+r:"^終了まで (\d+)時間(\d+)分$"=Termina en $1h$2m
+r:"^終了まで (\d+)分$"=Termina en $1m
+
+r:"^次の装備リクエストは(\d+)時間(\d+)分後に可能です。$"=Puedes hacer tu próxima solicitud de equipo en $1h$2m.
+r:"^次の装備リクエストは(\d+)分後に可能です。$"=Puedes hacer tu próxima solicitud de equipo en $1m.
+この装備リクエストは終了しました。=Esta solicitud de equipo ha terminado.
+この装備リクエストは終了しました=Esta solicitud de equipo ha terminado
+ここから未読メッセージ=Mensaje sin leer desde aquí
+自分が投稿したパーティです。=Este es el equipo que publiqué.
+いいね確認=Dar «Me gusta»
+
+クランバトル開催中：=Batalla de Clan en curso:
+
+この投稿は有効期間が終了しました。=Esta publicación ha caducado.
+装備リクエスト中！=¡Solicitando equipo!
+寄付完了=Donación completada
+
+8時間経過したため、装備リクエストが終了しました。=Recibiste el siguiente equipo.\nHan pasado 8 horas y la solicitud de equipo ha terminado.
+r:"^以下の装備をx(\d+)獲得しました。\n8時間経過したため、装備リクエストが終了しました。$"=Obtenido el siguiente equipo x$1.\nHas alcanzado el límite de donaciones, las solicitudes de equipo han terminado.
+
+[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費され、\n編成キャラとそのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]Los intentos se consumen al iniciar la batalla,\nse aplican restricciones de uso a los personajes\ny su equipo EX en la formación.[-]
+
+[FF7C4E,D62146]サポート以外のキャラのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]el personaje de alquiler y su equipo EX estarán restringidos.[-]
+[FF7C4E,D62146]バトルを開始した時点で上記のキャラと、[-]=[FF7C4E,D62146]Se usará un intento y el uso de personajes excepto[-]
+
+[3C404E][3C404E]クランを[-][FF7C4E,D62146]脱退[-][3C404E]します。\nよろしいですか？[-][-]=[3C404E]Vas a [FF7C4E,D62146]salir[-] del clan.\n¿Está bien?
+[FF7C4E,D62146]脱退後24時間はクランに所属・結成ができません。[-]=[FF7C4E,D62146]No podrás unirte ni\ncrear un clan durante 24 horas tras salir.[-]
+
+残り挑戦回数が0回です。=Los intentos restantes son 0.
+現在の装備リクエストの状況です。=Estado de la solicitud de equipo actual.
+r:"^以下の装備をx(\d+)獲得しました。\n現在の装備リクエストの状況です。$"=Recibiste el siguiente equipo × $1.\nEstado de la solicitud de equipo actual.
+難易度変更したバトルでは使用できません。=No se puede usar en batallas con dificultad cambiada.
+所持上限を超えたアイテムはプレゼントに送られました=Los objetos que superan el límite de posesión se han enviado como regalos
+前回のリクエスト結果=Resultado de la solicitud anterior
+リクエスト結果=Resultado de la solicitud
+sr:"^([0-9]{1,2}月)の順位：$"=$1 Rango:
+---Clan---
+装備リクエスト=Solicitud
+次回のモード変更開始まで\nモードは変更できません。=El modo no se puede cambiar\nhasta el próximo cambio de modo.
+段階を変更したバトルでは\n撃破報酬は獲得できません。=Las batallas con fase cambiada no\nrecibirán recompensa de derrota.
+
+クランバトル モード変更受付終了=Cambio de Modo Cerrado.
+開催までお待ちください。=Espera hasta que termine la BC.
+
+メンバーリスト=Lista de miembros
+
+脱退=Salir
+フレンドバトル=Batalla Amistosa
+クランメンバーが設定しているパーティはありません。=No hay equipo configurado por miembros del clan.
+メッセージを入力してください=Introduce un mensaje
+r:"^挑戦回数:([0-3‐])$"=Intentos: $1
+
+ラン=Clan 
+クランバトルへ=A Batalla de Clan
+リーダー=Líder
+先月=Mes\npasado
+合計スコア=Puntuación total
+ランキング報酬確認=Recompensas de ranking
+自分の順位=Tu rango
+いいね=Me gusta
+送信=Enviar
+全クラン=Todos los clanes
+r:"^パーティ(\d+)と\n対戦$"=Equipo $1\nPartido
+クランチャット投稿=Publicación en chat del clan
+編成したパーティをクランチャットに投稿できます。=Puedes publicar el equipo organizado en el chat del clan.
+他メンバーのバトルログは投稿できません。=No puedes publicar los registros de batalla de otros miembros.
+
+このパーティでクランチャットに投稿しますか？=¿Quieres publicar este equipo en el chat del clan?
+パーティ名を編集します。=Edita el nombre del equipo.
+パーティ名編集=Editar nombre de equipo
+リクエスト=Solicitud
+リクエスト確認=Solicitar objeto
+選択した装備の寄付をリクエストします。\nよろしいですか？=¿Solicitar una donación del equipo seleccionado?
+8時間以内は新たにリクエストできません。=No puedes hacer una nueva solicitud durante 8 horas.
+寄付上限数=Donaciones máximas
+リクエスト完了=Solicitud enviada
+[3C404E]チャットへの投稿を完了しました。[-]=[3C404E]Has terminado de publicar en el chat.[-]
+クランチャット投稿完了=Publicación en chat del clan completada
+[3C404E]クラン内のチャットで\n装備をリクエストしました。[-]=[3C404E]Has solicitado este equipo\nen el chat del clan.[-]
+リクエスト状況=Estado de solicitud
+確認する=Confirmar
+パーティ総戦力=Poder del equipo
+対戦する=Partido
+あなた=Tú
+現在の装備リクエストの状況です。=Estado de la solicitud de equipo actual.
+寄付の情報がありません。=No hay info de donación.
+現在の寄付数=Donaciones
+寄付の確認=Donar equipo
+以下の装備を寄付します。\nよろしいですか？=¿Donar el siguiente equipo?
+寄付状況=Estado de donación
+寄付できる装備を所持していません。=No tienes equipo para donar.
+r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D62146]$1 donaciones restantes hoy.[-]
+トレーニングモード解放中=Modo Entrenamiento abierto
+sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Ranking Global ($1)[-]
+---Batalla de Clan---
+CP e intentos se reinician a las 05:00 (JST) diariamente.=Los CP e intentos se reinician a las 05:00 (JST) diariamente.
+r:"^\[3C404E\]クランバトルの挑戦回数が\n?\[-\]\[FFBB00,CE4F00\](\d)回\[-\]\[3C404E\]アップしました。\[-\]$"=[3C404E]Tus intentos de BC han aumentado en [FFBB00,CE4F00]$1[-].[-]
+r:"^\[3C404E\]CPを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]獲得して、\[-\]$"=[3C404E]Obtenidos [FFBB00,CE4F00]$1 [-]CP,[-]
+[3C404E]マイログに保存しますか?[-]=[3C404E]¿Quieres guardarlo en Mi Registro?[-]
+マイログ保存確認=Confirmación de guardado en Mi Registro
+模擬戦中=Entrenamiento
+本日の挑戦回数の上限に達しています。=Has alcanzado el número máximo de intentos de hoy.
+
+段階が変更されています。=La fase ha cambiado.
+---Tiempo acumulado---
+r:"^\[3C404E\]モンスターを撃破したため\n残り時間を\[FF7C4E,D62146\]([0-9:]+)\[-\]使って\n次のバトルに挑戦できます。\[-\]$"=[3C404E]Como has derrotado a un monstruo,\npuedes usar el tiempo acumulado [FF7C4E,D62146]$1[-]\npara desafiar la siguiente batalla.[-]
+残り時間持越し通知=Notificación de tiempo acumulado
+前回の編成メンバー=Miembros del equipo anterior
+現在の編成メンバー=Miembros del equipo actual
+[FF7C4E,D62146]発生中の持越しバトルがありません。[-]=[FF7C4E,D62146]No hay equipo acumulado.[-]
+---Overkill---
+r:"^\[3C404E\]オーバーキルが発生したため\nモンスターの実際の残りHPと\n与えたダメージから換算して\n持越し時間\[FF7C4E,D62146\]([0-9:]+)\[-\]が発生します。\[-\]$"=[3C404E]Debido al overkill, el tiempo acumulado de [FF7C4E,D62146]$1[-] se generó convirtiendo el HP restante real del monstruo y el daño infligido.[-]
+オーバーキル通知=Notificación de Overkill
+---Ventana emergente---
+sr:"^(\d+月)クランバトル開始！！$"=¡BC-$1 ha comenzado!
+r:"^期間 ([0-9/ :]+)～([0-9/ :]+)$"=Inicio $1\nFin $2
+クランメンバーと協力して\n強力なモンスターを討伐しよう！=¡Colabora con los miembros de tu clan para derrotar a monstruos poderosos!
+
+[FFBB00,CE4F00]解放期間:[-]=[FFBB00,CE4F00]Periodo:[-]
+sr:"^\[FF7C4E,D62146\]ボスの強さは、(\d+月)クランバトル（クランモード）と同じです。\[-\]$"=[FF7C4E,D62146]La fuerza del jefe es la misma que la BC ($1).[-]
+カスタム=Personalizado
+１つ以上の段階を選択する必要があります。=Debes seleccionar una o más fases.
+r:"^トレーニング (\d)段階目$"=Entrenamiento Fase $1
+トレーニングバトルの結果はスコアランキングに影響しません。=El resultado de la batalla de entrenamiento no afecta al ranking de puntuación.
+クランバトルに挑戦しよう=¡Batalla de Clan disponible!
+今回のクランバトル開催期間中は表示しない=No mostrar durante la BC
+詳細=Detalle
+[FFFDF7,FFE0E9]圏外[-]=[FFFDF7,FFE0E9]N/D[-]
+[FDFFF8,CCFFEF]圏外[-]=[FDFFF8,CCFFEF]N/D[-]
+模擬戦・トレーニングバトルのバトル速度上限を設定します。=Configura la velocidad máxima de batalla para simulacros y batallas de entrenamiento.
+モンスター討伐演出設定=Ajuste de velocidad de derrota de monstruo
+モンスター討伐演出を再生するか設定します。=Configura la velocidad de derrota de monstruo.
+
+バトルログ=Registro de batalla
+トレーニング\nモード=Modo Entrenamiento
+トレーニング\\nモード=Modo\\n Entrenamiento
+バトル設定=Ajustes
+モンスターHPとバトル\n時間を本戦状態にする=Ajustar HP y tiempo al estado de batalla principal.
+模擬戦=Entrenar
+本戦=Pelear
+討伐情報=Infoⓘ
+確認=Comprobar
+残り挑戦回数=Intentos
+戦績=Logros
+周回=Vuelta
+ヘルプ=Ayuda
+クラン内=Rango
+ランバトル=Batalla de Clan
+[FF7C4E,D62146]本日の上限です[-]=[FF7C4E,D62146]Máximo de hoy[-]
+現在のCP=CP actual
+残り持越し回数=Acumulado
+トレーニング=Simulacro
+r:"^(\d)段階目$"=Fase $1
+sr:"^(.+) (\d)段階目$"=Fase $2 $1
+表示段階=Seleccionar Fase
+絞り込み=Buscar
+レポート=Informe
+全て=Todos
+討伐情報がありません。=Sin info.
+討伐情報がありません=Sin info.
+バトル情報がありません。=Sin info de batalla.
+獲得可能なアイテムがありません。=No hay objetos obtenibles.
+モンスター詳細=Detalles de monstruo
+開催期間が終了しました=Esta Batalla de Clan\nya no está en curso.
+ボスを選択してトレーニングバトルに挑戦できます。=Selecciona un jefe para desafiar en entrenamiento.
+一覧	=Todos
+報酬確認=Recompensas recibidas
+以下のモンスターを倒して報酬を受け取りました。=Monstruos derrotados y recompensas recibidas.
+本戦使用制限=Restringido
+[FF7C4E,D62146]トレーニングバトルでは\n報酬は獲得できません。[-]=[FF7C4E,D62146]No se pueden obtener recompensas\nen batallas de entrenamiento.[-]
+[FF7C4E,D62146]模擬戦では報酬は獲得できません。[-]=[FF7C4E,D62146]No se pueden obtener recompensas\nen batallas de entrenamiento[-].
+[FF7C4E,D62146]模擬戦設定になっています。[-]=[FF7C4E,D62146]Configurado como entrenamiento.[-]
+※各報酬は撃破時に獲得できます。=※Las recompensas se pueden obtener\nal derrotar al objetivo.
+クランメンバーのバトルと、マイログに保存したバトルのログが確認できます。=Puedes ver las batallas de los miembros de tu clan.
+ダメージ=Daño
+[3C404E]このモンスターは他メンバーに先に倒されました。\n[FF7C4E,D62146]※挑戦回数は消費されません。[-][-]=[3C404E]Este monstruo fue derrotado por otros miembros.\n[FF7C4E,D62146]※ Tu intento ha sido reembolsado.[-][-]
+バトル結果確認=Confirmación de resultado de batalla
+このモンスターはすでに討伐されています。=Este monstruo ya ha sido derrotado.
+---Info de derrota---
+ピリオド=Periodo
+sr:"^(\d+月)(\d+)日(\d{2})時(\d)分$"=$2 $1, $3:0$4
+sr:"^(\d+月)(\d+)日(\d)時(\d{2})分$"=$2 $1, 0$3:$4
+sr:"^(\d+月)(\d+)日(\d)時(\d)分$"=$2 $1, 0$3:0$4
+sr:"^(\d+月)(\d+)日(\d{2})時(\d{2})分$"=$2 $1, $3:$4
+
+------
+日時=Fecha
+使用制限=Restringido
+未所持=No\ntenido
+模擬戦を開始=Empezar\nentrenamiento
+Lv制限=Límite de Nv.
+[FF7C4E,D62146]バトルログがありません。[-]=[FF7C4E,D62146]No hay registro de batalla.[-]
+このままバトルを開始しますか？=¿Quieres empezar la batalla así?
+模擬戦の結果はスコアランキングに影響しません。=La batalla de entrenamiento no afecta al ranking de puntuación
+編成メンバーが5キャラ未満です。=Menos de 5 personajes en el equipo.
+
+本日のCP獲得上限に達しています。=Has alcanzado el límite de obtención de CP de hoy.
+更新可能になるまでお待ちください。=Espera hasta que se pueda actualizar.
+r:"^1分30秒以内に\n(\d+)人が本戦を開始しました。$"=$1 jugadores empezaron batalla\nprincipal en el último 1m30s.
+
+サポートキャラ確認=Confirmación de personaje de alquiler
+このキャラを借ります、よろしいですか？=¿Alquilar este personaje?
+獲得スコア=Puntuación
+受けたダメージ=Daño recibido
+サポートキャラの★変更=Cambio de ★ del personaje de apoyo
+サポートキャラの★を変更しました。\nクランメンバーのサポートキャラのため\n変更した★はタイトルに戻るとリセットされます。=El ★ del personaje de apoyo se ha cambiado.\nEl ★ cambiado se reiniciará al volver al título porque es un personaje de apoyo de un miembro del clan.
+このパーティを編成した時と★が異なるキャラがいます。\n以下は★の設定も含めて編成が保存されています。=Hay personajes cuyo ★ es diferente de cuando se organizó este equipo. Abajo, la formación se guarda incluyendo el ajuste de ★.
+★設定の保存について=Guardado de ajustes de ★
+[FF7C4E,D62146]保存時と★設定が違うキャラがいます。[-]=[FF7C4E,D62146]Algunos personajes tienen ajustes de ★ diferentes a cuando se guardaron.[-]
+・マイパーティ\n・バトルアリーナ/プリンセスアリーナの防衛設定=・ Mi equipo Ajustes de defensa de Arena de Batalla/Arena de Princesa
+挑戦回数を消費してクランバトルを開始しますか？=¿Usar tu intento para empezar la batalla?
+[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[FF7C4E,D62146]El número de intentos se\nconsumirá al iniciar.\nJuega en un lugar con buena conexión.[-]
+
+[FF7C4E,D62146]模擬戦のバトル結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Los resultados de batallas de entrenamiento no se reflejan en los resultados de la Batalla de Clan.[-]
+
+開催期間終了まで=Termina en:
+
+メインクエストへ=Ir a Misión Principal
+CPが300たまるごとに挑戦可能数がアップします。\nCPはメインクエストで獲得できます。=Gasta resistencia para acumular CP,\ncada 300 CP obtienes un intento.
+残り挑戦可能数=Intentos
+クエストへ=Ir a Misión
+
+模擬戦リタイア=Salir de Entrenamiento
+[3C404E]模擬戦をリタイアしますか？[-]=[3C404E]¿Quieres salir de la batalla de entrenamiento?[-]
+
+[FDFFF8,CCFFEF]集計中[-]=[FDFFF8,CCFFEF]Contando[-]
+[FFFDF7,FFE0E9]集計中[-]=[FFFDF7,FFE0E9]Contando[-]
+集計中=Contando
+[FF7C4E,D62146]現在ランキング集計中です。[-]=[FF7C4E,D62146]Calculando actualmente[-]
+全キャラ総戦力=Poder total
+所属クランのランキング情報がありません。=No hay información de ranking en este momento
+いいねは1日1回のみ利用可能です。=Los «Me gusta» solo se pueden usar una vez al día
+
+sr:"^(\d+月)クランバトル最終日！$"=¡Último día de Batalla de Clan ($1)!
+クランバトル開催期間が終了します=El periodo de Batalla de Clan terminará
+r:"^本日([0-9/: ]+)に$"=Hoy $1 (JST)
+---Recompensas---
+sr:"^(\d+月) (\d+)周目 (.+)$"=[$1]Vuelta $2: $3
+---TL de batalla---
+バトル終了=Fin de batalla
+クリップボードにコピー=Copiar al portapapeles
+総ダメージ=Daño total
+ユニオンバースト発動時間=Momentos de UB
+バトル時間=Tiempo de batalla
+
+---Ventana OF---
+[FF7C4E,D62146]持越し回数あり[-]=[FF7C4E,D62146]Acumulado[-]
+持越し確認=Acumulado
+使用可能な持越しバトルの情報を確認できます。=Equipos acumulados disponibles.
+r:"^持越し(\d)回目$"=Equipo acum. $1
+持越し時間=Tiempo acum.
+参加済キャラ=Personajes usados
+
+持越し使用確認=Confirmación de uso de acumulado
+バトルに使用する持越し時間を選択します。=Selecciona el tiempo acumulado a usar.
+持越し時間を使用する=Usar tiempo acumulado
+持越し時間を使用しない=No usar tiempo acumulado
+持越し時間を使用するとき、\n参加済キャラを編成する。=Usar los personajes\ndel equipo acumulado
+サポートキャラのEX装備は変更できません。=El equipo EX del personaje de apoyo no se puede cambiar.
+r:"^あと(\d+)回$"=$1 restantes
+r:"^(\d)戦目\n本戦参加済$"=Usado en\nEquipo $1
+
+クランバトル開始確認=Confirmación de inicio
+持越し時間を消費してクランバトルを開始しますか？=¿Usar tiempo acumulado?
+使用制限対象キャラ=Personajes restringidos
+使用制限対象詳細=Detalles
+[FF7C4E,D62146]バトルを開始した時点で上記のキャラに使用制限が\nかかり、次回本戦は編成不可となります。[-]=[FF7C4E,D62146]Una vez iniciado, los personajes anteriores\nestarán restringidos y no se podrán usar.[-]
+[FF7C4E,D62146]同時に、現在所持している持越し時間が消費されます。[-]=[FF7C4E,D62146]Cualquier tiempo acumulado se consumirá.[-]
+このバトルでは選択できません。=No se puede retirar en batalla principal.
+---Búsqueda de equipos---
+おすすめ編成=Equipos\nrecomendados
+非表示キャラ=Excluir personaje(s)
+おすすめ編成から選択したキャラを含むパーティを除外して表示します。=Excluye equipos que incluyen personajes seleccionados.
+リプレイではオートの変更はできません。=No puedes cambiar el auto en modo repetición.
+所持キャラ=Personajes en posesión
+非表示フィルタ=Filtro de exclusión
+パーティ情報がまだありません。しばらくして再度ご確認ください。=No hay información de equipo, compruébalo más tarde.
+[FF7C4E,D62146]表示されている編成は、すべてAUTO・SMART設定で挑戦した編成です。[-]=[FF7C4E,D62146]Todos los equipos mostrados se jugaron con ajustes AUTO y SMART.[-]
+
+---equipo recomendado---
+上級=Avanzado
+中級=Intermedio
+初級=Principiante
+予想ダメージ=Daño±
+討伐時間=Tiempo
+参考ダメージ=Daño±
+使用可能キャラ数=Personajes utilizables
+「使用」ボタンからおすすめのパーティ編成を選べます。フィルタで非表示にするキャラを設定できます。=Botón «Usar» para seleccionar un equipo recomendado, y configura un filtro para ocultar personajes.
+リプレイで確認できるバトルは\n該当編成を使用した場合の一例です。=Las batallas que se pueden confirmar en repeticiones son ejemplos de batallas que se libraron usando la formación correspondiente.
+
+
+r:"^\[3C404E\]このおすすめ編成は、\n持越し時間\[FFBB00,CE4F00\]([0-9:]+)\[-\]を使用して\nバトルした編成です。\[-\]$"=[3C404E]Este equipo recomendado es\nla formación de batalla usando\ntiempo acumulado [FFBB00,CE4F00]$1[-].[-]
+
+
+
+持越し時間について=Sobre el Tiempo Acumulado.
+
+使用=Usar
+パーティ保存=Guardar equipo
+コピー=Copiar
+閲覧=Ver
+選択中キャラ=Seleccionado
+表示更新=Actualizar
+リプレイ確認=Confirmación de repetición
+[FF7C4E,D62146]リプレイで確認できるバトルは\n該当編成を使用した場合の一例です。[-]=[FF7C4E,D62146]Las batallas en repetición son ejemplos de composiciones meta.[-].
+[FF7C4E,D62146]予想ダメージ値と異なる\nバトル結果になる場合があります。[-]=[FF7C4E,D62146]Los resultados de batalla pueden diferir\nde los valores de daño esperados[-].
+クリアパーティ詳細=Detalles de equipo
+結果を通報する=Reportar
+通報確認=Confirmación de reporte
+[3C404E]このクリアパーティを運営事務局に通報します。\nよろしいですか?[-]=[3C404E]¿Seguro que quieres reportar a soporte este equipo ganador?
+---Copiar equipo---
+パーティコピー=Copiar equipo 
+このパーティをコピーして、\n自分のマイパーティに保存しますか？=¿Copiar este equipo y\nguardarlo en tu lista de equipos?
+
+---recompensas de ranking---
+ダメージランキング報酬=Recompensa de Ranking de Daño
+討伐報酬に加え、本戦で獲得したスコアの\nクラン内ランキングに応じて以下の報酬が獲得できます。=Las siguientes recompensas se otorgarán según el ranking dentro del clan
+
+報酬は順位が確定し次第、プレゼントに送られます。=Las recompensas se enviarán cuando se finalicen los rankings
+
+すでに解散しているクランです。=Este clan se ha disuelto
+位= 
+-位=-
+
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング\n(.+) 全段階合計\[-\]$"=[FF9393,E82F71]Ranking Interno ($1)\nPuntuación Total $2: 
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング\n(.+) (\d)段階目\[-\]$"=[FF9393,E82F71]Ranking Interno ($1)\nOleada $3 Puntuación $2: 
+
+ 全段階合計[-]= Puntuación Total: 
+r:"^ ([0-9,.]+)段階目\[-\]$"= Oleada $1 Puntuación:
+20001位以降=20.001 y abajo
+
+総合順位報酬=Recompensa de Rango General
+ピリオド順位報酬=Recompensa de Rango de Periodo
+sr:"^(\d+月)のランキング結果$"=($1) Resultados de Ranking
+
+ボスモンスター　レベル（難易度）アップ=Aumento de Nivel (Dificultad) del Monstruo Jefe
+
+[3C404E]ボスモンスターのレベル（難易度）がアップしました。\n現在のレベル（難易度）のボスモンスターとは\nいつでも模擬戦が行えるようになります。[-]=[3C404E]El nivel (dificultad) del monstruo jefe ha aumentado. Podrás realizar batallas simuladas con monstruos jefes del nivel (dificultad) actual en cualquier momento.[-].
+[FF7C4E,D62146]トレーニングバトルの結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Los resultados de batallas de entrenamiento no se reflejan en los resultados de la Batalla de Clan.[-]
+[FF7C4E,D62146]時間持越しでのバトルのため、チャレンジ報酬は獲得できません。[-]=[FF7C4E,D62146]No se pueden obtener recompensas de desafío por batalla con tiempo acumulado.[-]
+---Jefe---
+持越し時間：=Tiempo acum. restante:
+sr:"^(.+)　Lv.(\d+)$"=$1 Nv.$2
+1体目=Jefe 1
+2体目=Jefe 2
+3体目=Jefe 3
+4体目=Jefe 4
+5体目=Jefe 5
+
+
+与えたダメージ=Daño infligido
+全段階合計=Puntuación Total de Todas las Fases
+バトルTL=TL de batalla
+お気に入り=Favorito
+バトルTLをコピーしました。=Copiadas las Líneas de Tiempo de Batalla.
+---vuelta---
+回目
+r:"^(?:現在)?(\d+)(?:周|回)目(～)?$"=Vuelta $1$2
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング一覧\[-\]$"=[FF9393,E82F71]Ranking Interno ($1)[-]
+sr:"^(\d+月)全クランランキング$"=Ranking Global ($1)
+[FF7C4E,D62146]ランキング情報がありません。[-]=[FF7C4E,D62146]Sin información de ranking. [-]
+---Mi Registro---
+マイログ=Mi registro
+r:"^模擬戦ログ保存件数([0-9/ ]+)$"=Número de registros de simulacro guardados: $1
+---Ventanas de detalle de registro de batalla---
+「１件のみ表示」は、同一編成のうちダメージが最も高いログを表示します。="Mostrar solo uno" muestra el registro con el daño más alto de la misma formación.
+１件のみ表示=Mostrar solo uno
+全て表示=Mostrar todos
+「本戦」は、クランメンバー全員の本戦ログを表示します。="Pelear" muestra el registro de batalla principal de todos los miembros del clan.
+表示ログの種類=Tipo de registro mostrado
+同一編成の表示=Mostrar la misma formación
+---Resultados de ranking---
+1月クランバトルの順位が確定しました！=Batalla de Clan de Enero
+2月クランバトルの順位が確定しました！=Batalla de Clan de Febrero
+3月クランバトルの順位が確定しました！=Batalla de Clan de Marzo
+4月クランバトルの順位が確定しました！=Batalla de Clan de Abril
+5月クランバトルの順位が確定しました！=Batalla de Clan de Mayo
+6月クランバトルの順位が確定しました！=Batalla de Clan de Junio
+7月クランバトルの順位が確定しました！=Batalla de Clan de Julio
+8月クランバトルの順位が確定しました！=Batalla de Clan de Agosto
+9月クランバトルの順位が確定しました！=Batalla de Clan de Septiembre
+10月クランバトルの順位が確定しました！=Batalla de Clan de Octubre
+11月クランバトルの順位が確定しました！=Batalla de Clan de Noviembre
+12月クランバトルの順位が確定しました！=Batalla de Clan de Diciembre
+
+バトル設定：クランモード=Ajustes de batalla: Modo Clan
+バトル設定：シングルモード=Ajustes de batalla: Modo Individual
+sr:"^\(クラン内ランキング　(\d+位)\)$"=(Rango interno $1)
+
+[25CFDE,0E6C98]1月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Enero[-]
+[25CFDE,0E6C98]2月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Febrero[-]
+[25CFDE,0E6C98]3月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Marzo[-]
+[25CFDE,0E6C98]4月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Abril[-]
+[25CFDE,0E6C98]5月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Mayo[-]
+[25CFDE,0E6C98]6月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Junio[-]
+[25CFDE,0E6C98]7月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Julio[-]
+[25CFDE,0E6C98]8月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Agosto[-]
+[25CFDE,0E6C98]9月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Septiembre[-]
+[25CFDE,0E6C98]10月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Octubre[-]
+[25CFDE,0E6C98]11月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Noviembre[-]
+[25CFDE,0E6C98]12月クランバトル[-]=[25CFDE,0E6C98]Batalla de Clan de Diciembre[-]
+
+ランキング報酬=Recompensas de Rango
+ランキング発表！=¡Anuncio de Ranking!
+※報酬はプレゼントに順次、送られます。=※Las recompensas se enviarán al Buzón de Regalos.
+---NPC---
+『クランモード』はクランメンバーとボスに挑戦し他クランとランキング\nを競います。『シングルモード』は個々にボスと戦い討伐数に応じた報酬\nを獲得できます。クランリーダー、サブリーダーがモード選択できます。=En «Modo Clan», los miembros del clan desafían al jefe y compiten en ranking con otros clanes. En «Modo Individual», cada miembro lucha por separado y obtiene recompensas según el número de derrotas. El líder y sublíder del clan pueden seleccionar el modo.
+
+
+『クランモード』はクランメンバーとボスに挑みランキングを競います。『シングルモード』は個々に挑み、討伐数に応じた報酬を獲得できます。\nクエストや調査で勝利し、CPを貯めることでボスに挑戦できますよ。=En Modo Clan, todos los miembros del clan derrotan jefes juntos y compiten en rankings de clan. En Modo Individual, cada miembro derrotar jefes individualmente. Puedes obtener intentos de Batalla de Clan completando misiones y ganando CP
+『クランモード』の主な報酬は、メンバー全員に贈られます。『シングルモード』では、個人の達成度に応じて個人ごとに贈られます。パーティ編成を試行錯誤しながら、強敵とのバトルに挑みましょう。=En Modo Clan, las recompensas principales se envían por igual a todos los miembros del clan. En Modo Individual, las recompensas de cada miembro dependen de su propio progreso. Haz tu mejor esfuerzo para formar equipos fuertes y derrotar a estos enemigos poderosos.
+装備をクランのメンバー同士で贈りあいましょう。\n一部の装備は、装備リクエストできないのでご注意ください。=Asegúrate de regalar equipo a tus compañeros de clan.\n Ten en cuenta que algunos equipos no se pueden solicitar.
+次回クランバトル開催までお待ちください。=Espera hasta la próxima Batalla de Clan.
+ こちらではクランバトルに\n 参加された仲間のみなさんの\n 活躍を振り返ることができます=Aquí puedes repasar las actividades de los amigos que participaron en la Batalla de Clan.
+主さま、今回のクランバトルでの\nご活躍が記録されています\nバトルの参考にいたしましょう=Mi señor, tus actividades en esta Batalla de Clan han sido registradas. Ahora se pueden estudiar para futuros encuentros.
+今回のクランバトルでの戦績を\nおさらいできますよ！\n私にも見せてください☆=¡Puedes repasar tu registro de batalla de esta Batalla!\n¡Déjame ver también☆~!
+模擬戦の戦績もアンタが\n気に入ったものがあれば\n記録しておけるのね=Parece que puedes guardar Registros de Batalla de tus simulacros favoritos.
+---Registro de daño---
+---(?!.*My)^.*$---
+
+まだ誰も挑戦していません=Nadie ha intentado todavía.
+r:"^([^\n\\\.\,。\?\!…♪─]{2,10})が$"="[00ff00AA]$1[-] golpeó"
+sr:"^([べ-ヺー＆＝・]+)に$"=[0055FFAA]$1[-] a
+r:"^\[FFBB00\,CE4F00\]([0-9,.]+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Daño[-]
+r:"^\[FFBB00\,CE4F00\]([0-9,.]+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]で撃破\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Daño[-][FF7C4E,D62146] (derrota)[-]
+
+削除=Eliminar
+トレーニングマイログ削除確認=Confirmación de Eliminación de Registro de Entrenamiento
+[FF7C4E,D62146]一度削除するとログ情報は元に戻りません。[-]=[FF7C4E,D62146] Una vez eliminado, la información del registro desaparecerá.[-]
+このログを削除してもよろしいですか?=¿Está bien eliminar este registro?
+
+クランに加入=Unirse a un Clan
+クランに所属すると、\nクランバトルに挑戦することができます。=Si te unes a un clan,\npuedes participar en Batallas de Clan.
+クランに所属すると、=Si te unes a un Clan,
+クランバトルに挑戦することができます。=Puedes participar en Batallas de Clan.
+
+---diálogo vacío---
+かわいそうだが=Lo siento por ti
+はっ、バカが=Ja, idiotas

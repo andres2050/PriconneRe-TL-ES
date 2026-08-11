@@ -1,0 +1,44 @@
+バトルスタジアム=Estadio de Batalla
+バトルコロシアム=Coliseo de Batalla
+準備中=Próximamente
+1PTvs1PTのバトル\n順位を上げて報酬を獲得=Batalla 1EQ vs 1EQ\nSube tu rango y consigue recompensas
+3PTvs3PTの総力戦\n順位を上げて報酬を獲得=Batalla total 3EQ vs 3EQ\nSube tu rango y consigue recompensas
+ここからアリーナに挑戦できますよ！編成を工夫してライバルに挑んじゃいましょう！=¡Puedes desafiar la Arena desde aquí! ¡Estrategia y enfréntate a tus rivales con un buen equipo!
+こちらからアリーナに挑戦することができます。主さまらしい編成でライバルに挑みましょう。=Puedes desafiar la Arena desde aquí. ¡Enfréntate a los rivales con un equipo digno de mi señor!
+ここからアリーナに挑戦できるわよ！しっかり編成を考えてライバルに挑みなさい！=¡Puedes desafiar la Arena desde aquí! ¡Asegúrate de planificar bien tu equipo antes de enfrentarte a los rivales!
+総合スコアランキング=Ranking de Puntuación General
+スコアとランキングは一定時間ごとに更新されます。=Las puntuaciones y rankings se actualizan a intervalos regulares.
+敵残りHP=HP del rival
+スコア内訳=Puntuación
+難易度最高スコア=Puntuación máx.
+未挑戦=N/D
+ニュー=Nuevo
+次の報酬まで=Próxima recompensa
+総合スコア=Puntuación
+改装中=En remodelación
+
+編成選択=Seleccionar formación
+編成最高スコア=Puntuación máx. de equipo
+次回バトルスタジアム開催までお待ちください=Por favor, espera hasta el próximo Estadio de Batalla
+勝敗=Victoria
+最高スコア=Más alta
+挑戦履歴=Historial
+パーティ残りHP=HP del equipo
+合計=Total
+残り時間ボーナス=Bonus de tiempo restante
+編成詳細=Equipo
+敵減少HP=Daño
+次回バトルスタジアム開催までお待ちください。=Por favor, espera hasta el próximo Estadio de Batalla.
+挑戦履歴はありません。=No hay historial de desafíos.
+---Misión---
+
+
+バトルスタジアムミッション=Misión del Estadio de Batalla
+r:"^(\[.+\])?全難易度合計で(\d+)pt獲得しよう(?:\[-\])?$"=$1Consigue $2 pt en total en todas las dificultades[-]
+r:"^(\[.+\])?難易度(.+)で1回戦おう(?:\[-\])?$"=$1 Pelea una vez en dificultad $2[-]
+r:"^(\[.+\])?難易度(.+)で(\d+)pt獲得しよう(?:\[-\])?$"=$1 Consigue $3 pt en dificultad $2[-]
+
+---Tutorial KKR---
+バトルスタジアムでは、難易度ごとにそれぞれ３つの編成が登場します。\nバトルには何度も挑戦可能ですので、編成を工夫して挑みましょう。=En el Estadio de Batalla, aparecerán tres equipos por cada nivel de dificultad. Puedes desafiarlos tantas veces como quieras, así que prueba diversas estrategias.
+バトル終了時に、残りHPや時間に応じたスコアを獲得できますよ。\n３つの編成のうち、最も高いスコアが総合スコアに加算されますので、\nより高いスコアの獲得を目指して編成を工夫しましょう。=Al final de la batalla, recibirás una puntuación según tu HP y tiempo restante. La puntuación más alta de los tres equipos se añadirá a la puntuación total, así que organiza tu equipo para conseguir una puntuación más alta.
+総合スコアに応じて、ミッションが達成できます。\nミッションを達成し、全ての報酬獲得を目指しましょう、主さま。\n総合スコアランキングもありますので、上位を目指してくださいませ。=Las misiones se completarán según tu puntuación general. Completemos las misiones y aspiremos a todas las recompensas, mi señor. También habrá un ranking de puntuación general, así que apunta a lo más alto.

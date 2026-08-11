@@ -16,7 +16,7 @@ We've also created a new server—join to get the latest patch updates, announce
 ⚠️ **Warning:** _Please use it at your own risk!!  We are not responsible for any actions taken toward your account if you use this translation tool_
 
 Priconne Re: TL is an unofficial English UI patch for [Cygames' Princess Connect Re: Dive JP](https://dmg.priconne-redive.jp/). This project's main focus is translating the game's user interface into English so non-Japanese people can play it easier.
-
+This fork adds a **Spanish (es) translation** based on the English one. See [`TRANSLATION_STATUS.md`](./TRANSLATION_STATUS.md) for the upstream version baseline and translation progress, and [`check-upstream-changes.sh`](./check-upstream-changes.sh) to detect new upstream commits that need translating.
 _Any help and contributions are welcome!_
 
 ---

@@ -1,0 +1,21 @@
+---Comprar Mana---
+5:00にリセット=Reinicia a las 5:00
+購入回数=N.º de compras
+r:"^無償([0-9,.]+)で$"=Usar $1 gratis
+r:"^有償([0-9,.]+)で$"=Usar $1 de pago
+
+r:"^([0-9,.]+)セット購入$"=Comprar $1 sets
+r:"^([0-9,.]+)で$"=Usar $1
+
+ジュエルが不足しています=No hay suficientes joyas
+マナ購入詳細=Detalles de compra de Mana
+購入履歴=Historial de compras
+
+r:"^マナセットを([0-9,.]+)セット購入しますか？$"=¿comprar $1 sets de Mana?
+r:"^ジュエル×([0-9,.]+)を消費して$"=Usar $1 joyas
+最低獲得マナ=Mana mín. obtenida
+所持無償ジュエル=Joyas gratis en posesión:
+r:"^\[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([0-9,.]+)セット購入\[-\]\[3C404E\]で、おまけで探索回数もGET！\[-\]$"=[3C404E]Compra[FFBB00,CE4F00] $1 sets más[-] ¡y obtén intentos extra de Gruta![-]
+r:"^([0-9,.]+)セット購入ごとに、おまけで探索回数をGET！$"=¡Compra $1 sets más y obtén intentos extra de Gruta!
+マナ上限に達しているためこれ以上購入できません。=No puedes comprar más porque has alcanzado el límite de mana.
+おまけ=Bonus

@@ -1,0 +1,37 @@
+マイパーティ一覧=Lista de equipos
+「編成」ボタンからマイパーティの登録ができます。=Puedes registrar tu equipo desde el botón «Editar».
+
+マイパーティ編成=Editar equipo
+
+この編成を呼び出す=Usar
+呼び出す=Usar
+呼び出すパーティを選択=Selecciona un equipo a usar
+
+登録済みのパーティを呼び出して編成を行います。=Edita otros equipos preconfigurados.
+この編成を呼び出す=Usar equipo
+
+タブ名編集=Editar nombre de pestaña
+変更するタブを選択してください。=Selecciona la pestaña a editar.
+変更後名称=Nombre editado
+
+sr:"^(\d+)文字以上(\d+)文字以下$"=Entre $1 y $2 caracteres
+
+sr:"^編成(\d+)$"=Preset $1
+コピーするパーティを選択=Selecciona ranura
+ここにコピー=Copiar aquí
+登録済みのパーティを他のパーティにコピーします。=Copia un equipo registrado a otra ranura.
+
+クリア確認=Eliminar equipo
+下記のパーティ情報をクリアしますか？=¿Eliminar el siguiente equipo?
+[FF7C4E,D62146]一度クリアするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]La información del equipo se pierde para siempre una vez eliminada.[-]
+クリアする=Eliminar
+
+変更反映=Cambios guardados
+[3C404E]変更内容を反映しました。[-]=[3C404E]Tus ediciones se han guardado.[-]
+
+上書き保存=Sobrescribir
+[FF7C4E,D62146]一度上書きするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Una vez sobrescrito,\nla información del equipo no se podrá restaurar.[-]
+保存先のタブ=Pestaña de guardado
+上書きされるパーティ=Equipo sobrescrito
+コピーするパーティ=Equipo a copiar
+現在設定しているパーティ情報に\n上書き保存してよろしいですか？=¿Seguro que quieres sobrescribir\nla información del equipo configurada actualmente?

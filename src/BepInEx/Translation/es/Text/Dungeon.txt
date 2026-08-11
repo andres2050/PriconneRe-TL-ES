@@ -1,0 +1,102 @@
+帰還する=Volver
+現在の階数=Progreso
+プレイヤー名=Nombre de jugador
+対戦相手=Rival
+戦闘可能キャラ=Personajes disponibles
+パック有効=Validez del paquete
+報酬受け取り=Recompensas recibidas
+
+パーティ編成=Formar equipo
+現在のメンバー=Equipo actual
+
+ダンジョンへ=A Mazmorra
+キャラ一覧へ=A Lista de personajes
+
+戦闘不能=KO
+登録済みのパーティを呼び出してバトルに挑めます。=Elige un equipo registrado.
+パーティ選択=Selección de equipo
+以下のキャラは制限のため編成できません。=Los siguientes personajes no se pueden usar por restricciones.
+このダイアログを表示しない=No mostrar este diálogo
+r:"^あと(\d+)時間(\d+)分は選択できません。$"=No se puede seleccionar durante $1h $2m.
+r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=No se puede desafiar durante $1h $2m.
+[FF7C4E,D62146]一度選択したエリアは帰還するまで変更できません。[-]=[FF7C4E,D62146]Una vez seleccionada un área,\nno se puede cambiar hasta que vuelvas.[-]
+このダンジョンのボスを倒すと、スキップが可能になります。=Derrota al jefe de esta mazmorra para poder omitirla.
+クリア回数=Número de victorias
+イベント開催までお待ちください。=Por favor, espera al evento.
+
+
+ダンジョンはLv10以上のキャラから編成できます。=Las mazmorras solo se pueden desafiar con personajes de Nv. 10 o superior.
+---Volver---
+帰還確認=Volver
+[3C404E]帰還しますか？[-]=[3C404E]¿Volver de esta mazmorra? [-]
+[FF7C4E,D62146]帰還すると最初からのスタートになります。[-]=[FF7C4E,D62146]Tendrás que empezar la mazmorra\nde nuevo desde el principio si vuelves.[-]
+[FF7C4E,D62146]獲得した報酬は失われません。[-]=[FF7C4E,D62146]Las recompensas obtenidas no se perderán.[-]
+
+---Título mazmorra---
+砂瀑の底都=Capital de la Cascada de Arena
+天上の浮城=Fortaleza Celestial
+緑竜の骸嶺=Nido del Dragón de Jade
+毒瘴の闇稜=Crag de Oscuridad Maligna
+蒼海の孤塔=Torre del Mar
+断崖の遺跡=Ruinas del Acantilado
+密林の大樹=Roble del Bosque Profundo
+雲海の山脈=Pico de las Nubes
+紺碧の王砦=Fortaleza del Rey Azul
+---Selección---
+エリア選択確認=Selección de área
+sr:"^エリア「(.+)」に挑戦しますか？$"="¿Quieres desafiar el área\n"$1"?"
+---Nombres de mazmorra---
+sr:"^(\[[0-9A-F,]{6,13}\])(.+)\[-\]$"=$1$2[-]
+全報酬獲得済み=Todas las recompensas recibidas
+マスターピース（欠片）=Obra Maestra (Fragmento)
+
+雲をつらぬく山脈=Una montaña que\natraviesa las nubes.
+深い森の奥に存在する1本の大樹=Un árbol gigante\nen lo profundo del bosque.
+断崖絶壁で発見された遺跡=Unas ruinas descubiertas en un\nacantilado escarpado.
+大海原にそびえる謎の巨塔=Una alta y solitaria torre\nrodeada por el océano.
+瘴気渦巻く常闇の孤峰=Una región de noche eterna,\ncontaminada por energías oscuras.
+厳峰に佇む竜の寝床=El peligroso pico donde un\ndragón anida.
+天空の番人が静かに眠る聖城=La fortaleza divina donde\nlos guardianes duermen.
+砂の大瀑布が落ちゆく果ての都=La Capital al Final de la\nGran Cascada de Arena
+紺碧の底に君臨する海王の城砦=Bajo el mar azul profundo yace\nla fortaleza del rey del mar.
+
+r:"^([0-9/]+)階( EX)?$"=$1F$2
+最大HP=HP máx.
+
+---Consejos y botón de ayuda---
+ボスバトル=Jefe
+確認したい遊び方を選択してください=Selecciona el tutorial que quieres ver.
+仲間にしたすべてのキャラで挑む総力戦です。各階層を突破すると「ダンジョンコイン」とランダムで「装備アイテム」\n「メモリーピース」といった報酬が獲得できます。=Una batalla total hasta la cima con todos los personajes que has reclutado. Completar pisos te dará Monedas de Mazmorra y recompensas aleatorias como equipo y Fragmentos de Memoria.
+各ダンジョンの最後にいるモンスターを倒すとギルドハウスで役に立つアイテムをもらえます。それぞれギルドハウスに設置するとスタミナを生産します。アイテムGETを目指し、ダンジョンを進みましょう。=Derrotar al jefe al final de cada mazmorra te recompensa con objetos útiles para tu Casa de Gremio que producen resistencia al colocarlos. ¡Avanza por las mazmorras para conseguir estos premios!
+ダンジョン「砂瀑の底都」のボスバトルではバトルモードが３段階\n変化します。モンスター詳細を確認して、それぞれのバトルでどう\n戦うか、しっかり作戦を立ててくださいまし。=La batalla de jefe de la mazmorra «Capital de la Cascada de Arena» pasará por tres fases únicas. Revisa los detalles de los monstruos y planifica cómo combatir cada fase.
+ダンジョン「紺碧の王砦」のボスバトルでは挑戦するたびに攻撃パ\nターンが変化します。モンスター詳細を確認して、それぞれのバト\nルでどう戦うか、しっかり作戦を立ててくださいまし。=El patrón de ataque cambia cada vez que desafías al jefe de la mazmorra «Fortaleza del Rey Azul». Revisa los detalles de los monstruos y planifica cómo luchar en cada batalla.
+
+この機能はまだ解放されていません。=Esta función aún no está disponible.
+---Mazmorra Especial---
+階層一覧=Lista de pisos
+スペシャルダンジョン=Mazmorra Especial
+まだ挑戦できません。=Aún no se puede desafiar.
+全体マップ=Mapa completo
+登頂回数=Progreso
+累計踏破階数=P. superados
+イベント情報=Info del evento
+プレイ状況=Estado de juego
+ミッションへ=A Misión
+累計踏破=P. superados
+[FF7C4E,D62146]TPが最大の状態でバトルを開始します。[-]=[FF7C4E,D62146]La batalla empieza con TP al máximo.[-]
+
+次回挑戦から、ダンジョンの途中まで\n自動でスキップします。\n\nスキップしたバトルの報酬を獲得し、\n続きから挑戦開始します。=Para el próximo intento, puedes omitir hasta la mitad de la Mazmorra. \n\nObtén recompensas por las batallas omitidas y continúa desde el punto intermedio.
+初回クリア達成=Logro de Primera Victoria
+ 期間最終日のためこれ以上挑戦できません。=No puedes desafiar la Mazmorra el último día del periodo del evento.
+イベントは開催終了しました。=El evento ha terminado.
+このダンジョンをスキップできるようになりました！\n\n次回挑戦から、通常どおり挑戦するか\nバトルをスキップして報酬を獲得するか選択できます。=¡Ya puedes omitir esta mazmorra!\n\nDesde el próximo intento, puedes elegir si empezar desde el principio u omitir las batallas y obtener sus recompensas.
+スキップ条件達成=Logro de condiciones de omisión
+マイログに保存したバトルのログが確認できます。=Puedes comprobar el Registro de Batalla guardado en «Mi Registro».
+周回数=Número de vueltas
+バトルログ確認=Info del registro de batalla
+[FF7C4E,D62146]バトル情報がありません。[-]=[FF7C4E,D62146]No hay información de batalla.[-]
+黒月・白陽の守護像=Estatua Guardián de Luna Negra y Sol Blanco
+---Misión---
+
+---¿Historia?---
+合わせた呼吸、重なる絆=Respiración combinada, vínculo superpuesto

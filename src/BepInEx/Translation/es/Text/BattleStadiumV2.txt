@@ -1,0 +1,82 @@
+ラウンド=Ronda
+進行度=Progreso
+未達成ラウンド=Rondas no completadas
+未達成のラウンドがありません。=No hay rondas no completadas.
+バトル効果=Efecto de batalla
+挑戦目標=Objetivo de desafío
+
+バトル効果詳細=Detalles de efecto de batalla
+r:"^味方のTotal HPが(\d+)%以上で勝利$"=Gana con el HP Total de aliados sobre $1%
+r:"^バトルの残り時間が([0-9:]+)以上で勝利$"=Gana con $1 o más de tiempo restante
+ダウン=Baja
+アップ=Subida
+sr:"^(戦力|物攻|魔攻|物防|魔防|HP吸収|HP自動回復|TP上昇|ＴＰ上昇|TP自動回復|TP消費軽減|物理攻撃力|物理防御力|物理クリティカル|魔法攻撃力|魔法防御力|魔法クリティカル|回復量上昇|命中|回避)(アップ|ダウン)$"=$1 $2
+sr:"^バトル中、(.+)が(極大|絶大|特大|大|中|小|大幅)に(アップ|ダウン)する。$"=$2 $3 $1 durante la batalla.
+r:"^戦闘不能になったキャラが(\d)人以下で勝利$"=Gana con $1 o menos personajes caídos.
+
+
+バトル開始時ＴＰ特大回復=Gran recuperación de TP al inicio de batalla
+バトル開始時、ＴＰが特大回復する。=Al inicio de la batalla, TP muy recuperado.
+
+火傷ダメージアップ=Daño de Quemadura aumentado
+火傷効果時間増加=Duración de Quemadura aumentada
+バトル中、「火傷」のダメージが大幅にアップする。=Durante la batalla, el daño de «Quemadura» aumenta mucho.
+バトル中、「火傷」の効果時間が増加する。=Durante la batalla, la duración de «Quemadura» aumenta.
+スタン効果時間増加=Duración de Aturdimiento aumentada
+バトル中、「スタン」の効果時間が増加する。=Durante la batalla, la duración de «Aturdimiento» aumenta.
+
+誘惑効果時間増加=Duración de Encanto aumentada
+バトル中、「誘惑」の効果時間が増加する。=Durante la batalla, la duración de «Encanto» aumenta.
+
+毒/猛毒ダメージアップ=Daño de Veneno/Veneno Mortal aumentado
+毒/猛毒効果時間増加=Duración de Veneno/Veneno Mortal aumentada
+バトル中、「毒」「猛毒」の効果時間が増加する。=Durante la batalla, la duración de «Veneno» y «Veneno Mortal» aumenta.
+バトル中、「毒」「猛毒」のダメージが大幅にアップする。=Durante la batalla, el daño de «Veneno» y «Veneno Mortal» aumenta mucho.
+
+
+呪い/呪詛効果時間増加=Duración de Maldición/Hex aumentada
+呪い/呪詛ダメージアップ=Daño de Maldición/Hex aumentado
+バトル中、「呪い」「呪詛」の効果時間が増加する。=Durante la batalla, la duración de «Maldición» y «Hex» aumenta.
+バトル中、「呪い」「呪詛」のダメージが大幅にアップする。=Durante la batalla, el daño de «Maldición» y «Hex» aumenta mucho.
+
+束縛効果時間増加=Duración de Atadura aumentada
+バトル中、「束縛」の効果時間が増加する。=Durante la batalla, la duración de «Atadura» aumenta.
+
+混乱効果時間増加=Duración de Confusión aumentada
+バトル中、「混乱」の効果時間が増加する。=Durante la batalla, la duración de «Confusión» aumenta.
+
+麻痺効果時間増加=Duración de Parálisis aumentada
+バトル中、「麻痺」の効果時間が増加する。=Durante la batalla, la duración de «Parálisis» aumenta.
+
+凍結効果時間増加=Duración de Congelación aumentada
+バトル中、「凍結」の効果時間が増加する。=Durante la batalla, la duración de «Congelación» aumenta.
+
+---Misión---
+r:"^(\[[0-9A-F]{6}\])?★を累計(\d+)個獲得しよう(\[-\])?$"="$1Consigue $2★ estrellas $3"
+★獲得ミッション=Misión de recogida de ★
+
+r:"^([0-9/]+)\n([0-9:]+) 解放$"=Desbloquea el\n$1 $2 (JST).
+r:"^([0-9/ :]+)に解放されます。$"=Desbloquea el $1 (JST).
+バトルスタジアムではオートのみになります。=En el Estadio de Batalla, solo está disponible el modo automático.
+火傷確定付与=Inflicción de Quemadura garantizada
+毒/猛毒確定付与=Inflicción de Veneno/Veneno Mortal garantizada
+呪い/呪詛確定付与=Inflicción de Maldición/Hex garantizada
+スタン確定付与=Inflicción de Aturdimiento garantizada
+束縛確定付与=Inflicción de Atadura garantizada
+麻痺確定付与=Inflicción de Parálisis garantizada
+混乱確定付与=Inflicción de Confusión garantizada
+誘惑確定付与=Inflicción de Encanto garantizada
+凍結確定付与=Inflicción de Congelación garantizada
+バトル中、「スタン」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Aturdimiento».
+バトル中、「束縛」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Atadura».
+バトル中、「麻痺」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Parálisis».
+バトル中、「混乱」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Confusión».
+バトル中、「誘惑」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Encanto».
+バトル中、「火傷」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Quemadura».
+バトル中、「毒」「猛毒」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Veneno/Veneno Mortal».
+バトル中、「呪い」「呪詛」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Maldición/Hex».
+バトル中、「凍結」を必ず付与できる状態になる。=Durante la batalla, podrás infligir el efecto «Congelación».
+---Tutorial Kokkoro---
+バトルスタジアムでは、ラウンドごとに特定のスキルやステータスが\n強化されるバトル効果が発生するようです。\nバトルには何度も挑戦可能ですので、編成を工夫して挑みましょう。=En el Estadio de Batalla, parece que ocurren efectos de batalla que refuerzan ciertas habilidades y estadísticas cada ronda. Puedes desafiar la batalla varias veces, así que diseña tu equipo y desafíala.
+挑戦目標を達成することで★を獲得できますよ。\nより多くの★を集めてミッション報酬の獲得を目指しましょう。=Puedes conseguir estrellas★ alcanzando los objetivos de desafío. Reúne más estrellas para obtener recompensas de misión.
+★3クリアしていないラウンドを確認できます。=Puedes comprobar las rondas que no has completado con ★3.

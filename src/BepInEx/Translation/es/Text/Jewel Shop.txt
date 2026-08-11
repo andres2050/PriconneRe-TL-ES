@@ -1,0 +1,279 @@
+必ず（かならず）保護者（ほごしゃ）の許可（きょか）をもらってから購入（こうにゅう）してください。保護者（ほごしゃ）の許可（きょか）をもらいましたか？=Por favor, asegúrate de obtener permiso de tu tutor antes de comprar.\n¿Has obtenido permiso de tu tutor?
+未成年（みせいねん）の方（かた）へ=A un menor
+
+今回のクランバトルの調子はどうかしら？戦績を見れば、次のバトルに活かせるかもしれないわ=¿Cómo va esta Batalla de Clan? Si revisamos los resultados, podríamos usarlos a nuestro favor en la próxima batalla.
+保護者（ほごしゃ）の許可（きょか）について=Sobre el permiso de los padres
+ジュエルを購入（こうにゅう）するときには保護者（ほごしゃ）の許可（きょか）をもらってください。=Al comprar Joyas, obtén permiso de un padre o tutor.
+コラボ商品販売のお知らせ=Aviso de venta de mercancía de colaboración
+詳細はこちら=Haz clic aquí para más detalles
+ぐふ、ぐふふ…あ、妄想してるだけなのでお気になさらず…でゅふふふ…=Guh, guhuhu... Ah, solo estoy soñando despierta, así que no te preocupes... dyuhuhuhu...
+ハイターイ！　これからよろしく！私と一緒に歌って踊るさ～！=¡Haitai! ¡Encantada! ¡Vamos a cantar y bailar juntas~!
+
+
+
+ジュエルショップ=Joyería
+　ジュエル・その他購入=Compra de Joyas/Otros
+所持ジュエル確認=Comprobar Joyas en posesión
+マナ購入=Intercambio de Mana
+所持マナ確認=Comprobar Mana en posesión
+収納BOX拡張=Expandir Almacén
+スタミナ回復=Recargar Resistencia
+価格=Precio
+商品=Producto
+商品内容の詳細=Detalles
+r:"^毎日更新 ジュエル ([0-9]+)個$"=Joyas de Actualización Diaria $1
+r:"^([1-9])回限定 ジュエル ([0-9]+)個$"="Joyas Limitadas $2 ($1 restantes)"
+r:"^([2-9])回限定$"="¡Limitado!\n$1 veces solo"
+1回限定=¡Limitado!\n1 vez solo
+
+収納BOX拡張=Expandir Almacén
+ギルドハウスの収納BOXを拡張します。=Expande el almacén de tu Casa de Gremio.
+収納数=Límite de almacenamiento
+拡張する数=Expandir por
+消費ジュエル=Coste en Joyas
+
+スタミナ回復量=Curación de Resistencia
+スタミナ回復=Recargar Resistencia
+スタミナを回復します。よろしいですか？=¿Recargar Resistencia?
+
+---Almacén---
+収納数：=Almacenamiento:
+[3C404E]収納BOXの収納数を拡張しました。[-]=[3C404E]La capacidad del Almacén se ha expandido.[-]
+収納BOX拡張結果=Resultados de Expansión de Almacén
+
+---joyería real---
+[FF7C4E,D62146]未購入の商品はありません。[-]=[FF7C4E,D62146]No hay nada disponible para comprar.[-]
+スペシャルショップ=Tienda Especial
+購入済み=Comprado
+資金決済法に基づく表示=Ley de Liquidación de Fondos
+スフィアパック=Paquete de Esferas
+コラボ記念 専用装備グロウスフィアパック=Paquete de Esferacrecimiento de EU Conmemorativo de Colaboración
+コラボ記念 専用装備１グロウスフィアパック=Paquete de Esferacrecimiento de EU 1 Conmemorativo de Colaboración
+コラボ記念 専用装備２グロウスフィアパック=Paquete de Esferacrecimiento de EU 2 Conmemorativo de Colaboración
+専用装備グロウスフィアパック=Paquete de Esferacrecimiento de EU
+専用装備１グロウスフィアパック=Paquete de Esferacrecimiento de EU 1
+専用装備２グロウスフィアパック=Paquete de Esferacrecimiento de EU 2
+Anniversary グロウスフィアパック　=Paquete de Esferacrecimiento de Aniversario
+Anniversary 専用装備グロウスフィアパック=Paquete de Esferacrecimiento de EU de Aniversario
+パックについて=Sobre el Paquete
+Anniversaryパックについて=Sobre el paquete de aniversario
+探索挑戦回数 +3回=Gruta +3
+探索挑戦回数 +3回購入=Comprar Gruta +3
+探索挑戦回数 +3回について=Sobre Gruta +3 Intentos 
+特定商取引法に基づく表示=Ley de Transacciones Comerciales
+デイリージュエルパック=Paquete de Joyas Diario
+デイリージュエルパック購入=Comprar Paquetes de Joyas Diarios
+デイリージュエルパックについて=Sobre los Paquetes de Joyas Diarios
+デイリージュエルパック期間通知=Notificación de Periodo del Paquete de Joyas Diario
+7日間スタミナ応援パック=Paquete de Resistencia de 7 Días
+7日間スタミナ応援パック購入=Comprar Paquete de Resistencia de 7 Días
+7日間スタミナ応援パックについて=Sobre el Paquete de Resistencia de 7 Días
+7日間スタミナ応援パッ期間通知=Notificación de Periodo del Paquete de Resistencia de 7 Días
+30日間スタミナ応援パック=Paquete de Resistencia de 30 Días
+30日間スタミナ応援パック購入=Comprar Paquete de Resistencia de 30 Días
+30日間スタミナ応援パックについて=Sobre el Paquete de Resistencia de 30 Días
+30日間スタミナ応援パッ期間通知=Notificación de Periodo del Paquete de Resistencia de 30 Días
+pack
+7日間探索挑戦回数+3回=Paquete Gruta +3 de 7 días
+7日間探索挑戦回数+3回購入=Comprar Paquete Gruta +3 de 7 días
+7日間探索挑戦回数+3回について=Sobre el Paquete Gruta +3 de 7 días
+7日間探索挑戦回数+3回期間通知=Notificación de Periodo del Paquete Gruta +3 de 7 días
+30日間探索挑戦回数+3回=Paquete Gruta +3 de 30 días
+30日間探索挑戦回数+3回購入=Comprar Paquete Gruta +3 de 30 días
+30日間探索挑戦回数+3回について=Sobre el Paquete Gruta +3 de 30 días
+30日間探索挑戦回数+3回期間通知=Notificación de Periodo del Paquete Gruta +3 de 30 días
+購入Lv制限あり=Límite de Nv. de compra
+マンスリーテーマパック=Paquete Temático Mensual
+スタミナパック=Paquete de Resistencia
+--- Aniv---
+r:"^([0-9.a-zA-Z ]*)プリンセスフェスSPキャラ交換ガチャセット$"=Set de Gacha de Intercambio de Personajes SP Princess Fes $1
+r:"^([0-9.a-zA-Z ]*)スペシャルキャラ交換ガチャセット$"=Set de Gacha de Intercambio de Personajes Especial $1
+r:"^([0-9.a-zA-Z ]*)専用装備１グロウスフィアパック$"=Paquete de Esferacrecimiento de EU-1 $1
+r:"^([0-9.a-zA-Z ]*)キャンペーンパック$"=Paquete de Campaña $1
+毎月更新 ロールマスタリーパック=Paquete de Maestría de Rol de Actualización Mensual
+7th Anniversary プリンセスナイト強化パック=Paquete de Mejora de Caballero Princesa del 7.º Aniversario
+プリンセスナイト強化パック=Paquete de Mejora de Caballero Princesa
+r:"^([0-9.a-zA-Z ]*)★6キャラ育成パック$"=Paquete de Materiales de Personaje ★6 $1
+r:"^([0-9.a-zA-Z ]*)ピュアメモリーピースパック$"=Paquete de Fragmentos de Memoria Pura $1
+毎月更新 アストライアリングパック=Paquete de Anillo Astraea de Actualización Mensual
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 服・鎧$"=Paquete de Equipo EX★4 $1: Ropa y Armadura
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 白ローブ・黒ローブ$"=Paquete de Equipo EX★4 $1: Túnica Blanca y Túnica Negra
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 両手剣・斧$"=Paquete de Equipo EX★4 $1: Mandoble y Hachas
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック アクセサリー$"=Paquete de Equipo EX★4 $1: Accesorios
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 短剣・拳$"=Paquete de Equipo EX★4 $1: Dagas y Puños
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 弓・本$"=Paquete de Equipo EX★4 $1: Arcos y Libros
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 盾・杖$"=Paquete de Equipo EX★4 $1: Escudos y Bastones
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 片手剣・槍$"=Paquete de Equipo EX★4 $1: Espadas y Lanzas
+r:"^([0-9.a-zA-Z ]*)属性強化パック$"=Paquete de Mejora Elemental $1
+2024 年末年始 属性強化パック=Paquete de Mejora Elemental de Fin de Año 2024
+
+r:"^([0-9.a-zA-Z ]*)プリンセスナイト強化パック$"=Paquete de Mejora de Caballero Princesa $1
+
+
+装備ショップ=Tienda de Equipo
+EX★4装備パック=Paquete de Equipo EX★4
+r:"^([0-9,.]+)周年 プリンセスナイト強化パック$"=Paquete de Mejora de Caballero Princesa del $1.º Aniversario
+r:"^([0-9,.]+)周年 SPキャラ交換ガチャセット$"=Set de Gacha de Intercambio de Personajes SP del $1.º Aniversario
+r:"^([0-9,.]+)周年 ★6キャラ育成パック$"=Paquete de Crianza de Personaje ★6 del $1.º Aniversario
+r:"^([0-9,.]+)周年 専用装備１グロウスフィアパック$"=Paquete de Esferacrecimiento de Equipo Único 1 del $1.º Aniversario
+r:"^([0-9,.]+)周年 ディュアメモリーピースパック$"=Paquete de Fragmentos de Memoria Pura del $1.º Aniversario
+r:"^([0-9,.]+)周年 属性強化パック$"=Paquete de Mejora Elemental del $1.º Aniversario
+sr:"^([0-9,.]+)周年 EX★4装備パック\((片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)・(片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)\)$"=Paquete de Equipo EX★4 del $1.º Aniversario ($2 y $3)
+
+(片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)
+
+GW スペシャルキャラ交換ガチャセット=Set de Gacha de Intercambio de Personajes Especial GW
+2025 GW ビギナー&カムバック強化パック=Paquete de Mejora para Principiantes y Regreso GW 2025
+GW 錬成スフィアパック=Paquete de Esferas de Refinería GW
+GW 専用装備１グロウスフィアパック=Paquete de Esferacrecimiento de EU 1 GW
+GW EX★4装備パック (服・鎧)=Paquete de Equipo EX★4 GW (Ropa y Armadura)
+GW EX★4装備パック (白ローブ・黒ローブ)=Paquete de Equipo EX★4 GW (Túnica Blanca y Túnica Negra)
+GW EX★4装備パック (アクセサリー)=Paquete de Equipo EX★4 GW (Accesorios)
+GW EX★4装備パック (片手剣・槍)=Paquete de Equipo EX★4 GW (Espada de una mano y Lanza)
+GW EX★4装備パック (弓・本)=Paquete de Equipo EX★4 GW (Arco y Libro)
+GW EX★4装備パック (短剣・拳)=Paquete de Equipo EX★4 GW (Daga y Puño)
+GW EX★4装備パック (盾・杖)=Paquete de Equipo EX★4 GW (Escudo y Bastón)
+GW EX★4装備パック (両手剣・斧)=Paquete de Equipo EX★4 GW (Mandoble y Hacha)
+
+
+
+
+
+sr:"^\[FFBB00,CE4F00\]([0-9,.]+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](.+)\[-\]\[3C404E\]を\n１セット購入しますか？\[-\]$"=[3C404E]¿Quieres comprar 1 set de\n[FFBB00,CE4F00]$2[-] por [FFBB00,CE4F00]$1 pt[-]?[-]
+
+r:"^探索挑戦回数+(\d+)回の期間が追加となります。\n(\d+)日間スタミナ応援パックを購入しますか？?$"=Intentos de Gruta +$1 por el periodo seleccionado.\n¿Quieres comprar el\nPaquete de Apoyo de Resistencia de $2 Días?
+
+sr:"^(?:\[3C404E\])?探索挑戦回数\+(\d+)回の期間が追加となります。\n\[-\]\[FFBB00,CE4F00\]([0-9,.]+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](.+)\[-\]\[3C404E\]を購入しますか？(?:\[-\])?$"=[3C404E]Intentos de Gruta +$1 por el periodo seleccionado.\n¿Quieres comprar\n[FFBB00,CE4F00]$3[-] por [FFBB00,CE4F00]$2 pt[-]?[-]
+
+r:"^\[3C404E\]探索挑戦回数\+(\d+)回の期間が追加となります。\n\[-\]\[FFBB00,CE4F00\](\d+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](\d+)日間スタミナ応援パック\[-\]\[3C404E\]を購入しますか？\[-\]$"=[3C404E]Intentos de Gruta +$1 por el periodo seleccionado.\n¿Quieres comprar el\nPaquete de Apoyo de Resistencia de $3 Días por [FFBB00,CE4F00]$2 pt[-]?[-]
+
+[3C404E]探索挑戦回数+3回の期間が追加となります。\n[-][FFBB00,CE4F00]480pt[-][3C404E]で[-][FFBB00,CE4F00]7日間探索挑戦回数+3回[-][3C404E]を購入しますか？[-]
+r:"^(\[3C404E\]\[FFBB00,CE4F00\])(\d+)日(\[-\]\[-\])$"=$1$2 Días $3
+
+残り有効期間=Duración
+
+
+sr:"^(\d+)年(\d+月)(\d+)日まで$"=Hasta $2 $3, $1
+r:"^ジュエル ([0-9,.]+)個$"=$1 Joyas
+
+毎月更新 ジュエル 7500個=7.500 joyas (Oferta mensual)
+3回限定 ジュエル 7500個=7.500 Joyas (Oferta de tres veces)
+
+r:"^アイテム装備パック([Ⅰ-Ⅻ])?（(\d+)周年）が購入可能になりました！$"=¡Paquete de Equipo $1 ($2.º Aniv)\nya está disponible!
+アイテム装備パックについて=Sobre los Paquetes de Equipo
+sr:"^(.+)が購入可能になりました！$"=¡$1 ya está disponible!
+
+sr:"^アイテム装備パック([Ⅰ-Ⅻ])?(（再販）)?$"=Paquete de Equipo $1 $2
+r:"^アイテム装備パック(.+)?（([\d]+)周年）$"="Paquete de Equipo $1 ($2.º Aniv)"
+ショップへ=A la tienda
+
+r:"^販売期間([0-9: /]+)まで$"=Periodo de venta hasta $1
+
+ジュエル購入=Comprar Joyas
+[3C404E]DMMポイントが不足しています。\nチャージしますか？[-]=[3C404E]Puntos DMM insuficientes, ¿quieres recargarlos?[-].
+
+r:"^あと(\d+)日有効$"=$1 Día(s) Restante(s)
+r:"^あと(\d+)時間有効$"=$1 Horas Restantes
+
+r:"^探索挑戦回数\+(\d+)回の期間が\n追加されました。$"=Se han añadido $1 intentos de Gruta\npor tiempo limitado.
+購入成功=Compra exitosa
+---Registro de edad---
+入力する=introducir
+年齢確認=Confirmación de edad
+16歳未満=menor de 16
+1か月=por mes
+16歳～19歳=16-19
+20歳以上=20 o mayor
+制限なし=Sin límite
+5,000ptまで=Hasta 5.000 PT
+10,000ptまで=Hasta 10.000 PT
+生年月は後から変更することはできません。=No puedes cambiar tu fecha de nacimiento más tarde.
+年齢は誕生月の翌月1日に1歳加算されます。\n未成年の方は購入に法定代理人（両親等）の同意が必要です。=Se añadirá un año a la edad el primer día\ndel mes siguiente al mes de nacimiento.\nLos menores necesitan el consentimiento de un representante legal para comprar.
+r:"^（記入例）(\d+)$"=(Ejemplo) $1
+
+あなたは20歳以上です。\n1か月の購入上限はありません。=Tienes más de 20.\nNo hay límite mensual de compra.
+sr:"^(\d{4})年(\d+月)$"=$2 $1
+あなたは16歳未満です。\n1か月の購入上限は5,000ptまでです。=Tienes menos de 16.\nEl límite mensual de compra es de hasta 5.000 PT.
+あなたは16歳～19歳です。\n1か月の購入上限は10,000ptまでです。=Tienes 16-19 años.\nEl límite mensual de compra es de hasta 10.000 PT.
+
+よろしければ、左のチェックボックスをONにして\nOKボタンをタップしてください。=Marca la casilla de la izquierda y pulsa OK para confirmar.
+あなたの生年月を以下で登録します。=Registra tu fecha de nacimiento abajo.
+
+あなたの生年月を登録しました。=Tu fecha de nacimiento se ha registrado.
+登録完了=Registro completado
+---Ver Joyas---
+無償ジュエル=Joyas gratis
+有償ジュエル=Joyas de pago
+合計ジュエル=Joyas totales
+無償ジュエルから先に消費され、=Las Joyas gratis se usarán primero.
+詳細表示=Vista detallada
+購入商品の区分・所持数=Lista de compras
+有償ジュエル内訳詳細=Desglose de Joyas de pago
+有償ジュエルを所持していません。=No tienes Joyas de pago.
+---Ver Mana---
+合計マナ=Mana total
+現在のストックマナ=Mana en reserva
+無償マナ=Mana gratis
+有償マナ=Mana de pago
+無償マナから先に消費され、=El Mana gratis se usará primero.
+有償マナ内訳詳細=Desglose de Mana de pago
+有償マナを所持していません。=No tienes Mana de pago.
+[FF7C4E,D62146]有償マナは購入順に消費されます。[-]=[FFF7C4E,D621466] El Mana de pago se consumirá por orden de compra. [-]
+
+---NPC---
+ジュエルはよく考えて\n使うことね\n無駄遣い厳禁！=Piensa bien\nal gastar Joyas.\n¡No las malgastes!
+ジュエルを食べ物…\nいえ、貴重品と交換できます！=¡Aquí puedes cambiar joyas por com- quiero decir, por objetos valiosos!
+主さまのジュエルで\n貴重な品々を購入できます\nですが、無駄遣いは\n『めっ』でございますよ=Mi señor, puedes comprar objetos valiosos con tus joyas aquí. Pero, por favor, no las malgastes.
+ジュエルがあれば\n貴重品と交換できるみたい\n大事に使いましょうね=Parece que puedes cambiar joyas por objetos valiosos aquí. Usémoslas con cuidado.
+マナ購入で、「マナ」と「スキップチケット」が手に入ります。\nさらにオマケで「メモリーピース」「女神の秘石」「探索挑戦回数増加」\nが手に入るかもしれませんよ。=Comprar Mana te dará Mana y Tickets de Omisión.\nTambién puedes recibir bonus como Fragmentos de Memoria,\nAmuletos Divinos e intentos extra de Gruta.
+
+決済手続=Procedimiento de pago
+r:"^(?:\[3C404E\])?\[3C404E\]DMMポイントを消費して、\n購入手続きを完了しますか？\n所持DMMポイント:(\d+)\n\[-\]\[FFBB00,CE4F00\]ここで購入したジュエルやマナは\nDMM版でご利用いただけます。\[-\](?:\[-\])?$"=[3C404E]¿Quieres usar tus Puntos DMM para completar la compra?\nActualmente tienes $1 Puntos DMM.\n[FFBB00,CE4F00]Las Joyas y Mana comprados aquí\nsolo se pueden usar en la versión DMM[-].[-]
+
+sr:"^\[3C404E\](.+)の\n期間があと\[-\]\[FF7C4E,D62146\](\d+)日\[-\]\[3C404E\]で終了します。\n購入ページへ移動しますか\?\[-\]$"=[3C404E]El periodo de $1\nterminará en [-][FF7C4E,D62146]$2 día(s)[-].\n¿Quieres ir a la página de compra?[-]
+
+
+購入ページへ=A la página de compra
+
+r:"^プレイヤーLv(\d+)まで購入可能$"=¡Solo bajo Nv.$1!
+r:"^([0-9/]+) に追加購入可能$"=Disponible el $1
+
+デイリージュエルパック終了通知=Aviso de Fin del Paquete de Joyas Diario
+デイリージュエルパックの\n期間が終了しました。\n購入ページへ移動しますか?=El periodo del Paquete de Joyas Diario ha terminado. ¿Quieres ir a la página de compra?
+
+スペシャル交換チケット期限通知=Aviso de Fecha Límite del Ticket de Intercambio Especial
+
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)日と(\d+)時間(\d+)分\)$"=El periodo de intercambio terminará el $2/$1 a las $3:$4.\n($5d $6h$7m restantes)
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)時間(\d+)分\)$"=El periodo de intercambio terminará el $2/$1 a las $3:$4.\n($5h$6m restantes)
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)分\)$"=El periodo de intercambio terminará el $2/$1 a las $3:$4.\n($5m restantes)
+
+
+sr:"^(.{2,20})未受け取り分の(.{2,6})$"=$1: $2 sin reclamar
+
+
+交換ページへ移動しますか？=¿Quieres ir a la página de intercambio?
+
+
+Golden week pack
+Cygames WebStore限定 GW 火属性強化スペシャルパック=Paquete Especial de Mejora de Elemento Fuego GW Exclusivo de Cygames WebStore
+EX★5アクセサリー交換チケット=Ticket de Intercambio de Accesorio EX★5
+マホ（ガルパン）ピックアップガチャ専用10回ガチャチケット=Ticket de Gacha x10 Dedicado al Gacha Destacado de Maho (Girls und Panzer)
+コラボ記念パック=Paquete Conmemorativo de Colaboración
+究極錬成パック=Paquete de Síntesis Definitiva
+GW スペシャルジュエル7500個パック=Paquete Especial de 7.500 Joyas GW
+GW コネクトRANK強化パック=Paquete de Mejora de RANK de Connect GW
+
+新春記念=Conmemorativo de Año Nuevo
+2026 新春記念=Conmemorativo de Año Nuevo 2026
+r:"^(\d+) 新春記念$"=Conmemorativo de Año Nuevo $1
+sr:"^(.+?) お得なジュエル(\d+)個$"=Paquete de $2 Joyas $1
+sr:"^(.+?) 専用装備１グロウスフィアパック$"=Esferas de Equipo Único 1 $1
+毎日1回限定 スタミナパック=Paquete de Resistencia Limitado a 1 vez diaria
+sr:"^(.+?) 属性強化パック$"=Paquete de Mejora Elemental $1
+sr:"^(.+?) キャラ育成パック$"=Paquete de Mejora de Personaje $1
+sr:"^(.+?) ピュアメモリーピースパック$"=Paquete de Fragmentos de Memoria Pura $1
+
+sr:"^(.+?) ピュアメモリーピース交換チケット$"=Ticket de Intercambio de Fragmento de Memoria Pura $1
+sr:"^(.+?) メモリーピース交換チケット$"=Ticket de Intercambio de Fragmento de Memoria $1
+スペシャル交換チケット（限定+）=Ticket de Intercambio Especial (Limitado+)
+10回ガチャチケット=Ticket de Gacha x10

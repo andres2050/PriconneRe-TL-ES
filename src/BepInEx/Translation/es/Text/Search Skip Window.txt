@@ -1,0 +1,69 @@
+検索=Buscar
+チェック全解除=Desmarcar todo
+リスト切替=Cambiar
+クエスト一覧=Lista de Misiones
+チェックのみ=Solo marcadas
+検索結果=Resultados de búsqueda
+絞り込み中=Filtrando
+絞り込みが設定されています。=Filtro seleccionado.
+対象のクエストがありません。=No hay misiones marcadas.
+まとめてスキップ=Omitir
+アイテム名から検索=Nombre de objeto
+アイテム長押しで詳細を=Mantén pulsado para ver info del objeto.
+選択全解除=Borrar
+選択中アイテム=Seleccionado
+装備品=Equipo
+ピュアメモリーピース=Fragmentos Puros
+レア度=Rareza
+アイテム種類=Tipo de objeto
+チケット=Ticket
+１クエストの使用チケット枚数=Tickets usados por misión
+全クエスト=Todas las misiones
+サイドスト…=Historia paralela
+残り挑戦回数がありません。=No quedan intentos.
+[FF7C4E,D62146]残り挑戦回数がありません。[-]=[FF7C4E,D62146]No quedan intentos.[-]
+実行可能なクエストがありません。=No hay misiones disponibles.
+本日挑戦できないクエストのみ選択されています。=Solo se han seleccionado misiones\nque no se pueden desafiar hoy.
+装備済み=Equipado
+装備可能キャラ=Equipable
+装備可能なキャラがいません=No hay personajes disponibles.
+チェックしたクエストがありません。=No hay misiones seleccionadas.
+以下クエストは次回まとめてスキップの対象外です=Estas misiones no son aptas para omisión por lotes.
+スタミナ、挑戦回数不足のため\n実行できないクエストがあります。=Algunas misiones no se pueden omitir\npor falta de Resistencia o Intentos.
+以下クエストの残り挑戦回数をまとめて回復しますか？=¿Quieres restaurar los intentos restantes de las siguientes misiones a la vez?
+以下クエストの残り挑戦回数をまとめて回復します。\nよろしいですか？=¿Quieres restaurar los intentos restantes de las siguientes misiones a la vez?
+チェック済みのクエストがあります。=Hay misiones ya marcadas.
+同時に検索できるアイテムは３個までです。=Solo se pueden buscar hasta tres objetos a la vez.
+サイドストーリー HARD=Historia Paralela (DIFÍCIL)
+プリセット編集=Editar nombre de preset
+スキップボーナス=Bonus de omisión
+キャラを選択してください。=Selecciona un personaje
+
+スキップするクエスト=N.º de misiones
+合計スキップ回数=N.º de tickets de omisión
+
+特殊素材=Materiales especiales
+確認できます。= 
+クエスト検索=Confirmar
+
+表示クエスト=Misión mostrada
+キャンペーン一覧=Lista de campañas
+スタミナ不足のため実行できないクエストがあります。=Algunas misiones no se pueden omitir\npor falta de Resistencia.
+
+回復なしで次へ=No restaurar
+回復する=Restaurar
+
+まとめて挑戦回数回復=Confirmación de restauración
+残り挑戦回数が0のクエストがあります。=Estas misiones tienen 0 intentos restantes.
+ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復しますか？=¿Quieres restaurar con joyas?
+
+まとめてスキップ確認=Confirmación de omisión
+スキップチケットとスタミナを消費して、以下のクエストを実行します。よろしいですか？=Gastando Tickets de Omisión y Resistencia para hacer las siguientes misiones. ¿Está bien?
+スキップチケットを消費して、以下のクエストを実行します。よろしいですか？=Gastando Tickets de Omisión para hacer las siguientes misiones. ¿Está bien?
+
+
+スキップ済み確認=Confirmación de omisión
+前回まとめてスキップ時にスキップできなかった\nクエストが次回まとめてスキップの対象となります。=Las misiones que no se pudieron omitir se omitirán la próxima vez.
+
+対象のアイテムがありません。=No hay objeto objetivo.
+対象クエストの残り挑戦回数を超えてスキップはできません。=No puedes omitir más allá del número de intentos restantes de la misión seleccionada.

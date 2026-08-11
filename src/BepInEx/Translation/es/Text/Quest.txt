@@ -1,0 +1,147 @@
+エスト=Misiones 
+ク= 
+r:"^スタミナ回復まで残り ([0-9]{2}):([0-9]{2})$"=Recarga de resistencia en $1m$2s
+マップ=Mapa
+r:"^([0-9,.]+)枚$"=$1 Tickets
+r:"^([0-9]+)枚 ?使う$"=Usar $1
+
+r:"^あと (\d+)$"=quedan $1
+クリアパーティ一覧=Lista de equipos ganadores
+ルナの塔頂上 EXクエスト クリアパーティ一覧=Lista de equipos ganadores de Misión EX Cima de la Torre de Luna
+リセット=Reiniciar
+情報が更新されるまで、時間がかかる場合があります。=Puede tardar un poco hasta que la información se actualice.
+　現在、対象プレイヤーの情報がありません。=　Actualmente no hay información del jugador objetivo.
+[3C404E]残り挑戦回数が0になりました。\n回復しますか?[-]=[3C404E]Tus intentos restantes han llegado a 0.\n¿Restaurar?[-]
+ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復します。\nよろしいですか？=Consume Joyas y restaura los intentos restantes de las siguientes misiones colectivamente.\n¿Está bien?
+r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設定をリセットし、撃破数を1体に戻しますか？\[-\]$"=[3C404E]El número de tickets de omisión a usar\nestá configurado en $1.\n¿Reiniciar a 1? [-]
+r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定されています。\n設定をリセットし、消費枚数を1枚に戻しますか？$"=El número de tickets de omisión a usar\nestá configurado en $1.\n¿Reiniciar a 1?
+1枚に戻す=Reiniciar a 1
+1体に戻す=Reiniciar a 1
+スキップチケット枚数リセット確認=Reiniciar número de tickets de omisión
+下記のアイテムを装備します。よろしいですか？=¿Equipar los siguientes objetos? ¿Está bien?
+
+---Menú---
+次へ=Siguiente
+勝利数=Victorias
+編成完了=Hecho
+探索・調査=Búsqueda y\nEstudio
+探索・調査\nダンジョン=Gruta y\nMazmorra
+探索・調査・ダンジョン=Gruta, Estudio y Mazmorra
+深域クエスト=Misión Profunda
+消費挑戦回数=Usar intentos
+メインクエスト=Misión Principal
+開催中=¡En curso!
+クランバトル=Batalla de Clan
+ダンジョン=Mazmorra
+調査=Estudio
+探索=Gruta
+バトルアリーナ=Arena de Batalla
+プリンセスアリーナ=Arena de Princesa
+キャンペーン中=Campaña
+
+エクストラクエストへ=A Misión Extra
+
+メインクエストへ=A Misión Principal
+エクストラクエスト=Misión Extra
+
+★3クリアで使用できます。=Disponible tras ganar con 3★.
+スキップ可能なクエストがありません。=No hay misiones omitibles.
+スキップ=Omitir
+同キャラ\n編成中=Ya\nasignado
+バトル開始=Iniciar batalla
+挑戦する=Empezar
+チケットを使って、ゲームをショートカット!=¡Usa tickets de omisión para ahorrar tiempo!
+クリアパーティ=Equipos previos
+報酬=Recompensa
+モンスター=Monstruos
+獲得アイテム=Objetos obtenidos
+フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Los personajes de apoyo fuera de tu lista de amigos\npueden tener sus estadísticas ajustadas.
+設定できるサポートキャラがいません。=No se puede configurar ningún personaje de apoyo.
+消費したスタミナはマスターコインに変換されました。=La Resistencia consumida se ha convertido en Monedas Maestras.
+Lv上限に達した状態で消費したスタミナは\nマスターコインに変換されます。=Se ha alcanzado el límite de nivel, la Resistencia consumida se convierte en Monedas Maestras.
+プレイヤー経験値は最大に達しているので受け取れませんでした。=No se pudo obtener EXP de jugador porque has alcanzado el límite de nivel.
+マスターコインはウィークリーの獲得上限に達しているため受け取れませんでした。=No se pudieron obtener Monedas Maestras porque se ha alcanzado el límite semanal.
+経験値の最大値が更新されるまで表示しない=No mostrar hasta que se actualice\nel límite de nivel.
+チケットで再戦=Reintentar con ticket
+このキャラのユニオンバースト中は速度を変更できません=No se puede cambiar la velocidad durante el Estallido de Unión de este personaje
+---Publicación---
+※80文字以下=※Máx. 80 caracteres
+バトルログをクランチャットに投稿しますか？=¿Quieres publicar el registro de batalla en el chat del clan?
+投稿する=Publicar
+バトルログ投稿確認=Confirmación de publicación de registro
+---Reentrar---AB->Color de texto,C-> resistencia,D número
+再戦する=Reintentar
+
+r:"^\[3C404E\]挑戦回数を\[FFBB00,CE4F00\](\d+)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Usando [FFBB00,CE4F00]$1[-] Intentos para jugar la misión\nuna vez más con el mismo equipo.[-]
+同じパーティでもう一度\nクエストをプレイします。\n\nよろしいですか？=Juega la misión\nuna vez más con el mismo equipo.\n\n¿Confirmar?
+
+r:"^\[3C404E\]スタミナを\[FFBB00,CE4F00\](\d+)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。(?:よろしいですか？)?\[-\]$"=[3C404E]Usando [FFBB00,CE4F00]$1[-] de Resistencia para jugar la misión\nuna vez más con el mismo equipo.\n¿Está bien?[-]
+
+
+r:"^\[3C404E\]ボスチケットを\[FFBB00,CE4F00\](\d+)\[-\]枚消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Usando [FFBB00,CE4F00]$1[-] Tickets de Jefe para jugar la misión\nuna vez más con el mismo equipo.[-]
+r:"^\[3C404E\]ボスチケットを\[FFBB00,CE4F00\](\d+)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？\[-\]$"=[3C404E]Usando [FFBB00,CE4F00]$1[-] Tickets de Jefe para jugar la misión\nuna vez más con el mismo equipo.\n¿Está bien?[-]
+
+よろしいですか？=¿Está bien?
+[3C404E]よろしいですか？[-]=[3C404E]¿Está bien?[-]
+本日の回復可能回数上限に達しているため回復できません。=Has alcanzado el límite de recargas de hoy.
+クエストリトライ=Reintentar Misión
+---Abortar---
+リタイア=Retirarse
+r:"^\[3C404E\]リタイアするとクエスト報酬を獲得できず、\nスタミナが\[FFBB00,CE4F00\](\d)\[-\]消費されます。\n\nよろしいですか？\[-\]$"=[3C404E]No recibirás recompensas si te retiras,\ny perderás [FFBB00,CE4F00]$1 [-]de resistencia.\n\n¿Está bien?[-]
+[FF7C4E,D62146]レンタル内容はキャンセルされます。[-]=[FF7C4E,D62146]El apoyo será cancelado.[-]
+---Recargar resistencia---
+回復回数指定=N.º de recargas
+現在のスタミナ回復（１回あたり）の消費ジュエル=Coste actual de Joyas por recarga de Resistencia
+支払・提供時期・返品について=Sobre Pago/Entrega/Reembolso
+回復回数=N.º de recargas
+スタミナ回復単価一覧=Lista de precios de recarga de Resistencia
+スタミナ回復回数に応じて、スタミナ回復１回あたりの\nジュエルの必要数が異なります。詳細は下記をご覧ください。=Según el número de recargas de Resistencia, el coste en Joyas por recarga varía.\nVer detalles abajo.
+スタミナ回復すると、スタミナ上限を超えてしまうため回復できません。=No se puede recuperar más Resistencia, ya estás al máximo.
+[3C404E]スタミナが不足しています。\n回復しますか?[-]=[3C404E]Resistencia insuficiente.\n¿Quieres recargar? [-]
+スタミナが不足しています。\n回復する方法を選択してください。=No tienes suficiente Resistencia.\nElige un método para recuperarla.
+r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\nスタミナを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Usa [FFBB00,CE4F00]$1[-] Joyas \npara recuperar [FFBB00,CE4F00]$2[-] Resistencia\n\nRecargas restantes hoy: $3[-]
+----------------------
+Nueva resistencia---
+スタミナ回復確認=Confirmación de Recuperación de Resistencia
+スタミナを回復する方法を選択してください。=Selecciona un método para recuperar Resistencia.
+受け取れるスタミナがありません。=No hay Resistencia disponible para reclamar.
+
+
+
+
+
+---Restaurar intentos---
+r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\n残り挑戦回数を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Usa [FFBB00,CE4F00]$1[-] Joyas\npara recuperar [FFBB00,CE4F00]$2[-] Intentos\n\nRecargas restantes hoy: $3[-]
+
+r:"^\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個消費して、\n以下のクエストの残り挑戦回数を回復しました。\[-\]$"=[3C404E]Joyas [FFBB00,CE4F00]$1[-] consumidas,\nse han restaurado los intentos restantes de las siguientes misiones.[-]
+
+r:"^\[3B3F4D\]本日の挑戦回数の上限に達しています。\nジュエル×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を使用して\n挑戦回数をリセットしますか？\[-\]$"=[3B3F4D] Has alcanzado el número máximo de intentos de hoy.\n¿Quieres reiniciar el número de intentos usando [FFBB00,CE4F00]$1[-] Joyas?[-]
+再挑戦する=Reintentar
+終了する=Fin de la historia
+レイド=Incursión
+---Tabla de omisión---
+本日の回復可能回数上限に達しました。=Se ha alcanzado el límite de recargas de hoy.
+スキップ回数=N.º de omisiones
+対象=sujeto
+以下のクエストはスタミナ不足のため実行しません。=Las siguientes Misiones no se\n ejecutarán por falta de Resistencia.
+スキップチケットとスタミナを消費して、チェックした\nクエストを実行します。よろしいですか？=¿Consumir Tickets de Omisión y Resistencia para ejecutar\nlas misiones marcadas? ¿Está bien?
+現在、このアイテムは\nメインクエスト等では入手できません=Actualmente, este objeto no está disponible en la Misión Principal.
+検索対象外のクエストが含まれています。=Incluye Misiones que no están en la búsqueda.
+か所=Lugar
+
+クエストTOPへ=A inicio de Misiones
+
+スタミナ受け取り確認=Confirmación de recepción de Resistencia
+【プレゼントボックス（期限あり）】=[Buzón de Regalos (Tiempo limitado)]
+以下のスタミナを受け取りますか？=¿Recibir la siguiente Resistencia?
+【ミッション】=[Misiones]
+
+---Menú Misión Principal---
+未達成=No completado
+未達成クエスト=Misiones no completadas
+★3未達成=No 3★
+サブクエスト=Submisión
+★3クリアしていないクエストを確認できます。=Comprueba misiones que aún no tienen 3★.
+未達成のクエストがありません。=No hay misiones no completadas.
+クリアしていないサブクエストを確認できます。=Comprueba submisiones no completadas.
+挑戦回数が0のクエストはオート進行対象外になります。=Las misiones con 0 intentos no se progresarán automáticamente.

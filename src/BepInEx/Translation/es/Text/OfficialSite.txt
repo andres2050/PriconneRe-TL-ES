@@ -1,0 +1,42 @@
+公式サイト=Sitio oficial
+ミニゲームへ=A minijuego
+
+sr:"^「(.+)」で挑戦してみてね！$"=¡Prueba con $1
+
+アカウント連携設定のお願い=Solicitud de configuración de enlace de cuenta
+アカウント連携します。よろしいですか？=Tu cuenta se va a enlazar. ¿Está bien?
+アカウント連携することで、端末を紛失した場合や、\n新しい端末に変更した際に、\nプリンセスコネクト！Re:Diveのゲームデータを\n復旧してプレイすることができます。\n=Al enlazar tu cuenta, puedes recuperar tus datos de Princess Connect! Re:Dive en caso de pérdida o cambio de dispositivo.\n
+ゲームデータを連携する方法を選択してください。=Selecciona una forma de enlazar tus datos.
+外部サービス認証を使う=Usar autorización de servicio externo
+連携方法選択=Selección de método de enlace
+[3C404E]Google Playアカウント\nで連携する[-]  [-]=[3C404E] Enlazar con cuenta de Google Play [--]
+[3C404E]Game Centerで\n連携する[-] [-]=[3C404E] Enlazar con Game Center [--]
+[3C404E]Facebookで\n連携する[-] [-]=Enlazar con Facebook
+[3C404E]Facebookアカウント\nで連携する[-]  =[3C404E] Enlazar con una cuenta de Facebook [-]  
+[FF7C4E,D62146]Cygames IDに連携できる\nゲームデータは1つのみです。[-]=[FFF7C4E, D62146)Cygames Solo hay un dato de juego que se puede enlazar a tu ID. [-]
+Cygames ID連携を行うと\nCygames ID連携を行った端末同士で\nプリンセスコネクト！Re:Diveのゲームデータを\n共有することが出来ます。=Al enlazar con un Cygames ID, puedes compartir los datos de juego de Re:Dive entre los dispositivos que se hayan enlazado.
+Cygames IDで引き継ぎます。よろしいですか？=Voy a transferir con mi Cygames ID. ¿Está bien?
+Cygames IDで引き継ぐ=Transferiré el juego con mi ID
+Cygames iDと連携済みです。=Ya estoy enlazado con Cygames iD.
+前回選択=Última elección
+利用規約=Términos del servicio
+[FF7C4E,D62146]選択したSNSアカウントがCygames ID未登録の場合、\nサインインすることでCygames IDが作成されます。[-]=[FFF7C4E, D62146) Si la cuenta de redes sociales seleccionada no está registrada como Cygames ID, se creará un Cygames ID al iniciar sesión. [-]
+Cygames IDサインイン=Cygames ID, iniciar sesión
+Cygames IDと連携しよう=enlazar con los Cygames ID
+Cygames IDとの連携について=Enlazar con el Cygames ID
+Cygames IDへ=A Cygames ID
+
+同意する=Acepto
+Cygames IDの利用規約およびプライバシーポリシーに\n同意の上、サインインしてください。=Inicia sesión tras aceptar los términos del Cygames ID y la política de privacidad.
+利用規約およびプライバシーポリシーへの同意が必要です。=Debes aceptar los términos del servicio y la política de privacidad.
+ブラウザからサインインを完了してください。\nサインインを確認でき次第、次に進みます。=Completa el inicio de sesión desde el navegador. Una vez confirmado, continúa.
+サインイン中=Iniciando sesión
+
+
+
+Cygames ID\n退会について=Cygames ID\nSobre la eliminación de cuenta
+iCloudバックアップ=Copia de seguridad de iCloud
+違反行為に対する\n措置について=Sobre las medidas\ncontra infracciones
+Cygames IDポータルサイトを開きます。\nよろしいですか？=Abrir el sitio portal de Cygames ID.\n¿Continuar?
+Cygames IDの退会について=Sobre la eliminación de cuenta de Cygames ID
+ブラウザにてCygames IDのサインインが必要です。\n\nサインイン済みの場合、退会ページが開きます。\n\n未サインインの場合、サインインページが開きます。\nサインイン後、マイページ下部のメニューから\n［アカウント情報］を選択し、［退会について］を選択\nすることで退会ページに移動します。=Necesitas iniciar sesión en tu Cygames ID en un navegador.\n\nSi ya has iniciado sesión, se abrirá la página de eliminación de cuenta.\n\nSi no has iniciado sesión, se abrirá la página de inicio de sesión.\nTras iniciar sesión, selecciona\n[Información de cuenta] del menú inferior de Mi Página,\nluego selecciona [Sobre eliminación de cuenta]\npara ir a la página de eliminación de cuenta.

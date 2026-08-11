@@ -1,0 +1,150 @@
+次元断層=Falla Dimensional
+次元断層へ=A Falla Dimensional
+r:"^開催期間\s*:\s*([0-9/ :]+)～([0-9/ :]+)$"="Periodo: $1 a $2 (JST)"
+PHASE\nクリア報酬=Fase\nRecompensa de victoria
+出現中！=¡Apareciendo!
+出現中!=¡Apareciendo!
+
+クエスト詳細=Detalles de misión
+このバトルではキャラ制限は発生しません。=Sin límite de personajes en esta batalla.
+ボスのHPは敗北時にリセットされます。=El HP del jefe se reinicia al ser derrotado.
+模擬戦設定になっています。=Configurado como entrenamiento.
+
+トレジャークエスト=Misión de Tesoro
+トレジャークエスト出現まで=Próxima Misión de Tesoro
+ゲージが最大までたまると、トレジャークエストに挑戦できます。=Cuando el medidor esté lleno, podrás desafiar la Misión de Tesoro.
+
+バトル開始確認=Confirmación de inicio de batalla
+みんな昂りますよぉ！=¡Todos se animan!
+
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?追\n?加\n?さ\n?れ\n?る。$"=Añadida la Sombra de $1$2 y $3$4.
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+?)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?追\n?加\n?さ\n?れ\n?る。$"=Añadidas las Sombras de $1$2, $3$4, y $5$6.
+
+r:"^シャドウ(\d)体追加$"=Añadir $1 sombra(s)
+r:"^モンスター(\d)体追加$"=Añadir $1 monstruo(s)
+
+シャドウ★6化=Sombra★6
+シャドウ強化=Refuerzo de Sombra
+
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?★\n?6\n?に\n?な\n?る。$"=La sombra de $1$2 y $3$4 se convierte en ★6.
+------
+リ=Sí
+ノ=No
+([べ-ヺー＆＝]+?)(（.+）)?のシャドウが★6になる。
+La sombra de $1$2 se convierte en ★6.
+
+([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?★\n?6\n?に\n?な\n?る。
+Las sombras de $1$2, $3$4, y $5$6 se convierten en ★6.
+------
+sr:"^([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?のシャドウが★6になる。$"=La sombra de $1$2$3$4$5$6$7$8$9$10$11$12$13$14 se convierte en ★6
+
+------
+([べ-ヺー＆＝]+?)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る。
+Se añadió Equipo Único a la Sombra de $1$2.
+
+([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る
+Se añadió Equipo Único a las Sombras de $1$2 y $3$4.
+
+([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る。
+Se añadió Equipo Único a las Sombras de $1$2, $3$4, $5$6.
+------
+
+バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ50%カット状態にさせる。=Al inicio de la batalla, la Reliquia Maldita reduce el Daño Mágico de todos los aliados en un 50%.
+バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ75%カット状態にさせる。=Al inicio de la batalla, la Reliquia Maldita reduce el Daño Mágico de todos los aliados en un 75%.
+
+ボスUB・スキル強化=Mejora de UB y Habilidad del Jefe
+ボスモンスターのユニオンバーストとスキルが強化される。=El Estallido de Unión y la habilidad del monstruo jefe se refuerzan.
+
+開始時魔法ダメージカット=Reducción de daño mágico al inicio
+モンスター強化=Mejora de monstruo
+sr:"^(.+?)のスキルが強化される。$"=La habilidad de $1 se refuerza.
+バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Al inicio de la batalla, la Reliquia de Curación reduce el Daño Físico de todos los aliados en un 50%.
+バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Al inicio de la batalla, la Reliquia de Curación reduce el Daño Físico de todos los aliados en un 75%.
+
+バトル開始時、ボスモンスターがＴＰダウン100％カット状態になる。=Al inicio de la batalla, el monstruo jefe queda en estado de Reducción de TP cortada al 100%.
+バトル開始時、ボスモンスターがＴＰダウン50％カット状態になる。=Al inicio de la batalla, el monstruo jefe queda en estado de Reducción de TP cortada al 50%.
+ボスＴＰダウンカット=Reducción de TP del Jefe cortada
+バトル開始時、シールド・レリックのが味方全体に\n継続ＴＰ回復状態を付与する。=Al inicio de la batalla, la Reliquia de Escudo otorga recuperación continua de TP a todos los aliados.
+開始時ＴＰ継続回復付与=Recuperación continua de TP al inicio
+バトル開始時、アタック・レリックが味方全体の行\n動速度を特大アップさせるフィールドを展開する。=Al inicio de la batalla, la Reliquia de Ataque despliega un campo que aumenta enormemente la velocidad de acción de todos los aliados.
+開始時行動速度アップフィールド=Campo de velocidad de acción al inicio
+開始時物理ダメージカット=Reducción de daño físico al inicio
+シャドウ最大ＨＰアップ=HP máx. de Sombra arriba
+すべてのシャドウの最大ＨＰが大幅に上昇する。=El HP máximo de todas las Sombras aumenta enormemente.
+バトル開始時、シールド・レリックのが味方全体の\nＨＰを特大回復させる。=Al inicio de la batalla, la Reliquia de Escuro recupera enormemente el HP de todos los aliados.
+開始時ＨＰ回復=Recuperación de HP al inicio
+ボス物理防御力（ダウン不可）アップ=Aumentar DEF. Fís. del Jefe (Absoluto)
+ボス魔法防御力（ダウン不可）アップ=Aumentar DEF. Mág. del Jefe (Absoluto)
+バトル開始時、ボスモンスターの物理防御力を小\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Aumenta ligeramente la DEF. Fís. del jefe al inicio de batalla. Este efecto no se ve afectado por la reducción de DEF. Fís.
+バトル開始時、ボスモンスターの魔法防御力を小\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Aumenta ligeramente la DEF. Mág. del jefe al inicio de batalla. Este efecto no se ve afectado por la reducción de DEF. Mág.
+
+バトル開始時、ボスモンスターの魔法防御力を中\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Aumenta moderadamente la DEF. Fís. del jefe al inicio de batalla. Este efecto no se ve afectado por la reducción de DEF. Fís.
+バトル開始時、ボスモンスターの物理防御力を中\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Aumenta moderadamente la DEF. Mág. del jefe al inicio de batalla. Este efecto no se ve afectado por la reducción de DEF. Mág.
+
+
+
+r:"^バトル時間が(\d+)秒になる。$"=El tiempo de batalla es de $1 segundos.
+バトル時間制限=Límite de tiempo de batalla
+
+危険度詳細=Detalles de peligro
+ボス魔法ダメージカット=Reducción de daño mágico del jefe
+ボス物理ダメージカット=Reducción de daño físico del jefe
+ダメージ減衰=Reducción de daño
+物理ダメージカット=Reducción de daño físico
+魔法ダメージカット=Reducción de daño mágico
+バトル開始時、すべてのキャラのＨＰ吸収を特大ダウンさせる。=Al inicio de la batalla, el Drenaje de HP de todos los personajes se reduce enormemente.
+ＴＰダウン=TP Bajo
+ＴＰダウンカット=Reducción de TP cortada
+すべてのモンスター=Todos los monstruos
+ボスモンスター= Monstruo Jefe
+魔法ダメージ=Daño Mág.
+物理ダメージ=Daño Fís.
+トレジャークエストはすべてクリアしました。=Has superado todas las misiones de tesoro.
+sr:"^バトル開始時、(.+)が(\D+)(.+)％カット状態になる。$"=Al inicio de la batalla, el $2 infligido a $1 se reduce a $3%.
+
+
+編成キャラ数制限=Límite de personajes en formación
+r:"^編成可能キャラ数が(\d+)キャラになる。$"=Los personajes que se pueden organizar son $1.
+編成制限=Restringido
+
+バトル開始後一定時間、ボスモンスターの物理攻撃\n力が中アップする。=El ATQ. Fís. del Monstruo Jefe aumenta moderadamente durante un tiempo tras el inicio de la batalla.
+バトル開始後一定時間、ボスモンスターの魔法攻撃\n力が中アップする。=El ATQ. Mág. del Monstruo Jefe aumenta moderadamente durante un tiempo tras el inicio de la batalla.
+開始時攻撃力アップ=Ataque arriba al inicio
+
+バトル開始時、ボスモンスターが敵全員のTPを中\nアップさせる。=Al inicio de la batalla, el monstruo jefe aumenta moderadamente el TP de todos los enemigos.
+開始時TP回復=Recuperación de TP al inicio
+
+ボスモンスターのユニオンバーストが強化される。=El Estallido de Unión del monstruo jefe se mejora.
+ボスUB強化=UB del Jefe mejorado
+
+r:"^パーティキャラの最大HPが(\d+)％ダウンする。$"=El HP máximo de los personajes del equipo se reduce en $1%.
+キャラ最大HPダウン=HP máx. de personaje abajo
+
+全PHASEクリア達成！=¡Todas las Fases superadas!
+すべてのPHASEをクリアしました！\n\nここからはEXTRA PHASEに突入し\nまだ勝利していないクエストに\n挑戦することができます。=¡Has superado todas las fases!\n\nA partir de aquí entrarás en la FASE EXTRA y podrás\ndesafiar misiones que aún no has ganado.
+
+スペシャルバトルの=Batalla especial
+スペシャルバトル=Batalla especial
+
+r:"^(\[[0-9A-F]{6}\])?次元断層のEXTRA PHASEをクリアしよう(\[-\])?$"=$1 suprueba la FASE EXTRA de la Falla Dimensional $2
+
+途中でリタイアした場合、この内容はキャンセルされます。=Si te retiras a mitad de camino, este contenido se cancelará.
+
+sr:"^([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?のシャドウに専用装備(１|２|1|2|)が追加される。$"=Se añadió Equipo Único $15 a\nla Sombra de $1$2$3$4$5$6$7$8$9$10$11$12$13$14
+
+sr:"^([べ-ヺー＆＝の]+)(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?が追加される。$"=$1$2$3$4$5$6$7$8$9$10$11$12$13$14 fueron añadidos.
+モンスター追加=Monstruo añadido
+
+
+
+５つのPHASEからなる期間限定クエスト『次元断層』が登場しました。\nクエストに３回勝利すると次のPHASEに進めますよ。討伐したモンス\nターは強化されて復活するので、気を引き締めて挑みましょう、主さま。=Ha aparecido la misión por tiempo limitado «Falla Dimensional», que consta de 5 FASES.\nSi ganas la misión 3 veces, avanzarás a la siguiente FASE. Los monstruos derrotados\nse reforzarán y revivirán, así que prepárate bien para el desafío, mi señor.
+
+クエストに勝利してゲージが最大になると、トレジャークエストが出現し\nます。トレジャークエストに勝利することでジュエルを獲得できますよ。\n出現したらぜひ挑戦してみてくださいまし。=Si ganas la misión y llenas el medidor al máximo, aparecerá una Misión de Tesoro.\nPuedes obtener joyas al ganar las Misiones de Tesoro. ¡Anímate a desafiarla cuando aparezca!
+
+PHASE5をクリアしたことで、EXTRA PHASEが解放されました。\nEXTRA PHASEでは、すべてのクエストの最大危険度まで挑戦でき\nるようでございます。すべて勝利して完全クリアを目指しましょう。=Al superar la FASE 5, se ha desbloqueado la FASE EXTRA.\nEn la FASE EXTRA, parece que puedes desafiar todas las misiones hasta el nivel de peligro máximo.\nGanemos todas y aspiremos a completarlo por completo.
+
+バトル開始時、すべてのシャドウのＴＰを特大回復。=Al inicio de la batalla, todas las Sombras recuperan una gran cantidad de TP.
+バトル開始時、すべてのシャドウのＴＰを回復。=Al inicio de la batalla, restaura TP a todas las Sombras.
+
+リッチゴーレム=Gólem Rico
+【物理】次元の狭間に誕生した、生きた財宝。\n煌めく財貨を散しながら、冒険者に襲い掛かる。\n\n\n・ユニオンバーストは、敵全体に物理大ダメージ\n　を与え、物理攻撃力と魔法攻撃力を大ダウンさ\n　せる。その後、自身の物理防御力と魔法防御力\n　を特大ダウン。このスキルの状態異常はダメー\n　ジを無効化しても付与される。\n\n・敵全体に物理中ダメージを与え、スタンさせる。\n　その後、自身の物理防御力と魔法防御力を特大\n　ダウン。このスキルの状態異常はダメージを無\n　効化しても付与される。\n\n・前方３キャラに物理中ダメージを与え、ノック\n　バックさせる。その後、自身の物理防御力と魔\n　法防御力を特大ダウン。このスキルの状態異常\n　はダメージを無効化しても付与される。\n\n・目の前の１キャラに物理中ダメージを与える。\n　その後、自身の物理防御力と魔法防御力を特大\n　ダウン。 =[Físico] Un tesoro viviente nacido en la grieta entre dimensiones. Asalta a los aventureros mientras esparce riquezas brillantes.\n\n►UB: Inflige gran Daño Fís. a todos los enemigos y reduce enormemente el ATQ. Fís. y ATQ. Mág. Posteriormente, reduce enormemente su propia DEF. Fís. y DEF. Mág. Las alteraciones de estado de esta habilidad persisten incluso si el daño se anula.\n\n►Inflige Daño Fís. moderado a todos los enemigos y los aturde. Posteriormente, reduce enormemente su propia DEF. Fís. y DEF. Mág. Las alteraciones de estado de esta habilidad persisten incluso si el daño se anula.\n\n►Inflige Daño Fís. moderado a los 3 personajes delanteros y los empuja hacia atrás. Posteriormente, reduce enormemente su propia DEF. Fís. y DEF. Mág. Las alteraciones de estado de esta habilidad persisten incluso si el daño se anula.\n\n►Inflige Daño Fís. moderado al personaje delantero. Posteriormente, reduce enormemente su propia DEF. Fís. y DEF. Mág.
