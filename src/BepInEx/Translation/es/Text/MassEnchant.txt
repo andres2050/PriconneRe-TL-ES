@@ -1,0 +1,51 @@
+まとめて\nおまかせ強化=Mejora\nmúltiple
+まとめて強化=Mejora múltiple
+
+おまかせ選択=Selección automática
+
+選択したキャラをまとめておまかせ強化します。=Los personajes seleccionados se mejorarán todos a la vez.
+選択キャラ=Seleccionados
+
+おまかせ強化条件=Condiciones de mejora automática
+キャラLv/スキルLv強化=Nv. personaje/Nv. habilidad
+装備を装着=Equipar
+原鉱を消費=Usar Mineral
+装備Lv強化=Refinar
+ランクアップ条件=Condiciones de subida de rango
+上限消費500,000,000まで=Máx. hasta 500.000.000.
+
+まとめておまかせ強化で一度に強化できるキャラ上限に達しました。=Se ha alcanzado el límite de personajes que se pueden mejorar a la vez con la mejora múltiple automática.
+
+一度に強化できるキャラ上限に達しました。=Se ha alcanzado el límite de personajes que se pueden mejorar a la vez.
+おまかせ強化対象キャラ=Personaje a mejorar
+まとめておまかせ強化確認=Confirmación de mejora
+
+最大強化=Máx.
+未装備スロットに装備=Equipar en\nranuras vacías
+キャラLvとスキルLv強化=Nv. de personaje y de habilidad
+装備を最大強化=Refinamiento máx. de equipo
+おまかせ強化の条件を設定します。=Configura las condiciones de mejora automática.
+おまかせ強化条件設定=Ajustes de condiciones de mejora automática
+設定を変更しました。=Los ajustes se han cambiado.
+
+まとめておまかせ強化完了=Mejora múltiple automática completada
+以下のキャラのおまかせ強化が完了しました。=La mejora del personaje se ha completado.
+
+装備/強化対象の装備アイテム=Objeto de equipo a equipar/refinar
+グロウスフィア使用済みキャラが選択されています。=Se ha seleccionado un personaje que ya ha usado una Esferacrecimiento.
+まとめておまかせ強化キャラ詳細=Detalles de personajes para mejora múltiple automática
+
+まとめておまかせ強化を利用すれば、多くのキャラをよりお手軽に強化できるようです。強化条件を設定し、キャラをさらに強くしてみましょう。=Parece que puedes mejorar varios personajes más cómodamente usando la mejora múltiple. Configura las condiciones a tu gusto y haz a tus aliados aún más fuertes.
+まとめておまかせ強化では、多くのキャラを一括でおまかせ強化ができる\n上に、強化の条件を細かく設定可能でございます。=En la mejora automática, puedes mejorar varios personajes colectivamente y también configurar condiciones de mejora detalladas.
+
+まとめておまかせランクアップは、多くのキャラを一括でランクアップで\nきるようです。主さま、この機能をしっかり使いこなし、共に成長してま\nいりましょう。=La subida de rango colectiva permite subir de rango a varios personajes a la vez. Mi señor, aprovechemos esta función y crezcamos juntos.
+ランクアップの条件を設定します。=Configura las condiciones para subir de rango.
+ランクアップ条件設定=Ajustes de condiciones de subida de rango
+
+アイテム、もしくはマナが不足しているため強化できません。=No se puede mejorar por falta de objetos o mana.
+
+強化条件=Condiciones de mejora
+選択したキャラをまとめて強化します。=Mejora todos los personajes seleccionados a la vez.
+r:"^RANK (\d+)までランクアップ$"=Subir de rango hasta RANGO $1
+まとめて強化可能なキャラがいません。=No hay personajes que se puedan mejorar en lote.
+まとめて強化を利用すれば、一度に多くのキャラを強化できるようです。\nまとめておまかせ強化を行うか、まとめておまかせランクアップを行うか\n選び、キャラをさらに強くしてみましょう。=Usando la mejora múltiple, parece que puedes mejorar varios personajes a la vez. Elige entre realizar varias mejoras automáticas o varias subidas de rango y potencia aún más a tus personajes.

@@ -1,0 +1,366 @@
+ジオ・ゲヘナの植物採取=Recolección de plantas de Gio Gehenna
+次のターン、\nカテゴリーの料理をそれぞれ1品ずつ\n食べることができる。=Durante el siguiente turno, puedes comer un plato de cada categoría.
+「移動系」= 
+「補助系」= 
+「特殊系」= 
+
+スキップ報酬=Recompensa de Omisión
+参加報酬を入手しました。=Se obtuvo la tarifa de participación.
+獲得マイルアップ効果を適用しました。=Se aplicó el efecto de aumento de millas obtenidas.
+ミニゲームをスキップして、以下のアイテムを獲得しました。=Omite el minijuego para obtener los siguientes objetos:
+
+トレジャーマス=Casillas de Tesoro
+マイルマス=Casillas de Millas
+ショップマス=Casillas de Tienda
+
+【料理】移動時に料理マスをスキップできる=[Plato] Omitirás las Casillas de Comida al moverte.
+
+sr:"^(\d)ターンの間、すべての「(.+)」をランク(\d)の「(.+)」に変化させる。$"=Durante $1 turnos, todos los $2 se transforman en $4 de Rango $3.
+
+出たダイスの目が奇数だった場合、+1進める=Si los dados sacan un número impar, puedes mover 1 casilla extra.
+
+
+【仲間】出たダイスの目が奇数だった場合、1マス分多く進める=[Aliado] Si los dados sacan un número impar, puedes mover 1 casilla extra.
+【仲間】出たダイスの目が奇数だった場合、+1進める=[Aliado] Si los dados sacan un número impar, puedes mover 1 casilla extra.
+
+このターンに振るダイスの目が必ず「1」になる。=Sacarás un 1 garantizado este turno.
+このターンに振るダイスの目が必ず「2」になる。=Sacarás un 2 garantizado este turno.
+このターンに振るダイスの目が必ず「3」になる。=Sacarás un 3 garantizado este turno.
+このターンに振るダイスの目が必ず「4」になる。=Sacarás un 4 garantizado este turno.
+このターンに振るダイスの目が必ず「5」になる。=Sacarás un 5 garantizado este turno.
+このターンに振るダイスの目が必ず「6」になる。=Sacarás un 6 garantizado este turno.
+このターンに振るダイスの目が必ず「7」になる。=Sacarás un 7 garantizado este turno.
+このターンに振るダイスの目が必ず「8」になる。=Sacarás un 8 garantizado este turno.
+r:"^このターンに振るダイスの目が必ず「(\d+)」になる。$"=Sacarás un $1 garantizado este turno.
+
+\nミニゲームをスキップしますか？\nプレイ報酬の代わりにマイルが獲得できます。=¿Te gustaría omitir el minijuego?\nEn lugar de recompensas, recibirás millas.
+
+---Nombres de platos---
+
+
+
+---Rojo---
+ペコリーヌの満腹ツインおにぎり=Onigiri Gemelo Saciante de Pecorine
+コッコロのゆるりと休憩サラダ=Ensalada Relajante de Kokkoro
+キャルの絶品五つ星バーガー=Hamburguesa 5 Estrellas Deliciosa de Kyaru
+リリのコツコツまい進かしわ餅=Mochi de Kashiwa Constante de Riri
+プレシアの食いしん坊ぶーぶー肉まん=Bollo de Cerdo Glotón Bu-Bu de Precia
+クローチェのフルパワーポテトサラダ=Ensalada de Papa a Plena Potencia de Croce
+リマの不思議なスイートアップル=Manzana Dulce Misteriosa de Rima
+ニノンのオリジナル一二三寿司=Sushi Hifumi Original de Ninon
+クレジッタの開運お菓子盛り合わせ=Plato de Dulces de la Suerte de Creditta
+リノの「時は金時」かき氷=Hielo Raspado "El Tiempo es Oro" de Rino
+シズルの愛情\n盛り盛りハンバーグ=Hamburguesa de Carne\nCargada de Amor de Shizuru
+アオイの疾走サンドイッチ=Sándwich Veloz de Aoi
+クウカの緊縛触手活け造り=Pulpo Vivo Atado de Kuuka
+クレジッタの開運お菓子盛り合わせ=Plato de Dulces de la Suerte de Creditta
+ジータのグリルド・グラッジチャンク=Grudge Chunk a la Parrilla de Djeeta
+グレイスの目ん玉飛び出るカップケーキ=Pastelillo de Ojos Saltones de Grace
+ホウオウの食べる権利をあげます！饅頭="¡Te Doy el Derecho de Comerme!" Manjuu  
+
+アキノのゲヘニアンチキンプレート=Plato de Pollo Gehenniano de Akino
+ユイの栄養満点まごころ弁当=Lonchera Nutritiva de Corazón de Yui
+リンのナッツ入りぐうたらあんパン=Anpan Perezoso con Nueces de Rin
+シェフィの氷晶煌めく手作りアイス=Helado Casero de Cristal de Hielo Brillante de Sheffy
+次に振るダイスの目が「1・2」のみになる\n代わりに、その場で福引券を3枚獲得する。=Sacarás un 1 o 2 este turno.\nA cambio, recibe instantáneamente 3 boletos de lotería.
+
+イリヤの†ブラッディ†トマトジュース=Jugo de Tomate Sangriento de Illya
+アリサがお届け♪リノセウスの包み焼き=Arisa entrega♪ Rinoceronte envuelto y horneado
+魔法少女ナナカちゃんウエハース=Barquillos de la Chica Mágica Nanaka
+マツリの活力源～騎士団遠征プレート～=Fuente de Energía de Matsuri ~Plato de Expedición de los Caballeros~
+
+---Amarillo----
+アヤネとクルミの青空ピクニックセット=Set de Picnic de Cielo Azul de Ayane y Kurumi
+カヤとイノリの食欲倍増ケバブサンド=Sándwich Kebab que Duplica el Apetito de Kaya e Inori
+タマキの金運招くレインボーたい焼き=Taiyaki Arcoíris de la Fortuna de Tamaki
+ランファの世話焼き三昧肉じゃが=Estofado de Carne y Papa de Ranpha
+---Verde---
+クリアの彩り華やかバラエティ弁当=Lonchera Variada Colorida de Quria
+ワカナの節約腹八分目カレー=Curry de Porción Adecuada de Wakana
+アンナの煉獄蕃茄煮混沌卵=Estofado de Tomate Infernal con Huevos Caóticos de Anna
+ミソラの\n気まぐれ味噌ラーメン★=Ramen de Miso Caprichoso de Misora★
+ソノの今日は特別ご褒美オムライス=Omurice de Recompensa Especial de Hoy de Sono
+
+---Efectos de platos---
+---Rojo---
+次に振るダイスが2個に増える。出目の合計の数だけ進める。=Lanzarás 2 dados este turno y te moverás tantas casillas como su suma.
+次に振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。=Sacarás un 1 garantizado este turno. El contador de turnos no aumentará.
+次に振るダイスの目が必ず「2」になる。さらに、次のターン数のカウントをスキップする。=Sacarás un 2 garantizado este turno. El contador de turnos no aumentará.
+次に振るダイスの目が必ず「3」になる。さらに、次のターン数のカウントをスキップする。=Sacarás un 3 garantizado este turno. El contador de turnos no aumentará.
+
+このターンに振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。=Sacarás un 1 garantizado este turno. El contador de turnos no aumentará.
+このターンに振るダイスの目が必ず「2」になる。さらに、次のターン数のカウントをスキップする。=Los ojos del dado siempre serán 2 este turno. Además, omite el conteo del siguiente turno.
+このターンに振るダイスの目が必ず「3」になる。さらに、次のターン数のカウントをスキップする。=Los ojos del dado siempre serán 3 este turno. Además, omite el conteo del siguiente turno.
+
+[3C404E]このターンに振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Sacarás un 1 garantizado este turno. El contador de turnos no aumentará.[-]
+[3C404E]このターンに振るダイスの目が必ず「2」になる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Los ojos del dado siempre serán 2 este turno. Además, omite el conteo del siguiente turno.[-]
+[3C404E]このターンに振るダイスの目が必ず「3」になる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Los ojos del dado siempre serán 3 este turno. Además, omite el conteo del siguiente turno.[-]
+
+
+次に振るダイスの目が必ず「2」になる。=Sacarás un 2 garantizado este turno.
+次に振るダイスの目が必ず「3」になる。=Sacarás un 3 garantizado este turno.
+次に振るダイスの目が必ず「5」になる。=Sacarás un 5 garantizado este turno.
+次に振るダイスの目が必ず「6」になる。=Sacarás un 6 garantizado este turno.
+次に振るダイスの目が必ず「7」になる。=Sacarás un 7 garantizado este turno.
+次に振るダイスの目が必ず「8」になる。=Sacarás un 8 garantizado este turno.
+次に振るダイスの目が必ず「9」になる。=Sacarás un 9 garantizado este turno.
+r:"^ダイスを(\d)回振るまでの間、ダイスの目が必ず「(\d)」になる。$"=Sacarás un $2 garantizado durante los próximos $1 turnos.
+
+アネモネの花爛漫ステーキサラダ=Ensalada de Bistec de Flores de Anemone
+次に振るダイスの目が「1・2」のみになる代わりに、その場で福引券を3枚獲得する。=Sacarás un 1 o 2 este turno.\nA cambio, recibe instantáneamente 3 boletos de lotería.
+このターンに振るダイスの目が「1・2」のみになる代わりに、その場で福引券を3枚獲得する。=Sacarás un 1 o 2 este turno.\nA cambio, recibe instantáneamente 3 boletos de lotería.
+次に振るダイスの目が「4・5・6」のみになる。=Sacarás un 4, 5 o 6 el próximo turno.
+このターンに振るダイスの目が「4・5・6」のみになる。=Sacarás un 4, 5 o 6 este turno.
+このターンに振るダイスの目が「1・6・6・6・8・8」になる。=Sacarás un 1, 6, 6, 6, 8 u 8 este turno.
+[3C404E]このターンに振るダイスの目が「1・2」のみになる代わりに、その場で福引券を3枚獲得する。=Sacarás un 1 o 2 este turno.\nA cambio, recibe instantáneamente 3 boletos de lotería.
+[3C404E]このターンに振るダイスの目が「4・5・6」のみになる。=Sacarás un 4, 5 o 6 este turno.
+[3C404E]このターンに振るダイスの目が「1・6・6・6・8・8」になる。=Sacarás un 1, 6, 6, 6, 8 u 8 este turno.
+
+次に振るダイスの目を必ず「3」に、その次に振るダイスの目を必ず「6」にする。=Sacarás un 3 garantizado este turno. Luego, un 6 garantizado el turno siguiente.
+このターンに振るダイスの目を必ず「3」に、その次に振るダイスの目を必ず「6」にする。=Sacarás un 3 garantizado este turno. Luego, un 6 garantizado el turno siguiente.
+このターンに振るダイスの目を必ず「2」に、次のターンに振るダイスの目を必ず「7」にする。=Sacarás un 2 garantizado este turno. Luego, un 7 garantizado el turno siguiente.
+
+r:"^このターンに振るダイスの目を必ず「(\d)」に、次のターンに振るダイスの目を必ず「(\d)」にする。$"=Sacarás un $1 garantizado este turno. Luego, un $2 garantizado el turno siguiente.
+
+
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次に振るダイスの目を必ず「8」に、その次に振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【No sobrescribible】[-]Sacarás un 8 garantizado este turno. Luego, un 1 garantizado el turno siguiente.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で2000マイルを獲得する。[-]=[3C404E][FF7C4E,D62146]【No sobrescribible】[-] A cambio de no poder comer comida de la categoría [Movimiento] el próximo turno, gana 2,000 millas en el acto.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次に振るダイスの目を必ず「6」に、その次に振るダイスの目を必ず「3」にする。[-]=[3C404E] [FF7C4E,D621466]【No sobrescribible】[-]Sacarás un 6 garantizado este turno. Luego, un 3 garantizado el turno siguiente.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「12」に、次とさらにその次のターンに振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【No sobrescribible】[-] Sacarás un 12 garantizado este turno. Luego, un 1 garantizado durante los próximos 2 turnos. [-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「8」に、次のターンに振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【No sobrescribible】[-]Sacarás un 8 garantizado este turno. Luego, un 1 garantizado el turno siguiente.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「6」に、次のターンに振るダイスの目を必ず「3」にする。[-]=[3C404E] [FF7C4E,D621466]【No sobrescribible】[-]Sacarás un 6 garantizado este turno. Luego, un 3 garantizado el turno siguiente.[-]
+
+
+次に振るダイスの目を必ず「2」に、その次に振るダイスの目を必ず「7」にする。=Sacarás un 2 garantizado este turno. Luego, un 7 garantizado el turno siguiente.
+次に振るダイスの目が「1・2・3」のみになる。さらに、次のターン数のカウントをスキップする。=Sacarás un 1, 2 o 3 este turno.\nEl conteo de turnos se omitirá.
+マイルマスをスキップして移動できる。効果は2ターンの間継続する。=Omitirás las Casillas de Millas al moverte. Este efecto dura 2 turnos.
+次にダイスを振った際、1マス多く進める。=Puedes mover 1 casilla extra el próximo turno.
+次にダイスを振った際、2マス多く進める。=Puedes mover 2 casillas extra el próximo turno.
+次にダイスを振った際、3マス多く進める。=Puedes mover 3 casillas extra el próximo turno.
+次にダイスを振った際、4マス多く進める。=Puedes mover 4 casillas extra el próximo turno.
+次にダイスを振った際、5マス多く進める。=Puedes mover 5 casillas extra el próximo turno.
+次にダイスを振った際、6マス多く進める。=Puedes mover 6 casillas extra el próximo turno.
+次にダイスを振った際、7マス多く進める。=Puedes mover 7 casillas extra el próximo turno.
+次にダイスを振った際、8マス多く進める。=Puedes mover 8 casillas extra el próximo turno.
+---Amarillo---
+マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANKが1つ上がる。効果は対象のマスに計2回止まるまで継続する。=El RANGO de todas las "Casillas de Millas", "Casillas de Tesoro" y "Casillas de Tienda" aumentará en 1. Este efecto durará hasta que te detengas en una casilla relevante mencionada anteriormente un total de 2 veces. 
+マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANK\nが1つ上がる。効果は対象のマスに計1回止まるまで継続する。=El RANGO de todas las "Casillas de Millas", "Casillas de Tesoro" y "Casillas de Tienda" aumentará en 1. Este efecto durará hasta que te detengas en una casilla relevante mencionada anteriormente un total de 2 veces. 
+次にマイルマスに止まった際の獲得マイルが200%アップする。=Obtendrás un 200% más de Millas en la próxima Casilla de Millas en la que te detengas.
+---Verde---
+ランダムなイベントを発生させる。=Obtendrás un evento aleatorio el próximo turno.
+
+現在、移動系カテゴリの料理は食べられません。=Ahora mismo no puedes comer un plato de Movimiento.
+---Efectos---
+【料理】=[Cocina] 
+【イベント】=[Evento] 
+【仲間】=[Amigo] 
+
+発動中の効果一覧=Lista de Efectos Activos
+ダイス 残り3回=3 Tiradas Restantes
+ダイス 残り2回=2 Tiradas Restantes
+ダイス 残り1回=1 Tirada Restante
+次に開いたマイルショップで全商品が20%以上割引される。=La próxima vez que se abra la Tienda de Millas, todos los artículos tendrán al menos un 20% de descuento.
+sr:"^(【料理】|【イベント】|【仲間】|)ミニゲームの獲得マイルが(\d+)%アップする。?$"=$1Aumenta la obtención de Millas del Minijuego en un $2%.
+sr:"^(【料理】|【イベント】|【仲間】|)マイルマスの獲得マイルが(\d+)%アップする。?$"=$1Aumenta las Millas obtenidas de las Casillas de Millas en un $2%.
+sr:"^(【料理】|【イベント】|【仲間】|)マイルショップの全商品が(\d+)%以上割引される。?$"=$1Todos los artículos de la Tienda de Millas tendrán al menos un $2% de descuento.
+sr:"^(【料理】|【イベント】|【仲間】|)ダイスが(\d)個に増える。?$"=$1Lanza $2 dados en la próxima tirada.
+sr:"^(【料理】|【イベント】|【仲間】|)ダイスの目が必ず「(\d)」になる。?$"=$1Sacarás un $2 garantizado el próximo turno.
+sr:"^(【料理】|【イベント】|【仲間】|)ダイスの目が1回目は必ず「(\d)」に、2回目は必ず「(\d)」になる。?$"=$1Sacarás un $2 garantizado el próximo turno. Luego, un $3 garantizado el turno siguiente.
+sr:"^(【料理】|【イベント】|【仲間】|)ダイスの目が「(\d)・(\d)・(\d)」のみになる。?$"=$1Sacarás un $2, $3 o $4 el próximo turno.
+sr:"^(【料理】|【イベント】|【仲間】|)次回移動時に(\d)マス分多く進める。?$"=$1Puedes mover $2 casillas extra el próximo turno.
+sr:"^(【料理】|【イベント】|【仲間】|)福引券を(\d)枚入手する。?$"=$1Adquirir $2 boleto(s) de lotería
+福引券を1枚獲得する。=Adquirir 1 boleto de lotería.
+福引券を2枚獲得する。=Adquirir 2 boletos de lotería.
+福引券を3枚獲得する。=Adquirir 3 boletos de lotería.
+2ターンの間ターン数のカウントを\nスキッ\rプする。=Omite el conteo de turnos durante 2 turnos.
+r:"^(\d)/(\d)食事済$"=$1/$2 Comidas
+これ以上料理を食べられません。=No puedes comer más comida.
+
+【料理】次のターン数のカウントをスキップする=[Cocina] El conteo de turnos se omitirá.
+【料理】「マイルマス」「トレジャーマス」「ショップマス」のRANKが1つ上がる=[Cocina] El RANGO de las Casillas de Millas, Tesoro y Tienda aumentó en 1.
+【料理】移動時にマイルマスをスキップできる=[Cocina] Omite las Casillas de Millas al moverte.
+【料理】移動系カテゴリーの料理が食べられなくなる=[Cocina] No podrás comer comida de la categoría Movimiento.
+【料理】移動時に「マイルマス」「トレジャーマス」をスキップできる=[Cocina] Omite las Casillas de Millas y Tesoro al moverte.
+【料理】移動時にトレジャーマスをスキップできる=[Cocina] Omite las Casillas de Tesoro al moverte
+【料理】「マイルマス」を「トレジャーマス」に変化させる=[Cocina] Convierte las Casillas de Millas en Casillas de Tesoro
+
+【料理】移動時に「ショップマス」「ミニゲームマス」「イベントマス」をスキップできる=[Cocina] Te permite omitir "Casillas de Tienda", "Casillas de Minijuego" y "Casillas de Evento" al moverte
+
+
+
+---Sub-efectos---
+r:"^([0-9,.]+)マイルを獲得する。?$"=Adquirir $1 millas.
+r:"^RANK(\d+)のマイルショップを開く。$"=Abrir una tienda de millas de RANGO$1.
+sr:"^(.+)を([0-9,.]+)個獲得する。$"=Obtener $2 x $1.
+sr:"^(.+)を([0-9,.]+)個獲得…$"=Obtener $2 x $1.
+
+---Textos de confirmación de sobrescritura, porque tienen códigos de color grises... No se pudieron probar todos, se excluyó el no sobrescribible, se probará sobre la marcha---
+---Rojo---
+[90A0BC]マイルマスをスキップして移動できる。効果は2ターンの間継続する。[-]=[90A0BC]Omitirás las Casillas de Millas al moverte. Este efecto dura 2 turnos.[-]
+[90A0BC]次に振るダイスが2個に増える。出目の合計の数だけ進める。[-]=[90A0BC]Lanza dos Dados este turno y muévete igual a la suma de las dos tiradas.[-]
+[90A0BC]次に振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。[-]=[90A0BC]Sacarás un 1 garantizado este turno. El conteo de turnos se omitirá.[-]
+[90A0BC]次に振るダイスの目が必ず「5」になる。[-]=[90A0BC]Sacarás un 5 garantizado el próximo turno.[-]
+[90A0BC]ダイスを3回振るまでの間、ダイスの目が必ず「4」になる。[-]=[90A0BC]Sacarás un 4 garantizado durante los próximos 3 turnos.[-]
+[90A0BC]次に振るダイスの目が「4・5・6」のみになる。[-]=[90A0BC]Sacarás un 4, 5 o 6 el próximo turno.[-]
+[90A0BC]次に振るダイスの目を必ず「3」に、その次に振るダイスの目を必ず「6」にする。[-]=[90A0BC]Sacarás un 3 garantizado este turno. Luego, un 6 garantizado el turno siguiente.[-]
+[90A0BC]次に振るダイスの目を必ず「2」に、その次に振るダイスの目を必ず「7」にする。[-]=[90A0BC]Sacarás un 2 garantizado este turno. Luego, un 7 garantizado el turno siguiente.[-]
+[90A0BC]次に振るダイスの目が「1・2・3」のみになる。さらに、次のターン数のカウントをスキップする。[-]=[90A0BC]Sacarás un 1, 2 o 3 este turno. El conteo de turnos se omitirá.[-]
+[90A0BC]トレジャーマスをスキップして移動できる。効果は3ターンの間継続する。[-]=[90A0BC]Omitirás las Casillas de Tesoro al moverte. Este efecto dura 3 turnos.[-]
+
+[3C404E]マイルマスをスキップして移動できる。効果は2ターンの間継続する。[-]=[3C404E]Omitirás las Casillas de Millas al moverte. Este efecto dura 2 turnos.[-]
+[3C404E]次に振るダイスが2個に増える。出目の合計の数だけ進める。[-]=[3C404E]Lanza dos Dados este turno y muévete igual a la suma de las dos tiradas.[-]
+[3C404E]次に振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Sacarás un 1 garantizado este turno. El conteo de turnos se omitirá.[-]
+[3C404E]次に振るダイスの目が必ず「5」になる。[-]=[3C404E]Sacarás un 5 garantizado el próximo turno.[-]
+[3C404E]ダイスを3回振るまでの間、ダイスの目が必ず「4」になる。[-]=[3C404E]Sacarás un 4 garantizado durante los próximos 3 turnos.[-]
+[3C404E]次に振るダイスの目が「4・5・6」のみになる。[-]=[3C404E]Sacarás un 4, 5 o 6 el próximo turno.[-]
+[3C404E]次に振るダイスの目を必ず「3」に、その次に振るダイスの目を必ず「6」にする。[-]=[3C404E]Sacarás un 3 garantizado este turno. Luego, un 6 garantizado el turno siguiente.[-]
+[3C404E]次に振るダイスの目を必ず「2」に、その次に振るダイスの目を必ず「7」にする。[-]=[3C404E]Sacarás un 2 garantizado este turno. Luego, un 7 garantizado el turno siguiente.[-]
+[3C404E]このターンに振るダイスの目が「1・2・3」のみになる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Sacarás un 1, 2 o 3 este turno. El conteo de turnos se omitirá.[-]
+[3C404E]トレジャーマスをスキップして移動できる。効果は3ターンの間継続する。[-]=[3C404E]Omitirás las Casillas de Tesoro al moverte. Este efecto dura 3 turnos.[-]
+出目が固定されているため振りなおせません。=No puedo relanzar porque el punto de partida está fijo.
+---Amarillo---
+[90A0BC]マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANKが1つ上がる。効果は対象のマスに計2回止まるまで継続する。[-]=[90A0BC]El RANGO de todas las Casillas de Millas, Tesoro y Tienda aumentará en 1. Este efecto durará hasta que te detengas en una casilla relevante mencionada anteriormente un total de 2 veces. [-]
+[90A0BC]次にマイルマスに止まった際の獲得マイルが200%アップする。[-]=[90A0BC]Obtendrás un 200% más de Millas en la próxima Casilla de Millas en la que te detengas.[-]
+[3C404E]マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANKが1つ上がる。効果は対象のマスに計2回止まるまで継続する。[-]=[3C404E]El RANGO de todas las Casillas de Millas, Tesoro y Tienda aumentará en 1. Este efecto durará hasta que te detengas en una casilla relevante mencionada anteriormente un total de 2 veces. [-]
+[3C404E]次にマイルマスに止まった際の獲得マイルが200%アップする。[-]=[3C404E]Obtendrás un 200% más de Millas en la próxima Casilla de Millas en la que te detengas.[-]
+---Verde---
+[90A0BC]ランダムなイベントを発生させる。[-]=[90A0BC]Obtendrás un Evento aleatorio el próximo turno.[-]
+[90A0BC]ダイスを3回振るまでの間、「5と6」の⽬が出る確率が3倍になる。[-]=[90A0BC]Las probabilidades de sacar un 5 o 6 se triplican[-]
+[3C404E]ランダムなイベントを発生させる。[-]=[3C404E]Obtendrás un Evento aleatorio el próximo turno.[-]
+[3C404E]ダイスを3回振るまでの間、「5と6」の⽬が出る確率が3倍になる。[-]=[3C404E]Las probabilidades de sacar un 5 o 6 se triplican[-]
+ダイスを3回振るまでの間、「5と6」の⽬が出る確率が3倍になる。=Durante las próximas tres tiradas, la probabilidad de sacar un 5 o 6 se triplica.
+【料理】ダイスの「5と6」の目が出る確率が3倍になる=【Cocina】 Las probabilidades de sacar un 5 o 6 se triplican
+
+一定の経過ターン以内にチェックポイントを通過すると\n豪華なアイテムが手に入ります!=¡Pasa un punto de control dentro de cierta cantidad de turnos para obtener objetos extravagantes!
+
+---Descripciones de platos---
+マイルを消費してガチャを引くことができます。=Puedes usar millas para tirar del gacha.
+ガチャマス=Casilla de Gacha
+トレジャーマスをスキップして移動できる。効果は3ターンの間継続する。=Omitirás las Casillas de Tesoro al moverte. Este efecto dura 3 turnos.
+
+綺麗な装飾箱に納められたボンボン・ショコラ。そのほろ苦さを秘めた濃密な甘さが灰色の脳細胞に働きかける時、名探偵の鋭い推理が隠された謎を全て白日の下へと晒し、事件を解決へ導く。=Un set de bombones de chocolate, colocados en una caja bellamente decorada. A medida que su sabor decadente con un final agridulce estimula la materia gris del cerebro, el agudo razonamiento del gran detective saca a la luz todos los misterios, llevando a la resolución del caso.
+
+
+2ターンの間ターン数のカウントをスキップする。=Omite el conteo de turnos durante 2 turnos.
+【イベント】次のターン数のカウントをスキップする=[Evento] Omite el conteo del siguiente turno
+
+---Rojo---
+ミミが、ジオ・ゲヘナで助けてくれたお姉さん達のことを思い作ったおにぎり。それぞれ異なる味付けがされているが、ミミの願い通りお互いにケンカをせず仲良くハーモニーを奏でている。=Mimi hizo estas bolas de arroz en memoria de las hermanas mayores que la ayudaron en Gio Gehenna. Cada una tiene un sabor único, pero tal como Mimi deseó, ninguna bola de arroz domina a las demás, formando una armonía maravillosa juntas.
+
+アキノがジオ・ゲヘナで仕入れてきたスパイスを\n使用した、お洒落で豪華なチキンプレート。牧場\n特製ヨーグルトソースと奏でる刺激的な味わいは\nまさに二つの世界の奇跡のマリアージュである。=Un plato de pollo elegante y lujoso hecho con especias que Akino consiguió en Gio Gehenna. El sabor estimulante del pollo combinado con la salsa de yogur especial del rancho hace una unión milagrosa de dos mundos.
+
+アオイがお弁当として作ったエルフ伝統の野菜サンド。一緒についてきてくれる最高の友だちの助言により、どんなに深い森の中でも全速力で駆け抜けることができるらしい。（アオイ談）=Un sándwich de verduras tradicional élfico que Aoi hizo para el almuerzo. Gracias al consejo de su mejor amiga, puede correr tan rápido como quiera, sin importar lo profundo que sea el bosque. (Según Aoi)
+
+数多くのドM妄想をしてきたクウカの中で最近のマイブームである触手をモチーフとした活造り。新鮮な蛸足が、濃厚なうま味と共に物理的に絡み付き身も心も縛りあげられる様な体験ができる。=De otra de las fantasías masoquistas de Kuuka surge este plato tipo sashimi con un toque de pulpo. El retorcerse de los tentáculos frescos combinado con su rico sabor umami hace una experiencia que atrapa tanto el cuerpo como el alma.
+
+ペコリーヌが丹精込めて握った特大おにぎり。ごはんは命のエネルギーを体現しているらしい。普通の人が満腹に感じる量の倍のサイズの中に最高級の具を閉じ込めた【美食殿】らしい一品。=El onigiri de gran tamaño meticulosamente elaborado por Pecorine. Se dice que el arroz encarna la energía de la vida. Un plato típico del【Gremio Gourmet】, que encierra los mejores ingredientes en una porción del doble de lo que una persona normal consideraría saciante.
+
+コッコロが皆のことを思って用意したサラダ。\n栄養バランスも考えられたうえに腹持ちもよく\n味だけではなく見た目にも気を配られている。\n冒険への活力を与えてくれる慈愛溢れる一品。=Una ensalada que Kokkoro preparó pensando en todos. Es una mezcla extremadamente delicada pero satisfactoria de presentación, nutrición y sabor. Un plato de compasión desbordante que imparte toda la energía necesaria para la aventura.
+
+キャルが食べたい物を挟み込んだハンバーガー。香ばしいパンとお肉の香りが食欲を刺激する。魔物でない素材で作られた、冒険中に食べるにはゴージャスすぎる一品、とキャルは信じている。=Una hamburguesa con los ingredientes favoritos de Kyaru. El aroma de los panes tostados y la carne abre el apetito. Al ser un plato hecho enteramente con ingredientes que no son de monstruos, Kyaru cree que es un desperdicio comer una comida tan lujosa en el camino.
+
+リリが作った柏餅……の中でも、上手く作れた選りすぐりの品。最高の素材を使用した上、失敗した分はリリが自分で食べてしまったため単価でみるとかなりの高級品となっている。=El mejor kashiwa-mochi de Riri... entre los que hizo. Además del uso de ingredientes de primera clase, Riri se come cualquier intento fallido ella misma, lo que lo convierte en un plato muy costoso por unidad. 
+
+プレシアが選び抜いた具を詰め込んだ肉まん。\n彼女の希望で、通常の肉まんの数倍のサイズに\nなっている。味もボリュームも満点でハッピー\n間違いなしですよ♪とは調理担当クリアの談。=Un bollo de cerdo al vapor relleno con ingredientes elegidos por Precia. A petición suya, es varias veces más grande que un bollo normal. Según Quria, la chef a cargo; el sabor y el volumen son increíbles, la satisfacción está casi garantizada♪
+
+クローチェがフルパワーで作ったポテトサラダ。本来はガレットを作ろうとしたが、うっかり握り潰してしまったため、軌道修正して仕上げた一品。経緯はともかく味は非常に美味である。=Esta ensalada de papa fue hecha por Croce a plena potencia. Su intención era hacer una galette de papa, pero accidentalmente la aplastó, así que cambió de rumbo e hizo esto en su lugar. Independientemente de lo que pasó, sigue siendo muy sabrosa.
+
+リマがネネカにもらったリンゴで作った秘密の\nスイーツ。爽やかな酸味と濃厚な甘さがまるで\n魔法のようなバランスでお互いを引きたてており\n食べた者をたちまち虜にしてしまうという。=Un postre secreto hecho con una manzana que Rima recibió de Neneka. La acidez refrescante y la dulzura rica se complementan formando un equilibrio verdaderamente mágico, cautivando instantáneamente a cualquiera que le dé un mordisco.
+
+クレジッタが考案した、ジオ・テオゴニアで流通\nしているチョコの貨幣の盛り合わせ。一見すると\n金貨を口に入れるおバカさんではあるが、通貨を\n食べるという背徳感が隠し味となっている。=Una variedad de monedas de chocolate en circulación dentro de Gio Teogonia, inventada por Creditta. A primera vista, parece tonto comer tu propio dinero, pero el sentimiento de inmoralidad que viene con consumir moneda hace un sabor adquirido.
+
+ニノンがジオ・テオゴニアに持ち込んだ特別な\n寿司。厳選された新鮮な魚介を使った逸品だが、\n一部のネタは、寿司のセオリーを逸脱したニノン\n我流のものに仕上がっている。=Un sushi especial que Ninon trajo a Gio Teogonia, solo se usaron los mariscos más frescos en su creación. En última instancia, sin embargo, es su uso poco convencional de ingredientes alternativos lo que eleva este plato a una obra maestra.
+
+可愛い妹がお兄ちゃんのために心を込めて作った\nスペシャルなかき氷。一口食べるとたちどころに\nクールな甘さが精神を研ぎ澄まし、いかなる\nお得をも見逃さない要塞賢母と化すという。=Una porción especial de hielo raspado hecha con pasión ardiente, de una adorable hermanita para su querido hermano mayor. Solo un bocado y la dulzura fría que derrite el corazón agudizará tus sentidos, convirtiéndote en una verdadera fuente de sabiduría que nunca pierde una ganga.
+
+お姉ちゃんが弟くんのために心を込めて作った\nスペシャルなハンバーグ。アツアツの肉汁と共に\n溢れんばかりの愛が詰まっており、一口食べる\nだけで、走り回りたくなるような美味しさ。=Una hamburguesa especial hecha con todo el amor de una hermana mayor para su hermanito. Está llena de amor desbordante, junto con jugos de carne humeantes. Solo un bocado, y es tan deliciosa que querrás correr por ahí.
+
+バンディ・シスターズの昨夜の夕食カレー。作り\n過ぎて食べきれずにいたものをワカナがお裾分け\nしてくれた。寝かされていたためしっかりと味の\n染みた、極上の二日目カレーとなっている。=El curry que las Hermanas Bundy tuvieron para la cena anoche. Wakana hizo demasiado, así que nos dio las sobras que no pudieron comer. Debido a que reposó toda la noche, la profundidad del sabor ha florecido, haciendo este un verdadero curry de segundo día de primera clase.
+ 
+リンからもらった非常食のあんパン。ナッツが\n練り込まれクランチな食感で食べ飽きない。\nゲームのため部屋に引きこもる際のお供であり、\n必要な栄養素が全て賄える完全栄養食、らしい。=Rin nos dio su ración de emergencia de elección: Anpan. Las nueces mezcladas le dan una textura crujiente de la que nunca te cansas. Es el compañero perfecto cuando te encierras en una habitación y juegas, dice que proporciona todos los nutrientes que uno podría necesitar.
+
+シェフィが自身の魔力の氷を使い作ったアイス。\nペコリーヌにねだられて作ったものだがキャル達\nにも好評である。コッコロ曰くひんやりしている\nのに食べると心が温かくなってきます、との事。=Un poco de helado hecho por Sheffy usando su magia de hielo. Lo hizo a petición de Pecorine, pero también fue bien recibido por Kyaru y los demás. Según Kokkoro, "Aunque está tan frío, comerlo solo calienta mi corazón."
+
+---Amarillo---
+イロハの最強クワガタゼリー（人間用）=Gelatina de Escarabajo Definitiva de Iroha (Para Humanos)
+次に振るダイスの目が「1・6・6・6・8・8」になる。=La próxima tirada de dados tendrá estas caras: "1, 6, 6, 6, 8, 8."
+イロハがいつも持ち歩いているカラフルなゼリー…なのだがアルケス錬金堂で作られたクワガタ用餌ゼリーとそっくりな見た目をしている。甘くて美味しいが、人間用か尋ねると目を逸らされる。=Una gelatina colorida que Iroha siempre lleva consigo... pero se ve sospechosamente similar a la comida de escarabajos hecha en el Alces Atelier. Es dulce y sabe bien, pero cuando se le pregunta si realmente es para consumo humano, Iroha desvía la mirada.
+料理マスをスキップして移動できる。効果は2\nターンの間継続する。=Te permite omitir las casillas de comida y avanzar.\nEl efecto dura 2 turnos.
+グレイスお手製のカップケーキ。ショッキングな見た目に全振り…と思わせて目玉も食べることが可能で大変美味…と思わせて一部だけ魂消るほど甘い部分がある。原材料は頑なに秘されている。=El Pastelillo Casero de Grace. A primera vista, su apariencia impactante parece ser el enfoque completo... Pero en realidad, incluso las decoraciones de ojos son comestibles y sorprendentemente deliciosas. Dicho esto, algunas partes son increíblemente dulces hasta el punto de ser abrumadoras. Los ingredientes siguen siendo un secreto celosamente guardado.
+アヤネとクルミが二人で用意した特別なランチバスケット。仲間との冒険への希望が詰まったご機嫌な料理の数々で、道中の様々な出来事が１ランク上のイベントに感じられるようになる。=Ayane y Kurumi han preparado una canasta de picnic especial juntas. Su emoción por este viaje con sus amigos está empaquetada en cada plato delicioso. Comerlos te llena de alegría y asegura que el próximo evento sea un poco más especial.
+
+カヤとイノリが弁当代わりに持ってきたケバブ。イノリ行きつけの店の硬派な味わいで、ギャングとしてのやる気が一人3倍、コンビで6倍となり下剋上を成し遂げるパワーが湧く……らしい。=En lugar de almuerzos típicos, Kaya e Inori trajeron este Kebab del restaurante favorito de Inori. Afirman que el robusto sabor salado les da tres veces la motivación (seis veces como dúo) para seguir adelante y lograr sus objetivos como desvalidos... aparentemente.
+
+タマキたちが『ジオ・テオゴニア』に持ち込んだたい焼きの概念が現地の文化と溶け合い生まれた\n魔改造スイーツ。虹色に輝くその甘さは、実にランドソルのたい焼きの数倍と言われている。=Después de que Tamaki y sus amigos introdujeron el taiyaki en Gio Teogonia, los lugareños tomaron el concepto y lo adaptaron a este dulce mágico. Se dice que este postre iridiscente es varias veces más dulce que el taiyaki de Landosol.
+
+---Verde---
+クリアが朝早くから用意した冒険用のお弁当。おかずは様々でどれも絶品だが、どんなものが入っているかはみんなにも秘密にされているため蓋を開けるまでのお楽しみとなっている。=Quria se despertó muy temprano para preparar esta lonchera para la aventura. Hay una variedad de platos, todos exquisitos, pero su verdadero contenido se mantiene en secreto hasta la hora del almuerzo, haciendo que todos tiemblen de anticipación cuando es hora de abrir la tapa.
+
+
+コッコロの指導により料理の腕を上げたランファ\nが手作りした肉じゃが。まだ改善の余地はある\nものの、不器用なランファが誰かのために積み\n重ねた努力を思うととてもおいしく味わえる。= Después de recibir mucha guía de Kokkoro en las formas de cocinar, Ranpha hizo este estofado casero de carne y papa. Hay margen de mejora, pero saber cuánto esfuerzo puso la típicamente torpe Ranpha por el bien de alguien más llena tu estómago de alegría.
+
+アユミの隠密ガトーインビジブル=Gâteau Invisible Encubierto de Ayumi
+気が付くとリリの手元にあった不思議なお菓子。一見普通のケーキだが、内部に様々な具材が隠れるように入っている。複雑で重層的な味わいを見せる様は、まるで誰かさんのよう。=Antes de que se diera cuenta, Riri encontró un pastel peculiar en sus manos. A primera vista, parece un pastel normal, pero hay una variedad de ingredientes ocultos dentro. Su sabor complejo y de múltiples capas te recuerda a alguien.
+
+「マイルマス」「トレジャーマス」をスキップして移動できる。効果は1ターンの間継続する。=Omitirás las Casillas de Millas y Tesoro al moverte. El efecto dura 1 turno.
+
+アネモネが世話する秘密の菜園の野菜を使ったサラダ。栄養を重視するアネモネは草食獣の肉を野菜と解釈、当初は野菜の上に肉を置いただけであったが、ネラの指導で盛り付け直された。=Una ensalada hecha con verduras del jardín secreto de Anemone. Anemone, que prioriza la nutrición, interpretó la carne de animales herbívoros como una verdura, inicialmente colocando la carne directamente sobre la ensalada. Sin embargo, con la guía de Nera, volvió a emplatar la carne.
+
+
+ジオ・ゲヘナを探索中の冥姫たちが現地で採取したスパイスで味付けした一皿。赤く煮え滾るソースは刺激的かつ非常に奥深い味わいで未知の大地の如く冒険者たちをその深奥へと誘う。=Un plato sazonado con especias recolectadas en el lugar por la Hécate del Vendaval mientras exploraba Gio Gehenna. La salsa roja y burbujeante tiene un sabor estimulante y extremadamente profundo que invita a los aventureros a las profundidades de lo desconocido.
+
+ユイが食べる人のことを考え、心を込めて作ったお弁当。程よいサイズのお弁当箱に愛情と手間暇をたっぷりとかけた極上の料理が詰まっており、食べた者の心と胃袋を優しく満たしてくれる。=Yui hace estas loncheras con cuidado y pensando en la persona que las comerá. La lonchera del tamaño perfecto está llena de comida exquisita, hecha con amor y cuidado, para llenar suavemente el corazón y el estómago de cualquiera que la coma.
+
+ミソラが作ったラーメン。適当に言った好きな物をランファが憶えていたために、材料を用意され仕方なく作ったものだが味はイイコト級の一品。美味しそうに食べられるのは嫌いではない様子。=Un tazón de ramen hecho por Misora. Ranpha recordó un comentario casual que Misora hizo sobre su comida favorita y consiguió los ingredientes, dejando a Misora sin más opción que hacerlo. Contra todo pronóstico, el plato resultó delicioso. No parece importarle ver a otros comerlo tan entusiasmados.  
+
+ソノが作ったオムライス。イロハの大好物であり\n家庭の味。普段は面倒くさがりやらないがイロハ\nが良い子の時はケチャップでクワガタを描いて\nあげている。その時は普段より美味しいらしい。=Un poco de Omurice hecho por Sono, un plato casero que Iroha adora. Es un fastidio hacerlo, así que normalmente lo omite, pero si Iroha ha sido una muy buena chica: le dibujará un escarabajo con ketchup. Aparentemente, se vuelve aún más sabroso cuando hace esto.
+
+ジオ・ゲヘナの空の覇者にして煉華のホウオウが\n己への信仰心を集めるべく作らせたお菓子。中の\n餡はしっとり甘く、上品な味わい。ジオ・ゲヘナ\n銘菓の名を恣にする日も近い、かもしれない。=Un dulce creado por la gobernante de los cielos de Gio Gehenna: ¡El Fénix Caleidoscópico, Ho-oh!.. en un intento de inspirar la fe de otros en ella. La pasta de frijoles del interior es húmeda, dulce y tiene un sabor refinado. El día en que el mejor postre de Gio Gehenna sea conocido por todos puede estar pronto.
+
+
+出たダイスの目が奇数だった場合、\nライバルを1ターン休みにできる=Si el dado tiene un número impar de ojos, puedes darle un turno libre a tu rival
+【仲間】出たダイスの目が奇数だった場合、ライバルを1ターン休みにできる=[Amigo] Si la tirada de dados es un número impar, puedes darle un turno libre a tu rival.
+
+出たダイスの目が偶数だった場合、\n+1進める=Si la tirada de dados es un número par, avanza +1.
+【仲間】出たダイスの目が偶数だった場合、1マス分多く進める=[Amigo] Si la tirada de dados es un número par, avanza una casilla.
+\n「まとめて３個」モードでダイスを振ると、\n出現中の仲間効果は消失します。\nダイスを振ってもよろしいですか？=\nSi lanzas los dados en modo "Tres a la vez",\nlos efectos de compañeros activos desaparecerán. \n¿Estás seguro de que quieres lanzar los dados?
+
+
+
+
+
+
+```
+ユキノ製ごろっと果実のかちこち氷菓子=Golosina de Hielo Sólido de Frutas Grandes de Yukino
+アイラのみんなで飲みたい赤麦しゅわ=Cebada Roja Efervescente de Aira para Todos
+集めたリンゴはマイルと交換させていただきます。金リンゴは、赤リンゴ5個分の価値がありますよ♪さらに宝箱をキャッチすると、トレジャーがGETできます！=Las manzanas recolectadas se pueden intercambiar por Millas. ¡Una Manzana Dorada vale cinco Manzanas Rojas♪ ¡Atrapa cofres del tesoro para obtener tesoros también!
+レイの釣りたて鮮魚七輪塩焼き=Pescado Fresco Recién Pescado de Rei Asado a la Parrilla con Sal
+2ターンの間、すべての「マイルマス」をランク3の「ショップマス」に変化させる。=Durante 2 turnos, todas las "Casillas de Millas" se transforman en "Casillas de Tienda" de Rango 3.
+ヴァンピィちゃんのさいきょースープ=Sopa Definitiva de Vampy-chan
+
+3ターンの間、すべての「マイルマス」をランク3の「トレジャーマス」に変化させる。=Durante 3 turnos, todas las "Casillas de Millas" se transforman en "Casillas de Tesoro" de Rango 3.
+
+ダイスを2回振るまでの間、出る目が「4・5・6」のみになる=Hasta que lances los dados dos veces, solo pueden aparecer "4, 5 o 6".
+[3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「7」に、次のターンに振るダイスの目を必ず「2」にする。[-]=[3C404E][FF7C4E,D62146][No se puede sobrescribir][-]La tirada de dados de este turno está garantizada como "7", y la tirada del próximo turno está garantizada como "2".[-]
+
+この我に店番させるとは…全て買わねば許さぬぞ我が国庫に貢献するが良い=Pensar que me harías atender la tienda... No te perdonaré a menos que compres todo. Contribuye a mi tesorería.
+ギガンティックローチェ、おひとついかがですかっ？格納庫用意して下さいねっ=¿Qué tal un Gigantic Roche? ¡Por favor, prepara un hangar!
+…リマさんのブロマイド？買い取るに決まってらぁ！なんでも持ってけ泥棒っ！=...¿La foto de Rima? ¡Por supuesto que la compraré! ¡Llévate lo que quieras, ladrón!
+アナライズっ！本日のオススメ商品は～…こちらですっ♪=¡Analiza! El producto recomendado de hoy es... ¡este♪
+クルルをお求めですかっ？それならお礼に、こちらの jewels もどうぞですよ～♪=¿Estás buscando a Kururu? Entonces, como agradecimiento, por favor toma estas joyas también~♪
+よぅ！　今日の俺さまは門番じゃなく、店番だぜメモピ～スフィア～てな！=¡Oye! Hoy no soy guardián, soy tendero—Memo-Pi~Esfera~!
+こ、この格好は…ヴルムが集客効果があると言って……本当でしょうか？=E-este atuendo es... Wurm dijo que atraería clientes... ¿Es eso realmente cierto?
+はっ！　ヒーローさんからお代なんて頂けないです！どうぞどうぞ…え、ダメ？=¡Ah! ¡No puedo aceptar pago de un héroe! Por favor, adelante... ¿Eh, no?
+
+
+
+
+
+サレンの思い出ぎっしり焼きそばパン=Pan de Yakisoba Lleno de Recuerdos de Saren
+「ショップマス」「ミニゲームマス」「イベントマス」をスキップして移動できる。効果は3ターンの間継続する。=Te permite moverte omitiendo "Casillas de Tienda", "Casillas de Minijuego" y "Casillas de Evento". El efecto dura 3 turnos.
+サレンが作った思い出の焼きそばパン。どっしりしたボリュームある炭水化物×炭水化物の信頼感で皆を笑顔に変える。専用の皿に盛り付けたら見栄えも十分。カロリーは気にしないのがお作法。=Pan de yakisoba hecho por Saren, lleno de recuerdos. La combinación contundente de carbohidratos × carbohidratos trae sonrisas a todos. Servido en un plato especial, incluso se ve genial. Ignorar las calorías es la etiqueta adecuada.
+マイルマスをスキップして移動できる。効果は3ターンの間継続する。=Te permite moverte omitiendo las Casillas de Millas. El efecto dura 3 turnos.
+アラクネが初めて覚えた料理。周囲の人々が自分より小さいのは小食が理由と思っているらしく、たくさん食べて大きくなってほしいという優しさから、超ボリュームなデカ盛り仕様となった。=El primer plato que Arachne aprendió a hacer. Creyendo que los demás son más pequeños porque comen menos, lo hizo extra grande por bondad, esperando que todos coman mucho y crezcan.
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で…=[3C404E][FF7C4E,D62146][No se puede sobrescribir][-]En lugar de poder comer "platos de la categoría Movimiento" el próximo turno, en el acto...
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で貴重な未鑑定トレジャーを3個獲得する。[-]=[3C404E][FF7C4E,D62146][No se puede sobrescribir][-]En lugar de poder comer "platos de la categoría Movimiento" el próximo turno, obtienes inmediatamente 3 tesoros sin identificar valiosos.[-]
+レイが釣った魚の塩焼き。試行錯誤の末に理想の塩と火の加減にたどり着いた。調理は真剣勝負で釣りと同様、己の心との戦いだという。レイも時々、集中しすぎて仲間に心配されているとか。=Pescado a la parrilla con sal pescado por Rei. Después de mucho ensayo y error, perfeccionó el equilibrio de sal y calor. Cocinar es una batalla seria, igual que pescar: una lucha contra la propia mente. A veces, Rei se concentra tanto que sus compañeros se preocupan por ella.

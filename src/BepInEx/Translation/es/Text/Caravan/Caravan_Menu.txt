@@ -1,0 +1,204 @@
+キャラバン=Caravana
+ボーナス一覧=Lista de Bonos
+経過ターン=Turnos Transcurridos
+
+シーズン最速到達ターン=Turno más rápido de la temporada
+シーズン最速到達記録=Récord Más Rápido de la Temporada
+
+グルメチェイサー号=Gourmet Chaser
+バンディシャーク号=Bandyshark
+追加ボーナス発生中!=¡Bono adicional en curso!
+
+バンディシャーク号との距離=Distancia de Bandyshark
+目標到着ボーナス=Bono de llegada al objetivo
+到着までにかかったターン数=Turnos Totales
+ライバルに勝利=Ganado
+r:"^(\d+)ターン経過$"=$1 Turno(s) transcurridos
+r:"^(\d+)ターン休み$"=$1 Turno(s) de Descanso
+練習する=Practicar
+練習中=Durante la práctica
+ライバル=Rival
+ライバル勝利ボーナス=Bono de victoria contra el rival
+区間スキップ=Omisión de Sección
+シーズン中、チェックポイント到達までにかかった\n最速ターン数に応じてボーナスが獲得できます！=Durante la temporada, ¡puedes ganar bonos según el\nnúmero más rápido de turnos que te tomó llegar a un punto de control!
+
+r:"^ダイスを(\d+)個入手した。$"=Se obtuvieron $1 dados.
+\nマイルを支払って\n「ちかみち」を開通させます。\nよろしいですか？=\nPaga Millas para abrir el Atajo.\n¿Estás seguro?
+15ターン以内にチェックポイントに到達すると解放されます。=Se desbloqueará si llegas al punto de control dentro de 15 turnos.
+[FF7C4E,D62146]1[-][3C404E]ターン[-]=[FF7C4E,D62146]1[-][3C404E] Turno[-]
+r:"^\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]ターン\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Turnos[-]
+チェックポイント=Punto de Control
+[3C404E]あと [-][FF7C4E,D62146]1[-][3C404E]マス[-]=[FF7C4E,D62146]1[-][3C404E] Casilla restante[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]マス\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Casillas restantes[-]
+シーズン切替=Cambio de Temporada
+[3C404E]あと [-][FF7C4E,D62146]1[-][3C404E]日[-]=[FF7C4E,D62146]1[-][3C404E] Día restante[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]日\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Días restantes[-]
+
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]時間\[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]分\[-\]$"=[FF7C4E,D62146]$1[-][3C404E]h[-][FF7C4E,D62146]$2[-][3C404E]m restantes[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]分\[-\]$"=[FF7C4E,D62146]$1[-][3C404E]m restantes[-]
+発動中の効果=Efectos activos
+サイコロを振る=Lanzar los Dados
+料理を食べる=Comer un Plato
+使用済=Usado
+本日の消費スタミナ=Uso de Resistencia
+[FF7C4E,D62146]本日分は獲得済みです[-]=[FF7C4E,D62146]Meta Diaria Alcanzada[-]
+追加サイコロをゲット！=¡Dados Extra!
+追加ダイスをゲット！=¡Consigue un Dado Extra!
+ダイスを所持していません。=No hay más Dados.
+トレジャー=Tesoro
+現在位置に戻る=Volver
+チェックポイントまで=Hasta el Punto de Control
+
+ダイスを振る=Lanzar los Dados
+シーズン終了=Fin de Temporada
+料理を所持していません。=No tienes ningún Plato.
+料理は1ターンに1品までしか食べられません。=Solo puedes comer un Plato por turno.
+1ターン以内にギルド管理協会出張所へ到着=1 turno más para la oficina de la Asociación de Gestión de Gremios.
+r:"^(\d+)ターン以内にギルド管理協会出張所へ到着$"=$1 turnos más para la oficina de la Asociación de Gestión de Gremios.
+ダイスを１個入手した。=Se obtuvo Dado x1.
+残り99ターン=99 turnos restantes
+
+---Sobrescritura de plato---
+上書き前効果=Efecto Actual
+上書き後効果=Nuevo Efecto
+この料理を食べると発動中の効果が上書きされます。=Comer este Plato sobrescribirá los efectos del anterior.
+
+---Lista de Bonos---
+r:"^(\d+)ターン以内に到達$"=Llegar dentro de $1 turnos
+r:"^(\d+)ターンで到達$"=Llegar dentro de $1 turnos
+r:"^レベル(\d)$"=Nivel $1
+ターン数ボーナス=Bono de Turnos
+一定のターン以内にチェックポイントへ到達すると\nボーナスが獲得できます！=¡Si llegas al punto de control dentro de\ncierta cantidad de turnos, obtendrás un bono!
+
+---Bono de evento---
+次にミニゲームに挑戦した際の\n獲\r得マイルが100%アップする。=La próxima vez que desafíes un Minijuego, tus Millas de bono aumentarán en un 100%.
+次にマイルマスに止まった際の\n獲得マイルが100%アップする。=La próxima vez que te detengas en una Casilla de Millas, ganarás un 100% más de Millas.
+次のターン数のカウントを\nスキッ\rプする。=Omite el conteo del siguiente turno.
+
+---GMA/Punto de Control---
+以下のアイテムを獲得しました。=Se obtuvieron los siguientes objetos:
+ボーナスレベル=Nivel de bono
+到達までにかかったターン数=Turnos Necesarios para Llegar al Punto de Control
+
+---Vender Platos---
+sr:"^(?:\[3B3F4D\])?(.+)を売却して\n?\[-\]\[FFBB00\,CE4F00\]([0-9,.]+)\[-\]\[3B3F4D\]マイルを獲得しました。(?:\[-\])?$"=[3B3F4D]Vendiste $1\ny ganaste [FFBB00,CE4F00]$2[-] Millas[-]
+
+---Lotería---
+福引券=Boleto de Lotería
+福引結果=Resultados de la Lotería
+所持していた福引券の抽選を行いました。=Se han sorteado los Boletos de Lotería.
+
+---Casilla---
+福引券はチェックポイント到達時に抽選が行われます。=Los Boletos de Lotería se sortearán en el punto de control.
+福引券を獲得しました。=Se recibió un Boleto de Lotería.
+福引券獲得=Se Adquirió un Boleto de Lotería
+ショップマス=Casilla de Tienda
+
+---Avaluación---
+鑑定結果=Resultados de la Avaluación
+合計獲得コイン=Monedas Recibidas
+以下の通りトレジャーを清算しました。=Se avaluó el siguiente Tesoro:
+以下の通り、トレジャーをお引き受けしました。=Se avaluó el siguiente Tesoro:
+平凡なトレジャー=Tesoro Ordinario
+貴重なトレジャー=Tesoro Precioso
+至高のトレジャー=Tesoro Supremo
+
+---Lista de Tesoros---
+所持トレジャー一覧=Lista de Tesoros en Posesión
+トレジャーを所持していません。=No hay Tesoros en tu posesión.
+現在トレジャーを所持していません。=No tienes ningún tesoro en este momento.
+
+---Tienda en el Mapa---
+マイルショップ=Tienda de Millas
+マップに戻る=Volver al Mapa
+売却する=Vender
+まとめて売却する=Vender Todo
+所持マイル=Millas en Posesión
+必要マイル=Millas Req.
+合計マイル=Millas Totales
+売却メニュー=Menú de Venta
+購入メニュー=Menú de Compra
+売却できるアイテムがありません。=No hay objetos para vender.
+これ以上売却できません。=No puedes vender más.
+これ以上購入できません。=No puedes comprar más.
+マイルでアイテムを購入することができます。=Puedes comprar objetos con Millas.
+料理を売却してマイルを得ることができます。=Puedes ganar Millas vendiendo Platos.
+売却確認=Confirmar Venta
+売却完了=Venta Completada
+r:"^\[3B3F4D\]以下の料理を売却して\[-\]\[FFBB00,CE4F00\]([0-9,.]+)\[-\]\[3B3F4D\]マイルを獲得しますか\?\[-\]$"=[3B3F4D]¿Vender los siguientes Plato(s) por[-][FFBB00,CE4F00] $1[-][3B3F4D] Millas?[-]
+r:"^\[3B3F4D\]以下の料理を売却して\[-\]\[FFBB00,CE4F00\]([0-9,.]+)\[-\]\[3B3F4D\]マイルを獲得しました。\[-\]$"=[3B3F4D]Se vendieron los siguientes Plato(s) por[-][FFBB00,CE4F00] $1[-][3B3F4D] Millas.[-]
+
+現在マイルショップが開いています。\nダイスまたは料理を使用した後は利用できません。\n\nよろしいですか？=La Tienda de Millas está actualmente abierta.\nNo estará disponible\ndespués de usar los Dados o un Plato.\n¿Continuar?
+
+料理=Plato
+特殊系=Especial
+補助系=Apoyo
+移動系=Movimiento
+サブ=Sub
+サブ効果=Sub-efecto
+メイン効果=Efecto Principal
+料理詳細=Detalles del Plato
+獲得料理=Plato Adquirido
+以下の料理を獲得しました。=Se obtuvieron los siguientes Platos:
+食べる=Comer
+r:"^料理所持数 ([0-9/]+)$"=Número de Platos en Posesión: $1
+食べる料理を選択してください。=Selecciona un Plato para comer.
+所持している料理=Platos en Posesión
+食事確認=Confirmación de Comida
+食事済=Comido
+以下の料理を食べます。よろしいですか？=¿Comer el siguiente Plato?
+ワカナの施し=La Caridad de Wakana
+敗北=Derrota
+
+移動確認=Movimiento confirmado
+このマスに移動しますか？=¿Moverte a esta casilla?
+立ち去る=Irse
+「ちかみち」を開通させずに立ち去ります。\nよろしいですか？\n\n=Te irás sin abrir el atajo.\n¿Estás seguro?
+
+立ち去るを選ぶとイベントが終了します。\n終了後に選択し直すことはできません。=Si eliges irte, el evento terminará.\nNo podrás volver a elegir después de que termine el evento.
+r:"^(\d)ターンの間ターン数のカウントをスキップする。$"=Durante $1 turno(s), los turnos no cuentan.
+r:"^料理が所持上限を超えています。\n所持数が(\d+)個以下になるように料理を売却してください。$"=Has excedido la cantidad máxima de platos que puedes poseer.\nPor favor, vende plato(s) hasta que queden $1 o menos.
+
+料理所持数上限=Máximo de Platos Alcanzado
+料理が所持上限に達しています。\n新たに料理を入手した場合、超過分の売却が必要です。\n\nこのままダイスを振ってもよろしいですか？=Tu inventario de platos está actualmente en su límite.\nSi adquieres nuevos platos, necesitarás vender el exceso.\n¿Lanzar los Dados de todos modos?
+購入に必要なマイルが不足しています。=No tienes suficientes millas.
+食べられる料理を所持していません。=No tienes comida para comer.
+所持数がいっぱいです。売却する料理を選んでください。=Inventario lleno. Selecciona Plato(s) para vender.
+r:"^\[3C404E\]料理所持数 \[-\]\[FF7C4E,D62146\]([0-9,.]+)\[-\]\[3C404E\]/([0-9,.]+)\[-\]$"=[3C404E]Platos en Posesión:[-][FF7C4E,D62146] $1[-][3C404E]/$2[-]
+
+現在マイルガチャが開いています。\nダイスまたは料理を使用した後は利用できません。\n\nよろしいですか？=El Gacha de Millas está actualmente abierto.\nNo puedes usarlo después de usar tus dados o comer comida.\n\n¿Está bien?
+
+バンディ・シスターズに差をつけて先に\nチェックポイントへ到達するとボーナスが獲得できます!=¡Adelántate a las Hermanas Bundy\ny llega primero al punto de control para recibir un bono!
+---Nueva Temporada---
+
+r:"^\[FF7C4E,D62146\]このコインの使用期限は([0-9/ :]+)までです。\[-\]$"=[FF7C4E,D62146]Esta moneda se puede usar hasta $1.[-]
+r:"^キャラバンコイン(?:（シーズン(\d)）)?ｘ(\d+)$"=Moneda de Caravana (Temporada $1)ｘ$2
+
+
+まとめて３個=Lanzamiento Triple
+
+シーズン切り替わり=Nueva Temporada de Caravana
+新シーズンが始まったため、\n所持していたトレジャーをコインに変換しました。=Debido a que ha comenzado la nueva temporada,\ntodos tus tesoros se han convertido en monedas.
+------
+所持ダイス=Dados
+r:"^ボーナスレベル(\d+)$"=Nivel de bono $1
+区間スキップを実行した場合、出現中の仲間効果、\nおよび発動中の料理効果、マス効果は消失します。\nまた、ライバル出現時は勝敗が無効となります。=Si omites el recorrido, los efectos de aliados activos,\nlos efectos de platos y los efectos de casillas desaparecerán. \nAdemás, si aparece un rival,\nel resultado del combate se anulará.  
+r:"^(?:\[3C404E\])?ダイスを\[FFBB00\,CE4F00\](\d+)個\[-\]使って区間スキップを実行しますか？(?:\[3C404E\])?(?:\[-\])?$"=[3C404E]¿Usar [FFBB00,CE4F00]$1 dados[-] para omitir el recorrido?
+シーズン最速到達ターン数=Recuento de Turnos Más Rápido de la Temporada
+区間スキップの実行にはダイスが15個必要です。=Se requieren 15 dados para omitir el recorrido.
+---Tutorial de Kokkoro---
+皆さま、オニギリさまと共にグルメチェイサー号で冒険に出発\nいたしましょう。ダイスを振って出た目の数だけマップを進み、\nカリンさまの待つギルド管理協会出張所を目指してくださいまし。=Todos, partamos en una aventura a bordo del Gourmet Chaser con Onigiri-sama. Lanza los dados y avanza en el mapa, nuestro objetivo es la oficina de la Asociación de Gestión de Gremios, donde nos espera la señora Karin.
+ギルド管理協会出張所では集めたトレジャーをキャラバンコインに換金し\nてくださいます。また、到達までのターン数が少ないほどボーナスを獲得\nできるようです。コインはショップでアイテムと交換いたしましょう。=En la oficina de la Asociación de Gestión de Gremios, puedes intercambiar los Tesoros que recolectamos por Monedas de Caravana. Además, cuantos menos turnos nos tome llegar, mayor será el bono que recibiremos. Recolectemos monedas y canjeémoslas por objetos en la tienda.
+料理からは、冒険を有利に進める効果が得られますよ。1ターンに1品\nまで召し上がることができ、同じカテゴリーの効果は重複いたしません。\n…あぁっペコリーヌさま、おかわりは次のターンまで我慢でございます。=Puedes comer hasta un Plato por turno para obtener efectos beneficiosos, sin embargo, los efectos de platos de la misma categoría no se acumularán. ...Ahh, señora Pecorine, por favor espera hasta el próximo turno para repetir.
+道中には様々なマスがございます。「マイルマス」で集めたマイルは料理\nやトレジャーの購入にお使いいただけますよ。「トレジャーマス」や\n「料理マス」ではスロットを回して出たアイテムを獲得できるとか。=Hay varias casillas en las que puedes caer. Puedes usar las Millas obtenidas de una Casilla de Millas para comprar Platos y Tesoros. En la Casilla de Tesoro y la Casilla de Plato, puedes girar una rueda para recibir objetos.
+「ショップマス」ではマイルを用いたアイテムの購入が可能です。\n「イベントマス」では嬉しい効果を得られるイベントが起きるようです。\n「移動マス」に止まると、そこからさらに先へ進めるのでございますね。=Puedes comprar objetos con Millas en una Casilla de Tienda. En una Casilla de Evento, pueden ocurrir varias cosas que otorgan efectos útiles. Si te detienes en una Casilla de Movimiento, continuarás tu movimiento.
+「ミニゲームマス」に止まったら、ミニゲームに挑戦いたしましょう。\n結果に応じた報酬が獲得できるのですね。「福引券マス」は福引券を入手\nでき、「ガチャマス」ではマイルガチャが回せるようですよ、主さま。=Podrás jugar un Minijuego cuando te detengas en una Casilla de Minijuego, y recibirás recompensas según tu desempeño. La Casilla de Boleto de Lotería te permite obtener un Boleto de Lotería, y la Casilla de Gacha te permite girar el Gacha de Millas, mi Amo.
+
+1～14マス差で勝利=Ganar por una a catorce casillas
+15マス差以上で勝利=Ganar por más de 15 casillas
+
+
+「ちかみちマス」でマイルを支払うと、チェックポイントまでの短縮\nルートが開かれるようです。「パーティマス」に止まった翌ターンは最大\n３品まで料理を召し上がれますよ。組み合わせが重要でございますね。=Si pagas millas en la Casilla de Atajo, se abrirá una ruta más rápida al punto de control. Después de detenerte en una Casilla de Fiesta, puedes disfrutar hasta tres platos en el siguiente turno. Es importante que aprovechemos estos dos.
+ダイスを一度に３個振ることができる「まとめて３個」モードが\n新たに追加されました。お手持ちのダイスを用いて、効率的に冒険を\n進めることができるようでございます。ぜひご活用くださいまし。=Se ha añadido un nuevo modo: Lanzamiento Triple, que te permite lanzar tres dados simultáneamente. Esto nos ayudará a progresar en nuestra aventura de manera más eficiente usando tus dados. Por favor, haz uso de él.
+「まとめて３個」モードの使用中は、マス効果の発動頻度や出現する\nお仲間の制限など、ダイスを1個ずつ振って遊ぶときとは異なる点が\nあるようです。詳細は「ヘルプ」をご覧ください、主さま。=Mientras usas el modo Lanzamiento Triple, la frecuencia de los efectos de casillas y la aparición de compañeros pueden diferir de cuando lanzas un dado a la vez. Para más detalles, por favor consulta la sección de Ayuda, mi amo.
+シーズン中、一度でも規定ターン以内にチェックポイントへ到達すると\n「区間スキップ」が解放されますよ。スキップを実行すると、\nそのシーズン中の最速ターン数に応じて報酬がもらえるようですね。=Llegar a un punto de control dentro de un turno especificado durante la temporada desbloqueará la Omisión de Recorrido. Si realizas la Omisión de Recorrido, serás recompensado según tu récord de turnos en la temporada actual.

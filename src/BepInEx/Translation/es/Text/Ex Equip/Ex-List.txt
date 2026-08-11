@@ -1,0 +1,196 @@
+武器=Arma
+アクセサリ=Accesorio
+アクセサリー=Accesorios
+防具=Armadura
+EX装備コイン=Moneda de Equipo EX
+EX装備=Equipo EX
+毎日9:00ラインナップ更新=Catálogo se actualiza a las 9:00 cada día
+EX装備分解=Desmantelar Equipo EX
+強化Pt=Pt de mejora
+強化Pt聖杯=Cáliz de Pt de mejora
+スキル２=Habilidad 2
+スキル１=Habilidad 1
+
+片手剣=Espada
+両手剣=Mandoble
+短剣=Daga
+槍=Lanza
+斧=Hacha
+弓=Arco
+拳=Puño
+盾=Escudo
+杖=Bastón
+本=Libro
+服=Ropa
+鎧=Armadura
+白ローブ=Túnica blanca
+黒ローブ=Túnica negra
+指輪=Anillo
+腕輪=Pulsera
+ネックレス=Collar
+宝珠=Joya
+イヤリング=Pendiente
+おまかせ強化対象の素材がありません。=No hay material para mejorar.
+必要コイン=Monedas requeridas
+アイテム一覧へ移動しますか?=¿Quieres ir a la Lista de objetos?
+購入に必要なEX武器コインが不足しています。=Monedas de Arma EX insuficientes.
+アイテム一覧へ=Lista de objetos
+EX武器コイン不足=Moneda de Arma EX insuficiente
+おまかせ分解設定=Ajustes de desmantelado automático
+まとめて\n分解する=Desmantelar\nen lote
+おまかせ\n分解する=Desmantelado\nautomático
+r:"^(\d+)個のアイテムを選択中$"=$1 objetos seleccionados
+外す=Desequipar
+分解=Desmantelar
+保護=Protección
+上限解放=Romper límite
+まとめて分解=Desmantelar en lote
+選択解除=Deseleccionar
+絞り込み中(仮)=Filtro (provisional)
+詳細表示するEX装備を\n選択してください。=Selecciona el Equipo EX a mostrar en detalle.
+上限に達したアイテムはプレゼントに送られます。=Los objetos que alcancen el límite se enviarán al Buzón de Regalos.
+使用制限状態のEX装備は選択できません。=El equipo EX ya usado no se puede seleccionar.
+購入回数または所持数が上限に達しています。=Has alcanzado el número máximo de compras o posesiones.
+他キャラが装備中のEX装備が選択されています。=Se ha seleccionado equipo EX equipado por otros personajes.
+パーティキャラのEX装備を変更できます。=Puedes cambiar el Equipo EX del personaje del equipo.
+EX装備が変更されていません。=El Equipo EX no se ha cambiado.
+装備確定=Confirmación de equipo
+おまかせ装備=Equipar automático
+EX装備設定=Ajustes de Equipo EX
+全て外す=Quitar todo
+装備なし=Sin equipo
+選択可能なEX装備を所持していません。=No tienes Equipo EX seleccionable.
+EX装備入れ替え詳細=Detalles de reemplazo
+装備選択=Selección de equipo
+装備可能なEX装備がありません。=No hay Equipo EX que se pueda equipar.
+入れ替えるEX装備が選択されていません。=No se ha seleccionado el Equipo EX a reemplazar.
+上限解放回数=Veces de límite roto
+スキルあり=Habilidades
+
+EX装備絞り込み=Filtrar Equipo EX
+選択したEX装備を絞り込み表示します。=El equipo EX seleccionado se filtrará.
+
+絞り込みをリセット=Reiniciar filtro
+アクセサリー全て=Todos los accesorios
+EX防具アクセサリー交換対象=Objetivo de intercambio de accesorios EX
+防具全て=Toda la armadura
+EX防具コイン交換対象=Objetivo de intercambio de moneda de armadura EX
+武器全て=Todas las armas
+EX武器コイン交換対象=Objetivo de intercambio de moneda de arma EX
+EX装備種別=Tipo de Equipo EX
+優先消費設定=Ajuste de consumo prioritario
+アドベンチャーで獲得した際に自動で分解するEX装備を設定します。=Configura el Equipo EX que se desmantelará\nautomáticamente al obtenerlo en una aventura.
+
+おまかせ強化設定=Ajuste de mejora automática
+EX装備強化=Mejora de Equipo EX
+所持強化Pt=Pt en posesión
+EX装備強化Ptを使用します。=Usar Pt de mejora de Equipo EX.
+EX装備強化Pt使用=Uso de Pt de mejora de Equipo EX
+
+装備中のEX装備は選択できません。=El Equipo EX equipado no se puede seleccionar.
+保護状態のEX装備は選択できません。=El Equipo EX en estado protegido no se puede seleccionar.
+未装備のEX装備です。=Equipo EX sin equipar.
+装備可能なキャラがいません。=No hay personaje que pueda equiparlo.
+装備するキャラを選択してください。=Selecciona el personaje a equipar.
+装備するキャラを選択できます。=Puedes seleccionar el personaje a equipar.
+装備キャラ選択=Selección de personaje a equipar
+
+獲得上限解放Pt=Pt de límite roto obtenidos
+使用できる素材がありません。=No hay materiales usables.
+上限解放素材を選択してください。=Selecciona el material de límite roto.
+選択数=Selección
+EX装備上限解放=Desbloquear límite de Equipo EX
+EX装備は\nアドベンチャーで入手することができます。=El Equipo EX se puede obtener en Aventuras.
+
+EX装備一覧にフィルタを適用します。=Aplica el filtro a la lista de Equipo EX.
+EX装備強化素材絞り込み=Filtrar material de mejora de Equipo EX
+おまかせ強化実行時の消費対象を設定します。=Configura el objetivo de consumo al realizar la mejora automática.
+おまかせEX装備強化設定=Ajuste de mejora automática de Equipo EX
+EX装備強化Pt=Pt de mejora\nde Equipo EX
+
+以下のアイテムを消費して強化します。=Consume los siguientes objetos para mejorarlo.
+EX装備強化確認=Confirmación de mejora de Equipo EX
+★3以上のEX装備が消費されます。=Se consume Equipo EX de ★3 o más.
+返還アイテム=Objeto devuelto
+
+
+EX装備(武器)を装備していません。=Sin Equipo EX\n(armas) equipado.
+EX装備(防具)を装備していません。=Sin Equipo EX\n(armadura) equipado.
+EX装備(アクセサリー)を装備していません。=Sin Equipo EX\n(accesorios) equipado.
+装備変更=Cambiar
+EX装備一覧=Lista de objetos
+変更せずにダイアログを閉じます。\nよろしいですか？=Cerrar la ventana sin cambiar.\n¿Está bien?
+差分確認=Comprobar cambios
+
+他キャラが装備中のEX装備を選択する=Seleccionar equipo EX que\notros personajes tienen equipado
+優先ステータス=Estado prioritario
+条件を指定して自動でEX装備を装備します。=Equipa equipo EX automáticamente\nespecificando condiciones.
+おまかせEX装備設定=Ajustes automáticos de Equipo EX
+
+装備選択(クランバトル)=Selección de equipo (Batalla de Clan)
+入手可能な遠征クエストがありません。=No hay misiones de expedición disponibles.
+この装備はこれ以上上限解放できません。=Este equipo no puede romper el límite más.
+
+以下のEX装備を装備します。=Se equipa el siguiente Equipo EX.
+おまかせEX装備確認=Confirmación de Equipo EX automático
+変更後=Después
+変更前=Antes
+sr:"^「(.+)」のEX装備$"="Equipo EX de "$1""
+sr:"^EX装備（(.+)）$"=Equipo EX ($1)
+入手可能なアドベンチャークエストがありません。=No hay misiones de Aventura disponibles.
+以下のアイテムの入手方法を確認できます。=Puedes comprobar cómo obtener los siguientes objetos.
+
+装備中のEX装備を外します。\nよろしいですか？=Quita el Equipo EX equipado. \n¿Estás seguro?
+EX装備確認=Comprobación de Equipo EX
+
+EX装備の選択上限に達しています。=Se ha alcanzado el límite de selección de equipo EX.
+EX装備入れ替え確認=Confirmación de reemplazo de Equipo EX
+EX装備を入れ替えます。\nよろしいですか？=Intercambiar el equipo EX.\n¿Está bien?
+
+r:"^([0-9,.]+)Pt使用$"=Usar $1 pt
+装備品・強化アイテムは\nクエストで入手することができます。=El equipo y los objetos de mejora se pueden\nobtener en misiones.
+以下のアイテムを消費して上限解放します。=Consume los siguientes objetos para desbloquear el límite.
+EX装備上限解放確認=Confirmar desbloqueo de límite de Equipo EX
+
+EX装備で、キャラのステータスをさらにパワーアップできます。付け替えできるのでお気に入りの組み合わせを探してみましょう。EX装備はアドベンチャーで入手できますよ。=Con el Equipo EX, puedes potenciar aún más el estado del personaje. Puedes cambiarlos, así que busca tu combinación favorita. El Equipo EX se puede obtener en aventuras.
+
+EX装備コインを使ってEX装備の交換ができるようです。\nEX装備コインは武器・防具・アクセサリーの種類があり、\n対応するEX装備を分解または強化で消費すると手に入りますよ。=Parece que el Equipo EX se puede intercambiar usando monedas de Equipo EX. Hay tipos de monedas de Equipo EX para armas, armaduras y accesorios, y puedes obtenerlas desmantelando o mejorando el Equipo EX correspondiente.
+
+【クラン】ホープオブアーチャー=[Clan] Esperanza de Arquero
+
+
+カシコミノツルギ=Kashikominotsurugi
+ヒドゥンエッジ=Filo Oculto
+白馬の戦弓=Arco de Guerra del Caballo Blanco
+クルーエルナックル=Nudillo Cruel
+グリーンウッド=Madera Verde
+スペリオールガントレット=Guanteletes Superiores
+レッドアイウィズダム=Sabiduría del Ojo Rojo
+トリックスター=Trickster
+救済者の聖典=Escritura del Salvador
+ハープボウ=Arpa Arco
+ナイトガード=Guardia Nocturna
+特殊魔法大全=Enciclopedia de Magia Especial
+黒魔女の本=Libro de la Bruja Negra
+エルブンローブ=Túnica Élfica
+パラディンメイル=Cota de Paladín
+ノーブルビースト=Bestia Noble
+デモンズオーダー=Orden del Demonio
+グレイブウィッチ=Bruja de Tumbas
+巫女の法衣=Vestimenta de Sacerdotisa
+フォーチュンペンダント=Colgante de la Fortuna
+チャンピオンリング=Anillo de Campeón
+クリティカルリング=Anillo Crítico
+パワーリング=Anillo de Poder
+慈母の涙=Lágrimas de Madre
+賢王の耳飾り=Pendientes del Rey Sabio
+慈母の涙=Lágrimas de Madre
+賢王の耳飾り=Pendientes del Rey Sabio
+
+スコフニュング=Skofnyung
+世界樹の蔦弓・マグナ=Arco de Hiedra de Yggdrasil: Magna
+修武の籠手=Guanteletes de Shuubu
+
+
+
+ヴィズ・ラ・リュンヌ=Vis la Lune

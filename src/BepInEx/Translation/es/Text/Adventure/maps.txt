@@ -1,0 +1,23 @@
+
+1.ユピテル樹海=1. Mar de Árboles de Júpiter
+スィオネ\n樹林=Bosque de Sion
+スィオネ樹林=Bosque de Sion
+ヘリケ巨木=Árbol Gigante Heliche
+イオカステ\n岩山=Mt. Iocaste
+イオカステ岩山=Mt. Iocaste
+ハルパリ\n大滝=Cataratas Harpari
+ハルパリ大滝=Cataratas Harpari
+ムネメー川=Río Mooneme
+
+2.マーキュリア湾口=2. Salida de la Bahía de Mercuria
+ダクビア森林=Bosque de Dakubia
+アンカル川=Río Ankar
+ダルリク巨岩=Gigantes de Darlik
+サダルスド砂浜=Playa de Sadalsud
+アルバ浜堤=Dique de Aruba
+
+3.スカディア山脈=3. Montañas Skádia
+ミーマス洞穴=Cueva de Mimas
+レアント川=Río Reanto
+ケランド廃墟=Ruinas de Kjelland
+デオネカ氷海=Mar de Hielo de Deoneca

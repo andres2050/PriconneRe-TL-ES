@@ -1,0 +1,7 @@
+次元断層においてバトル速度の上限を設定できます。=Configura la velocidad máxima de batalla en la Falla Dimensional.
+次元断層において、バトル速度の上限を設定できます。=Configura la velocidad máxima de batalla en la Falla Dimensional.
+次元断層 バトル速度の上限設定=Ajustes de límite de velocidad de la Falla Dimensional
+次元断層 バトル速度設定の確認ダイアログ=Falla Dimensional Diálogo de confirmación de ajustes de velocidad de batalla
+次元断層バトル開始前の確認ダイアログ=Falla Dimensional Diálogo de confirmación
+次元断層バトルの本戦を開始する前に、確認ダイアログを開きます。=Muestra un diálogo de confirmación antes de empezar una batalla de la Falla Dimensional.
+次元断層を開始する前に、バトル速度設定を確認するダイアログを開きます。=Confirmación de ajustes de velocidad de batalla para la batalla de la Falla Dimensional.

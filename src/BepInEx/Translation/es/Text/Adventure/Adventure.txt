@@ -1,0 +1,172 @@
+アドベンチャー=Aventura
+冒険先一覧=Lista de Aventuras
+遺跡調査=Investigación de Ruinas
+まとめて\n帰還確認=Regreso\nMasivo
+まとめて\n出発=Partida\nMasiva
+パーティ上限=Límite de Equipo
+r:"^冒険中PT\n\(([0-9/]+)\)$"=Equipo en\nAventura\n($1)
+冒険中=En aventura
+sr:"^(.+)が現れた！$"=¡$1 apareció!
+メモピ数=#Memos
+メモピ=Memo
+メモリーピース対象=Objetivo de F. de Memoria
+人数=Personas
+人数:=Personas
+10キャラ=10 Personajes
+おまかせ=Aleatorio
+全選択解除=Cancelar Todo
+必要戦力=Requisito
+時間短縮=Reducción de Tiempo
+繰り返し出発=Partida repetida
+出発する=Partir
+
+成功報酬=Recompensa de Éxito
+以下のクエストが進行中です。\n状態を確認しますか？=Las siguientes misiones están en curso.\n¿Revisar el estado?
+アドベンチャー確認=Aventura confirmada
+アドベンチャー画面に移動します。=Ir a la Pantalla de Aventura.
+
+時間短縮設定=Configuración de Reducción de Tiempo
+r:"^(\d+)ジュエル1時間短縮$"=$1 Joyas por reducción de 1h
+1チケット1時間短縮=1 Ticket por reducción de 1h
+ジュエルを使って必要時間を短縮！=¡Acelera con Joyas!
+チケットを使って必要時間を短縮！=¡Acelera con Tickets!
+r:"^\[FF7C4E\,D62146\]残り ([0-9/]+)回\[-\]$"=[FF7C4E,D62146]$1 Restantes[-]
+チケットが不足しています。=Tickets insuficientes.
+EX装備錬成Ptが不足しています。=Puntos de Síntesis de Equipo EX insuficientes.
+チケットやジュエルを使って時間を短縮！=¡Ahorra tiempo con Tickets y Joyas!
+1日の時間短縮可能回数の上限に達しているため時間短縮できません。=No puedes acelerar la Aventura más por hoy.
+戦力オーバーによる時間短縮の上限になりました。=Ya has alcanzado el límite de tiempo que se puede reducir con Poder.
+自動分解設定確認=Confirmación de Configuración de Desmantelamiento Automático
+アドベンチャーで獲得した際、\n以下のEX装備を自動で分解します。=Cuando se obtenga en una Aventura,\nel siguiente equipo EX se desmantelará automáticamente:
+ファストチケットを所持していません。=No tienes un Ticket Rápido.
+これ以上短縮できません。=No se puede acortar más.
+帰還したパーティはありません。=Ningún equipo ha regresado todavía.
+冒険中のパーティはありません。=No se han enviado equipos a la Aventura.
+時間短縮アイテムが設定されていません。=Los objetos de reducción de tiempo no están configurados.
+現在は別の画面に移動できません。=No puedes moverte a otra pantalla en este momento.
+時間短縮詳細=Detalles de Reducción de Tiempo
+繰り返し出発5回目=5.ª partida
+繰り返し出発4回目=4.ª partida
+繰り返し出発3回目=3.ª partida
+繰り返し出発2回目=2.ª partida
+繰り返し出発1回目=1.ª partida
+合計必要時間=Tiempo Total
+戦力時間短縮=Poder Excedente
+合計短縮時間=Reducción
+周回数上限です。=El número máximo de viajes.
+
+撤退=Retirada
+結果確認=Resultados
+パーティ確認=Equipo Confirmado
+
+このパーティは帰還していません。=Este equipo aún no ha regresado.
+パーティ数上限=Límite de Equipos
+冒険中のパーティが上限に達しています。=El equipo durante la aventura ha alcanzado el límite máximo.
+この操作には対応していません。=No es compatible con esta operación.
+
+短縮する=Acortar
+周回追加=+Vuelta
+周回詳細=Detalles de Vueltas
+遠征中のパーティーはありません。=No hay equipos de expedición enviados.
+冒険中パーティの状態を確認できます。=Puedes revisar el estado del equipo durante la aventura.
+アドベンチャーパーティ一覧=Lista de Equipos de Aventura
+周回数が指定されていません。=El número de viajes no está especificado.
+他の冒険に参加しています。=Ve a otra Aventura.
+
+残り必要時間=Tiempo restante
+撤退確認=Confirmación de Retirada
+r:"^本日の残り撤退可能回数  ([0-9/]+)$"=Retiradas de hoy: $1
+時間短縮に使用したアイテムは返却されません。=Los objetos consumidos no serán devueltos.
+帰還していないアドベンチャーの報酬は獲得できず、\n必要時間もリセットされます。\n\nよろしいですか？=No recibirás recompensas por retirarte, y el tiempo requerido se reiniciará.\n¿Está bien?
+
+報酬詳細=Detalles de recompensa
+キャンペーン=Campaña
+終了日時=Fecha de finalización
+戦力が不足しています。=Poder total insuficiente.
+人数が不足しています。=Personas insuficientes.
+冒険開始に必要な戦力が不足しています。=Poder insuficiente para iniciar la Aventura.
+戦力不足=Falta de Poder
+
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Las aventuras con menos de $1m restantes se acelerarán con Joyas.\n※Las reducciones de tiempo se hacen en múltiplos de 1 hora.
+
+r:"^本日のジュエルでの短縮残り回数　([0-9/]+)$"=Uso de Joyas de hoy: $1
+r:"^本日のジュエルでの時間短縮可能回数 ([0-9/]+)$"=Uso de Joyas de hoy: $1
+ジュエルを消費して\n時間短縮を行います。よろしいですか？=Consume Joyas y aceléralo.\n¿Está bien?
+[FD8F00]帰還[-]=[FD8F00]Regresar[-]
+
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Las aventuras con menos de $1m restantes se acelerarán con Tickets Rápidos.\n※Las reducciones de tiempo se hacen en múltiplos de 1 hora.
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットとジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Las aventuras con menos de $1m restantes se acelerarán con Tickets Rápidos y Joyas.\n※Las reducciones de tiempo se hacen en múltiplos de 1 hora.
+r:"^本日のチケットでの短縮残り回数　([0-9/]+)$"=Uso de Tickets Rápidos de hoy: $1
+r:"^本日のチケットでの時間短縮可能回数 ([0-9/]+)$"=Uso de Tickets Rápidos de hoy: $1
+ファストチケットを消費して\n時間短縮を行います。よろしいですか？=Consume Tickets Rápidos y reduce el tiempo.\n¿Está bien?
+
+ファストチケットとジュエルを消費して\n時間短縮を行います。よろしいですか？=Consume Tickets Rápidos y Joyas\npara acortar el tiempo. ¿Está bien?
+
+
+再出発しない=Regresar
+再出発する=Empezar de nuevo
+レースの神様=Deidad de la Carrera
+ファントムキャッツ登場！=¡Aparece el Gato Fantasma!
+
+r:"^([0-9/]+)キャラ$"=$1 Personajes
+戦力不足のため実行できない遠征があります。=Hay Aventuras que no se pueden realizar por Poder insuficiente.
+対象のアドベンチャーポイントがありません。=No hay puntos de aventura objetivo.
+編成クリア=Limpiar Formación
+メモリーピース優先設定=Configuración de Prioridad de F. de Memoria
+アドベンチャーポイント一覧=Lista de Puntos de Aventura
+優先編成=Lista
+最大人数=Máx. de Personas
+おまかせ編成時に、優先設定されたキャラクターが優先的に編成されます。=Con equipos aleatorios, se dará prioridad a los personajes según tu Configuración de Prioridad.
+優先キャラクター設定=Configuración de Personajes Prioritarios
+チェックしたアドベンチャーがありません。=No hay aventuras marcadas.
+優先設定の情報がありません。=No hay Configuraciones de Prioridad establecidas.
+出発可能パーティが上限に達しています。=Se ha alcanzado el número máximo de equipos disponibles para partir.
+以下のアドベンチャーに出発します。よろしいですか？=¿Partir para la siguiente aventura? ¿Está bien?
+1時間未満の時間短縮が設定されています。=La reducción de tiempo de menos de una hora está configurada.
+出発確認=Confirmación de partida
+繰り返し回数=Número de repeticiones
+r:"^(\d+)回追加$"=+$1 Viaje
+周回数を追加しました。=Se ha establecido el número de Viajes.
+周回追加完了=Adición de viaje completada.
+
+ガイド=Guía
+コンテンツ=Contenido
+自動分解\n設定=Desmantelamiento\nAutomático
+優先度\n設定=Configuración\nde Prioridad
+思い出イベント=Evento de Recuerdos
+これまでに発見した思い出イベントのイラストを確認出来ます。=Puedes revisar las ilustraciones de los Eventos de Recuerdos que has descubierto hasta ahora.
+まだ発見していない思い出イベントです。=Este Evento de Recuerdos aún no ha sido encontrado.
+r:"^選択は(\d+)キャラまでです。$"=Se pueden seleccionar hasta $1 personajes.
+
+メモピドロップ枠=Espacio de Caída de F. de Memoria
+冒険へ出発する時メモリーピース対象に編成されたキャラは、冒険\nから帰還した際の報酬としてメモリーピースを獲得できる可能性が\nあります。強化したいキャラクターを優先的に編成しましょう。=Los personajes seleccionados para Fragmentos de Memoria cuando se envían a una Aventura pueden adquirirlos como recompensa al regresar de una Aventura. Prioriza a los personajes que quieras fortalecer.
+優先度設定されたキャラクターは、おまかせ編成時にメモリーピース対象の枠に優先的に編成されます。強化したいキャラクターに優先度を設定しましょう。=Los personajes configurados como Prioridad se seleccionarán primero como objetivo de Fragmento de Memoria al formar equipos aleatorios. Prioriza a los personajes que quieras fortalecer.
+パーティの戦力が高くなるほど、冒険から帰還する時間が短くなり\nます。キャラクターを強化して戦力アップさせましょう。=Cuanto mayor sea el Poder del equipo, más rápido regresarán de una Aventura. ¡Fortalezcamos a nuestros aliados para que nosotros también podamos volvernos más fuertes!
+冒険出発前と出発後に、チケットやジュエルを使用して時間短縮が\nできます。時間短縮は１日で上限があり、日が変わると上限はリ\nセットされます。アイテムを使用して効率よく冒険をしましょう。=Antes y después de la partida, puedes usar Tickets Rápidos y Joyas para ahorrar tiempo. Hay un límite de reducción de tiempo que se reinicia todos los días. Usa objetos para agilizar nuestras Aventuras.
+
+5人以上編成してください。=Por favor, incluye 5 o más personajes.
+変更先のキャラクターを選択してください。=Por favor, selecciona el personaje al que quieres cambiar.
+優先度を変更するキャラクターを選択してください。=Selecciona el personaje cuya\nPrioridad quieres cambiar.
+優先度変更=Cambio de Prioridad
+
+遠征中=Durante la expedición
+帰還したパーティがあります。=Hay un equipo que ha regresado.
+一括帰還確認=Regreso Masivo
+アドベンチャー遷移時に、帰還したパーティがある場合\nアドベンチャーパーティ一覧を表示するか設定します。=Puedes elegir si la Lista de Equipos de Aventura se muestra automáticamente\nal entrar al menú de Aventura si un equipo ha regresado.
+アドベンチャー設定=Configuración de Aventura
+アドベンチャーパーティ一覧表示=Mostrar lista de equipos de aventura
+「表示する」を選択すると、帰還したパーティがある場合\n「アドベンチャーパーティ一覧」を表示します。=Si seleccionas "Mostrar", se mostrará la "Lista de Equipos de Aventura" si hay un equipo que ha regresado.
+
+
+ファストチケットを消費して以下のアドベンチャーに出発します。よろしいですか？=Consume un Ticket Rápido y parte para la siguiente Aventura.\n¿Está bien?
+設定されている内容がリセットされます。\nよろしいですか？=La configuración se reiniciará.\n¿Está bien?
+
+sr:"^(.+)のアドベンチャーから撤退しました。$"=Retirada de la Aventura de $1.
+アドベンチャー撤退=Retirada de Aventura
+
+アドベンチャーでは、仲間にしたキャラを冒険させることができます。一定の時間が経過すると冒険から帰還し、『EX装備』等のアイテムを獲得します。結果報告を確認し報酬を受け取りましょう。=En la Aventura, puedes enviar a tus aliados a viajar juntos. Después de que pase cierta cantidad de tiempo, regresarán de su aventura con una variedad de objetos, incluido "Equipo EX". Revisa los resultados y cosecha las recompensas.
+
+【美食殿】を訪れたカリンは、アストライア大陸の各地で見つ\nかった新たな冒険先の調査をぺコリーヌたちに依頼する。ぺコ\nリーヌたちは新たな冒険に心を躍らせて依頼を快諾し、お宝を\n求めて旅立つのだった。=Karin, que visitó el [Gremio Gourmet], pide a Pecorine y a los demás que investiguen nuevos destinos de aventura encontrados en varias partes del continente de Astraea. Pecorine y los demás estaban emocionados por la nueva aventura, aceptaron la petición de inmediato y partieron en busca del tesoro.
+アストライア大陸の未踏地=Tierras Inexploradas del Continente de Astraea
+
+チェックされていないアドベンチャーポイントの\n設定はクリアされます。\n\nよろしいですか？=La configuración de los puntos de aventura que no están marcados se borrará. \n\n¿Estás seguro?

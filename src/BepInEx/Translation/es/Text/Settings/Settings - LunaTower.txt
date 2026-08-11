@@ -1,0 +1,64 @@
+ルナの塔 通常階＆ボス階バトルスキップ=Torre de Luna Omisión de batalla de pisos normales y de jefe
+ルナの塔の通常階とボス階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Puedes configurar si omitir el proceso de selección de equipo en los pisos\nnormales y de jefe de la Torre de Luna justo después de la decisión.\n※Durante la omisión, las batallas se ejecutarán automáticamente con «AUTO».
+通常階=Pisos normales
+ボス階=Piso de jefe
+ルナの塔 回廊探査＆EX階バトルスキップ=Torre de Luna Omisión de búsqueda de pasaje fantasma y piso EX
+ルナの塔の回廊探査とEX階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Puedes configurar si omitir el proceso de selección de equipo en el pasaje fantasma\ny los pisos EX de la Torre de Luna justo después de la decisión.\n※Durante la omisión, las batallas se ejecutarán automáticamente con «AUTO».
+EX階=Piso EX
+ルナの塔 バトルスキップ完了後のスキップ確認ダイアログ表示=Torre de Luna Mostrar diálogo de confirmación de omisión tras completar la omisión de batalla
+ルナの塔のバトルスキップ後のダイアログにて、スキップ選択時に確認ダイアログを表示するか設定します。\n※ボスEX階では、ダイアログは表示されません。=Ajuste para mostrar un diálogo de confirmación al seleccionar\nomitir batallas en el diálogo tras la batalla de la Torre de Luna.\n※El diálogo no se mostrará en el piso EX del jefe.
+ルナの塔 バトルスキップ完了後のリタイア確認ダイアログ表示=Mostrar diálogo de confirmación de retirada tras completar la omisión de batalla de la Torre de Luna
+ルナの塔のバトルスキップ後のダイアログにて、スキップ選択時にリタイアを表示するか設定します。\n※ボスEX階では、ダイアログは表示されません。=Ajuste para mostrar la opción «Retirada» al seleccionar «Omitir»\nen el diálogo que aparece tras omitir batallas en la Torre de Luna.\n※El diálogo no se mostrará en los pisos EX del jefe.
+ルナの塔 バトルスキップ確認ダイアログ表示=Torre de Luna Mostrar diálogo de confirmación de omisión de batalla
+ルナの塔にてバトルスキップを押したときに、確認ダイアログを表示するか設定します。=Al pulsar la omisión de batalla en la Torre de Luna, configura el diálogo de confirmación.
+
+
+
+
+
+
+
+
+
+
+
+
+------
+
+バトル中、「バトル中継続物理攻撃力アップ」、「バトル中継続魔法攻撃力アップ」効果が発動する。=Durante la batalla, se activan los efectos «ATQ. Fís. continuo arriba (durante batalla)» y «ATQ. Mág. continuo arriba (durante batalla)».
+
+みんなのカレンダーのデータ保存設定=Ajustes de almacenamiento de datos del Calendario de Todos
+バトル中のダメージ数字の大きさ=Tamaño de números de daño durante la batalla
+バトル中に表示されるダメージの数字の大きさの設定です。=Configura el tamaño de los números de daño mostrados durante la batalla.
+バトル中の回復数字の大きさ=Tamaño de números de recuperación durante la batalla
+バトル中に表示されるＨＰ・ＴＰ回復の数字の大きさの設定です。=Configura el tamaño de los números de recuperación de HP/TP mostrados durante la batalla.
+バトル中の数字の表示　ユニオンバースト=Visualización de números durante la batalla: Estallido de Unión
+バトル中、ユニオンバーストで表示されるダメージやＨＰ・ＴＰ回復の数字の表示設定です。\n「全て表示」に設定するとダメージやＨＰ回復とＴＰ回復、全ての数字を表示します。=Configura la visualización de números de daño y recuperación de HP/TP mostrados durante los Estallidos de Unión en batalla.\nSi se ajusta a «Mostrar todo», se mostrarán todos los números de daño, recuperación de HP y recuperación de TP.
+ダメージのみ表示=Mostrar solo daño
+回復のみ表示=Mostrar solo recuperación
+バトル中の数字の表示　ユニオンバースト以外=Visualización de números durante la batalla: Otros aparte del Estallido de Unión
+バトル中、ユニオンバースト以外で表示されるダメージやＨＰ・ＴＰ回復の数字の表示設定です。\n「全て表示」に設定するとダメージやＨＰ回復とＴＰ回復、全ての数字を表示します。=Configura la visualización de números de daño y recuperación de HP/TP mostrados durante la batalla aparte de los Estallidos de Unión.\nSi se ajusta a «Mostrar todo», se mostrarán todos los números de daño, recuperación de HP y recuperación de TP.
+バトル中の回復エフェクトの表示設定=Ajustes de visualización de efectos de recuperación durante la batalla
+バトル中に表示されるＨＰ・ＴＰ回復のエフェクトの表示設定です。\n　「表示する」に設定するとＨＰ回復とＴＰ回復のエフェクトを表示します。=Configura la visualización de efectos de recuperación de HP/TP durante la batalla.\nSi se ajusta a «Mostrar», se mostrarán los efectos de recuperación de HP y TP.
+バトル中のバフ・デバフエフェクトの表示設定=Ajustes de visualización de efectos de buff/debuff durante la batalla
+バトル中に表示されるバフ・デバフのエフェクトの表示設定です。\n　「表示する」に設定するとバフとデバフのエフェクトを表示します。=Configura la visualización de efectos de buff y debuff durante la batalla.\nSi se ajusta a «Mostrar», se mostrarán los efectos de buff y debuff.
+75％で表示する=Mostrar al 75%
+同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。\nアメスとフィオは同名キャラとして扱います。=Configura si se pueden colocar personajes del mismo nombre en el mismo equipo.\nAmes y Fio se tratan como personajes del mismo nombre.
+ルナの塔 EX階バトルスキップ=Torre de Luna Omisión de batalla de piso EX
+ルナの塔のEX階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Configura si omitir justo después de la selección de equipo en los pisos EX de la Torre de Luna.\n*Durante la omisión, la batalla se ejecuta en «AUTO».
+EX装備おまかせ装備時の除外設定=Ajustes de exclusión al usar Auto-Equipar para Equipo EX
+「他キャラが装備中のEX装備を選択する」にチェックを入れた際に以下のEX装備を対象から除外します=Cuando se marca «Seleccionar equipo EX equipado por otros personajes», se excluirá el siguiente equipo EX de la selección.
+3パーティバトル中の、他キャラが装備しているもの=Equipo EX equipado por otros personajes en batallas de 3 equipos
+アリーナの防衛に設定しているキャラが装備しているもの=Equipo EX equipado por personajes configurados para defensa de Arena
+サポートに設定しているキャラが装備しているもの=Equipo EX equipado por personajes configurados como Apoyo
+
+
+ミニゲーム スキップの確認ダイアログ表示=Mostrar diálogo de confirmación al omitir minijuegos
+ミニゲームでスキップを選択したとき、確認ダイアログを表示するか設定します。=Configura si mostrar un diálogo de confirmación al seleccionar Omitir en un minijuego.
+みんなのゲームテーブルのデータ保存設定=Ajustes de almacenamiento de datos de la Mesa de Juegos de Todos
+ダウンロードした追加データを保存するか設定します。\n「保存しない」を選択すると、追加データはアプリ起動のたびに削除されます。=Configura si guardar los datos adicionales descargados.\nSi se selecciona «No guardar», los datos adicionales se eliminarán cada vez que se inicie la app.
+
+黎明界ラビリンス設定=Ajustes del Laberinto del Alba
+黎明界ラビリンスが解放されている状態でラビリンスパスポートを所持しているとき予定帳に表示するかどうかを設定できます。=Configura si mostrar el Laberinto del Alba en la Agenda cuando está desbloqueado y posees un Pasaporte del Laberinto.
+コラボレイドイベントのデイリーミッションを達成していないとき、予定帳に表示するかを設定できます。=Configura si mostrar las misiones diarias del Evento de Incursión de Colaboración en la Agenda cuando no se han completado.
+コラボレイドイベントのデイリーミッション設定=Ajustes de misión diaria del Evento de Incursión de Colaboración

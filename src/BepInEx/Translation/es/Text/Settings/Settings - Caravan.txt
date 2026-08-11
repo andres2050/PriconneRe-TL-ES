@@ -1,0 +1,13 @@
+料理所持数上限時のダイアログ表示=Mostrar diálogo de confirmación al alcanzar el máximo de platos
+料理が所持上限に達した場合、ダイスを振る前に確認ダイアログを表示するか設定します。=Cuando se alcanza el máximo de platos, elige si\nmostrar un diálogo de confirmación antes de tirar los dados.
+マイルショップ利用の確認ダイアログ表示=Mostrar diálogo de confirmación de uso de Tienda Mile
+利用可能なマイルショップが開いている場合、\nダイスを振る、または料理を食べる前に確認ダイアログを表示するか設定します。=Cuando la Tienda Mile está disponible, elige si mostrar un\ndiálogo de confirmación antes de tirar los dados o comer un plato.
+マイルガチャ利用の確認ダイアログ表示=Mostrar diálogo de confirmación de uso de Gacha Mile
+利用可能なマイルガチャが開いている場合、\nダイスを振る、または料理を食べる前に確認ダイアログを表示するか設定します。=Cuando el Gacha Mile está disponible, elige si mostrar un\ndiálogo de confirmación antes de tirar los dados o comer un plato.
+
+記念品贈呈=Entrega de regalo conmemorativo
+表示されている編成は、すべてAUTO・SET設定で挑戦した編成です。=Todas las formaciones mostradas son formaciones intentadas con ajustes AUTO y SET.
+「まとめて３個」使用中の確認ダイアログ表示=Diálogo de confirmación mostrado cuando se usa «3 en lote»
+効果発動前の仲間が出現している場合、「まとめて３個」モードでダイスを振る前に確認ダイアログを表示するか設定します。=Cuando aparece un aliado antes de que se active el efecto, configura si\nmostrar un diálogo de confirmación antes de tirar los dados en modo «3 en lote».
+キャラバンショップ購入回数設定=Configurar el número de compras de la tienda del Caravano
+キャラバンショップの購入時に、購入回数を最小回数か最大回数のどちらにするか設定します。=Al comprar en la Tienda del Caravano, configura si el número de compras es el mínimo o el máximo.

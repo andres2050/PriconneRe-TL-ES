@@ -1,0 +1,24 @@
+EX防具コイン=Moneda de Armadura EX
+EX武器コイン=Moneda de Arma EX
+EXアクセサリーコイン=Moneda de Accesorio EX
+分解するアイテムを選択してください。=Selecciona el objeto\na desmantelar.
+r:"^([0-9,.]+)個のアイテムを選択中$"=$1 objeto(s) seleccionado(s)
+1個のアイテムを選択中=1 objeto seleccionado
+
+所持上限=Límite de posesión
+所持上限を超えたアイテムをプレゼントに送りました。=Se ha enviado al buzón un objeto que supera el límite de posesión.
+これ以上は、分解できません。=No se puede desmantelar más.
+
+一度に分解出来る最大数に達しています。これ以上は選択出来ません。=Se ha alcanzado el número máximo que se puede desmantelar a la vez.
+まとめて分解するEX装備を選択中です。=Seleccionando equipo EX para desmantelar todo a la vez
+おまかせ分解するEX装備がありません。=No hay equipo EX disponible para desmantelado automático.
+おまかせ分解が設定されていません。\nおまかせ分解設定を行ってください。=No hay desmantelado automático configurado.\nConfigura el desmantelado automático.
+分解するEX装備が選択されていません。=No se ha seleccionado el equipo EX a desmantelar.
+
+おまかせ分解実行時の消費対象を設定します。=Configura el objetivo de consumo al realizar el desmantelado automático.
+
+以下のEX装備を分解します。=Desmantelar el siguiente equipo EX.
+分解する=Desmantelar
+EX装備分解確認= Confirmación de desmantelado de Equipo EX
+
+リサイクル結果=Resultado de reciclaje

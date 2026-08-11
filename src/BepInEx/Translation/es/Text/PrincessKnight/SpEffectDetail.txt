@@ -1,0 +1,107 @@
+特殊効果詳細=Detalles de Efectos Especiales
+推奨プリンセスナイトRANK=RANGO de Caballero Princesa Recomendado
+
+火属性ボーナス特大アップ=Bono de Fuego Impulsado
+火属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。火属性以外の属性ボーナスを無効化する。=Cuando hay cuatro o más personajes de Fuego en el equipo, se impulsa el Bono Elemental. Anula el Bono Elemental de otros elementos.
+
+水属性ボーナス特大アップ=Bono de Agua Impulsado
+水属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。水属性以外の属性ボーナスを無効化する。=Cuando hay cuatro o más personajes de Agua en el equipo, se impulsa el Bono Elemental. Anula el Bono Elemental de otros elementos.
+
+風属性ボーナス特大アップ=Bono de Viento Impulsado
+風属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。風属性以外の属性ボーナスを無効化する。=Cuando hay cuatro o más personajes de Viento en el equipo, se impulsa el Bono Elemental. Anula el Bono Elemental de otros elementos.
+
+光属性ボーナス特大アップ=Bono de Luz Impulsado
+光属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。光属性以外の属性ボーナスを無効化する。=Cuando hay cuatro o más personajes de Luz en el equipo, se impulsa el Bono Elemental. Anula el Bono Elemental de otros elementos.
+
+闇属性ボーナス特大アップ=Bono de Oscuridad Impulsado
+闇属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。闇属性以外の属性ボーナスを無効化する。=Cuando hay cuatro o más personajes de Oscuridad en el equipo, se impulsa el Bono Elemental. Anula el Bono Elemental de otros elementos.
+
+ＨＰ吸収ダウン=Drenaje de HP reducido
+バトル開始時、すべてのキャラのＨＰ吸収を大ダウンさせる。=Al inicio de la batalla, el Drenaje de HP de todos los personajes se reduce en gran medida.
+
+深域モンスター=Monstruo de la Zona Profunda
+すべてのモンスターが一度の行動で受けるダメージ値を減衰させる。ダメージ値が上昇するほど減衰率も上昇する。=Todos los enemigos reciben daño reducido de un solo golpe. La reducción de daño aumenta proporcionalmente al daño infligido.
+
+物理防御力（ダウン不可）アップ=DEF. FÍS. + (No removible)
+バトル開始時、すべてのモンスターの物理防御力を中アップさせる。この効果は物理防御力ダウンの影響を受けない。=Al inicio de la batalla, todos los enemigos reciben un impulso moderado a la DEF. FÍS. Este impulso no se ve afectado por los efectos de reducción de DEF. FÍS.
+
+魔法防御力（ダウン不可）アップ=DEF. MÁG. + (No removible)
+バトル開始時、すべてのモンスターの魔法防御力を中アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Al inicio de la batalla, todos los enemigos reciben un impulso moderado a la DEF. MÁG. Este impulso no se ve afectado por los efectos de reducción de DEF. MÁG.
+
+バトル開始時、すべてのモンスターの魔法防御力を大アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Al inicio de la batalla, todos los enemigos reciben un gran impulso a la DEF. MÁG. Este impulso no se ve afectado por los efectos de reducción de DEF. MÁG.
+バトル開始時、すべてのモンスターの物理防御力を大アップさせる。この効果は物理防御力ダウンの影響を受けない。=Al inicio de la batalla, todos los enemigos reciben un gran impulso a la DEF. FÍS. Este impulso no se ve afectado por los efectos de reducción de DEF. FÍS.
+バトル開始時、すべてのモンスターの魔法防御力を特大アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Al inicio de la batalla, todos los enemigos reciben un impulso masivo a la DEF. MÁG. Este impulso no se ve afectado por los efectos de reducción de DEF. MÁG.
+バトル開始時、すべてのモンスターの物理防御力を特大アップさせる。この効果は物理防御力ダウンの影響を受けない。=Al inicio de la batalla, todos los enemigos reciben un impulso masivo a la DEF. FÍS. Este impulso no se ve afectado por los efectos de reducción de DEF. FÍS.
+
+ＴＰ上昇上限付与=Límite Máximo de Aumento de TP
+バトル開始時、すべてのキャラのＴＰ上昇の上限値を150にする。=Al inicio de la batalla, el límite máximo de Aumento de TP para todos los personajes se fija en 150.
+
+バトル中、「ダメージカット」、「毒・猛毒継続ダメージアップ」効果が発動する。=Durante la batalla, se activan los efectos de "Reducción de Daño" y "Aumento de Daño Continuo de Veneno/Veneno Mortal".
+毒・猛毒継続ダメージアップ=Aumento de Daño Continuo de Veneno/Veneno Mortal
+バトル開始時、すべてのモンスターが受ける毒、猛毒状態の継続ダメージをアップさせる。=Al inicio de la batalla, aumenta el Daño Continuo infligido por los estados de Veneno y Veneno Mortal a todos los monstruos.
+
+
+
+バトル開始時、すべてのキャラに火傷状態を付与する。=Al inicio de la batalla, todos los personajes serán afectados con Quemadura.
+火傷付与=Quemadura
+バトル開始時、すべてのキャラのＴＰ上昇を特大ダウンさせる。=Al inicio de la batalla, el Aumento de TP de todos los personajes se reducirá en una cantidad masiva.
+
+バトル開始時、すべてのキャラのＴＰ上昇を中ダウンさせる。=Al inicio de la batalla, reduce moderadamente la ganancia de TP de todos los personajes.
+バトル開始時、すべてのキャラのＴＰ上昇を小ダウンさせる。=Al inicio de la batalla, reduce ligeramente la ganancia de TP de todos los personajes.
+ＴＰ上昇ダウン=Aumento de TP reducido
+バトル開始時、すべてのキャラの魔法防御力を大ダウンさせる。=Al inicio de la batalla, la DEF. MÁG. de todos los personajes se reducirá en gran medida.
+魔法防御力ダウン=DEF. MÁG. reducida
+バトル開始時、すべてのキャラのＨＰ回復量を特大ダウンさせる。=Al inicio de la batalla, la Recuperación de HP de todos los personajes se reducirá en una cantidad masiva.
+ＨＰ回復量ダウン=Recuperación de HP reducida
+
+最大ＨＰダウン=HP Máx. reducido
+バトル開始時、すべてのキャラの最大ＨＰを30％ダウンさせる。=Al inicio de la batalla, el HP máximo de todos los personajes se reducirá en un 30%.
+バトル開始時、すべてのキャラに毒状態を付与する。=Al inicio de la batalla, todos los personajes serán envenenados.
+毒付与=Envenenamiento
+バトル開始時、すべてのモンスターの行動速度を特大アップさせる。=Al inicio de la batalla, impulsa masivamente la velocidad de acción de todos los monstruos. 
+行動速度アップ=Velocidad de Acción +
+バトル開始時、すべてのモンスターのＴＰを特大回復。=Cuando comienza la batalla, el TP de todos los monstruos se restaura masivamente.
+ＴＰ回復=Recuperación de TP
+バトル開始時、すべてのキャラの物理攻撃力を大ダウンさせる。=Al inicio de la batalla, el ATQ. FÍS. de todos los personajes se reducirá en gran medida.
+物理攻撃力ダウン=ATQ. FÍS. reducido
+バトル開始時、すべてのキャラの魔法攻撃力を大ダウンさせる。=Al inicio de la batalla, el ATQ. MÁG. de todos los personajes se reducirá en gran medida.
+魔法攻撃力ダウン=ATQ. MÁG. reducido
+バトル開始時、すべてのモンスターの行動速度を大アップさせる。=Al inicio de la batalla, impulsa en gran medida la velocidad de acción de todos los monstruos. 
+バトル開始時、すべてのキャラの行動速度を大ダウンさせる。=Al inicio de la batalla, reduce en gran medida la velocidad de acción de todos los personajes.
+行動速度ダウン=Velocidad de Acción reducida
+バトル開始時、すべてのキャラの物理防御力を大ダウンさせる。=Al inicio de la batalla, la DEF. FÍS. de todos los personajes se reducirá en gran medida.
+物理防御力ダウン=DEF. FÍS. reducida
+
+
+バトル開始時、すべてのモンスターに継続ＴＰ中回復状態を付与する。=Al inicio de la batalla, otorga recuperación media continua de TP a todos los monstruos.
+継続ＴＰ回復=Recuperación continua de TP
+バトル開始45秒後、すべてのキャラの物理防御力を大ダウンさせる。=45 segundos después del inicio de la batalla, reduce en gran medida la DEF. FÍS. de todos los personajes.
+バトル中物理防御力ダウン=DEF. FÍS. reducida durante la batalla
+バトル開始45秒後、すべてのキャラの魔法防御力を大ダウンさせる。=45 segundos después del inicio de la batalla, reduce en gran medida la DEF. MÁG. de todos los personajes.
+バトル中魔法防御力ダウン=DEF. MÁG. reducida durante la batalla
+
+バトル中、「全状態異常無効・ステータスアップ効果解除無効・行動速度ダウン無効」、「魔法攻撃力ダウン」効果が発動する。=Durante la batalla, se activarán los efectos de "Todas las Alteraciones de Estado Inválidas, Disipación de Efectos de Aumento de Estadísticas Inválida y Reducción de Velocidad de Acción Inválida" y "Reducción de Poder de Ataque Mágico".
+危険領域=Zona de peligro
+すべてのモンスターが全状態異常無効・ステータスアップ効果解除無効・行動速度ダウン無効になる。=Todos los monstruos serán inmunes a todas las alteraciones de estado, a la disipación de efectos de aumento y a la reducción de velocidad de acción.
+状態異常・アップ効果解除・速度ダウン無効=Alteraciones de Estado, Disipación de Efectos de Aumento, Velocidad Reducida Inválida
+バトル開始時、すべてのキャラの魔法攻撃力を絶大ダウンさせる。=Al inicio de la batalla, el poder de ataque mágico de todos los personajes se reducirá enormemente.
+
+強化素材リセット=Reinicio de Materiales de Refuerzo
+同属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。=Cuando hay cuatro o más personajes del mismo elemento en un equipo, el bono de elemento del personaje se mejora.
+全属性ボーナス特大アップ=Impulso masivo en todos los bonos de atributo
+
+ボスモンスターの行動パターンが変化する。=Los patrones de comportamiento del monstruo jefe cambian.
+ボス行動パターン変化=Cambio de patrón de comportamiento del jefe
+
+魔法無効バリア=Barrera de anulación mágica
+バトル開始時、すべてのシャドウに物理無効バリアを展開する。=Despliega una Barrera de Anulación Física en todas las Sombras al inicio de la batalla.
+物理無効バリア=Barrera de anulación física
+バトル開始時、すべてのシャドウに魔法無効バリアを展開する。=Desplegando una barrera de anulación mágica en todas las Sombras al inicio de la batalla.
+
+バトル中、「ダメージカット」、「呪い・呪詛継続ダメージアップ」効果が発動する。=Durante la batalla, se activan los siguientes efectos: "Reducción de Daño", "Aumento de Daño Continuo de Maldición/Maldición".
+
+バトル中、「反撃バリア」効果が発動する。=Durante la batalla, se activa el efecto 'Barrera de Contraataque'.
+
+バトル開始時、すべてのキャラのＨＰ回復量を大ダウンさせる。=Al inicio de la batalla, reduce en gran medida la tasa de recuperación de HP de todos los personajes.
+バトル中防御力小アップ=Pequeño Impulso de Defensa durante la batalla
+バトル中、「物理攻撃力アップ」効果が発動する。=Durante la batalla, se activa el efecto "Aumento de poder de ataque físico".

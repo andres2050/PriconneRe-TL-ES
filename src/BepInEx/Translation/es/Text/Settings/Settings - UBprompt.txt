@@ -1,0 +1,9 @@
+UB即発動モードを使用するか設定できます。=Puedes usar el modo de activación inmediata de Estallido de Unión como un clic rápido cuando el TP está lleno.
+UB即発動モードの設定=Ajuste del modo de activación inmediata de UB (Configurar modo)
+UB即発動モードを有効にする=Activar modo de activación inmediata de UB
+各キャラがユニオンバーストを発動する度に、UB即発動モードを解除するか設定できます。=Cada vez que un personaje activa UB, puedes configurar si cancelar el modo de activación inmediata de UB.
+ユニオンバースト発動時にUB即発動モードを解除=Cancelar modo de activación inmediata de UB al activar el Estallido de Unión
+ルナの塔において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=Puedes configurar un límite superior para la velocidad de batalla en la Torre de Luna.\n Los ajustes se reflejarán desde la próxima batalla.
+次元断層において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=Puedes configurar un límite superior para la velocidad de batalla en la Falla Dimensional.\n Los ajustes se reflejarán desde la próxima batalla.
+
+UB即発動モードが無効になっています。=Modo de activación inmediata de UB desactivado.

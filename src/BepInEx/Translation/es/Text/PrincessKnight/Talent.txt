@@ -1,0 +1,40 @@
+r:"^紅焔の深域(.{0,5})$"=Profundidades de la Llama Carmesí $1
+r:"^翠嵐の深域(.{0,5})$"=Profundidades de la Tormenta de Jade $1
+r:"^紫冥の深域(.{0,5})$"=Profundidades del Abismo Violeta $1
+r:"^蒼波の深域(.{0,5})$"=Profundidades de la Ola Azur $1
+r:"^珀天の深域(.{0,5})$"=Profundidades del Cielo Ámbar $1
+
+深域クエストパック効果適用中=Efectos del Paquete de Misiones de la Zona Profunda activos.
+
+Deep Questへ=Ir a la Misión Profunda
+深域クエストへ=Ir a la Misión Profunda
+Talent Questへ=Ir a la Misión Profunda
+闇属性=Oscuridad
+光属性=Luz
+風属性=Viento
+水属性=Agua
+火属性=Fuego
+sr:"^(.+)をクリアで解放されます。$"=Completa $1 para desbloquear.
+
+カスタム設定=Configuración personalizada
+属性ボーナスがOFFに設定されています。=El bono elemental está configurado como desactivado.
+属性ボーナス=Bono Elemental
+属性弱点=Debilidad Elemental
+
+火属性キャラ=Todo Personaje de Fuego
+水属性キャラ=Todo Personaje de Agua
+風属性キャラ=Todo Personaje de Viento
+光属性キャラ=Todo Personaje de Luz
+闇属性キャラ=Todo Personaje de Oscuridad
+
+
+All [FF7C4E]Fire[-] Character=Todo Personaje de [FF7C4E]Fuego[-]
+All [DAA520]Water[-] Character=Todo Personaje de [DAA520]Agua[-]
+All [006400]Wind[-] Character=Todo Personaje de [006400]Viento[-]
+All [cc9900]Light[-] Character=Todo Personaje de [cc9900]Luz[-]
+All [800080]Dark[-] Character=Todo Personaje de [800080]Oscuridad[-]
+
+
+チェック引継ぎ確認=Confirmación de Transferencia de Verificación
+
+新しい深域クエストがクリアされたため、\n最新のクリア済みクエストをチェックしました。=Se verificaron las misiones completadas más recientes debido a que se completó una nueva misión profunda.

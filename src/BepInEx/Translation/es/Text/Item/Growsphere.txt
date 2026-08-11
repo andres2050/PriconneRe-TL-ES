@@ -1,0 +1,110 @@
+スフィア=Esfera
+注意事項=Detalles
+所持グロウスフィア一覧=Esferacrecimiento en posesión
+選択中のグロウスフィアの効果=Efecto de Esferacrecimiento seleccionado
+各Lv=Al Nv.
+現在の無料分=Minutos gratis actuales
+使用する=Usar
+閉じる=Cerrar
+グロウスフィア一覧=Lista de Esferacrecimiento
+強化内容に記載されているRANKになった時、装備はついていない状態になります。=No dará equipo al llegar al RANGO máximo posible.
+使用可能なグロウスフィアを所持していません。=No tienes Esferacrecimiento.
+使用するグロウスフィアを選択してください。キャラ強化に必要なアイテムを消費せずにキャラを強化できます。=Selecciona Esferacrecimiento a usar\nPuedes mejorar personajes gratis sin usar objetos necesarios
+キャラ専用=Dedicado
+グロウスフィア使用確認=Confirmación de uso de Esferacrecimiento
+以下のアイテムを消費します。=Se consumen los siguientes objetos.
+使用するグロウスフィアを選択してください。=Selecciona el Esferacrecimiento a usar.
+無料対象が残っています。=Aún quedan cosas gratis.
+専用装備を強化します。よろしいですか？=¿Mejorar el Equipo Único?
+専用装備１を強化します。よろしいですか？=¿Mejorar el Equipo Único 1?
+専用装備２を強化します。よろしいですか？=¿Mejorar el Equipo Único 2?
+[FF7C4E,D62146]無料対象のためアイテムやマナは消費しません。[-]=[FF7C4E,D62146]No se consumen objetos ni mana.[-]
+強化内容=Subir
+育成玉を所持していません。=No tienes bola de entrenamiento.
+現在のステータスのほうが高いため、使用できません。=No se puede usar porque el estado actual es mayor.
+強化するにはキャラLvを上げる必要があります。=Para mejorarlo, necesitas subir el Nv. de personaje.
+専用装備レベルを強化するにはキャラLvを上げる必要があります。=Para mejorar el Nv. de EU, necesitas subir el Nv. de personaje.
+各グロウスフィアの無料強化値について=Sobre el valor de mejora gratis de Esferacrecimiento
+グロウスフィアの使用について=Sobre el uso de Esferacrecimiento
+グロウスフィアを使用後に、キャラを無料強化した場合も、デイリーミッションの加算対象です。\n例：グロウスフィアを使用したキャラのスキルを無料強化した場合、デイリーミッションの「キャラのスキルを{{A}}回強化しよう」が達成されます。=Incluso si mejoras a tu personaje gratis tras usar Esferacrecimiento, serás elegible para misiones diarias. Ejemplo: Si mejoras la habilidad de un personaje usando Esferacrecimiento, la misión diaria «Mejora la habilidad de un personaje 1 vez» se completará.
+デイリーミッションについて=Sobre la Misión Diaria
+キャラの大いなる力を呼び醒ますア\nイテム。=Un objeto que invoca el gran poder del personaje.
+r:"^グロウスフィア /\n? Lv(\d+)$"=Esferacrecimiento / Nv$1
+r:"^専用装備(.)グロウスフィア\n? \/ Lv(\d+)$"=Esferacrecimiento de EU-$1 / Nv$2
+強化できるLvまでLvアップする=Subir de nivel hasta el Nv. máximo.
+
+
+r:"^すべてのキャラに使用できるグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Esferacrecimiento que se puede usar para todos los personajes. Sube el estado del personaje a Nv$1/RANGO$2.
+
+r:"^すべてのキャラに使用できる専用装備(.)のグロウスフィア。専用装備(.)を作成し、Lv(\d+)まで強化できる。$"=Esferacrecimiento de EU-$1 que se puede usar para todos los personajes. Crea un EU-$1 y mejora hasta Nv$3.
+
+
+現在使用中のスフィアよりも、Lvアップができないアイテムです。=Solo se puede usar si el Nv. es inferior al Nv. de Esferacrecimiento
+sr:"^([べ-ヺー＆＝]+)(（.{2,10}）)?\n?専用スフィア \/ Lv(\d+)$"=$1$2\nEsfera Exclusiva / Nv$3
+sr:"^([べ-ヺー＆＝]+)(（.{2,10}）)?専用のグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Esferacrecimiento exclusivo de $1$2.\n Sube el estado del personaje a Nv$3/RANGO$4.
+
+r:"^専用装備(.)グロウスフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Has usado Esferacrecimiento de EU-$1 / Nv$2.\nAhora puedes mejorar el valor configurado gratis.
+
+r:"^グロウスフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Has usado Esferacrecimiento / Nv$1.\nAhora puedes mejorar el valor configurado gratis.
+sr:"^([べ-ヺー＆＝]+)(（.+）)?専用スフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Has usado Esferacrecimiento dedicado\nde $1$2 / Nv$3.\nAhora puedes mejorar el valor configurado gratis.
+グロウスフィアセット完了=Configuración de Esferacrecimiento completada
+
+ランクとレベルを一括で強化します。=Sube rangos y niveles a la vez.
+一括強化=Mejora por lotes
+無料でレベルアップ！=¡Sube de nivel gratis!
+ランクアップします。よろしいですか？=¿Quieres subir de rango?
+r:"^無料で強化できるのは\nLv(\d+)までです。$"=Se puede mejorar gratis hasta Nv$1.
+レベルは現在のプレイヤーLv以下まで上げられます。=El nivel se puede subir hasta el Nv. de jugador actual.
+無料対象のためアイテムや装備は消費しません。=No se consumen objetos ni equipo.
+スキル①=Habilidad ①
+スキル②=Habilidad ②
+r:"^\[3C404E\]無料で強化できるのは\[-\]\[FF7C4E,D62146\]Lv(\d+)\[-\]\[3C404E\]までです。\[-\]$"=[3C404E]Subida de Nv. gratis hasta[FF7C4E,D62146] Nv$1[-].[-]
+[3C404E]無料で強化できるのは[-][FF7C4E,D62146]
+・ランクアップ\n・装備装着\n・装備強化=·Subir de rango\n·Equipar equipo\n·Refinar equipo
+・専用装備作成\n・専用装備上限解放\n・専用装備レベルアップ=·Fabricar Equipo Único\n·Desbloquear límite de Nv. de Equipo Único\n·Subir Nv. de Equipo Único
+・専用装備１作成\n・専用装備１上限解放\n・専用装備１レベルアップ=·Fabricar Equipo Único 1\n·Desbloquear límite de Nv. de Equipo Único 1\n·Subir Nv. de Equipo Único 1
+・専用装備２作成\n・専用装備２上限解放\n・専用装備２レベルアップ=·Fabricar Equipo Único 2\n·Desbloquear límite de Nv. de Equipo Único 2\n·Subir Nv. de Equipo Único 2
+
+・専用装備作成\n・専用装備上限解放=·Fabricar Equipo Único\n·Desbloquear límite de Nv. de Equipo Único
+・専用装備１作成\n・専用装備１上限解放=·Fabricar Equipo Único 1\n·Desbloquear límite de Nv. de Equipo Único 1
+・専用装備２作成\n・専用装備２上限解放=·Fabricar Equipo Único 2\n·Desbloquear límite de Nv. de Equipo Único 2
+
+・専用装備上限解放\n・専用装備レベルアップ=·Desbloquear límite de Nv. de Equipo Único\n·Subir Nv. de Equipo Único
+・専用装備１上限解放\n・専用装備１レベルアップ=·Desbloquear límite de Nv. de Equipo Único 1\n·Subir Nv. de Equipo Único 1
+・専用装備２上限解放\n・専用装備２レベルアップ=·Desbloquear límite de Nv. de Equipo Único 2\n·Subir Nv. de Equipo Único 2
+・専用装備上限解放=·Desbloquear límite de Nv. de Equipo Único
+・専用装備１上限解放=·Desbloquear límite de Nv. de Equipo Único 1
+・専用装備２上限解放=·Desbloquear límite de Nv. de Equipo Único 2
+・専用装備レベルアップ=·Subir Nv. de Equipo Único
+・専用装備１レベルアップ=·Subir Nv. de Equipo Único 1
+・専用装備２レベルアップ=·Subir Nv. de Equipo Único 2
+専用装備レベルアップ=Subir Nv. de Equipo Único
+専用装備１レベルアップ=Subir Nv. de Equipo Único 1
+専用装備２レベルアップ=Subir Nv. de Equipo Único 2
+無料強化分が完了したものがあります。=Algunas mejoras gratis se han completado.
+無料強化完了=Mejora gratis completada
+一括強化完了=Mejora por lotes completada
+・ランクアップ\n・レベルアップ\n・装備装着\n・装備強化=·Subir de rango\n·Subir de nivel\n·Equipar equipo\n·Refinar equipo
+---npc---
+マナや装備が足りない場合でも、グロウスフィアを使用すれば\nお仲間を一気に強化ができるようです。\nグロウスフィアを手に入れたらすぐに使ってみましょう。=Incluso si no tienes suficiente mana o equipo, puedes usar Esferacrecimiento para mejorar a tus amigos a la vez. Úsalo en cuanto consigas Esferacrecimiento.
+
+主さま、今手に入れたのがグロウスフィアになります。\nマナや装備を使わずに一気に強化できるアイテムですので\nさっそく使ってみましょう。=Mi señor, lo que acabamos de obtener es Esferacrecimiento.\nEs un objeto que puede mejorar a la vez sin usar mana ni equipo, así que\nvamos a usarlo de inmediato.
+---Ayuda---
+キャラ専用のグロウスフィアは、指定のキャラ以外で使用することはできません。\n※グロウスフィアは、メインクエスト 2-3(NORMAL)をクリアした後に使用できます。\n\n現在のキャラのステータスが、グロウスフィアの全ての無料強化値を上回る場合、グロウスフィアは使用できません。\nグロウスフィアでは、プレイヤーLvを上回る強化はできません。\n\nグロウスフィアの所持上限はそれぞれ「999」です。\n所持上限を超えて獲得したグロウスフィアは、プレゼントボックスに送られます。=El Esferacrecimiento específico de personaje solo puede ser usado por personajes designados.\n※Esferacrecimiento se puede usar tras superar la Misión Principal 2-3 (NORMAL).\nSi el estado actual del personaje supera todas las mejoras gratis del Esferacrecimiento, no se puede usar.\nEsferacrecimiento no puede mejorar más allá del Nv. de Jugador.\n\nEl límite máximo de posesión de Esferacrecimiento es «999».\n\nLos Esferacrecimientos obtenidos en exceso del límite de posesión se enviarán al buzón de regalos.
+
+グロウスフィアを使用後に、キャラを無料強化した場合も、デイリーミッションの加算対象です。\n例：グロウスフィアを使用したキャラのスキルを無料強化した場合、デイリーミッションの「キャラのスキルを1回強化しよう」が達成されます。=Incluso si mejoras a tu personaje gratis tras usar Esferacrecimiento, serás elegible para misiones diarias.\nEjemplo: Si mejoras la habilidad de un personaje usando Esferacrecimiento gratis, la misión diaria «Mejora la habilidad de un personaje 1 vez» se completará.
+グロウスフィアによって、アイテムや装備を消費せずに無料で強化できる値が異なります。\n無料で強化できる値は、グロウスフィアの［グロウスフィア一覧］から確認できます。\n\n■キャラLvとスキルLv\n「各Lv」に記載されている値まで強化できます。\n※各スキルが未解放の場合、解放後に無料で強化できます。\n※現在のキャラLvとスキルLvがグロウスフィアのLvを上回る場合、グロウスフィアを使ってLvを下げることはできません。\n\n■キャラの装備\n「RANK」に記載されている値の1つ下のRANKまで、装備アイテムを消費せずに無料で装備できます。\nまた、アイテムを消費せずに無料で最大まで装備強化ができます。\n※キャラの装備の強化はメインクエスト 3-5(NORMAL)をクリアした後に使用できます。\n※ランクアップ時、無料で装備強化している分の装備強化アイテム返還はされません。\n※現在のキャラのRANKがグロウスフィアのRANKを上回る場合、グロウスフィアを使ってRANKを下げることはできません。=Dependiendo del Esferacrecimiento, el valor que se puede mejorar gratis sin consumir objetos o equipo varía.\nPuedes comprobar los valores que se pueden mejorar gratis desde la [Lista de Esferacrecimiento] de Esferacrecimiento.\n\n■ Nv. de personaje y Nv. de habilidad\nSe puede mejorar hasta el valor descrito en «Al Nv.».\n※ Si cada habilidad no se ha desbloqueado, se puede mejorar gratis tras desbloquearla.\n※ Si el Nv. de personaje y de habilidad actual superan el Nv. de Esferacrecimiento, no puedes usar Esferacrecimiento para bajar el Nv.\n\n■ Equipo de personaje\nPuedes equipar gratis sin consumir objetos de equipo hasta un RANGO, que es un valor inferior al indicado en «RANGO».\nTambién puedes mejorar tu equipo al máximo gratis sin consumir objetos.\n※ Las mejoras de equipo de personaje se pueden usar tras superar la Misión Principal 3-5 (NORMAL).\n※ Al subir de rango, los objetos de mejora de equipo que se han mejorado gratis no se devolverán.\n※ Si el RANGO actual del personaje supera el RANGO de Esferacrecimiento, no puedes usar Esferacrecimiento para bajar el RANGO.
+
+各専用装備１グロウスフィアの無料強化値について=Sobre el valor de mejora gratis de Esferacrecimiento de Equipo Único 1
+各専用装備２グロウスフィアの無料強化値について=Sobre el valor de mejora gratis de Esferacrecimiento de Equipo Único 2
+
+専用装備１グロウスフィアによって、アイテムやマナを消費せずに無料で強化できる値が異なります。\n無料で強化できる値は、グロウスフィアの\n［グロウスフィア一覧］から確認できます。\n\n■専用装備１強化Lv上限\n「専用装備１上限Lv」に記載されている値まで解放されます。\n※専用装備１グロウスフィアを使用後、専用装備１を装備すると、自動的に無料上限分まで解放されます。\n※専用装備１Lvは自動で強化されません。\n\n■専用装備１Lv\n「専用装備１Lv」に記載されている値まで\n強化できます。\n※無料強化分の強化を完了するまで、専用装備１のLv上限解放はできません。\n※キャラの装備の強化はメインクエスト 3-5(NORMAL)をクリアした後に使用できます。=Dependiendo del Esferacrecimiento de EU, el valor que se puede mejorar gratis sin consumir objetos o mana será diferente. Puedes comprobar el valor que se puede mejorar gratis desde la [Lista de Esferacrecimiento] en el Esferacrecimiento.\n\n■ Límite de Nv. de mejora de Equipo Único\nSe liberará hasta el valor descrito en «Nv. máximo de Equipo Único».\n※ Tras usar el Esferacrecimiento de EU, si equipas el Equipo Único, el límite gratis se liberará automáticamente.\n※ El Nv. de Equipo Único no se mejora automáticamente.\n\n■ Nv. de Equipo Único\nPuedes mejorar hasta el valor indicado en «Nv. de Equipo Único».\n※No puedes desbloquear el límite de Nv. de Equipo Único hasta completar la mejora gratis.\n※La mejora del equipo del personaje se puede usar tras superar la Misión Principal 3-5 (NORMAL).
+専用装備１グロウスフィアの使用について=Sobre el uso de Esferacrecimiento de Equipo Único 1
+専用装備２グロウスフィアの使用について=Sobre el uso de Esferacrecimiento de Equipo Único 2
+
+専用装備１グロウスフィアは、メインクエスト 2-3(NORMAL)をクリアした後に使用できます。\n\n下記のいずれかに当てはまる場合、\n専用装備１グロウスフィアを使用できません。\n・現在のキャラの専用装備１強化Lv上限が、専用装備１グロウスフィアの無料強化値を上回る場合\n・キャラの専用装備１が登場していない場合\n・キャラのRankが6以下の場合\n\nまた、無料強化値が残っている場合でも、専用装備１は現在のキャラLvに対応した専用装備１強化Lv上限までしか強化できません。\n例：キャラのLvが200の場合、専用装備１を強化できるのはLv210までです。\n※キャラLvを上げれば、続きから無料強化上限のLvまで無料で強化できます。\n\n専用装備１グロウスフィアの所持上限は「999」です。\n所持上限を超えて獲得した\n専用装備１グロウスフィアは、プレゼントボックスに送られます。\n\n専用装備１グロウスフィアを使用しても専用装備２の作成、強化に必要なマナやピュアメモリーピースは無料になりません。=El Esferacrecimiento de EU 1 se puede usar tras superar la Misión Principal 2-3 (NORMAL).\n\nSi se cumple alguna de las siguientes condiciones, no puedes usar el Esferacrecimiento de EU 1.\n・Si el límite superior de Nv. de mejora de Equipo Único 1 del personaje actual supera el valor de mejora gratis del Esferacrecimiento de EU 1.\n・Si el Equipo Único 1 del personaje no ha aparecido\n・Si el Rango del personaje es 6 o menos\n\nAdemás, incluso si queda valor de mejora gratis, el Equipo Único 1 solo se puede mejorar hasta el límite superior de Nv. de mejora correspondiente al Nv. de personaje actual.\nEjemplo: Si tu personaje es Nv. 200, solo puedes mejorar tu Equipo Único 1 hasta Nv. 210.\n* Si subes el Nv. de personaje, puedes mejorarlo gratis desde la continuación hasta el Nv. del límite superior de mejora gratis.\n\nEl límite máximo de posesión del Esferacrecimiento de EU 1 es 999.\nLos Esferacrecimientos de EU 1 obtenidos más allá del límite de posesión se enviarán al buzón de regalos.
+
+
+専用装備１グロウスフィアを使用すれば、素材を消費せずに専用装備を作成、一気に強化ができるようです。ぜひご活用くださいませ。=Si usas el Esferacrecimiento de Equipo Único 1, puedes crear Equipo Único 1 sin consumir materiales y mejorarlo a la vez. Aprovéchalo.
+
+専用装備１グロウスフィアを使用すれば、素材を消費せずに専用装備１を作成、一気に強化ができるようです。ぜひご活用くださいませ。=Si usas el Esferacrecimiento de Equipo Único 1, puedes crear Equipo Único 1 sin consumir materiales y mejorarlo a la vez. Aprovéchalo.

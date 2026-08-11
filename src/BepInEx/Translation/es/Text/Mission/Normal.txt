@@ -1,0 +1,60 @@
+チュートリアル=Tutorial
+クリアランク=Rango de finalización
+連携=Vínculo
+
+
+r:"^(\[[0-9A-F]{6}\])?プレイヤーLvを(\d+)にしよう(\[-\])?$"="$1Alcanza el Nivel de Jugador $2[-]"
+
+sr:"^(\[[0-9A-F]{6}\])?(メイン|イベント)クエスト(.+)をクリアしよう(\[-\])?$"="$1Completa la Misión $2 $3$4"
+sr:"^(\[[0-9A-F]{6}\])?(メイン|イベント)クエスト(.+)前編をクリアしよう(\[-\])?$"="$1Completa la Misión $2 $3 (Parte 1)$4"
+sr:"^(\[[0-9A-F]{6}\])?(メイン|イベント)クエスト(.+)後編をクリアしよう(\[-\])?$"="$1Completa la Misión $2 $3 (Parte 2)$4"
+r:"^(\[[0-9A-F]{6}\])?イベント中編クエスト(.+)をクリアしよう(\[-\])?$"=$1Completa la Misión de Evento $2 (Parte Media)$3
+
+r:"^(\[[0-9A-F]{6}\])?クリアランクの☆を(\d+)個集めよう(\[-\])?$"="$1Reúne $2★ de estrellas de rango$3"
+sr:"^(\[[0-9A-F]{6}\])?([\d+]+月)クランバトル \(クランモード\)で([1-5])段階目に到達しよう(\[-\])?$"="$1Alcanza el Jefe de Nivel $3 en la Batalla de Clan ($2)[-]"
+r:"^(\[[0-9A-F]{6}\])?フレンドバトルで(\d+)回戦おう(\[-\])?$"="$1Haz una batalla de amigos $2 veces $3"
+r:"^(\[[0-9A-F]{6}\])?(\d+)キャラ獲得しよう(\[-\])?$"="$1Recluta un total de $2 personajes$3"
+r:"^(\[[0-9A-F]{6}\])?聖跡調査クエストLv(\d+)をクリアしよう(\[-\])?$"="$1Completa la Misión de Investigación del Santuario Lv$2$3"
+r:"^(\[[0-9A-F]{6}\])?神殿調査クエストLv(\d+)をクリアしよう(\[-\])?$"="$1Completa la Misión de Investigación del Templo Lv$2$3"
+r:"^(\[[0-9A-F]{6}\])?(\d+)キャラをRANK(\d+)にしよう(\[-\])?$"="$1Asciende a $2 personajes al RANGO $3$4"
+sr:"^(\[[0-9A-F]{6}\])?(バトルアリーナ|プリンセスアリーナ)で(\d+)(回勝利しよう|勝しよう)(\[-\])?$"="$1Gana $3 veces en $2$5"
+r:"^(\[[0-9A-F]{6}\])?バトルアリーナで(\d+)回勝利しよう(\[-\])?$"="$1Gana $2 veces en la Arena de Batalla$3"
+r:"^(\[[0-9A-F]{6}\])?ルナの塔(\d+)階をクリアしよう(\[-\])?$"="$1Completa el Piso $2 de la Torre de Luna$3"
+r:"^(\[[0-9A-F]{6}\])?ルナの塔(\d+)階EXクエストをクリアしよう(\[-\])?$"="$1Completa la Misión EX del Piso $2 de la Torre de Luna$3"
+r:"^(\[[0-9A-F]{6}\])?★([1-6])のキャラを獲得しよう(\[-\])?$"="$1Recluta un personaje de $2★$3"
+r:"^(\[[0-9A-F]{6}\])?ギルドハウスアイテムを(\d+)個設置しよう(\[-\])?$"="$1Instala $2 objetos de la Casa del Gremio$3"
+sr:"^(\[[0-9A-F]{6}\])?ダンジョン「(.+)」を制覇しよう(（追加）)?(\[-\])?$"="$1Completa la Mazmorra "$2"$3$4"
+
+r:"^(\[[0-9A-F]{6}\])?アドベンチャーを(\d+)回完了させよう(\[-\])?$"=$1Completa la aventura $2 veces $3
+
+r:"^(\[[0-9A-F]{6}\])?【期間限定】メインストーリー第(\d+)部 第(\d+)章の第(\d+)話を閲覧しよう(\[-\])?$"=$1[Tiempo limitado] Ver la Historia Principal Parte $2 Capítulo $3 Episodio $4$5
+
+r:"^(\[[0-9A-F]{6}\])?(\d+)キャラのコネクトRANKを(\d+)まで上げよう(\[-\])?$"=$1Sube el RANGO de CONECTAR de $2 personajes a $3$4
+
+
+sr:"^(.+?)のマスタリー(.)ヵ所をレベル(.)以上にしよう$"=Sube los $2 niveles de maestría de $1 al nivel $3 o superior
+
+（追加）=(Sub)
+[3C404E]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[3C404E]Completa el Modo 1 de la Mazmorra EX-V[-]
+[3C404E]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[3C404E]Completa el Modo 2 de la Mazmorra EX-V[-]
+[3C404E]チュートリアルをクリアしよう[-]=[3C404E]Completa el tutorial[-]
+[3C404E]クランでダンジョンのサポートキャラを設定しよう[-]=[3C404E]Configura un Personaje de Alquiler para la Mazmorra en el Clan[-]
+[3C404E]クランでクランバトル・ルナの塔のサポートキャラを設定しよう[-]=[3C404E]Configura un Personaje de Alquiler para BC/Luna en el Clan[-]
+[3C404E]フレンドでクエストのサポートキャラを設定しよう[-]=[3C404E]Configura un Personaje de Alquiler para Misiones en el Clan[-]
+[3C404E]フレンドをつくろう[-]=[3C404E]Añade un amigo[-]
+[3C404E]データ連携、またはアカウント連携を設定しよう[-]=[3C404E]Configura el vínculo de datos o el vínculo de cuenta[-]
+[3C404E]称号を受け取ろう[-]=[3C404E]Recibe un título[-]
+
+[FFFFFF]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[FFFFFF]Completa el Modo 1 de la Mazmorra EX-V[-]
+[FFFFFF]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[FFFFFF]Completa el Modo 2 de la Mazmorra EX-V[-]
+[FFFFFF]チュートリアルをクリアしよう[-]=[FFFFFF]Completa el tutorial[-]
+[FFFFFF]クランでダンジョンのサポートキャラを設定しよう[-]=[FFFFFF]Configura un Personaje de Alquiler para la Mazmorra en el Clan[-]
+[FFFFFF]クランでクランバトル・ルナの塔のサポートキャラを設定しよう[-]=[FFFFFF]Configura un Personaje de Alquiler para BC/Luna en el Clan[-]
+[FFFFFF]フレンドでクエストのサポートキャラを設定しよう[-]=[FFFFFF]Configura un Personaje de Alquiler para Misiones en el Clan[-]
+[FFFFFF]フレンドをつくろう[-]=[FFFFFF]¡Hagamos un amigo![-]
+[FFFFFF]データ連携、またはアカウント連携を設定しよう[-]=[FFFFFF]Configura el vínculo de datos o el vínculo de cuenta[-]
+[FFFFFF]称号を受け取ろう[-]=[FFFFFF]Recibe un título[-]
+登頂せよ！『四彩の霊峰』=¡Escala! "Montaña Sagrada de los Cuatro Colores"
+
+
+ルナの塔頂上EXクエストをクリアしよう=Completa la misión EX en la cima de la Torre de Luna

@@ -1,0 +1,26 @@
+※この設定は後から［設定］で変更できます。=※Este ajuste se puede cambiar más tarde.
+※この設定は後から[設定]で変更できます。=※Este ajuste se puede cambiar más tarde.
+この設定は後から［設定］で変更できます。=Este ajuste se puede\ncambiar más tarde en [Ajustes].
+[FF7C4E,D62146]この設定は後から［設定］で変更できます。[-]=[FF7C4E,D62146]Este ajuste se puede cambiar más tarde en [Ajustes].[-]
+今後このメッセージを表示しない\n※この設定は後から[設定]で変更できます。=No mostrar este mensaje en el futuro.\n※Se puede cambiar más tarde desde [Ajustes].
+
+設定変更を適応するためにアプリの再起動が必要になります。=Necesitas reiniciar la app para aplicar los cambios de ajustes.
+演出設定=Ajustes de animación
+ガチャで★3キャラを獲得した際の演出と、マイページのキャラ演出の設定を行います。\n※この設定は後から【設定】で変更できます。=Configura el efecto al obtener personajes ★3 en el gacha y el efecto del personaje en Inicio.\nEste ajuste se puede cambiar más tarde en [Ajustes].
+ガチャで★3キャラを獲得した際の演出と、マイページのキャラ演出の設定を行います。\\n\n※この設定は後から【設定】で変更できます。=Configura el efecto al obtener personajes ★3 en el gacha y el efecto del personaje en Inicio.\nEste ajuste se puede cambiar más tarde en [Ajustes].
+
+
+ガチャの★3キャラ獲得時の演出設定=Mostrar barra de descarga al obtener personaje ★3 del Gacha
+★3キャラを獲得した際の演出設定です。\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。=«Animada» mostrará una barra de descarga de datos antes de reproducirse.
+★3キャラを獲得した際の演出設定です。\\n\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。=«Animada» mostrará una barra de descarga de datos antes de reproducirse.
+リッチ版=Animada
+
+マイページのキャラ演出設定=Animación CG en pantalla de Inicio
+マイページのキャラ演出設定です。\n※「リッチ版」を選択すると、キャラ設定変更時にデータダウンロードを行います。=«Animada» mostrará una barra de descarga al cambiar el personaje mostrado.
+マイページのキャラ演出設定です。\\n\n※「リッチ版」を選択すると、キャラ設定変更時にデータダウンロードを行います。=«Animada» mostrará una barra de descarga al cambiar el personaje mostrado.
+
+リッチ版演出データの保存設定=Guardar CGs animados descargados
+ダウンロードしたリッチ版演出データを保存するか設定します。\n「保存しない」を選択すると、リッチ版演出データはアプリ起動の度に削除されます。=Si no los guardas, los datos se eliminarán y descargarán de nuevo cada vez.
+ダウンロードしたリッチ版演出データを、端末に保存するか設定します。\\n\n「保存しない」を選択すると、リッチ版演出データはアプリ起動の度に削除されます。=Si no los guardas, los datos se eliminarán y descargarán de nuevo cada vez.
+保存する=Guardar
+保存しない=No guardar

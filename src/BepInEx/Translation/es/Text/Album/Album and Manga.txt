@@ -1,0 +1,282 @@
+キャラ選択=Selección de Personaje
+じゃない私=No, yo...
+マホマホ王国ショー=Show del Reino Mahomaho
+美を統べる者=Gobernante de la belleza
+
+カレーにしてゆうげ=Curry y Yuuge
+
+Aoi
+気合入れて募集=Dando lo Mejor de Sí
+キャンプマイスター=Maestra del Campamento
+得意分野（かも）=Especialidad (Quizás)
+ぼっち専用=No Soy Digna
+
+Akari
+一緒にいきたい=Ojos de Cachorrito
+恋の魔法=Magia del amor
+
+Akino
+出口はこっち=¡Sígueme!
+二人一緒なら=Juntos Somos...
+
+Anna
+我が名は!!=¡Temed el Nombre!
+満を持して=Satisfacción
+
+Anne
+きょうみしんしん=¡Tengo Curiosidad!
+
+Ameth
+ぷにぷにプニプニ=Punipuni Punipuni
+
+Arisa
+感動の出会い=Revelación Alegre
+
+Ayane
+ぬいぐるみ集め=Coleccionista Ávida
+
+Ayumi
+りめんばーみー！=¡Recuérdame!
+ライバル出現？=¿Aparece una rival?
+
+Chika
+集中しすぎて=Melodía Encantadora
+
+Christina
+退屈だ……=Tedio Maldito
+
+Djeeta
+紙ヒコーキに夢を乗せて=Sueño de Alturas
+
+Eriko
+ロックオン=Objetivo Adquirido
+
+Grea
+ダメだよ？=Fuera de Límites
+
+Hatsune
+寝惚けて=Hermana Distraída
+私の色=Mi color
+
+Hiyori
+作戦説明=Los Mejores Planes
+じゃんけんタイム！=¡Hora de Piedra, Papel o Tijera!
+
+Illya
+わらしべ世界征服=Misión de Comercio del Mal
+
+Io
+みんなの手本=Déjaselo a la Profesora Io
+闇の授業=Clase Oscura
+
+Inori
+下剋上=Rebelión
+不安の種=Fuente de Ansiedad
+征服完了！=¡Conquista Completada!
+
+Jun
+コーディネート=Consciente de la Moda
+
+Kaori
+てーげーカオリ=¡No Te Preocupes!
+
+Kyaru
+つんつん=Tsundere
+かけ声=Grito
+
+Kasumi
+探偵のサガ=La Detective en Vivo
+キメッ☆=Kimet☆
+
+Kaya
+買うぜ？=¿Compro?
+お仕事中=Durante el trabajo
+
+Karin
+素敵な仲間=Buena amiga
+
+Kokkoro
+はじめてのあじ=Recetas Valientes
+ふわふわ=Esponjoso
+
+Kuuka
+気づいたら=Le Pasa a los Mejores
+くせになる=Justo Como Le Gusta
+高まる=Escalar
+
+Kurumi
+人目のつかない所=El Escondite Perfecto
+
+Kyouka
+あやしい…=Sospechoso...
+お花のようせいさん=Como un Hada de las Flores
+
+Lima
+乙女の憧れ=El Sueño de una Doncella Pura
+
+Lou
+敵前逃亡=Técnica Secreta
+
+Mahiru
+異色のコンビ=Comedia de Vanguardia
+認識=Reconocimiento
+
+Maho
+王国はあります=Porque Ella Lo Dice
+しゃなりしゃなり
+
+Makoto
+口ではそう言っても=Deseos Secretos
+フリフリ=Ondulación de Encaje
+
+Matsuri
+ポーズの練習！=Práctica de Poses
+●ヒミツ図鑑● ①マツリちゃん=*Enciclopedia secreta* 1 Matsuri-chan
+
+Mifuyu
+徹底比較=¿Compra Óptima?
+得意分野=Especialidad
+
+Mimi
+すくすく子うさぎ=Un Conejito en Crecimiento
+
+Misaki
+オトナっぽい？=¿Muy Sofisticada?
+セクシーアピール=Atractivo Sexy
+
+Misato
+愛は剣より強し=¿El Poder del Amor?
+
+Misogi
+イタズラガール=Pequeña Traviesa
+３人いつも=Siempre Tres
+
+Mitsuki
+お見舞い？=Visitante en el Lecho
+チクッと=Aplastado
+
+Miyako
+作ってオーラ=Una Decisión Espeluznante
+
+Monika
+子供じゃない=Melancolía Nocturna
+至福のカフェ=Café Dichoso
+
+Muimi
+必殺技=Ataque Especial
+
+Nanaka
+新奥義=¿Una Nueva Técnica?
+
+Ninon
+奥義？=Secreto del Este
+新忍法=Ninpo: Konohagakure no Jutsu
+
+Neneka
+ドッキリ大成功=¡Te Burlaron!
+
+Nozomi
+ちょっとおでかけ=De Incógnito
+
+Pecorine
+ナイスリアクション=Una Verdadera Gourmet
+パワーアップ☆=¡Poder Arriba☆
+
+Homare
+ヒミツの作者=Autor Secreto
+
+Rei
+実は釣り好き=Placeres Simples
+守る力=Poder para Proteger
+
+Luna
+おともだちになってくれる？=¿Serás mi amigo?
+
+Rin
+早寝=Dormir Temprano
+身代わり=Sustituto
+
+Rino
+小さな間違い=Sin Ostras para Ti
+おそろい=Camarada
+
+Ruka
+増える舎弟=Séquito Inesperado
+
+Chloe
+勘違いされがち=A Menudo Malinterpretada
+黄色い声援=Animas Amarillas
+
+Chierun
+ちぇる～ん☆=Chieru-n☆
+ちぇる式走法=Método de Carrera Estilo Chieru
+
+Creditta
+第一の忠臣！=¡Primer Leal Vasallo!
+
+Saren
+ヒットのアイデア=Oferta Especial
+
+shefi
+じゃなくて=No Es Así
+
+Shinobu
+占い師=Contando Fortunas
+よく視える=Puedes Ver Bien
+
+Shiori
+敵より読書=Prioridad
+魔法少女？=¿Chica Mágica?
+
+Shizuru
+心配性=Una Sugerencia de Hermana
+
+Suzume
+皿割り記録=¡NUEVO RÉCORD!
+
+Suzuna
+においで引き寄せ=Un Aroma Atrayente
+
+Tamaki
+焼きたてほやほや=Recién Horneado
+赤字確定=Deficit Confirmado
+
+Tomo
+料理の腕前=Habilidad en la Cocina
+一緒に！=¡Juntos!
+
+Tsumugi
+最高の服を=Una Sastra Devota
+
+Yuni
+本の虫=Ratón de Biblioteca
+得手不得手=Fuerte y Débil
+
+Yori
+まだはやい=Protestando Demasiado
+恥ずかしい…！=¡Vergonzoso...!
+
+Labyrista
+腕前=Habilidad
+
+Ranpha
+時間切れ=Tiempo Agotado
+
+Yui
+まどろみのユイ=Dulce Sueño
+ぺこぺこ=Estómago Gruñendo
+
+Yukari
+反面教師=Dando el Mejor Ejemplo
+贅沢な時間=Tiempo Lujoso
+
+Yuki
+自信満々=El Mejor Premio de Todos
+ボクと癒やしタイム=Tiempo Relajante Conmigo
+
+vampy
+さいきょーですし♪=La mejor-desushi♪
+
+負けられない=No Perderé
+
+姉妹っぽいこと=Cosas de Hermanas

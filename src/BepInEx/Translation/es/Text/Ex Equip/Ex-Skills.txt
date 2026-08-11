@@ -1,0 +1,164 @@
+スキル詳細=Detalles de Habilidad
+
+バトル中攻撃力小アップ=Ataque + (P) en Batalla
+開始時攻撃力中アップ=Ataque Inicial + (M)
+r:"^バトル開始後(\d+)秒間自分の物理攻撃力を(\d+)％アッ\nプさせる。$"=Aumenta tu ataque físico en un $2% durante $1s tras el inicio de la batalla.
+r:"^バトル開始後(\d+)秒間自分の魔法攻撃力を(\d+)％アッ\nプさせる。$"=Aumenta tu ataque mágico en un $2% durante $1s tras el inicio de la batalla.
+
+開始時物/魔ダメカット付与=Reducción de Daño F/M Inicial
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の物理/魔法ダメー\nジカット効果を付与する。$"=Aplica una reducción de daño físico y mágico de $2% a ti mismo\ndurante $1s tras el inicio de la batalla.
+
+開始時物理ダメカット付与=Reducción de Daño Físico Inicial
+開始時魔法ダメカット付与=Reducción de Daño Mágico Inicial
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の物理ダメージ\nカット効果を付与する。$"=Aplica una reducción de daño físico de $2% a ti mismo durante $1s tras el inicio de la batalla.
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の魔法ダメージ\nカット効果を付与する。$"=Aplica una reducción de daño mágico de $2% a ti mismo durante $1s tras el inicio de la batalla.
+
+開始時継続ＨＰ回復付与=Regeneración de HP Inicial
+r:"^バトル開始後(\d+)秒間自分に残りＨＰ([0-9.\.]+)％の継続\nＨＰ回復状態を付与する。$"=Aplica un estado de recuperación continua de HP del $2% durante $1s tras el inicio de la batalla.
+
+バトル中盤攻撃力大アップ=Ataque + (G) en Mitad de Batalla
+バトル開始後45秒経過時に自分の物理攻撃力を20％アップさせる。=Si el tiempo restante es inferior a 45s: Aumenta tu ataque físico en un 20%.
+バトル開始後45秒経過時に自分の魔法攻撃力を20％アップさせる。=Si el tiempo restante es inferior a 45s: Aumenta tu ataque mágico en un 20%.
+バトルの残り時間が45秒を切ると自分の物理攻撃力を20％アップさせる。=Si el tiempo restante es inferior a 45s: Aumenta tu ataque físico en un 20%.
+バトルの残り時間が45秒を切ると自分の魔法攻撃力を20％アップさせる。=Si el tiempo restante es inferior a 45s: Aumenta tu ataque mágico en un 20%.
+
+
+開始時クリダメ中アップ=Daño Crítico + Inicial
+r:"^バトル開始後(\d+)秒間自分の物理攻撃クリティカル\n時のダメージを(\d+)％アップさせる。$"=Aumenta tu daño de crítico físico en un $2% durante $1s tras el inicio de la batalla.
+r:"^バトル開始後(\d+)秒間自分の魔法攻撃クリティカル\n時のダメージを(\d+)％アップさせる。$"=Aumenta tu daño de crítico mágico en un $2% durante $1s tras el inicio de la batalla.
+開始時クリティカル中アップ=Crítico + Inicial
+r:"^バトル開始後(\d+)秒間自分の物理クリティカルを\n(\d+)％アップさせる。$"=Aumenta tu probabilidad de crítico físico en un $2% durante $1s tras el inicio de la batalla.
+r:"^バトル開始後(\d+)秒間自分の魔法クリティカルを\n(\d+)％アップさせる。$"=Aumenta tu probabilidad de crítico mágico en un $2% durante $1s tras el inicio de la batalla.
+
+
+開始時防御力中アップ=Defensa + Inicial
+r:"^バトル開始後(\d+)秒間自分の物理防御力を(\d+)％アッ\nプさせる。$"=Aumenta tu defensa física en un $2% durante $1s tras el inicio de la batalla.
+r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプさせる。$"=Aumenta tu defensa mágica en un $2% durante $1s tras el inicio de la batalla.
+
+
+バトル中盤クリティカル強化=Refuerzo de Crítico en Mitad de Batalla
+魔蜘ノ凶槍=Lanza Violenta de la Araña Demoníaca
+バトルの残り時間が45秒を切ると味方全体の物理クリティカルと物理攻撃クリティカル時のダメージを３％アップさせる。=Cuando quedan menos de 45 segundos en la batalla, aumenta la PROB. DE CRÍT. FÍS. y el DAÑO CRÍT. FÍS. de todos los aliados en un 3%.
+
+バトル中盤クリティカル中アップ=Crítico + (G) en Mitad de Batalla
+
+バトルの残り時間が45秒を切ると自分の物理クリティカルを５%アップさせる。=Si el tiempo restante es inferior a 45s: Aumenta tu PROB. DE CRÍT. FÍS. en un 5%.
+
+バトル中物理強化=Ataque + (M) en Batalla
+バトル中物理攻防強化=Físico + (M) en Batalla
+バトル開始後90秒間自分の物理攻撃力と物理防御力を３％アップさせる。=Aumenta tu ATQ. FÍS. y DEF. FÍS. en un 3% durante 90s tras el inicio de la batalla.
+
+バトル中魔法耐性強化=Resistencia + (M) en Batalla
+バトル開始後90秒間自分の魔法防御力３％アップさせ、３％の魔法ダメージカット効果を付与する。=Aumenta tu DEF. MÁG. en un 3% durante 90s tras el inicio de la batalla y otorga un 3% de reducción de daño mágico.
+
+バトル中ダメージ強化=Daño + en Mitad de Batalla
+バトルの残り時間が45秒を切ると自分の物理クリティカルと物理攻撃クリティカル時のダメージを２０％アップさせる。=Si el tiempo restante es inferior a 45s: Aumenta tu PROB. DE CRÍT. FÍS. y DAÑO CRÍT. FÍS. en un 20%.
+
+
+開始時ダメージ強化=Daño Inicial Mejorado
+
+バトル開始後90秒間自分の物理攻撃力と物理攻撃クリティカル時のダメージを３％アップさせる。=Aumenta tu ATQ. FÍS. y DAÑO CRÍT. FÍS. en un 3% durante 90s tras el inicio de la batalla.
+
+バトル中クリティカル強化=Refuerzo de Crítico durante la batalla
+バトル開始後24秒間自分の物理攻撃力と物理攻撃クリティカル時のダメージを５％アップさせる。=Aumenta tu ATQ. FÍS. y DAÑO CRÍT. FÍS. en un 5% durante 24s tras el inicio de la batalla.
+バトル開始後90秒間自分の物理クリティカルと物理攻撃クリティカル時のダメージを３％アップさせる。=Aumenta tu PROB. DE CRÍT. FÍS. y DAÑO CRÍT. FÍS. en un 3% durante 90s tras el inicio de la batalla.
+
+バトル中物理耐性強化=Defensa + (M) en Batalla
+バトル開始後90秒間自分の物理防御力３％アップさせ、３％の物理ダメージカット効果を付与する。=Aumenta tu DEF. FÍS. en un 3% durante 90s tras el inicio de la batalla y otorga un 3% de reducción de daño físico.
+
+バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを３％アップさせる。=Aumenta tu PROB. DE CRÍT. MÁG. y DAÑO CRÍT. MÁG. en un 3% durante 90s tras el inicio de la batalla.
+
+バトル中魔法攻防強化=Mágico + (M) en Batalla
+バトル開始後90秒間自分の魔法攻撃力と魔法防御力を３％アップさせる。=Aumenta tu ATQ. MÁG. y DEF. MÁG. en un 3% durante 90s tras el inicio de la batalla.
+
+バトル開始後90秒間自分の物理攻撃力と物理クリティカルを３％アップさせる。=Aumenta tu ATQ. FÍS. y PROB. DE CRÍT. FÍS. en un 3% durante 90s tras el inicio de la batalla.
+
+
+魔法攻撃力=Ataque Mágico
+
+火属性攻撃力アップ=Aumenta el poder de ataque de atributo Fuego
+装備者が火属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Si el portador es de atributo Fuego, aumenta su poder de ataque físico en un 40% durante 90 segundos tras el inicio de la batalla.
+装備者が火属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Si el portador es de atributo Fuego, aumenta su poder de ataque mágico en un 40% durante 90 segundos tras el inicio de la batalla.
+
+水属性攻撃力アップ=Aumenta el poder de ataque de atributo Agua
+装備者が水属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Si el portador es de atributo Agua, aumenta su poder de ataque físico en un 40% durante 90 segundos tras el inicio de la batalla.
+装備者が水属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Si el portador es de atributo Agua, aumenta su poder de ataque mágico en un 40% durante 90 segundos tras el inicio de la batalla.
+
+風属性攻撃力アップ=Aumenta el poder de ataque de atributo Viento
+装備者が風属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Si el portador es de atributo Viento, aumenta su poder de ataque físico en un 40% durante 90 segundos tras el inicio de la batalla.
+装備者が風属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Si el portador es de atributo Viento, aumenta su poder de ataque mágico en un 40% durante 90 segundos tras el inicio de la batalla.
+
+光属性攻撃力アップ=Aumenta el poder de ataque de atributo Luz
+装備者が光属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Si el portador es de atributo Luz, aumenta su poder de ataque físico en un 40% durante 90 segundos tras el inicio de la batalla.
+装備者が光属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Si el portador es de atributo Luz, aumenta su poder de ataque mágico en un 40% durante 90 segundos tras el inicio de la batalla.
+
+闇属性攻撃力アップ=Aumenta el poder de ataque de atributo Oscuridad
+装備者が闇属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Si el portador es de atributo Oscuridad, aumenta su poder de ataque físico en un 40% durante 90 segundos tras el inicio de la batalla.
+装備者が闇属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Si el portador es de atributo Oscuridad, aumenta su poder de ataque mágico en un 40% durante 90 segundos tras el inicio de la batalla.
+
+
+
+火属性防御力アップ=Defensa de atributo Fuego +
+水属性防御力アップ=Defensa de atributo Agua +
+風属性防御力アップ=Defensa de atributo Viento +
+光属性防御力アップ=Defensa de atributo Luz +
+闇属性防御力アップ=Defensa de atributo Oscuridad +
+
+水属性クリティカル強化=Refuerzo de Crítico de atributo Agua
+光属性クリティカル強化=Refuerzo de Crítico de atributo Luz
+火属性クリティカル強化=Refuerzo de Crítico de atributo Fuego
+風属性クリティカル強化=Refuerzo de Crítico de atributo Viento
+闇属性クリティカル強化=Refuerzo de Crítico de atributo Oscuridad
+
+装備者が火属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Si el portador es de atributo Fuego, aumenta sus defensas física y mágica en un 20% durante 90 segundos tras el inicio de la batalla.
+装備者が水属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Si el portador es de atributo Agua, aumenta sus defensas física y mágica en un 20% durante 90 segundos tras el inicio de la batalla.
+装備者が風属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Si el portador es de atributo Viento, aumenta sus defensas física y mágica en un 20% durante 90 segundos tras el inicio de la batalla.
+装備者が光属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Si el portador es de atributo Luz, aumenta sus defensas física y mágica en un 20% durante 90 segundos tras el inicio de la batalla.
+装備者が闇属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Si el portador es de atributo Oscuridad, aumenta sus defensas física y mágica en un 20% durante 90 segundos tras el inicio de la batalla.
+
+
+バトル開始後90秒間自分の魔法防御力を３％アップさせ、自分に３％の魔法ダメージカット効果を付与する。=Aumenta tu DEF. MÁG. en un 3% y otorga un 3% de reducción de daño mágico durante 90 segundos tras el inicio de la batalla.
+バトル開始後90秒間自分の物理防御力を３％アップさせ、自分に３％の物理ダメージカット効果を付与する。=Aumenta tu DEF. FÍS. en un 3% y otorga un 3% de reducción de daño físico durante 90 segundos tras el inicio de la batalla.
+
+
+オーバー・ザ・ムーン=Over the Moon
+バトル開始後90秒間味方全体の物理攻撃力を10％アップさせる。=Aumenta el ATQ. FÍS. de todos los aliados en un 10% durante 90 segundos tras el inicio de la batalla.
+
+
+魔蜘ノ縁環=Brazalete del Vínculo de la Araña Demoníaca
+魔蜘ノ煌輪=Anillo Radiante de la Araña Demoníaca
+魔蜘ノ玲玉=Orbe Espiritual de la Araña Demoníaca
+魔蜘ノ艶装=Collar Lustroso de la Araña Demoníaca
+魔蜘ノ絢飾=Pendientes Ornamentados de la Araña Demoníaca
+
+バトル中物理攻撃強化　=Refuerzo de ATQ. FÍS. en Batalla
+バトル開始後90秒間自分の物理攻撃力と物理クリティカルと物理攻撃クリティカル時のダメージを３％アップさせる。=Durante 90 segundos tras el inicio de la batalla, aumenta tu Ataque Físico, Crítico Físico y Daño de Crítico Físico en un 3%.
+バトル中物魔耐久強化=Refuerzo de DEF. FÍS. y DEF. MÁG. en Batalla
+バトル開始後90秒間自分の物理防御力と魔法防御力を３％アップさせ、３％の物理ダメージカット効果と魔法ダメージカット効果を付与する。=Durante 90 segundos tras el inicio de la batalla, aumenta tu Defensa Física y Defensa Mágica en un 3%, y otorga un 3% de reducción de daño físico y mágico.
+バトル中魔法攻撃強化　=Refuerzo de ATQ. MÁG. en Batalla
+バトル開始後90秒間自分の魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージを３％アップさせる。=Durante 90 segundos tras el inicio de la batalla, aumenta tu Ataque Mágico, Crítico Mágico y Daño de Crítico Mágico en un 3%.
+
+
+バトル中敵魔法防御力中ダウン=Reduce Moderadamente la Defensa Mágica Enemiga Durante la Batalla
+バトル開始後90秒間敵全体の魔法防御力を５％ダウンさせる。=Reduce la Defensa Mágica de todos los enemigos en un 5% durante 90 segundos tras el inicio de la batalla.
+月盈則食=Cuando la Luna Crece, Debe Menguar
+
+ヴィズ・ラ・リュンヌ=Vis la Lune
+バトル開始後90秒間味方全体の魔法攻撃力を10％アップさせる。=Aumenta el Ataque Mágico de todos los aliados en un 10% durante 90 segundos tras el inicio de la batalla.
+
+
+黎明風絹アルファチェリッシュ=Seda del Viento del Alba Alfa Cherish
+黎明火絹アルファチェリッシュ=Seda del Fuego del Alba Alfa Cherish
+黎明水絹アルファチェリッシュ=Seda del Agua del Alba Alfa Cherish
+黎明光絹アルファチェリッシュ=Seda de la Luz del Alba Alfa Cherish
+黎明闇絹アルファチェリッシュ=Seda de la Oscuridad del Alba Alfa Cherish
+装備者が風属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Si el portador es de atributo Viento, aumenta su Crítico Mágico y Daño de Crítico Mágico en un 10% durante 90 segundos tras el inicio de la batalla.
+
+装備者が火属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Si el portador es de atributo Fuego, aumenta su Crítico Mágico y Daño de Crítico Mágico en un 10% durante 90 segundos tras el inicio de la batalla.
+装備者が水属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Si el portador es de atributo Agua, aumenta su Crítico Mágico y Daño de Crítico Mágico en un 10% durante 90 segundos tras el inicio de la batalla.
+装備者が光属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Si el portador es de atributo Luz, aumenta su Crítico Mágico y Daño de Crítico Mágico en un 10% durante 90 segundos tras el inicio de la batalla.
+装備者が闇属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Si el portador es de atributo Oscuridad, aumenta su Crítico Mágico y Daño de Crítico Mágico en un 10% durante 90 segundos tras el inicio de la batalla.
+
+
+バトル中魔法防御力小アップ=Aumenta ligeramente la DEF. MÁG. durante la batalla.
+バトル開始後90秒間味方全体の魔法防御力を10％アップさせる。=Aumenta la DEF. MÁG. de todos los aliados en un 10% durante los primeros 90 segundos de la batalla.

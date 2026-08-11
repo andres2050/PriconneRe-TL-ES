@@ -1,0 +1,65 @@
+キャラバンショップ=Tienda de Caravana
+r:"^あと (\d{1,2})日$"=$1 días restantes
+r:"^シーズン(\d+)$"=Temporada $1
+r:"^シーズン(\d+)は開催されていません。$"=La Temporada $1 aún no está abierta.
+キャラバンコイン=Moneda de Caravana
+トレジャーは売却できません。=Los Tesoros no se pueden vender.
+
+r:"^キャラバンコイン（シーズン([0-9,.]+)）$"=Monedas de Caravana (Temporada $1)
+r:"^キャラバンコイン（シーズン([0-9,.]+)）ｘ(\d+)$"=Moneda de Caravana (Temporada $1) ｘ$2
+r:"^トレジャーの清算で獲得できる特別\nな通貨。キャラバンショップの\n「シーズン([0-9,.]+)」タブで買い物ができ\nる。$"=Una moneda especial que se puede obtener mediante la avaluación de Tesoros. Se puede usar para comprar en la pestaña Temporada $1 de la Tienda de Caravana.
+
+---sobre comprar---
+所持キャラバンコイン=Monedas de Caravana en Posesión
+キャラバンに戻りますか?=¿Quieres volver a la Caravana?
+購入に必要なキャラバンコインが不足しています。=Moneda de Caravana insuficiente para comprar.
+必要キャラバンコイン=Costo de Moneda de Caravana
+キャラバンへ=Ir a la Caravana
+キャラバンコイン不足=Moneda de Caravana Insuficiente
+
+
+---PNJ---
+いらっしゃいませっ♪\nキャラバンコインを使って\n買い物ができますよっ！=¡Bienvenido a la tienda♪ Puedes usar Monedas de Caravana para comprar cosas aquí!
+ショップへようこそ\nキャラバンコインはこちら\nで買い物に使えますよ=Bienvenido a la tienda. Las Monedas de Caravana se pueden usar para comprar aquí.
+こちらのショップで\n買い物をして、素敵な\n旅を楽しんでくださいね=Por favor, disfruta comprando en esta tienda y ten un maravilloso viaje.
+素敵な品が揃ってるので\nたーっくさん買っていって\nくださいねっ♪=¡Hay muchas cosas geniales aquí, así que por favor disfruta comprando!♪
+
+
+ショップへようこそ\nキャラバンコインと品物を\n交換できるんで、よければ=Bienvenido a la tienda. Puedes intercambiar Monedas de Caravana por objetos aquí, así que siéntete libre.
+いらっしゃいませ\nキャラバンコインを使って\nお買い物ができますよ=¡Bienvenido! Puedes usar Monedas de Caravana para comprar aquí.
+なんで店番なんか…\nま、やりますけど\n好きな品物をどうぞ=¿Por qué estoy atendiendo la tienda...? Bueno, lo haré. Por favor, elige los objetos que te gusten.
+ショップの掃除は完璧です\n姫さま直営のお店として\n当然のことですから=La tienda está perfectamente limpia. Es una tienda administrada directamente por la princesa, así que es natural.
+
+
+──いらっしゃいませ\n買い物しても、いいですよ\nキャラバンコインがあれば=──Bienvenido. Puedes comprar cualquier cosa aquí. Mientras tengas monedas de caravana
+
+あら、あたくしをご所望？\nお生憎様、そんな小銭では\n…買えちゃうんですの！？=Oh, ¿me deseas? Lamentablemente, con ese tipo de cambio... ¡¿puedes comprarme?!
+ようこそおいでなんし\nキャラバンコインをこちら\nで交換して進ぜんしょう=Bienvenido. ¿Por qué no intercambiamos monedas de caravana aquí y seguimos adelante?
+ネフィ\=ネラ=Nephi Nela
+い、いらっしゃいませっ！\n…くっ…このあたくし様が\n店番なんて…屈辱ですわっ=¡B-bienvenido! ...Ugh... Es humillante pensar que soy yo quien está a cargo de la tienda!
+ところで、お前さまは\nいくらで贖えるのか喃？\n──フフ、冗談でありんす=Por cierto, ¿cuánto puedes pagar por ti, Nanan? Jeje, solo bromeo
+いらっしゃいませ～♪\nきゃらばんこいん？を\n交換できるんだってー=Bienvenido~♪ Escuché que puedes intercambiar Kyarabankoin?
+──もっと笑顔がほしい？\nいくらコインを積まれても\n売れない物はありますから=¿Quieres más sonrisas? No importa cuántas monedas apiles, hay cosas que no se pueden vender
+甘いのくれたら、\nお礼にナーナの拾った\n松ぼっくりあげちゃうよ！=Si me das algo dulce, ¡te daré las piñas que Nana recogió como agradecimiento!
+
+
+うﾞぇぇえんっ！まﾞだごの\n格好になっぢゃいまじだ！\n寄付をお願いじまず～っ！=¡Bwaaah! ¡No quería terminar vestido así! ¡Por favor, considera donar!
+ところで、騎士きゅんは\nおいくら万ルピ？\nジョーダンぬ・き・で♡=Por cierto, ¿cuántos cientos de miles de rupias vale Kishi-kyun? Solo bromeo, por supuesto♡
+おっすー♪\nなんでも交換してけー\nカリザきゅん以外で=¡Oye! Intercambia cualquier cosa, excepto Kariza-kun, por supuesto.
+ショップへようこそ\nこの鳳凰が、皆さんに\n祝福を差し上げましょう=Bienvenido a la tienda. Este fénix ofrece sus bendiciones a todos.
+ほーちゃんと呼ぶ権利は\n売っていませんよ？\n騎士さんへの、特別です！=El derecho a llamarme Hoo-chan no está en venta, ¿sabes? Es un privilegio especial solo para ti, Kishi-san!
+
+
+商品をお買い上げ毎に\nグレイスちゃんポイントを\n差し上げます。嘘ですが=Cada compra vendrá con puntos Grace-chan. Estoy bromeando, sabes.
+私の抜け殻とか、\n需要ありますかね～…\nって冗談ですよ、冗談！=Me pregunto si hay demanda por mi caparazón vacío... Es una broma, ¡una broma!
+じめじめした商品は\nございませんので\n安心してお買い求め下さい=Ninguno de estos productos está húmedo, así que por favor no te preocupes al comprar.
+ようこそいらっしゃいませ\n…接客とは、このような\n振舞で宜しいでしょうか？=Bienvenido, uno y todos... ¿Es esta la forma de comportarse al atender clientes?
+い、言わなきゃダメか？\n「…いらっしゃいませ…」\nクソッ、笑うんじゃねー！=¿T-tengo que decirlo? "...Bienvenido..." ¡Maldición, no te rías de mí!
+へい、らっしゃい\nさ、騎士氏。冥土の土産は\nなにがいいですか？=Bienvenido. Oye, Kishishi: ¿Qué te gustaría como recuerdo del Inframundo?
+ケッ、なんでオレ様が店番\nなんざ…って来んなキイロ\nオレは売りモンじゃねー！=Heh, ¿por qué tengo que atender la tienda...? Espera, ¡no te acerques así! ¡No estoy en venta!
+
+
+
+国を営むに金子は必須也…どうか御恵みくだしゃんせ誠心を以て報恩致しまする=El oro es esencial para gobernar una nación... Por favor, concede tu limosna, y te pagaré tu bondad con la más sincera devoción.
+番頭も、飯事の如き営みなれば。愛らしき稚児らで千客万来といきませぬか喃=Incluso el trabajo de un administrador es como un juego de niños. Con estos adorables niños, ¿no deberíamos dar la bienvenida a una multitud de invitados?
+あぅっ…！　天井が低くて頭をぶつけてしまって…わたしが、大きいだけ…？=¡Ow...! El techo es tan bajo que me golpeé la cabeza... ¿Solo soy... demasiado alta?

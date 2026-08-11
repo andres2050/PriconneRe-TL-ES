@@ -1,0 +1,67 @@
+全ロール\\nまとめて強化=Mejora Múltiple\nTodos los Roles
+全ロール\nまとめて強化=Mejora Múltiple\nTodos los Roles
+強化設定=Configuración de mejora
+このマスタリーの強化段階は最大です。=Esta maestría está en su nivel máximo de mejora.
+ロールマスタリー=Maestría de Rol
+今後のアップデートで解放予定です。=Se liberará en una futura actualización.
+
+必要なアイテムを所持していません。=No tienes los objetos requeridos.
+オールマスタリーを使用する=Usar Toda la Maestría
+強化の条件を設定します。=Establece las condiciones de mejora.
+強化条件設定=Configuración de Condiciones de Mejora
+マスタリーを強化していません。=La Maestría no ha sido mejorada.
+必要なアイテムを所持していません。=No tienes los objetos requeridos.
+マスタリー強化詳細=Detalles de Mejora de Maestría
+
+
+ガイド役=Rol de guía
+アタッカー=Atacante
+ブレイカー=Rompedor
+バッファー=Potenciador
+デバッファー=Debilitador
+ブースター=Impulsor
+ヒーラー=Sanador
+タンク=Tanque
+ジャマー=Saboteador
+
+【アタッカー】=[Atacante]
+【ブレイカー】=[Rompedor]
+【バッファー】=[Potenciador]
+【デバッファー】=[Debilitador]
+【ブースター】=[Impulsor]
+【ヒーラー】=[Sanador]
+【タンク】=[Tanque]
+【ジャマー】=[Saboteador]
+
+マスタリー=Maestría 
+クリダメ=Daño Crítico
+クリティカル=Probabilidad de Crítico
+通常攻撃強化=Ataque Normal
+与ダメージ=Daño Infligido
+与ダメ=Daño Infligido
+バフ強化=Potenciación
+デバフ強化=Debilitación
+ＴＰチャージ=Carga de TP
+TPチャージ=Carga de TP
+HPチャージ=Carga de HP
+回復強化=Recuperación
+状態異常抵抗=Resistencia a Alteraciones
+状態異常命中=Precisión de Alteraciones
+与ダメアップ=Daño +
+クリダメアップ=Daño Crítico +
+r:"^オールマスタリーLv(\d+)$"=Toda la Maestría Nv $1
+sr:"^【(.+)】(.+?)(?:アップ)?(マスタリー)?Lv(\d+)$"=[$1] $2 + $3 Nv $4
+r:"^(\d+)\(\+変換可能数 (\d+)\)$"=$1 (+Convertible $2)
+
+r:"^(\d+)\(うち変換可能数 (\d+)\)$"=$1 (+Convertible $2)
+累計強化=Mejora Total
+
+
+以下のアイテムを消費して強化しますか？=¿Te gustaría usar los siguientes objetos para mejorarlo?
+
+Tutorial de Kokkoro
+キャラ全員に、バトル中の特徴を表すロールが解放されましたよ。\nロールはアタッカー・ブレイカー・バッファー・デバッファー・\nブースター・ヒーラー・タンク・ジャマーの８つがございます。=Todos los personajes ahora tienen acceso a roles que representan sus características en batalla. Los roles son: Atacante, Rompedor, Potenciador, Debilitador, Impulsor, Sanador, Tanque y Saboteador.
+各ロールにはステータス上昇に繋がる「マスタリー」が備わっておりま\nす。ロールマスタリーでは専用アイテムを用いてマスタリーの強化が行\nえますよ。低レベルアイテムは集めて高レベルに変換できるのだとか。=Cada rol tiene una "Maestría" que mejora las estadísticas. La Maestría de Rol se puede fortalecer usando objetos exclusivos. Los objetos de bajo nivel se pueden recolectar y convertir en otros de mayor nivel.
+マスタリー強化アイテムは、様々なコンテンツから獲得できるマスタリー\nチケットを消費して、マスタリーガチャから入手できます。全てのマスタ\nリーの強化に使える「オールマスタリー」もこちらから入手できますよ。=Los objetos de mejora de maestría se pueden obtener del Gacha de Maestría gastando Boletos de Maestría, que se ganan en varios contenidos. "Toda la Maestría", que se puede usar para fortalecer todas las maestrías, también está disponible aquí.
+
+はい、お疲れさま。\nここではマスタリーチケットを\n使って、マスタリー強化素材を\n手に入れることができるわよ。=Bien hecho.\nPuedes usar tus Boletos de Maestría aquí para obtener materiales de mejora de maestría.

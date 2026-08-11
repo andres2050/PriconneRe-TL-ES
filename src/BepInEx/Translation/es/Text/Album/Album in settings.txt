@@ -1,0 +1,8 @@
+キャラクター\n図鑑=Información de\nPersonaje
+アイテム\n図鑑=Información de\nObjeto
+用語集=Glosario
+---アA---
+キャラクター図鑑=Información de Personaje
+思い出アルバム=Álbum de Recuerdos
+イテム図鑑=Información de Objeto
+sr:"^([べ-ヺー＆＝]+)(（.+）)? 第(\d+)話を見ると確認できます。$"=Visible después de ver $1$2 Episodio $3.

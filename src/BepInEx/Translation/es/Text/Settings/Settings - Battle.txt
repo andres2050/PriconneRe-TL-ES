@@ -1,0 +1,86 @@
+バトル=Batalla
+スキルカットイン=Cut-in de habilidad
+「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。=Seleccionar «Una vez al día» hará que los cut-ins de cada personaje\naparezcan solo la primera vez que usan una habilidad cada día.
+「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。\nこの設定は次回バトルから反映されます。=Seleccionar «Una vez al día» hará que los cut-ins de cada personaje\naparezcan solo la primera vez que usan una habilidad cada día.\nEste ajuste se aplicará en la próxima batalla.
+
+
+1日1回見る=Una vez al día
+
+フレームレート（fps）=Tasa de fotogramas (FPS)
+バトル中のフレームレート（fps）の設定です。設定は次回のバトルから反映されます。=Configura los FPS durante la batalla.
+
+消費電力を抑えられます=Reduce el consumo de energía.
+高=Alto
+標準=Normal
+バトルアリーナ＆プリンセスアリーナスキップ=Omitir Arena de Batalla y Arena de Princesa
+バトルアリーナとプリンセスアリーナでパーティ決定直後にスキップを行うか設定します。=Configura si omitir la Arena de Batalla y la Arena de Princesa justo después de confirmar el equipo.
+両方スキップ=Omitir ambas.
+
+特定のキャラのユニオンバースト速度設定=Ajustes de velocidad de UB para Prifes.
+
+特定のキャラのユニオンバースト演出速度を設定できます。\n※対象キャラは、「ペコリーヌ（プリンセス）」・「コッコロ（プリンセス）」・「ユイ（プリンセス）」・\n「ヒヨリ（プリンセス）」・「キャル（プリンセス）」・「レイ（プリンセス）」・\n「シェフィ（プリンセス）」です。=Configura la velocidad de animación de UB para personajes prifes.\n※Objetivo: «Pecorine(Princesa)»・«Kokkoro(Princesa)»・«Yui(Princesa)»・\n«Hiyori(Princesa)»・«Kyaru(Princesa)»・«Rei(Princesa)»・«Sheffy(Princesa)»
+
+高速=Alta velocidad
+
+クランバトル開始前の確認ダイアログ=Diálogo de confirmación de inicio de BC
+クランバトルの挑戦回数を消費してバトルを開始する前に、確認ダイアログを開きます。\n※持越し時間を消費してバトルを開始する場合、確認ダイアログは必ず開きます。=Muestra un diálogo de confirmación antes de empezar una Batalla de Clan usando intentos o tiempo acumulado.
+
+クランバトル 編成アラート=Alerta de equipo de BC
+本戦バトルを開始する前に、編成キャラ数が5キャラ未満の場合、アラートを表示します。=Se mostrará una alerta si el número de personajes en el equipo es menor de 5.
+
+クランバトル バトル速度の上限設定=Ajustes de límite de velocidad de BC
+クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。=Ajustes para ajustar la velocidad en batallas de entrenamiento de BC.
+倍速=2x velocidad
+4倍速=4x velocidad
+
+UBオートON=UB Auto-ON
+UBオートOFF=UB Auto-OFF
+1倍速=Velocidad normal
+2倍速=2x velocidad
+
+全SETON=Todo SET ON
+全SETOFF=Todo SET OFF
+SET 無効=Desactivado
+
+バトルの速度を切り替えます。=Cambiar velocidad de batalla.
+SPEEDボタン=Botón de velocidad
+
+クランバトル バトル速度設定の確認ダイアログ=BC Diálogo de confirmación de ajustes de velocidad de batalla
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Confirmación de ajustes de velocidad de batalla para el entrenamiento de BC.
+
+ルナの塔バトル開始前の確認ダイアログ=Torre de Luna Diálogo de confirmación
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Confirmación de ajustes de velocidad de batalla para la Batalla de Clan.
+
+ルナの塔 バトル速度の上限設定=Torre de Luna Ajustes de límite de velocidad
+ルナの塔において、バトル速度の上限を設定できます。=Ajustes para ajustar la velocidad en la Torre de Luna
+
+ルナの塔 スキップ確認ダイアログ=Torre de Luna Diálogo de confirmación de omisión
+ルナの塔において現在の階層がスキップ可能な場合、確認ダイアログを開きます。=Abre un diálogo de confirmación si el piso actual en la Torre de Luna se puede omitir.
+
+マルチターゲット演出=Animación multiobjetivo
+マルチターゲットのモンスターが登場するバトルを開始した際の演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回挑戦時のみ表示されます。=Configura si mostrar el efecto para monstruos multiobjetivo al iniciar la batalla.
+
+クイックスタート機能使用時の確認ダイアログ=Diálogo de confirmación de Inicio Rápido
+クリアパーティ一覧画面でクイックスタート機能を使用するときに、確認ダイアログを開きます。=Abre un diálogo de confirmación al usar la función de Inicio Rápido en la lista de equipos ganadores.
+
+バトルのAUTO・SET・SPEED=Ajustes de batalla AUTO, SET, SPEED
+
+全般=General
+バトルのAUTOとSETとSPEEDの設定です。\n「引き継ぐ」に設定するとバトル中に変更したAUTO・SET・SPEEDの設定を引き継ぎます。\n※AUTOとSETとSPEEDを個別に引き継ぎ設定はできません。=Si se ajusta a «Mantener», los ajustes de AUTO, SET y SPEED cambiados durante la batalla se heredarán.\n※AUTO, SET y SPEED no se pueden heredar individualmente.
+
+属性ボーナス演出=Escena de bonus elemental
+バトルを開始した際の属性ボーナス演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回属性ボーナス時のみ表示されます。=Este ajuste determina si mostrar los efectos de bonus elemental al iniciar una batalla. \nSi ajustas «Una vez al día», se mostrará solo la primera vez que se reciba un bonus elemental cada día.
+
+引き継がない=No\nmantener
+引き継ぐ=Mantener
+
+ルナの塔バトルの本戦を開始する前に、確認ダイアログを開きます。=Muestra un diálogo de confirmación antes de empezar una batalla de la Torre de Luna.
+
+ルナの塔 バトル速度設定の確認ダイアログ=Torre de Luna Diálogo de confirmación de ajustes de velocidad de batalla
+
+ルナの塔を開始する前に、バトル速度設定を確認するダイアログを開きます。=Abre un diálogo para confirmar tus ajustes de velocidad de batalla.
+
+クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。\n設定は次回のバトルから反映されます。=Configura la velocidad máxima de batalla en el simulacro de la Batalla de Clan.\nLos ajustes se reflejarán desde la próxima batalla.
+
+★設定の保存についての確認=Diálogo de confirmación para guardar el nivel ★
+マイパーティやアリーナの防衛設定で編成を保存した時と今の★の数の設定が異なる場合、確認ダイアログ\nを表示するか設定します。=Configura si mostrar un diálogo de confirmación cuando el ajuste actual del número de ★\nes diferente de cuando se guardó el equipo en Mi Equipo o en los ajustes de defensa de Arena.

@@ -1,0 +1,2 @@
+ダンジョンコインを手に入れましたね。\n獲得したダンジョンコインはショップで使えます。\nさっそくショップに行ってみましょう。=[3C404EFF]Has conseguido una moneda de mazmorra.\nLas monedas de mazmorra obtenidas pueden usarse en la tienda. Vamos a la tienda ahora.
+ダンジョンコインを集めることで、\nキャラのメモリーピースや、\n装備と交換できます。=[3C404EFF]Al reunir monedas de mazmorra, puedes intercambiarlas por Fragmentos de Memoria de personajes y equipo.

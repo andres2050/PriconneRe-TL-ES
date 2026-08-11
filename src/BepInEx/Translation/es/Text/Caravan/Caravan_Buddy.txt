@@ -1,0 +1,64 @@
+グルメチェイサー号、全速前進です☆\nゴール目指して今日もがんばりましょう！\n──あれっ？=Gourmet Chaser, ¡a toda velocidad!☆ ¡Apuntemos a la meta y hagamos nuestro mejor esfuerzo hoy! ──¿Eh?
+ハッハァ！\n見つけたよ、腹ペコ王女どもッ！=¡Jaja! ¡Os encontré, Princesas Hambrientas!
+あれは……\n【バンディ・シスターズ】！？=¿Eso es... las Hermanas Bundy?!
+こっちの世界まで追いかけてきたっての！？\nマジしつっこいわね……！=¡¿Nos perseguisteis hasta este mundo también?! ¡Sois realmente persistentes...!
+しっ、しつこくて、ごめんなさいっ……=L-lo siento por ser tan persistente...
+いひっ♡\nこっちの世界でも～\nザコお兄さんたちをべっこべこにしてあげよっかな～？　って♡=Ihi~♡\nIncluso en este mundo~\n¿Quizás deberíamos aplastar al hermano mayor perdedor y a sus amigos~? ♡
+えっ？\nそんなベコベコにされましたっけ──=¿Eh? ¿Alguna vez realmente lograron aplastarnos?
+忘れちまったなら、これからそうしてやるさ！\nシャークキャノン──撃てェっ！=¡Si ya lo olvidaste, lo haré ahora! ¡Cañón Tiburón! ¡Fuego!
+どんどぉーん♡=Bang bang ♡
+っぶなぁっ！？\nうちのオニギリが穴あきドーナツになるとこだったじゃないの！\nあんたらも土手っ腹に風穴あけてやるわよ！？=¡Eso estuvo cerca! ¡Nuestra Onigiri se iba a convertir en una dona con el agujero que habría hecho! ¿Quizás os gustaría un agujero en el estómago también?!
+えぇっ！？\nそ、それじゃ食べたものが全部お腹の穴から出てっちゃいますっ、\nもったいない……！=¡¿Whaaat?! E-entonces todo lo que comí saldría por el agujero de mi estómago, ¡qué desperdicio...!
+も～バカナ姉またバカなコト言ってぇ。\nてかビンボーショーすぎだし──そだ♡\nアイツらからイロイロぶんどって、お腹いっぱいになっちゃお～♡=Ay, Bakana, estás diciendo tonterías otra vez. Demasiado patético para nosotras~\nYa sé♡ ¡Despojémoslos de todo lo que tienen y llenémonos~♡
+オニギリさま、全速力で駆け抜けてくださいませ！\n動いていれば、砲撃はそう当たらないはずでございます！=Onigiri-sama, ¡por favor corre lo más rápido que puedas! Mientras te muevas, el bombardeo no debería alcanzarte!
+ぴぎゅぴぎゅ～っ！！=¡¡Pigyupigyugyuuu!!
+あ～っ！\nにげんなし～！=¡Aaah! ¡No huyáis~!
+ゴールがわたしたちを待ってますので♪\nさようならー☆=La meta nos espera♪ ¡Adiós-☆
+ハッ、面白い！\nならついでに、先にゴールする権利も奪ってやろうじゃないか！\n行くよワカナ、フブキ！=¡Hah, interesante! En ese caso, ¡también os robaré el derecho a llegar primero a la meta! ¡Vamos, Wakana, Fubuki!
+「あいあ～い♡」\n「は、はいっ」="¡Okay~~~♡"\n"¡S-sí!"
+
+ターン開始時に確率でライバルが登場いたします。\nライバルより先にギルド管理協会出張所を目指してくださいまし。\n見事先に到着できると追加ボーナスを獲得できるようです。=Al inicio de tu turno, hay una probabilidad de que aparezcan tus rivales. Por favor, llega a la oficina de la Asociación de Gestión de Gremios antes que tus rivales. Si llegas antes que ellos, recibirás un bono adicional.
+
+
+ライバルと同じマスに止まると、特別なミニゲームが始まるようです。\nミニゲームではバンディ・シスターズが妨害をしてきますので、\n妨害をかわしてトレジャーをたくさんGETいたしましょう、主さま。=Una vez que estés en la misma casilla que tu rival, comenzará un minijuego especial. Las Hermanas Bundy intentarán sabotearnos, así que evitemos su interferencia y consigamos muchos tesoros, mi Amo.
+
+ターン開始時にお仲間が登場して、しばし冒険をご一緒できますよ。\nお仲間は、さまざまな効果で主さまの冒険の手助けをしてくださいます。\n……むぅ。わたくしも負けてはいられません。=Al inicio de tu turno, tus compañeros aparecerán y te acompañarán en tus aventuras por un tiempo. Te ayudarán en tu aventura con varios efectos. ...Hmm. No puedo permitirme perder contra ellos.
+
+r:"^\[FF7C4E\,D62146\](\d+)\[-\]\[3C404E\]マス前\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Casilla(s) al frente[-]
+r:"^\[FF7C4E\,D62146\](\d+)\[-\]\[3C404E\]マス後\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Casilla(s) atrás[-]
+[FF7C4E,D62146]0[-][3C404E]マス[-]=[FF7C4E,D62146]0[-][3C404E]Casilla[-]
+r:"^ダイスの目を(\d)回振りなおせる\n振りなおせない場合、マイルを入手する$"=Puedes relanzar los dados $1x\nSi no puedes relanzar, obtendrás millas.
+
+r:"^ダイスの目を(\d)回振りなおせる$"=Puedes relanzar los dados $1x.
+【仲間】ダイスの目を2回振りなおせる=[Amigo] Puede relanzar los dados dos veces
+【仲間】ダイスの目を1回振りなおせる=[Amigo] Puede relanzar los dados una vez
+【仲間】出目が4のダイスを同時に振ってどちらか選択できる=[Amigo] Puedes elegir entre tu tirada de dados o 4.
+r:"^出目が(\d)のダイスを同時に振って\n?どちらか選択できる$"=Puedes elegir entre tu tirada de dados o $1.
+r:"^【仲間】出目が(\d)のダイスを同時に振ってどちらか選択できる$"=[Amigo] Puedes elegir entre tu tirada de dados o $1.
+料理を1つ入手する=Obtener 1 Plato
+【仲間】料理を1つ入手する=[Amigo] Obtener 1 Plato
+出目の合計が7以上になるまで\nダイスを追加で振れる=Puedes seguir lanzando los dados hasta que el total sea 7 o más
+【仲間】出目の合計が7以上になるまで\nダイスを追加で振れる=[Amigo] Puedes seguir lanzando los dados hasta que el total sea 7 o más
+最大50％割引確定のショップを開く\n（1品100％割引あり）=Abrir una tienda con hasta un 50% de descuento (1 artículo tendrá 100% de descuento)
+【仲間】最大50％割引確定のショップを開く\n（1品100％割引あり）=[Amigo] Abrir una tienda con hasta un 50% de descuento (1 artículo tendrá 100% de descuento)
+
+最大1000マイルを入手する=Adquirir hasta 1,000 millas
+【仲間】最大1000マイルを入手する=[Amigo] Adquirir hasta 1,000 millas
+最大2000マイルを入手する=Adquirir hasta 2,000 millas
+【仲間】最大2000マイルを入手する=[Amigo] Adquirir hasta 2,000 millas
+
+画面の左右をクリックか左右の矢印キー移動できますよ！\nおジャマに当たると、少しの間、動けなくなるので要注意です！\n上手に避けて、フルーツをたくさん集めましょう！=¡Puedes usar las teclas de flecha izquierda/derecha o mantener presionados los lados izquierdo/derecho de la pantalla! Si te golpean, quedarás aturdido por un tiempo, ¡así que ten cuidado! ¡Esquiva bien y reúne muchas frutas!
+練習する=Practicar
+練習中=Practicando
+
+r:"^\[3C404E\]ダイスの目を(\d)回振りなおせる\n\（あと\[D13250\](\d)\[-\]回\）\[-\]$"=[3C404E]Puede relanzar los dados $1x ([D13250]$2[-] más)
+ダイスの表と裏どちらを適用するか選択できる=Puedes elegir entre el lado que sacaste y el lado opuesto.
+【仲間】ダイスの表と裏どちらを適用するか選択できる=[Amigo] Puedes elegir entre el lado que sacaste y el lado opuesto.
+
+
+
+
+
+ライバル登場予告=Aviso de Aparición del Rival
+ライバルの登場が近づくと警告アイコンが出現します。\n危険度は3段階あり、青→黄→赤の順番で\n登場する可能性が高まります。\n所持している料理を確認し、登場に備えましょう。=A medida que tu rival se acerca, aparecerá un icono de advertencia. Hay tres niveles de peligro, y cada nivel indica su probabilidad de aparecer en el siguiente turno. Prepara tus objetos en consecuencia para su llegada.
+落ちてくるフルーツや宝箱をキャッチしましょう！\n画面の左右をタッチすると移動できますよ！=¡Atrapemos algunas frutas y cofres del tesoro que caen! ¡Toca los lados izquierdo y derecho de la pantalla para moverte!

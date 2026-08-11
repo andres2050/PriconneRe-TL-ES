@@ -1,0 +1,51 @@
+開催中キャンペーン=Campaña Especial
+r:"^メインクエスト エリア([0-9～ ]+)$"=Misión Principal Área $1
+復刻イベントクエスト=Misión de Evento Revival
+復刻イベントクエスト（NORMAL）=Misión de Evento Revival (Normal)
+復刻イベントクエスト（HARD）=Misión de Evento Revival (Difícil)
+イベントクエスト（NORMAL）=Misión de Evento (NORMAL)
+イベントクエスト（HARD）=Misión de Evento (Difícil)
+サイドストーリークエスト=Misión de Historia Paralela
+SPダンジョン=Mazmorra Especial
+聖跡調査クエスト=Misión de Estudio del Santuario
+神殿調査クエスト=Misión de Expedición del Templo
+スキップ確認 =Confirmación de omisión
+全バトルをスキップして、報酬を獲得しますか？=¿Quieres omitir todas las batallas y obtener recompensas?
+---Mitad de Resistencia---
+r:"^\[475F7B\]メインクエスト(.+|)の\n消費スタミナが半減\[-\]$"=[475F7B]Consumo de Resistencia reducido a la mitad \npara Misión Principal$1[-]
+消費スタミナ半減=Consumo de Resistencia Reducido a la Mitad
+---mana---
+マナドロップ量アップ=Mana Obtenido Arriba
+[475F7B]メインクエスト（NORMAL）         の\nマスターコイン獲得量が1.5倍にアップ[-]
+sr:"^\[475F7B\](.+?)((?:（|\().+(?:）|\)))?\n?の\n?(.+)(ドロップ|獲得)量が\n?([0-9,.]+)倍にアップ\[-\]$"=[475F7B]$3 $4 × $5\npara $1 $2[-]
+獲得=Obtenido
+ドロップ=Caída
+残り挑戦回数が0回です。=Los intentos restantes son 0.
+
+---exp---
+プレイヤーEXP獲得量アップ=EXP Arriba
+[475F7B]イベントクエストの消費スタミナが半減[-]=[475F7B]Consumo de Resistencia de misión de evento reducido a la mitad.[-]
+
+---reward---
+報酬ドロップ量アップ=Recompensas Obtenidas Arriba
+デイリージュエルパック効果=Efecto del Paquete de Joyas Diario
+
+---Master Coin---
+マスターコイン獲得量アップ=Recompensa de Monedas Maestras Arriba
+
+r:"^あと(\d+)日$"=$1d restantes
+r:"^あと(\d+)時間$"=$1h restantes
+r:"^あと(\d+)分$"=$1m restantes
+
+r:"^Lv(\d+)まで$"=Hasta Nv.$1
+
+アプリ配信期間終了=Fin del periodo de distribución de la app
+
+
+パスポート獲得数増加=Aumento de Pasaportes Obtenidos
+[475F7B]黎明界ラビリンスの\nパスポート獲得数が通常よりも1枚増加[-]=[475F7B]Laberinto del Alba\nPasaportes obtenidos aumentados en 1[-]
+
+---attempt---
+挑戦回数アップ=Aumentar intentos
+
+sr:"^\[475F7B\](.+?)((?:（|\().+(?:）|\)))?\n?の\n?挑\n?戦\n?回\n?数\n?が\n?通常よりも(\d+)回増加\[-\]$"=[475F7B]El número de intentos de $1$2 ha aumentado en $3 veces.[-]

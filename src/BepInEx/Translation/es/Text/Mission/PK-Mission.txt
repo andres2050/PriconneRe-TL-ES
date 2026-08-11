@@ -1,0 +1,15 @@
+強化ミッション=Misión de Fortalecimiento
+r:"^(\[[0-9A-F]{6}\])?火属性の属性レベルを(\d+)まで上げよう(\[-\])?$"="$1Sube el nivel elemental de Fuego a $2. $3"
+r:"^(\[[0-9A-F]{6}\])?水属性の属性レベルを(\d+)まで上げよう(\[-\])?$"="$1Sube el nivel elemental de Agua a $2. $3"
+r:"^(\[[0-9A-F]{6}\])?風属性の属性レベルを(\d+)まで上げよう(\[-\])?$"="$1Sube el nivel elemental de Viento a $2. $3"
+r:"^(\[[0-9A-F]{6}\])?光属性の属性レベルを(\d+)まで上げよう(\[-\])?$"="$1Sube el nivel elemental de Luz a $2. $3"
+r:"^(\[[0-9A-F]{6}\])?闇属性の属性レベルを(\d+)まで上げよう(\[-\])?$"="$1Sube el nivel elemental de Oscuridad a $2. $3"
+
+sr:"^(\[[0-9A-F]{6}\])?([-0-9珀天蒼波紫冥翠嵐紅焔の深域]{5,10})をクリアしよう(\[-\])?$"="$1Completa $2.$3"
+
+
+r:"^(\[[0-9A-F]{6}\])?プリンセスナイトRANK(\d+)を達成しよう(\[-\])?$"="$1Alcanza el RANGO $2 de Caballero Princesa. $3"
+
+r:"^(\[[0-9A-F]{6}\])?ノードを(\d+)個強化完了しよう(\[-\])?$"="$1Mejora $2 nodos. $3"
+
+ちょっとあんた、報酬が\n受け取れるじゃない！\n忘れずにチェックなさい。\nアメス様との約束よ？=¡Oye, tú! ¡Puedes recibir tus recompensas, sabes! No olvides revisarlas. Es nuestra promesa con la señorita Ames, ¿de acuerdo?

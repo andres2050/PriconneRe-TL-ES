@@ -1,0 +1,116 @@
+深淵討伐戦=Batalla de Subyugación del Abismo
+前哨クエスト=Misiones de Avanzada
+前哨クエストで討伐依頼証を獲得しよう！=¡Consigue Certificados de Subyugación en las Misiones de Avanzada!
+朱火の深淵=Abismo Carmesí
+轟流の深淵=Abismo Turbulento
+玄闇の深淵=Abismo del Olvido
+烈風の深淵=Abismo de Vendaval
+燦爛の深淵=Abismo Brillante
+
+深淵討伐戦へ=Ir a la Batalla de Subyugación del Abismo
+スタミナ不足のため実行しません。=No se ejecuta por falta de Resistencia.
+スコア報酬=Recompensa de Puntuación
+r:"^スコアを([0-9,.]+)pt獲得しよう$"=Consigue una puntuación de $1pt
+r:"^\[3C404E\]初回クリアでスコア\[-\]\[FFBB00,CE4F00\]([0-9,.]+)pt\[-\]\[3C404E\]獲得！\[-\]$"=[3C404E] ¡Consigue una puntuación de [FFBB00,CE4F00]$1pt[-] en tu primera victoria![-]
+スコアレート=Tasa de puntuación
+ボスリザルト=Resultado del Jefe
+初回クリアボーナス=Bonus de Primera Victoria
+模擬戦のためスコア、報酬は獲得できません。=No se obtienen puntuaciones ni recompensas en las batallas simuladas.
+サポートキャラが編成されているため再戦できません。=No es posible la revancha porque hay un personaje de apoyo en el equipo.
+リタイアすると報酬を\n獲得することができません。\n討伐依頼証は消費されません。\n\nよろしいですか？\n=Si te retiras, no recibirás recompensas. El Formulario de Solicitud de Subyugación no se consumirá.\n\n¿Estás seguro?
+
+難易度HARD=Difícil
+難易度NORMAL=Normal
+スキップ可能な前哨クエストがありません。=No hay Misiones de Avanzada que se puedan omitir.
+r:"^\[FFBB00,CE4F00\]([0-9,.]+)\[-\]\[3C404E\]枚で挑戦\[-\]$"=[3C404E]Desafiar con [FFBB00,CE4F00]$1[-] Formulario(s)[-]
+
+撃破回数=Recuento de derrotas
+消費討伐依頼証=Usar Certificados de Subyugación
+r:"^スキップチケットと討伐依頼証を消費して\n([0-9]+)回バトルをスキップします。$"=Gasta Ticket de Omisión y Certificados de Subyugación para omitir $1 batallas.
+
+ボス難易度選択=Selección de dificultad del jefe
+模擬戦のため報酬は獲得できません。=No se obtendrán recompensas en las batallas simuladas.
+モンスターＨＰを本戦状態\\nにする=Establecer el HP del monstruo al estado de batalla principal
+モンスターＨＰを本戦状態\nにする=Establecer el HP del monstruo al estado de batalla principal
+モンスターＨＰを本戦状態\にする=Establecer el HP del monstruo al estado de batalla
+討伐依頼証枚数=Certificados de Subyugación
+スキップダメージ=Daño de Omisión
+sr:"^(.{2,6})の所持数が足りません。$"=$1 insuficiente.
+
+[FFFFFF]深淵討伐戦の前哨クエストを1回クリアしよう[-]=[FFFFFF]Completa 1 vez la Misión de Avanzada de la Subyugación del Abismo[-]
+深淵討伐戦の前哨クエストを1回クリアしよう=Completa 1 vez la Misión de Avanzada de la Subyugación del Abismo
+[FFFFFF]深淵討伐戦で全ボスのVERY HARDをクリアしよう[-]=[FFFFFF]Completa a todos los jefes de la Batalla de Subyugación del Abismo en MUY DIFÍCIL.[-]
+深淵討伐戦で全ボスのVERY HARDをクリアしよう=Completa a todos los jefes de la Batalla de Subyugación del Abismo en MUY DIFÍCIL.
+---Tutorial de Kokkoro (PNJ)---
+深淵討伐戦では特定の属性ボーナスが強化されるようです。\n前哨クエストで討伐依頼証を集めることで\nボスに挑戦できるようです。=Parece que ciertos bonos elementales se fortalecerán durante la Batalla de Subyugación del Abismo. Puedes desafiar al jefe reuniendo Certificados de Subyugación en las Misiones de Avanzada.
+ボス戦では、与えたダメージに応じてスコアが加算されます。ボスの\n初回クリアや到達スコアの報酬として、マスターピースのかけらが手に\n入りますよ。万全の準備を整えて挑戦いたしましょう。=En las batallas contra el jefe, tu puntuación aumentará según el daño infligido. Como recompensa por completar la primera ronda del jefe y alcanzar la puntuación final, obtendrás un Fragmento de Obra Maestra. Asegúrate de estar completamente preparado para el desafío.
+
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]枚消費して、同じパーティでもう一度クエストをプレイします。[-]=[3C404E]Usa[FFBB00,CE4F00]1[-] Certificado(s) de Subyugación para jugar otra misión con el mismo equipo. [-]
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E]Usa[FFBB00,CE4F00]1[-] Certificado(s) de Subyugación para jugar otra misión con el mismo equipo.\n¿Está bien?[-]
+
+
+
+復刻ストーリーイベント=Evento de Historia Reeditado
+確認できるアイテムがありません。=No hay objetos que revisar.
+挑戦回数を消費して1回バトルをスキップします。=Gasta un intento para omitir una batalla.
+
+---Tutorial Primera Vez---
+き、き、緊急事態です！　『深域』の最奥地帯である『深淵』から、\nとてつもなく強力な魔物が現れたようです！=¡E-emergencia! ¡Hay un monstruo increíblemente poderoso emergiendo de la región más profunda del 'Abismo'!
+カリンさん！？　ここまで走ってきたんですか！？\nそれに強力な魔物って……？=¡¿Karin?! ¿Corriste hasta aquí? ¿Y dices que hay un monstruo poderoso...?
+
+はいはい、いつもの「もっと強い敵が現れた！」ね。\nまっかせなさい！　そんなのソッコーでぶっ倒してきてやるわ！=Sí, sí, lo de siempre: "¡Ha aparecido un enemigo más fuerte!" ¡Déjamelo a mí! ¡Lo derribaré en un santiamén!
+
+キャルさま！？\n一人で行ってしまわれました……！\n大丈夫でしょうか？=¡¿Kyaru-sama?! ¡Se fue sola...! ¿Estará bien?
+
+あ！　でも、引き返してきましたよ～？=¡Ah! Pero ya está volviendo~?
+
+無理無理無理無理ぃ！\nちょっとシャレになってないわよアレ！=¡No, no, no, no! ¡Esa cosa no tiene nada de gracioso!
+
+はい。洒落にならないのも当然です。\n言ってしまえばあの魔物は、\n『深域』の魔物たちの親玉ですから……！=Por supuesto que no tiene gracia. Para decirlo simplemente, ese monstruo es el jefe de los monstruos del 'Abismo'...
+
+親玉ですか～！　それは強そうですし……\n食べ応えもありそうですね☆　じゅるり♪=¿El jefe, eh? Eso suena fuerte... y delicioso☆ Mmm♪
+
+い、言っておくけど、アレは今度こそ食べられないと思うわよ！？\nていうかそもそも、あんなのどうやって倒せってのよ～！？=Y-yo solo digo: ¡no creo que puedas comerte a este! Y en serio, ¡¿cómo se supone que derrotemos algo así?!
+
+そうですね……肝心なのは『属性』です。\n『深淵』での戦闘は、これまでの『深域』クエストと同様に\n『属性の力』を活用すれば有利に進められるはずですよ。=La clave está en los 'atributos'. Al igual que en las misiones anteriores del 'Abismo', usar el poder de los 'atributos' nos dará ventaja en esta lucha.
+
+なるほど。\nでは主さま、引き続き『属性』を揃えることを意識して\n戦ってまいりましょう。=Ya veo. Entonces, Aruji-sama, sigamos concentrándonos en reunir los 'atributos' correctos mientras luchamos.
+
+ま、戦い方はそれでいいとして……報酬は弾むんでしょうね？\nしょっぱいアイテムしかなかったら承知しないわよ？=Bien, la estrategia está bien y todo... pero las recompensas mejor que valgan la pena. ¡No me conformaré con objetos mediocres!
+
+ふふふ♪　報酬に関しては、お任せください！\n現地で取得した『アストラルスフィア』や『アストラルシャード』は\nこれまで通り自由に持ち帰っていただいて構いません。さらに──=Jeje♪ ¡Déjame las recompensas a mí! Pueden llevarse libremente cualquier 'Esfera Astral' o 'Fragmento Astral' que obtengan en el lugar. Además──
+
+今回は特別報酬として、\n『マスターピースの欠片』もご用意します！=Para esta ocasión especial, ¡también ofrecemos 'Fragmentos de Obra Maestra'!
+
+大変豪華な報酬ですね。\nそれがあれば、主さまのお力もさらに強くなられるかと。=Qué recompensas tan espléndidas. Con esas, el poder del Amo seguramente aumentará aún más.
+
+あのさ……手際が良すぎて怖いんだけど……\n走ってきたのも実はわざとだったりしない？=Oye... la forma en que estás tan preparada da un poco de miedo... ¿No planeaste correr hasta aquí a propósito también?
+
+そんなことはありませんよ？\nそういうわけで、この『深淵討伐戦』──\nお願いしますみなさん！　力を貸してください！=Por supuesto que no. Así que, con eso, por favor encárguense de esta 'Conquista del Abismo'! ¡Necesitamos su fuerza!
+
+主さまのためとあっては、いてもたってもいられません……\n早速編成を組み、挑戦してみましょう！=Si es por el Amo, no puedo quedarme sentada... ¡Armemos el equipo y probemos de inmediato!
+
+……あーもうしょうがないわね！　とっとと片付けてきてやるから、\n報酬いーっぱい用意しときなさいよね！=...¡Ay, está bien! Me encargaré de esto rápido, ¡así que asegúrate de tener muchas recompensas listas!
+【美食殿】、レッツゴーです☆=[Gremio Gourmet], ¡vamos☆
+
+
+
+
+####
+消費討伐チケット=Ticket de Subyugación Consumible
+討伐チケットを消費して\n5回バトルをスキップします。=Gasta Ticket de Subyugación para omitir 5 batallas.
+討伐報酬券=Boletín de Recompensa de Subyugación
+r:"^キャラストーリー(\d+)話解放中！$"=Historia del Personaje $1: ¡Desbloqueada!
+
+強敵との手合わせ、夜廻り=Un combate de práctica contra un enemigo formidable, y un turno de noche
+
+新刊入荷=Nuevos libros en stock
+ログインボーナスとして以下のアイテムを受け取りました。=Recibiste los siguientes objetos como bono de inicio de sesión:
+チャレンジ報酬=Recompensa de Desafío
+初回討伐完了まではチャレンジ報酬は獲得できません。=Las recompensas de desafío no se obtendrán hasta que se complete la primera subyugación.
+
+r:"^(\d+)枚の討伐報酬券をまとめて交換しますか？$"=¿Te gustaría intercambiar $1 boletines de recompensa de subyugación a la vez?
+討伐報酬券を集めて、豪華報酬をGET!=¡Reúne boletines de recompensa de subyugación para conseguir recompensas increíbles!
+こんにちは！ギルド管理協会です！\nとっておきの報酬も用意していますので頑張ってくださいね=¡Hola! ¡Es la Asociación de Gestión de Gremios! ¡Hemos preparado recompensas especiales, así que haz tu mejor esfuerzo!
+
+ナーナ、すいりとかろんぱとか、\nむずかしくてわかんないけど…\nお友だちとドーナツのためならっ\nせーいっぱいがんばるよっ！=Nana, no entiendo cosas difíciles como la deducción y los acertijos de lógica... pero por mis amigos y por las donas, ¡haré mi mejor esfuerzo!

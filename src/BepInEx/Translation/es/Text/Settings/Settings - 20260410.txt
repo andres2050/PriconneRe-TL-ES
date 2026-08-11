@@ -1,0 +1,11 @@
+キャラ加入演出を再生するか設定します。=Configura si reproducir las animaciones de reclutamiento de personajes.
+ガチャ結果の獲得ボーナスダイアログ表示=Mostrar diálogo de bonus obtenido del Gacha
+ガチャでボーナスを獲得したときに、獲得ダイアログを自動で表示するか設定します。=Configura si mostrar automáticamente el diálogo de obtención al recibir bonus del gacha.
+ストーリーイベントのミニコンテンツのデータ保存設定=Ajustes de almacenamiento de datos de minicontenidos de evento de historia
+一部ミニコンテンツは、イベント開催期間外に閲覧する際、追加データのダウンロードが必要となります。\nダウンロードしたミニコンテンツの追加データを端末に保存するか設定します。\n※「保存しない」を選択すると、データがアプリ起動の度に削除され、\n端末のデータ容量を削減できる代わりに、毎回ダウンロードし直す必要があります。=Algunos minicontenidos requieren descarga de datos adicionales cuando se ven fuera del periodo del evento.\nConfigura si guardar los datos descargados de los minicontenidos en tu dispositivo.\n*Si seleccionas «No guardar», los datos se eliminarán cada vez que se inicie la app,\nreduciendo el espacio de almacenamiento pero requiriendo descargar de nuevo cada vez.
+UB演出=Animación de UB
+各キャラがユニオンバーストを発動する際に演出を再生するか設定できます。\nこの設定は次回バトルから反映されます。=Configura si reproducir animaciones cuando los personajes activan su Estallido de Unión.\nEste ajuste se aplicará desde la próxima batalla.
+各キャラがクランバトルでユニオンバーストを発動する際に演出を再生するか設定できます。\nこの設定は次回バトルから反映されます。=Configura si reproducir animaciones cuando los personajes activan su Estallido de Unión en la Batalla de Clan.\nEste ajuste se aplicará desde la próxima batalla.
+クランバトル UB演出設定の確認ダイアログ=Diálogo de confirmación de ajustes de animación de UB de Batalla de Clan
+クランバトルを開始する前に、クランバトルのUB演出設定を確認するダイアログを開きます。=Abre un diálogo para confirmar los ajustes de animación de UB de la Batalla de Clan antes de empezar.
+「他キャラが装備中のEX装備を選択する」にチェックを入れた際に以下のEX装備を対象から除外します\n3パーティバトル中の、他キャラが装備しているもの\nアリーナの防衛に設定しているキャラが装備しているもの\nサポートに設定しているキャラが装備しているもの=Cuando se marca «Seleccionar equipo EX equipado por otros personajes», se excluirá el siguiente equipo EX:\nEquipo usado por otros personajes en batallas de 3 equipos\nEquipo usado por personajes configurados para defensa de Arena\nEquipo usado por personajes configurados como Apoyo

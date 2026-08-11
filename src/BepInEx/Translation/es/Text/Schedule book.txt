@@ -1,0 +1,50 @@
+予定帳=Agenda
+主さま、ご用事が立て込んでいらっしゃるようですね。\n日々のご予定の管理はわたくしにおまかせくださいまし。=Mi señor, parece que tienes muchos asuntos que atender.\nPermíteme encargarme de la gestión de tus tareas diarias.
+
+まとめておまかせ=Completar todo
+リストの設定=Ajustes de lista
+実行=Hacer
+
+メインかイベントクエストを10回クリアしよう=Supera «Misión Principal» o «Misión de Evento» 10 veces
+メインかイベントクエストを20回クリアしよう=Supera «Misión Principal» o «Misión de Evento» 20 veces
+イベントクエストを10回クリアしよう=Supera «Misión de Evento» 10 veces
+メイン(HARD、VERY HARD)かイベントクエスト(HARD)を3回クリアしよう=Supera Misión Principal/Evento (DIFÍCIL/MUY DIFÍCIL) 3 veces
+バトルアリーナで1回戦おう=Participa en la «Arena de Batalla» 1 vez
+プリンセスアリーナで1回戦おう=Participa en la «Arena de Princesa» 1 vez
+アリーナコインを1回受け取ろう=Recoge Monedas de Arena de Batalla 1 vez
+プリンセスアリーナコインを1回受け取ろう=Recoge Monedas de Arena de Princesa 1 vez
+ギルドハウスでアイテムを受け取ろう=Recoge objetos en la Casa de Gremio
+マナクエストを残り挑戦回数分クリアしよう=Supera las Misiones de Mana restantes
+経験値クエストを残り挑戦回数分クリアしよう=Supera las Misiones de EXP restantes
+ノーマルガチャを引こう=Tira del Gacha Normal
+
+イベントのデイリーミッション報酬を受け取ろう=Recibe las recompensas de misión diaria de evento
+ダンジョンを1回クリアしよう=Supera 1 piso de una mazmorra
+キャラのスキルを1回強化しよう=Mejora una habilidad de personaje 1 vez
+装備強化で装備の★を1つ増やそう=Refina el equipo de un personaje 1 vez
+マナを1回購入しよう=Compra Mana 1 vez
+クランメンバーに「いいね」しよう=Dale «Me gusta» a un miembro del clan
+ルナの塔に1回挑戦しよう=Desafía la Torre de Luna 1 vez
+クランバトルに1回挑戦しよう=Participa en la Batalla de Clan 1 vez
+ダンジョンに1回挑戦しよう=Desafía una Mazmorra 1 vez
+マナを購入しよう=Compra 1 set de Mana
+
+
+限定ショップで買い物をしよう=Compra objetos en la Tienda Bonus
+通常ショップで買い物をしよう=Compra objetos en la Tienda Normal
+
+スキップする項目がありません。=No hay misiones para omitir.
+
+ダンジョンスキップ確認=Confirmación de omisión de mazmorra
+ダンジョンの全バトルをスキップして、報酬を獲得しますか？=¿Quieres omitir todas las batallas de la mazmorra y obtener recompensas?
+
+マナクエストスキップ確認=Confirmación de omisión de Misión de Mana
+経験値クエストスキップ確認=Confirmación de omisión de Misión de EXP
+スキップしますクエストを 実行します。\nよろしいですか？=Omitiendo la misión.\n¿Está bien?
+スキップチケットと挑戦回数を消費してマナクエストを実行します。よろしいですか？=¿Consumir Tickets de Omisión e Intentos para superar las Misiones de Mana?\n¿Está bien?
+スキップチケットと挑戦回数を消費して経験値クエストを実行します。よろしいですか？=¿Consumir Tickets de Omisión e Intentos para superar las Misiones de EXP?\n¿Está bien?
+
+スキップ失敗=Omisión fallida
+ダンジョン突入中のためダンジョンのスキップを実行できませんでした。=No se pudo omitir la mazmorra porque ya has entrado en una.
+グループシャッフル後、プリンセスアリーナに移動していないためプリンセスアリーナコインが受け取れません=No se pueden recibir Monedas de Arena de Princesa porque no has entrado en la Arena de Princesa desde el barajado de grupos.
+グループシャッフル後、バトルアリーナに移動していないためアリーナコインが受け取れません=No se pueden recibir Monedas de Arena porque no has entrado en la Arena de Batalla desde el barajado de grupos.

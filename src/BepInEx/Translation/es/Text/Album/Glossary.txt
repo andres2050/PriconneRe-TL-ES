@@ -1,0 +1,39 @@
+Album NPC
+主さまとの楽しい日々…こちらで何度でも思い返しましょう♪=Aquí podemos recordar una y otra vez...\nnuestros felices días juntos♪
+女の子との思い出がたくさん見られますよ！ヒューヒュー♪モテモテですねー☆=¡Puedes revivir tus recuerdos con todas las chicas de tu vida! ¡Whoop, whoop!♪ ¡Así se hace, Sr. Popular!☆
+思い出が詰まってるっていろいろあったけど振り返るのもいいんじゃない？=Parece que es un registro de nuestros recuerdos. Hemos pasado por mucho, pero no está de más mirar atrás a veces, ¿verdad?
+みんなとの大切な思い出が\nたくさん詰まってるのね\n一緒に振り返って、\n心に刻みたいわ=Hay tantos recuerdos preciosos con todos guardados aquí, ¿verdad? Miremos atrás y rememoremos juntos.
+
+アストルム=Astrum
+この世界全体を示す単語。アストライア大陸の語源ともなっている。ただ、この「アストルム」の語源は定かになっていない。=El nombre de este mismo mundo del que se deriva "Astraea". La etimología de "Astrum" sigue sin estar clara.
+
+アメス=Ameth
+主人公の夢に現れる謎の少女。主人公の過去を知っているような口ぶりで話す。シニカルな口調と、破損した翼が特徴。コッコロはアメスを神とあがめ、さまざまな託宣を受けている。=Una misteriosa chica que aparece en tus sueños. Habla como si conociera tu pasado. Se caracteriza por su tono cínico y sus alas dañadas. Kokkoro venera a Ameth como una Diosa y recibe varios oráculos de ella.
+
+アンネローゼ・フォン・シュテッヒパルム=Annerose von Stechpalm
+アンナの本名。どんな相手にもとりあえず名乗るのがアンナのポリシー。=El nombre real de Anna. Es la política de Anna presentarse así ante cualquiera y todos.
+
+あんパン=Pan Dulce
+リンの大好物。時には給料のほとんどをあんパンにつぎ込むこともある。こしあんとつぶあんがあり、各派閥の\n戦いは長年続いている。=La comida favorita de Rin. Se sabe que Rin gasta la mayor parte de su salario en ello a veces. Le gusta tanto la pasta suave como la versión ligeramente con granos: la batalla entre estas facciones por su amor ha durado años.
+
+アストライア大陸=Continente de Astraea
+世界最大の大陸。大陸の中心には巨大都市・ランドソルがあり、その上空にはソルの塔が天高くそびえ立ってい\nる。=El continente más grande del mundo. En el centro de este continente está la ciudad gigante de Landosol, con la Torre de Sol elevándose alto hacia el cielo sobre ella.
+
+モニカが祖国で所属している部隊の名前。ヴァイス＝白、フリューゲル＝翼という意味を持つ。この名前を広く\n知らしめるためにモニカは日々活動している。=El nombre de la unidad a la que pertenece Monika en su tierra natal. Derivado de Weiss (blanco) y flügel (ala). Monika hace todo lo posible para que este nombre sea conocido por todos.
+
+モニカをギルドマスターとして結成されたギルド。メンバーはモニカ、ニノン、ユキ、クウカ、アユミの５人。\n結成「された」というよりも、うっかり結成「されてしまった」と言うニュアンスの方が正しいかもしれない。\nメンバーはいつも間の抜けた行動でピンチを呼び込んでは、自分たちで華麗に解決している。そのため、このギ\nルドにはポンコツしかいないのか、潜在能力は高いのか、まだ判然としていない。=Un gremio formado por Monika, Ninon, Yuki, Kuuka y Ayumi, aunque puede ser más preciso decir que surgió por accidente. Las payasadas tontas de los miembros contrastan enormemente con su capacidad para resolver con facilidad las situaciones peligrosas que ellos mismos crean, dejando a los espectadores confundidos sobre si son un grupo de torpes o genios ocultos.
+
+魔瞳（イーヴィル・アイ）=Ojo Maligno
+この私、疾風の冥姫は左目に大量の魔力を溜め込むことが出来るぞ！　極めて強力な魔法を使う際に、我が瞳は\nこの世ならざる輝きを放つのだ！=Yo, la única e inigualable Hécate del Vendaval, ¡puedo almacenar cantidades imposibles de poder mágico en mi ojo izquierdo! Cada vez que uso magia poderosa, este ojo mío brilla espléndidamente, como nada más en este mundo.
+
+歩く竜巻=Torbellino Viviente
+シュテッヒパルムの二つ名。文字通り街を歩いているだけでも次から次へ竜巻のように何かを起こす彼女を、そ\nう呼ぶ者が自然と増えていった。竜巻という単語が気に入ったらしく、二つ名で呼ぶと楽しげに名乗ってくれ\nる。=Un apodo para Stechpalm. Ella causa una tormenta de caos dondequiera que vaya, dejando que cada vez más personas se inclinen a referirse a ella así. Parece gustarle la palabra "Tormenta" y se alegra de que la llamen por este nombre.
+
+アクドーイ商会=Compañía Krook'd & Co.
+悪人「アクドーイ」を会長とする、悪徳商会。高利貸し、人さらい、違法な武器の密輸入、悪いことはなんでも\nやる。アクドーイは丁寧な口調だが極悪人である。本当の悪人とはしばしばそういうものなのである。=Un gremio corrupto dirigido por el criminal "Krook'd" que se dedica a la usura, el secuestro, el contrabando ilegal de armas y todo tipo de maldades. El discurso de Krook'd es cortés, pero es tan malvado como se puede ser. Los verdaderos villanos pueden ser engañosos de esta manera.
+
+ウィスタリア家=Familia Wisterian
+アストライア大陸全土に名をはせる、ランドソル一の商家と言われている名家。中でも、数々のパワフルな逸話\nによりお嬢様「アキノ・ウィスタリア」の名前は特にランドソルに広く知れ渡っている。いい意味でも、悪い意\n味でも。=La familia mercantil más renombrada de Landosol. Aunque la familia en sí es conocida en toda Astraea, ningún nombre resuena más fuerte que el de Akino Wisteria, en gran parte debido a las muchas, muchas historias curiosas que rodean sus hazañas.
+
+エステレラ街道=Camino de Esterella
+アストライア大陸に存在する緑の多い街道。気候のよい土地柄のため、生息する植物、動物、昆虫の種類も多\nい。歩いているとさまざまな生き物と出会うことができる。=Los caminos verdes y frondosos de Astraea. Su clima agradable lo convierte en un lugar ideal para encontrar todo tipo de plantas, animales e insectos.

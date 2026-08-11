@@ -1,0 +1,7 @@
+編成設定=Ajustes de formación
+同じパーティ内に姿の異なる、同名キャラを編成可能です。\n設定で同名キャラの編成を制限することもできます。=Imagina poder llevar 5 Kyarus a la batalla.
+既に仲間になっているキャラが、別の姿で\n仲間になりました！=Algunos personajes tienen versiones diferentes\nConfigura los ajustes para poder llevarlos a todos juntos.
+
+同名キャラ編成=Personajes del mismo nombre
+同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。=Configura si se pueden usar personajes del mismo nombre en el mismo equipo.
+編成可能=Pueden\nagruparse

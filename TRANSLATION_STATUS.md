@@ -66,24 +66,24 @@ git rev-parse upstream/master
 
 | Carpeta / Archivo | Estado | Notas |
 |-------------------|--------|-------|
-| `Text/` (archivos raíz, 57 archivos) | ✅ Completado | Toda la UI principal del juego |
+| `Text/` (archivos raíz, 61 archivos) | ✅ Completado | Toda la UI principal del juego |
 | `Text/Beginner/` | ✅ Completado | |
 | `Text/System/` | ✅ Completado | System, Error codes, Update |
-| `Text/Dimension/` | ✅ Completado | |
-| `Text/Settings/` | ⏳ Pendiente | |
+| `Text/Dimension/` | ✅ Completado | Dimension, Boss, Mission, Prolog |
+| `Text/Settings/` | ✅ Completado | 19 archivos |
 | `Text/Seasonal/` | ⏳ Pendiente | |
-| `Text/Caravan/` | ⏳ Pendiente | |
+| `Text/Caravan/` | ✅ Completado | 5 archivos |
 | `Text/MiniGames/` | ⏳ Pendiente | |
-| `Text/Mission/` | ⏳ Pendiente | |
+| `Text/Mission/` | ✅ Completado | 6 archivos |
 | `Text/PrincessKnight/` | ⏳ Pendiente | |
 | `Text/Adventure/` | ⏳ Pendiente | |
-| `Text/Album/` | ⏳ Pendiente | |
-| `Text/Tutorial/` | ⏳ Pendiente | |
-| `Text/Item/` | ⏳ Pendiente | |
+| `Text/Album/` | ✅ Completado | 5 archivos |
+| `Text/Tutorial/` | ✅ Completado | 24 archivos |
+| `Text/Item/` | ✅ Completado | 10 archivos |
 | `Text/Enemy/` | ⏳ Pendiente | |
 | `Text/GuildHouse/` | ⏳ Pendiente | |
-| `Text/Ex Equip/` | ⏳ Pendiente | |
-| `Text/Abyss Battle/` | ⏳ Pendiente | |
+| `Text/Ex Equip/` | ✅ Completado | 4 archivos |
+| `Text/Abyss Battle/` | ✅ Completado | 1 archivo |
 | `Text/DawnLabyrinth/` | ⏳ Pendiente | |
 | `Text/Home Screen/` | ⏳ Pendiente | |
 | `Text/Character/` | ⏳ Pendiente | 352 archivos |

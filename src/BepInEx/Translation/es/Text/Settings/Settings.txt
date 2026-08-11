@@ -1,0 +1,36 @@
+アイテム=Objetos
+設定=Ajustes
+タイトルへ戻る=Volver al Título
+SDカード保存設定=Transferir datos a SD
+称号=Título
+実績=Rendimiento
+コード入力=Introducir código
+アカウント連携=Vincular redes sociales
+サポート=Soporte
+フレンド=Amigo
+アルバム=Álbum
+ジュエル\nショップ=Joyería
+プロフィール=Perfil
+思い出\nアルバム=Álbum de\nRecuerdos
+絆の記憶=Recuerdos de Vínculos
+
+
+---entrada de código---
+一定期間内に無効なシリアルコードを3回連続で\n入力すると1時間入力できなくなります。=Si introduces un código serie inválido 3 veces seguidas en un\nperiodo determinado, no podrás introducir durante 1 hora.
+半角英数字のみ入力できます。=Solo se pueden introducir caracteres\nalfanuméricos de ancho medio.
+
+シリアルコードを入力してください。=Introduce un código serie.
+データ=Datos
+サポート、フレンド=Soporte, amigo
+絆ランク演出=Animación de rango de vínculo
+バースデーストーリーの通知=Notificación de historia de cumpleaños
+バースデーストーリーが追加された際、通知を表示するか設定します。=Cuando se añada la historia de cumpleaños, muestra la notificación.
+
+選択肢の自動選択設定=Selección automática de opciones
+オート再生中または早送り再生中に複数の選択肢が表示された際、選択肢を自動で選ぶか設定します。\n「自動選択する」は一番上の選択肢が自動で選ばれます。\n「自動選択しない」は複数の選択肢が表示された際、ストーリー再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Cuando se muestran varias opciones durante la reproducción automática o avance rápido,\nconfigura si seleccionar opciones automáticamente.\n«Selección automática» seleccionará automáticamente la opción superior.\n«No selección automática» pausará la reproducción de la historia cuando se muestren varias opciones.\n※Si solo se muestra una opción, se seleccionará automáticamente independientemente del ajuste.
+
+テキスト表示速度設定=Ajuste de velocidad de muestra de texto
+
+無効なシリアルコードです。\n再度入力してください。=Código serie inválido.\nInténtalo de nuevo.
+[3C404E]無効なシリアルコードです。\n連続で無効なシリアルコードが入力されたため一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しました。[-]=[3C404E] Código serie inválido.\n[FF7C4E,D62146]Funcionalidad restringida[-] temporalmente debido a la entrada consecutiva de códigos serie inválidos[-]
+[3C404E]連続で無効なシリアルコードが入力されたため\n一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しています。\n制限が解除されるまでしばらくお待ちください。[-]=[3c404e]La función está temporalmente [FF7C4E,D62146]restringida[-] porque se introdujeron códigos serie inválidos consecutivamente.\nEspera un momento hasta que se levanten las restricciones.

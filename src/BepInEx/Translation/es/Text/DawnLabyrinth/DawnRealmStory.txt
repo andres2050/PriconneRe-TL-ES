@@ -1,0 +1,37 @@
+Laberinto del Reino del Alba
+
+黎明界ラビリンス=Laberinto del Reino del Alba
+黎明界ラビリンスへ=Ir al Laberinto del Reino del Alba
+黎明界ラビリンスに戻りますか?=¿Volver al Laberinto del Reino del Alba?
+Historia de Introducción
+Título
+いざ黎明の迷宮へ！=¡Vamos al Laberinto del Reino del Alba!
+
+クレープ屋【ラビリンス】の屋台にて──=En el puesto de crepes de [Labyrinth]...
+あっ、弟くんっ。\nどーしたの今日はクレープ買いに来てくれたの？\nそれともお姉ちゃんに会いに来てくれた？=¡Ah, Otouto-kun! ¿Qué te trae por aquí hoy? ¿Planeas comer algunos crepes? ¿O quizás... viniste a ver a Onee-chan?
+用事……？　うんうん、弟くんがお姉ちゃんに会いに来るっていう\nとっても大事な用事だよねっ♪\n一人で来てくれて、えらいえらい♪=¿Un recado...? Sí, sí, ¡venir a ver a tu Onee-chan es súper importante, ¿verdad♪? Viniste solo--qué buen chico♪
+もう！　お姉ちゃんっ。\n久しぶりのお兄ちゃん成分を補給したいのは分かりますけど。\nあの話をするために来てもらったんですよっ。忘れちゃってません？=¡Ay! ¡Onee-chan! Entiendo que tienes baja la energía de Onii-chan después de todo este tiempo. ¿Pero recuerdas? Le pedimos que viniera para hablar de eso. ¿No me digas que lo olvidaste?
+そうだった！　弟くん、ちょっとこっちに来てくれる？\nあ、もうちょっと右かな？　一歩前に……そうそう、その辺りっ。\nよくできましたっ♪　なでなでしてあげるねっ。=¡Tienes razón! Otouto-kun, ¿puedes venir aquí un segundo? ¿Un poco más a la derecha...? Un paso adelante... sí, justo ahí. ¡Buen chico♪ Caricias para ti~♪
+お兄ちゃんっ、舌をかまないよう注意してくださいねっ。\n寝耳にミミック、藪からBOWですよ！　あれ、アローでしたっけ？=Onii-chan, por favor ten cuidado de no morderte la lengua. Es como... un Mimic en tu oído, o un arco desde los arbustos! Espera, ¿se suponía que era una flecha?
+どっちもちょっと違うかな～？　音だけなら後ろは合ってるけど。\nでもそうだねっ、弟くんがびっくりしないよう\nお姉ちゃんがぎゅーってしててあげるっ。=Hmm, creo que ambos están un poco mal~? Aunque el sonido del último se acerca. Pero tienes razón, le daré a Otouto-kun un abrazo apretado para que no se asuste.
+あっ、ズルいですよ～っ！　なら私も……ぎゅぅぅ～～っ。\nじゃあお兄ちゃんっ、いいですかっ？\n落下の衝撃に注意してくださいねっ！　それじゃゲート起動っ！=¡Ah, eso es injusto~! Entonces yo también... *Apretón*~! Bueno entonces, Onii-chan, ¿listo? ¡Ten cuidado con el impacto de la caída! ¡Puerta... actívate!
+無事、到～～着っ！\nここですっ、お兄ちゃんに見せたかったのはっ。=Hemos... llegado sanos y salvos! En cuanto a lo que queríamos mostrarte, Onii-chan...
+実はね、お姉ちゃんたち、前々からマスターの依頼で\nこういう遺跡とかダンジョンを調べたりしてたんだ。\n当然、中に踏み入って調査することも多いんだけど……=En realidad, verás... Onee-chan y Rino han estado investigando estas ruinas por un tiempo bajo la petición de la Maestra. Naturalmente, a menudo entramos a investigar...
+って感じで、この遺跡……\nどこか別の空間につながってるみたいでね～？\n二人だけで調べるのはちょっと大変かなぁ、って。=Así que, sí... parece que están conectadas a otro espacio o dimensión~? Pensamos que sería un poco difícil manejarlo solo las dos.
+じつは……マスターに調査を命じられちゃってまして。\nそこで助っ人を呼んだわけですっ。\nそうっ、我らがお兄ちゃんをっ！=La verdad es... la Maestra misma nos ordenó investigar. Por eso decidimos llamar a un refuerzo. ¡De ti, mi Onii-chan!
+それじゃ弟くん、行こっか♪\n最初のパーティメンバーはお姉ちゃんだよっ♪=Bueno entonces, Otouto-kun, ¡vamos♪ Tu primer miembro del equipo es... ¡Onee-chan♪
+あれ？　お姉ちゃん、ちょっと待ってくださいっ。\nそこに手紙みたいなのが落ちてますよっ。\nえーっと、なになに……=¿Eh? Onee-chan, espera un momento. Hay un objeto parecido a una carta tirado allí. Umm, ¿qué es esto...?
+『この先、開発用テストエリアのため、一般プレイヤーの立入制限中。\n何が起きるか分からないから、突入に際しては十分に注意する事！』──="El área de adelante es una zona de prueba de desarrollo, por lo que los jugadores normales no pueden entrar. Nunca sabes lo que va a pasar, ¡así que ten cuidado si entras!"
+『とはいえ名前がないと不便だよね～……\n名付けるとするなら……『黎明界』ってとこかな。\nこの場所から、世界を創り上げていく意図を込めて。』="Aún así, dejar este lugar sin nombre sería un fastidio~... Si tuviera que llamarlo de alguna manera... quizás 'Reino del Alba'. Lleva la intención de construir un nuevo mundo desde aquí."
+「……これ、マスターの字だね。」\n「……これ、マスターの字ですね。」="...Esta es la letra de la Maestra." "...Debe ser la carta de la Maestra."
+じゃあこの遺跡、マスターが造ったってこと？\nもー、人に仕事押し付けて自分はどこで何やってるんだか……\nあ。でも、そのおかげで弟くんに会えたんだから結果オーライかな♪=¿Entonces la Maestra construyó estas ruinas? En serio, siempre nos deja el trabajo y desaparece quién sabe dónde... Ah, pero gracias a eso pude verte, Otouto-kun, así que supongo que todo está bien♪
+やっぱり今日、お兄ちゃんを呼んで正解でした♪\n危なくなってもお兄ちゃんがいれば安心ですからねっ！\nいざ、ゴーイング前へっ！=¡Sabía que era una buena idea llamarte hoy, Onii-chan♪ ¡Incluso si las cosas se ponen peligrosas, me sentiré segura sabiendo que estás cerca para ayudar! ¡Ahora, vamos!
+
+Indicaciones del Jugador
+用事があるって聞いて……=Me llamaron aquí por un recado...
+これは、遺跡……？=Esto es... ¿ruinas?
+
+
+ラストもう一回！=¡La última otra vez!
+最後にもうひと勝負！=¡Un último intento!
+10％で★3迷宮遺物=10% para Reliquia de Laberinto ★3

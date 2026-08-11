@@ -1,0 +1,26 @@
+Elpis Mode Intro
+
+溢るる災禍と希望の証=Calamidad Desbordante y Prueba de Esperanza
+
+エルピス島の北部──大地に穿たれた大穴。\n{playername}たちは、その大穴から現れた魔物の群れと\n戦いを繰り広げていた。=En la parte norte de la Isla Elpis, se ha cavado un gran agujero en la tierra. {playername} y sus compañeros están luchando contra una horda de monstruos que han emergido de él.
+ああもう、ゾロゾロわらわらと……！\nいい加減に死ねえぇぇぇぇっ！！！=Aaah, maldición... pululando por todas partes así...! ¡¡¡SOLO MUERE YA DE UNA VEZ!!!
+ふぅっ……今ので最後みたいですね。\nさすがですキャルちゃん、大活躍でしたっ♪=Uf... Parece que ese fue el último. Como era de esperar de Kyaru-chan, ¡hiciste un gran trabajo♪
+……ったく、倒しても倒してもキリがないわ。\nこんな連中がまだまだ出てくるっての？=...En serio... derrotamos a uno tras otro, y aún así no hay fin. ¿Todavía hay más de estos acechando?
+はい。しかも、この大穴から現れたのは\nドラゴンをはじめとした強力な魔物ばかり……\n気を引き締めてまいりましょう。=Sí. Además, lo que emergió de este gran agujero fueron monstruos poderosos, incluidos dragones... Debemos avanzar con cuidado.
+最初の群れは片付けたけど、すぐに次が出てきそうね。\n空にも魔物の影が見えてるし……\nここで食い止めなきゃ、エルピス島に魔物が溢れちゃうわ。=Nos hemos deshecho de la primera horda, pero parece que otra vendrá pronto. Puedo ver las sombras de más monstruos en el cielo... Si no los detenemos aquí y ahora, la Isla Elpis se llenará de monstruos.
+そうなったら、頑張って進めてきたエルピス島開拓は水の泡に……\nいえ、いずれはランドソルにも魔物が押し寄せてきちゃいます。\n絶対にここで食い止めないとっ！=Si eso pasara, todo el trabajo que hemos hecho para desarrollar la Isla Elpis habría sido en vano... No, tarde o temprano, esos monstruos podrían inundar Landosol igualmente. ¡Debemos detenerlos aquí, absolutamente!
+分かってるけど……さすがに敵が多すぎるわよ。\nそこらで拾った遺物っぽいものが、うまく使えるといいんだけど。\n他にも何か転がってないかしら……=Lo entiendo, pero... hay demasiados enemigos. Espero que podamos al menos aprovechar esas reliquias que encontramos. Me pregunto si hay algo más por aquí...
+小ぶりですが、美しい像でございますね。\n先ほどの魔物から出てきたものでしょうか？\nただならぬ雰囲気を感じますが──=Pequeña, y sin embargo una estatua bastante hermosa. ¿Podría haber salido de ese monstruo que vimos antes? Siento algo extraordinario en ella...
+ひゃっ、もう次の魔物が！？\nもう、休憩する暇もないですねっ！=¡Hyaa! ¡¿Ya está aquí el siguiente monstruo?! ¡Ay, ni siquiera tenemos tiempo de descansar!
+大丈夫、一匹だけよ！\n私が倒すから、みんなは周りを警戒して！=¡No te preocupes, es solo uno! ¡Yo me encargo, así que todos vigilen los alrededores!
+ありがとう……って、えぇっ？\nこの力は……っ！=Gracias... Espera, ¿qué? ¡Este poder es...!
+やるじゃない、シェフィ！\n瞬殺だったわよ！=¡Nada mal, Sheffy! ¡Lo eliminaste en un instante!
+う、うん……自分でもびっくりしてるわ。\n{playername}の力が、\nいつもより強く感じられたんだけど……=S-sí... Yo también estoy sorprendida. Sentí que el poder de {playername} fluía en mí con más fuerza de lo habitual...
+なるほど、確かに……\nこの島の名前──『エルピス』とは神話における希望の女神の名です。\nその像は、女神の姿をかたどった物なのかもしれません。=Ya veo, tiene sentido... El nombre de esta isla, "Elpis", es el mismo que el de la diosa de la esperanza en la mitología. Esta estatua puede estar modelada a su semejanza.
+この大穴はいわば、災いで満ちたパンドラの匣。\nそして女神エルピスの像は、大穴から溢れ出す災いと戦う\nわたくしたちに、希望という加護を与えてくれるのかもしれません。=Este gran agujero es, por así decirlo, como la Caja de Pandora, llena de desastres incalculables. La estatua de la diosa Elpis puede estar otorgándonos la bendición de la esperanza mientras luchamos contra los desastres que se derraman de él.
+よく分かんないけど、そういうことならやる気が出てくるわ。\nこいつらを倒しまくれば、あたしたちはもっと強くなれるのね！=No lo entiendo del todo, pero si es así, estoy aún más motivada. ¡Si seguimos derrotando a estos tipos, nos volveremos más fuertes!
+ですねっ、希望が湧いてきました！\n女神さまの力も借りて、この島を……いえ、世界を守りましょう！=¡Sí! ¡Mi esperanza está brotando! ¡Tomemos prestado el poder de esta Diosa y protejamos esta isla... no, el mundo entero!
+
+…………これは……=...Esto es...
+シェフィちゃん、強化するよ！=¡Te fortaleceré, Sheffy!
+もしかして、この像のおかげなのかな。=Quizás sea gracias a esta estatua.

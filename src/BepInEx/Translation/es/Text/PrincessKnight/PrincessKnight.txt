@@ -1,0 +1,81 @@
+プリンセスナイト強化=Caballero Princesa
+
+プリンセスナイト=Caballero Princesa
+強化詳細=Detalles de Mejora
+強化Lv=Nivel de Mejora
+属性レベル=Nivel elemental
+属性スキル=Habilidad Elemental
+マスタースキル=Habilidad Maestra
+火属性攻撃力=Poder de Fuego
+水属性攻撃力=Poder de Agua
+風属性攻撃力=Poder de Viento
+光属性攻撃力=Poder de Luz
+闇属性攻撃力=Poder de Oscuridad
+
+属性=Elemento
+未強化=Sin mejorar
+このノードは強化済みです。=Este nodo ha sido mejorado.
+所持シャード=Fragmentos en Posesión
+消費シャード=Costo de Fragmentos
+ノード詳細=Detalles del Nodo
+選択したノードの強化詳細です。\n未強化の前提ノードは自動で強化されます。=Estos son los detalles de la mejora del nodo seleccionado. El nodo previo sin mejorar se mejorará automáticamente.
+強化済みです。=Ha sido mejorado.
+強化可能なノードがありません。=No hay nodos que se puedan mejorar.
+消費マスターピース=Costo de Obras Maestras
+所持マスターピース=Obras Maestras en Posesión
+所持マスターピース(欠片)=Obras Maestras en Posesión (Fragmento)
+消費マスターピース(欠片)=Costo de Obras Maestras (Fragmento)
+
+sr:"^(?:\[3C404E\])?(.+)の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?$"=[3C404E]El $2 de $1 aumenta en [FFBB00,CE4F00]$3[-].[-]
+sr:"^(?:\[3C404E\])?(.+)の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?(?:\r)?\n(?:\[3C404E\])?(.+)?の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?$"=[3C404E]El $2 de $1 aumenta en [FFBB00,CE4F00]$3[-].\nEl $5 de $4 aumenta en [FFBB00,CE4F00]$6[-].[-]
+
+魔法与ダメージ=Daño Mágico
+物理与ダメージ=Daño Físico
+ＴＰ上昇強化=Mejora de Aumento de TP
+属性ボーナス強化=Mejora de Bono Elemental
+物理攻撃力強化=Mejora de ATQ. FÍS.
+魔法攻撃力強化=Mejora de ATQ. MÁG.
+
+ＨＰ強化=Mejora de HP Máx.
+HP吸収強化=Mejora de Drenaje de HP
+HP自動回復強化=Mejora de Regeneración de HP
+TP自動回復強化=Mejora de Regeneración de TP
+TP消費軽減強化=Mejora de Retención de TP
+物理防御力強化=Mejora de DEF. FÍS.
+魔法防御力強化=Mejora de DEF. MÁG.
+魔法与ダメージ強化=Mejora de Daño Mágico
+物理与ダメージ強化=Mejora de Daño Físico
+物理クリティカルダメージ強化=Mejora de Daño de Crítico Físico
+魔法クリティカルダメージ強化=Mejora de Daño de Crítico Mágico
+物理クリティカル強化=Mejora de PROB. DE CRÍT. FÍS.
+魔法クリティカル強化=Mejora de PROB. DE CRÍT. MÁG.
+回復量上昇強化=Mejora de Bonus de Curación
+命中強化=Mejora de Precisión
+回避強化=Mejora de Evasión
+魔法クリティカルダメージ=DAÑO CRÍT. MÁG.
+魔法クリダメ強化=Mejora de DAÑO CRÍT. MÁG.
+物理クリティカルダメージ=DAÑO CRÍT. FÍS.
+物理クリダメ強化=Mejora de DAÑO CRÍT. FÍS.
+物理・魔法クリティカル強化=Mejora de PROB. DE CRÍT. FÍS. y MÁG.
+物理・魔法防御力強化=Mejora de DEF. FÍS. y MÁG.
+物理・魔法攻撃力強化=Mejora de ATQ. FÍS. y MÁG.
+物理・魔法クリティカルダメージ強化=Mejora de DAÑO CRÍT. FÍS. y MÁG.
+
+強化地点へ=Ir al Nodo Actual
+
+強化可能なマスタースキル=Habilidad Maestra Mejorable
+以下のノードの強化を実行しますか？=¿Te gustaría realizar las siguientes mejoras de nodos?
+
+属性攻撃力=Poder de Ataque Elemental
+火属性の強化詳細=Detalles de Mejora Elemental de Fuego
+水属性の強化詳細=Detalles de Mejora Elemental de Agua
+風属性の強化詳細=Detalles de Mejora Elemental de Viento
+光属性の強化詳細=Detalles de Mejora Elemental de Luz
+闇属性の強化詳細=Detalles de Mejora Elemental de Oscuridad
+
+強化内容がありません。=No hay mejoras.
+ノードをすべて強化すると解放されます。=Mejora todos los nodos para desbloquearlos.
+前提ノードの強化が必要です。=Necesitas mejorar los nodos previos.
+
+強化可能な属性スキル=Habilidades Elementales Mejorables
+r:"^\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ\[-\]$"=[FFBB00,CE4F00]+$1[-]

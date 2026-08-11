@@ -1,0 +1,67 @@
+encuentro de chris y matsuri
+魔物たちが集まる闘技場を見つけた！=¡Encontraste una arena donde se reúnen monstruos!
+バトルマス(EXTREME)の\n敵に挑戦する\n＋アルファルピ=Desafiar a un enemigo en la Casilla de Batalla (EXTREMA) + αRupias
+強敵との戦いは心躍る！=¡Luchar contra un oponente\nfuerte me emociona!
+バトルマス(NORMAL)の\n敵に挑戦する\n＋アルファルピ=Desafiar a un enemigo en la Casilla de Batalla (NORMAL) + αRupias
+腕試しッス！=¡Probemos nuestras habilidades!
+サポートキャラはマイパーティに設定できません。=Los personajes de apoyo no se pueden configurar en tu propio equipo.
+
+エクストラ\nクエスト=Misión\nExtra
+
+黎明界ラビリンスに挑戦しよう=Desafía el laberinto del mundo del alba
+どんな体操でも楽しむ準備は万全です。一緒にがんばりましょう！=Estoy completamente preparado para disfrutar cualquier ejercicio. ¡Hagamos nuestro mejor esfuerzo juntos!
+夏の海辺でラジーオタイソーができるなんて、すごーく楽しみ！=¡No puedo esperar para hacer razziotaisaw en la playa en verano!
+ここで習った体操のことは、必ずや主さまにお伝えいたします=Me aseguraré de contarle a mi amo sobre los ejercicios que aprendí aquí
+
+
+Encuentro de la GMA
+ギルド管理協会です！どんなお仲間をお探しですか？=¡Es la GMA! ¿Qué tipo de aliado estás buscando?
+バッファーロールの\nランダムサイン×2\n＋アルファルピ=Personajes Aleatorios\nde Rol Potenciador x2\n+αRupias
+バッファーを\n仲間にしたい！=¡Quiero un aliado Potenciador!
+ブースターロールの\nランダムサイン×2\n＋アルファルピ=Personajes Aleatorios\nde Rol Impulsor x2\n+αRupias
+ブースターを\n仲間にしたい！=¡Quiero un aliado Impulsor!
+ブレイカーロールの\nランダムサイン×2\n＋アルファルピ=Personajes Aleatorios\nde Rol Rompedor x2\n+αRupias
+ブレイカーを\n仲間にしたい！=¡Quiero un aliado Rompedor!
+アタッカーロールの\nランダムサイン×2\n＋アルファルピ=Personajes Aleatorios\nde Rol Atacante x2\n+αRupias
+アタッカーを\n仲間にしたい！=¡Quiero un\naliado Atacante!
+
+タンクロールの\nランダムサイン×2\n＋アルファルピ=Personajes Aleatorios\nde Rol Tanque x2\n+αRupias
+タンクを\n仲間にしたい！=¡Quiero un\naliado Tanque!
+ヒーラーロールの\nランダムサイン×2\n＋アルファルピ=Personajes Aleatorios\nde Rol Sanador x2\n+αRupias
+ヒーラーを\n仲間にしたい！=¡Quiero un\naliado Sanador!
+
+ジャマーロールの\nランダムサイン×2\n＋アルファルピ=Personajes Aleatorios\nde Rol Saboteador x2\n+αRupias
+ジャマーを\n仲間にしたい！=¡Quiero un\naliado Saboteador!
+デバッファーロールの\nランダムサイン×2\n＋アルファルピ=Personajes Aleatorios\nde Rol Debilitador x2\n+αRupias
+デバッファーを\n仲間にしたい！=¡Quiero un\naliado Debilitador!
+
+
+jun tomo
+イベント会場に魔物=Monstruos en el salón de eventos
+ジュンが仲間になる\n＋オールランダムサイン×2～4=Jun se une como aliada\n+Todos los Personajes Aleatorios x2~4
+ここは私たちに\n任せて！=¡Déjanoslo\na nosotras!
+ミクマ流の\n剣技にかけて！=¡En nombre del\nestilo Mikuma!
+
+ruka pesca
+釣りスポットを発見！=¡Encontraste un lugar de pesca!
+50％で★1迷宮遺物×1\nさらに次のイベントへ=50% para Reliquia de Laberinto ★1 x1, y pasar al siguiente evento.
+のんびり\n釣りでもしようか=¿Por qué no nos tomamos\nnuestro tiempo pescando?
+25％で★2迷宮遺物×1\nさらに次のイベントへ=25% para Reliquia de Laberinto ★2 x1, y pasar al siguiente evento.
+もう一回挑戦だ！=¡Intentémoslo de nuevo!
+ラッキー！もう一回釣れるぞ！=¡Suerte! ¡Puedo pescar otra!
+報酬を獲得できませんでした。=No se pudo obtener una recompensa.
+
+peco picnic
+絶好のピクニック日和だ！=¡Tiempo perfecto para un picnic!
+50％で次のイベントへ=50% para entrar al siguiente evento.
+みんなで\n料理を作りましょう☆=¡Cocinemos\ntodos juntos★
+まだまだ\n食べ足りません☆=¡Aún no he\ncomido lo suficiente★
+ランダムなロールの\nランダムサイン=Personaje de\nRol Aleatorio
+それくらいで\nいいんじゃない？=¿No es suficiente\ncomida así?
+料理ができた！でも、まだ材料はあるぞ！=¡La comida está lista! ¡Pero todavía me quedan ingredientes!
+
+Akisaren
+ダンジョンで迷った！どっちに進む？=¡Te perdiste en la mazmorra! ¿Hacia dónde vas?
+右に決まっていますわ！=¡A la derecha, obviamente!
+左じゃないかしら？=¿No debería ser a la izquierda?
+50％で★1迷宮遺物×1\n50％でランダムなロールの\nランダムサイン=50% para Reliquia de Laberinto ★1 x1.\n50% para Personaje de Rol Aleatorio.

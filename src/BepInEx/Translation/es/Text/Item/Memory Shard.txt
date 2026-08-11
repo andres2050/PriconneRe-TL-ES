@@ -1,0 +1,13 @@
+のメモリーピース=Fragmento de Memoria de
+のピュアメモリーピース=Fragmento de Memoria Pura de
+sr:"^([べ-ヺー＆＝]+?) ?(（.+）)?\n?の\n?メ\n?モ\n?リ\n?ー\n?ピ\n?ー\n?ス ?$"=Fragmento de Memoria de $1$2
+
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?\n?の\n?ピ\n?ュ\n?ア\n?メ\n?モ\n?リ\n?ー\n?ピ\n?ー\n?ス$ ?"="Fragmento de Memoria Pura de $1$2"
+
+sr:"^([べ-ヺー＆＝]+)(（.+）)?の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。$"="Un fragmento de los recuerdos sellados de $1$2. Reúne estos objetos para liberar el poder oculto de tus personajes."
+カヤの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。
+   Fragmento de los recuerdos sellados. Reúne estos objetos para liberar el poder oculto de tus personajes.
+sr:"^([べ-ヺー＆＝]+)(（.+）)?の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。$"="Un fragmento de los recuerdos puros sellados de $1$2. Reúne estos objetos para liberar el verdadero poder oculto de tus personajes."
+
+女神の秘石=Amuleto Divino
+神秘の力を宿した不思議な石。女神\nの秘石ショップで任意のメモリー\nピースを購入することができる。=Una piedra misteriosa que contiene poderes místicos; cualquier Fragmento de Memoria se puede comprar en la Tienda de Amuletos Divinos.

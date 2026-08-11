@@ -1,0 +1,2 @@
+サイドストーリーをプレイするには追加データのダウンロードが必要です。\nダウンロードしたサイドストーリーの追加データを端末に保存するか設定します。\n※「保存しない」を選択すると、データがアプリ起動の度に削除され、\n端末のデータ容量を削減できる代わりに、毎回ダウンロードし直す必要があります。=Necesitas descargar datos adicionales para jugar la historia paralela.\nConfigura si guardar los datos adicionales de la historia paralela descargada en el almacenamiento.\n※Si seleccionas «No guardar», los datos se eliminarán cada vez que se inicie la app,\ny tendrás que descargarlos de nuevo cada vez que entres en la Historia Paralela.
+サイドストーリーのデータ保存設定=Ajustes de almacenamiento de datos de historia paralela

@@ -1,0 +1,98 @@
+オートで次のクエストへ進行！=¡Avanza a la siguiente misión con auto!
+オート進行=Auto Av.
+スキップチケットを使ってクエストをスキップ!=¡Omite la misión usando un ticket de omisión!
+オート進行設定中=Ajuste de Auto Av.
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないイベントクエストで使用できます。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Mi señor, el Auto Av. ya está disponible. El Auto Av. se puede usar en misiones de evento que aún no has superado. La captura de misiones será más cómoda, así que vamos a usarlo de inmediato.
+
+停止する=Detener
+停止しない=No detener
+合計消費スタミナ=Consumo total de resistencia
+オート進行設定=Ajuste de Auto Av.
+使用しない=No usar
+回復なしで開始=Empezar sin recuperar
+sr:"^(メイン|イベント)クエスト(.+)まで進めるには、スタミナ回復が必要です。$"=Para avanzar a la Misión $1 $2, necesitas recuperar resistencia.
+
+sr:"^オート進行で(メイン|イベント)(前編|後編|中編)?クエスト(.+)まで進めた場合、最大で以下のスタミナを消費します。$"=Si avanzas a la Misión $2$1 $3 con Auto Av.,\nconsumirás la siguiente resistencia como máximo.
+プレイヤーLvアップ時や特別なコンテンツが解放された際、オート進行が停止する場合があります。=Al subir de Nv. de jugador o al desbloquearse contenido especial, el Auto Av. puede detenerse.
+オート進行中にユニオンバーストを使用するか設定します。=Configura si usar el Estallido de Unión durante el Auto Av.
+オート進行中のユニオンバースト使用設定=Ajustes de uso de Estallido de Unión en Auto Av.
+イベントストーリー解放時にオート進行を停止するか設定します。=Configura si detener el Auto Av. al desbloquearse la historia de evento.
+イベントストーリー解放時のオート進行停止設定=Ajuste de suspensión de Auto Av. al desbloquearse la historia de evento
+オート進行設定中はサポートキャラを編成できません。=No se puede seleccionar personaje de apoyo durante el modo Auto Av.
+オート進行を停止しますか？\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=¿Quieres detener el Auto Av.?\nEl siguiente consumo de resistencia ya se ha procesado por este Auto Av.\n※No incluye la resistencia consumida por retiradas o derrotas.
+
+敗北のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Debido a la derrota, el Auto Av. se ha suspendido. El siguiente consumo de resistencia se ha ejecutado según este Auto Av. \n※No incluye la resistencia consumida por retiradas o derrotas.
+
+スタミナ不足のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=El Auto Av. se ha detenido por resistencia insuficiente.\nLa siguiente resistencia se consumió durante este Auto Av.\n※No incluye la resistencia consumida por retiradas o derrotas.
+
+☆3クリア未達成のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=El Auto Av. se ha detenido por no lograr una victoria ☆3.\nLa siguiente resistencia se consumió durante este Auto Av.\n※No incluye la resistencia consumida por retiradas o derrotas.
+
+
+最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=El Auto Av. ha terminado al llegar a la última misión.\nLa siguiente resistencia ya se ha consumido durante esta sesión de Auto Av.\nEsto no incluye la resistencia consumida por retiradas o derrotas.
+
+プレイヤーLvアップのためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=El Auto Av. se ha pausado por subir de Nivel de Jugador.\nLa siguiente resistencia ya se ha consumido durante esta sesión de Auto Av.\n※No incluye la resistencia consumida por retiradas o derrotas.
+
+エリア最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=El Auto Av. ha terminado al llegar a la última misión del área.\nLa siguiente resistencia ya se ha consumido durante esta sesión de Auto Av.\n※No incluye la resistencia consumida por retiradas o derrotas.
+
+
+イベントストーリー解放時に自動進行を停止するかの設定です。=Configura si detener el Auto Av. al desbloquearse la historia de evento.
+イベントストーリー解放時オート進行停止=El Auto Av. se detiene al desbloquearse la historia de evento
+
+
+
+
+クエストクリア数=Misiones superadas
+オート進行停止=Suspensión de Auto Av.
+オート進行終了=Fin de Auto Av.
+オート進行報酬一覧=Lista de recompensas de Auto Av.
+[FF7C4E,D62146]所持上限を超えたアイテムはプレゼントに送られました。[-]=[FF7C4E,D62146]Los objetos que superan el límite de posesión\nse han enviado al buzón. [-]
+サブストーリー=Subhistoria
+メインストーリー解放=Desbloqueo de historia principal
+信頼度エピソード=Episodios de confianza
+サブストーリー解放=Desbloqueo de subhistoria
+r:"^イベントストーリーが\n(\d+)[つ個]解放されました。$"=$1 historias de evento\nse han desbloqueado.
+r:"^メインストーリーが\n(\d+)[つ個]解放されました。$"=$1 historias principales\nse han desbloqueado.
+r:"^サイドストーリーが\n(\d+)[つ個]解放されました。$"=$1 historias paralelas\nse han desbloqueado.
+r:"^サブストーリーが\n(\d+)[つ個]解放されました。$"=$1 subhistorias\nse han desbloqueado.
+r:"^信頼度エピソードが\n(\d+)[つ個]解放されました。$"=$1 episodios de confianza\nse han desbloqueado.
+
+イベントストーリー解放=Desbloqueo de historia de evento
+限定ショップにアイテムが\n追加されました。=Se ha añadido un objeto a la tienda limitada.
+オート進行解放コンテンツ一覧=Lista de contenido desbloqueado por Auto Av.
+キャラクターストーリー解放=Desbloqueo de historia de personaje
+sr:"^([べ-ヺー＆＝]+)の\n絆ランクが(\d+)になりました。$"=$1\nEl rango de vínculo es $2.
+
+特別なコンテンツの解放のため、オート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Para desbloquear contenido especial, el Auto Av. se ha detenido.\nEl siguiente consumo de resistencia se ha ejecutado por este Auto Av.\n※No incluye la resistencia consumida por retiradas o derrotas.
+
+
+最小=Mín.
+最大=Máx.
+自動選択する=Selección automática
+ストーリーのオート再生時、複数の選択肢が表示された際に、選択肢を自動選択させるか設定します。\n「自動選択する」を選択すると、一番上の選択肢が自動選択されます。\n「自動選択しない」を選択すると、複数の選択肢が表示された際に、オート再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Al reproducir automáticamente la historia, elige si seleccionar automáticamente una opción cuando se muestran varias.\nSeleccionar «Selección automática» seleccionará automáticamente la opción superior.\nSeleccionar «No selección automática» pausará la reproducción automática\ncuando se muestren varias opciones.\n※Si solo se muestra una opción, se seleccionará automáticamente independientemente del ajuste.
+ストーリーのオート再生設定=Ajuste de reproducción automática de historia
+クエスト挑戦時に挑戦回数の設定を、最小回数か最大回数のどちらにするか設定します。=Configura la cantidad predeterminada de Tickets de Omisión a usar en una misión de intentos limitados.
+挑戦回数上限設定=Ajuste de cantidad de omisión
+自動選択しない=No selección automática
+
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないメインクエストで使用できます。=Mi señor, el Auto Av. ya está disponible. El Auto Av. se puede usar en misiones principales que aún no has superado.
+オート進行中の各条件は主さまお好みの設定ができるようです。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Cada condición durante el Auto Av. parece poder configurarse a tu gusto.\nLa captura de misiones será más cómoda, así que vamos a usarlo de inmediato.
+
+クエストクリアごとの最大消費マナ=Consumo máx. de Mana por misión superada
+最大消費マナ=Consumo máx. de Mana
+r:"^プレイヤーLv(\d+)以下は実際に消費するマナが上記より少ない場合があります。$"=Jugadores de Nv.$1 o inferior pueden consumir menos mana del indicado arriba.
+マナが不足した場合、オート進行が停止します。=Si el mana es insuficiente, el Auto Av. se detendrá.
+オート進行停止条件設定=Ajuste de condiciones de parada de Auto Av.
+オート進行が停止する条件を設定します。\n選択した停止条件に該当しない難易度の場合は、エリアの最終クエストクリアでオート進行が停止します。=Configura las condiciones para detener el Auto Av. En el caso de dificultades que no cumplan\nlas condiciones de parada seleccionadas, el Auto Av. se detendrá al superar la última misión del área.
+
+スタミナが不足するまで=Hasta agotar la resistencia
+BOSS出現クエスト直前=Antes de la misión del JEFE
+ストーリー解放時=Al desbloquear la historia
+☆3クリア未達成時の停止設定=Ajuste de parada cuando no se logra ☆3
+☆3クリアが出来なかった場合にオート進行を停止するか設定します。=Configura si detener el Auto Av. si no se logra una victoria ☆3.
+スタミナが不足するまでクエストをオートで進行します。オート進行中に回復したスタミナも消費します。=La misión avanzará automáticamente hasta que se agote la resistencia.\nTambién consume la resistencia recuperada durante el Auto Av.
+特別なコンテンツが解放された場合、オート進行が停止する場合があります。=Detiene el Auto Av. cuando se desbloquea contenido especial.
+バトル中のボス会話をスキップするか設定します。=Configura si omitir la conversación del jefe en la batalla.
+ボスバトル時会話のスキップ設定=Ajuste de omisión de conversación durante batallas de jefe
+
+オート進行中サポート確認=Confirmación de apoyo durante Auto Av.
+オート進行中は2戦目以降も\n選択したサポートキャラが\n編成されます。=Durante el Auto Av.,\nel personaje de apoyo seleccionado se organizará\ndesde la segunda batalla en adelante.

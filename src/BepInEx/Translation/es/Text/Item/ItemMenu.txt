@@ -1,0 +1,8 @@
+アイテム一覧=Lista de objetos
+売却=Vender
+売却マナ=Valor en Mana
+
+確認したいアイテムを選択してください=Selecciona el objeto que quieres ver
+所持していません。=No tienes ninguno.
+
+アイテム詳細=Info de objeto

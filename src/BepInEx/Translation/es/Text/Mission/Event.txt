@@ -1,0 +1,76 @@
+---Misión de Tarea---
+ボス=Jefe
+SPECIALのボス=Jefe Especial
+エキシビジョン+解放=Exhibición+ Desbloqueada
+ミッションレベルが対象外になった場合、達成することはできません。=Si el nivel de la misión queda fuera del alcance, no se puede lograr.
+SPECIALかEXHIBITIONでボスを5回以内に討伐しよう=Completa el modo Especial o Exhibición en 5 intentos o menos.
+SPECIALかEXHIBITIONのバトルでボスを5回以内に討伐しよう=Completa el modo Especial o Exhibición en 5 intentos o menos.
+[FFFFFF]SPECIALかEXHIBITIONでボスを5回以内に討伐しよう[-]=[FFFFFF]Completa el modo Especial o Exhibición en 5 intentos o menos.[-]
+[FFFFFF]SPECIALかEXHIBITIONのバトルでボスを5回以内に討伐しよう[-]=[FFFFFF]Completa el modo Especial o Exhibición en 5 intentos o menos.[-]
+
+[3C404E]MODE2のお供のモンスターを全て倒そう[-]=[3C404E]Derrota a todos los monstruos en el MODO 2.[-]
+sr:"^(\[[0-9A-F]{6}\])?スペシャルかエキシビションのバトルで(.+)を(\d)回以内に討伐しよう(\[-\])?$"=$1Derrota al $2 en $3 intentos en Batallas SP o de Exhibición.$4
+
+EXHIBITION＋でボスを5回以内に討伐しよう=Completa la Exhibición＋ en 5 intentos.
+[FFFFFF]EXHIBITION＋でボスを5回以内に討伐しよう[-]=[FFFFFF]Completa la Exhibición＋ en 5 intentos.[-]
+
+【前編】ボスに1回挑戦しよう=[Parte 1] Desafía al jefe una vez
+【後編】ボスに1回挑戦しよう=[Parte 1] Desafía al jefe una vez
+ボスに1回挑戦しよう=Desafía al jefe una vez
+
+sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう ?(?:（|\()EX(?:・EX\＋)?を除く(?:）|\)) ?(\[-\])?$"="$1Derrota al $2 $3 veces (Excluyendo EX y EX+).$4"
+
+sr:"^(\[[0-9A-F]{6}\])?(スペシャルバトルの)?(.+)を討伐しよう(\[-\])?$"=$1Derrota al $3.$4
+sr:"^(\[[0-9A-F]{6}\])?(スペシャルバトルの)?(.+)のHPを([0-9,.]+)まで減らそう(\[-\])?$"="$1Reduce el HP de $3 a $4.$5"
+r:"^(\[[0-9A-F]{6}\])?討伐証交換の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reinicia la lista de recompensas del intercambio de subyugación $2 veces.$3
+r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのMODE(\d)をクリアしよう(\[-\])?$"=$1 Completa el MODO $2 de las Batallas Especiales.$3
+sr:"^(\[[0-9A-F]{6}\])?(.+)のMODE(\d)をクリアしよう(\[-\])?$"=$1 Completa el MODO $3 de $2$4
+r:"^(\[[0-9A-F]{6}\])?MODE(\d)のお供のモンスターを全て倒そう(\[-\])?$"=$1Derrota a todos los monstruos acompañantes en el MODO $2.$3
+r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのボスのHPを(\d+)まで減らそう(\[-\])?$"="$1Reduce el HP del Jefe SP a $2.$3"
+sr:"^(\[[0-9A-F]{6}\])?(.+)に1回挑戦しよう（全難易度共通） (\[-\])?$"="$1Lucha contra $2 una vez (Cualquier Dificultad).$3"
+sr:"^(\[[0-9A-F]{6}\])?(.+)に1回挑戦しよう（EX(?:・EX＋)?を除く） ?(\[-\])?$"="$1Lucha contra $2 una vez (Excluyendo EX y EX+).$3"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう（全難易度共通）(\[-\])?$"="$1Derrota al $2 $3 veces (Cualquier Dificultad).$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう \(全難易度共通\)(\[-\])?$"="$1Derrota al $2 $3 veces (Cualquier Dificultad).$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?\((.+)?限定\)(\[-\])?$"="$1Completa $2 ($3 Limitado) una vez.$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?（(.+)?限定）(\[-\])?$"="$1Completa $2 ($3 Limitado) una vez.$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう(\[-\])?$"="$1Derrota al $3 $2.$4"
+
+sr:"^(\[[0-9A-F]{6}\])?(.+)のシャドウを倒そう(\[-\])?$"=$1Derrota a la sombra de $2.$3
+
+sr:"^(.+)を(\d)体倒そう　（(.+)限定）$"="Completa $1 ($3 Limitado) $2 veces."
+
+
+
+r:"^(\[[0-9A-F]{6}\])?イベント前編クエスト([ A-Za-z\-0-9]+)をクリアしよう(\[-\])?$"=$1Completa la Misión de la Parte 1 del Evento$2$3
+r:"^(\[[0-9A-F]{6}\])?イベント後編クエスト([ A-Za-z\-0-9]+)をクリアしよう(\[-\])?$"=$1Completa la Misión de la Parte 2 del Evento$2$3
+
+イベントストーリー オープニングを閲覧しよう=Ver el Opening de la Historia del Evento
+r:"^イベントストーリー 第(\d+)話(R)?を閲覧しよう$"=Historia del Evento: ver el Episodio $1$2
+r:"^第(\d)話を閲覧で解放$"=Desbloquear viendo el Episodio $1
+
+イベントクエストを1回クリアしよう=Completa 1 vez la Misión de Evento
+
+r:"^イベントクエストを合計(\d+)回クリアしよう（復刻は除く）$"=Completa las Misiones de Evento un total de $1 veces (Excluyendo Eventos Reeditados)
+復刻は除く= (Excluyendo Eventos Reeditados)
+ストーリーイベントの最終話を閲覧しよう=Ver el episodio final del evento de historia
+
+ストーリーイベントのボスバトル(SCENARIO)をクリアしよう=Completa la batalla contra el jefe (SCENARIO) del evento de historia
+ストーリーイベントのボスバトル(SPECIAL)をクリアしよう=Completa la batalla contra el jefe (SPECIAL) del evento de historia
+
+ボスバトル（SPECIAL）をクリアしよう=Completa la batalla contra el jefe (SPECIAL)
+前編ボスバトル（SPECIAL）をクリアしよう=Completa la batalla contra el jefe de la Parte 1 (SPECIAL)
+前編ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Completa la batalla contra el jefe de la Parte 1 (SPECIAL) en 5 intentos
+前編ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Completa la batalla contra el jefe de la Parte 1 (SPECIAL+) en 5 intentos
+後編ボスバトル（SPECIAL）をクリアしよう=Completa la batalla contra el jefe de la Parte 2 (SPECIAL)
+後編ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Completa la batalla contra el jefe de la Parte 2 (SPECIAL) en 5 intentos
+後編ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Completa la batalla contra el jefe de la Parte 2 (SPECIAL+) en 5 intentos
+ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Completa la batalla contra el jefe (SPECIAL) en 5 intentos
+ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Completa la batalla contra el jefe (SPECIAL+) en 5 intentos
+
+
+
+ボスバトル（SCENARIO）をクリアしよう=Completa la batalla contra el jefe (SCENARIO)
+
+---Título---
+
+sr:"^(\[[0-9A-F]{6}\])?(.+)を()体倒そう（([\w ]+)限定）(\[-\])?$"="$1Derrota al $2 una vez ($3)."

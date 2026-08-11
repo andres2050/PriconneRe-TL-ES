@@ -1,0 +1,18 @@
+---Notificación...no mostrar en DMM---
+お気に入りキャラ設定=Ajustes de personajes favoritos
+プロフィールのお気に入りキャラから通知が届くように設定できます。=Puedes configurar cuándo recibir notificaciones de tus personajes favoritos del perfil.
+スタミナ全回復時=Recuperación de resistencia
+スタミナが全回復したときに通知します。=Notifica cuando la resistencia se recupere por completo.
+ギルドハウス　マナ=Mana de Casa de Gremio
+ギルドハウス　スキップチケット=Tickets de omisión de Casa de Gremio
+ギルドハウス　EXPポーション=Pociones de EXP de Casa de Gremio
+ギルドハウス　スタミナ=Resistencia de Casa de Gremio
+ギルドハウスで受け取れるマナがいっぱいになったときに通知します。=Notifica cuando el Mana que puedes recibir en la Casa de Gremio esté lleno.
+ギルドハウスで受け取れるスキップチケットがいっぱいになったときに通知します。=Notifica cuando los Tickets de Omisión que puedes recibir en la Casa de Gremio estén llenos.
+ギルドハウスで受け取れるEXPポーションがいっぱいになったときに通知します。=Notifica cuando las Pociones de EXP que puedes recibir en la Casa de Gremio estén llenas.
+ギルドハウスで受け取れるスタミナがいっぱいになったときに通知します。=Notifica cuando la Resistencia que puedes recibir en la Casa de Gremio esté llena.
+ギルドハウス　まとめて通知=Notificación resumida de Casa de Gremio
+ギルドハウスで受け取れる全てのアイテムがいっぱいになったときに通知します。\n※個別のアイテムの通知を設定すると、この設定はOFFになります。=Te notificaremos cuando todos los objetos que puedes recibir en la Casa de Gremio estén llenos.\n※Este ajuste se desactiva cuando configuras notificaciones de objetos individuales.
+深夜帯は受け取らない=No recibir en la madrugada
+24:00～早朝6:59まで、全ての通知を受け取らないようにします。=De 24:00 a las 6:59 de la madrugada, no recibir ninguna notificación.
+端末の設定で通知をOFFにしている場合、通知は受け取れませんのでご注意ください。=Ten en cuenta que no se pueden recibir notificaciones si están desactivadas en los ajustes del dispositivo.

@@ -1,0 +1,126 @@
+プリンセスアリーナコイン=Moneda de Arena de Princesa
+アリーナコイン=Moneda de Arena de Batalla
+ダンジョンコイン=Moneda de Mazmorra
+マスターコイン=Moneda Maestra
+クランコイン=Moneda de Clan
+アルケスコイン=Moneda Alces
+コネクトコイン=Moneda de Connect
+
+スタミナ=Resistencia
+マナ=Mana
+ルピ=Rupias
+ジュエル=Joyas
+プレイヤー経験値=EXP de jugador
+ランダム装備BOX=Caja de Equipo Aleatorio
+みんなでお花見=Hanami de Todos
+みんなの好きなもの=Favorito de Todos
+
+特定のキャラのメモリーピースを交換できるチケット。=Un ticket que se puede intercambiar por Fragmentos de Memoria de un personaje específico.
+特定のEX★5防具と交換できるチケット。=Un ticket que se puede intercambiar por armadura EX★5 específica.
+ペコリーヌの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=Un anillo que se dice eleva el poder de Pecorine más allá de sus límites. Al equiparlo, permite que el límite de nivel del personaje supere el nivel del jugador.
+
+
+
+討伐依頼証=Ticket de Caza
+深淵討伐戦期間中に入手できる証。\n消費してボスバトルに挑戦できる。=Prueba que se puede obtener durante el periodo de Batalla del Abismo. \n Úsala para desafiar la batalla de jefe.
+ランダムなアストラルスフィアが獲得できる。=Se pueden obtener Esferas Astrales aleatorias.
+ランダムアストラルスフィアBOX=Caja de Esfera Astral Aleatoria
+アストラルの顕在化により発生したマスターピースの欠片。互いに引きあう性質を持ち複数を集めることで合体し、マスターピースとなる。=Fragmentos de Obras Maestras creados por la manifestación de Astral. Se atraen entre sí, por lo que al recolectar múltiples fragmentos, se combinan para formar una Obra Maestra.
+
+ハロウィンパーティ=Fiesta de Halloween
+
+イベント期間中にモンスターを討伐した証。集めて討伐証交換ができる。=Prueba de derrotar monstruos durante el periodo del evento. Puedes recolectarlos e intercambiarlos por certificados de derrota.
+イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=Tickets disponibles durante el periodo del evento. Gástalos para desafiar la batalla de jefe.
+
+プレイヤーLvを最大まで高めた者のみが獲得できる特別な通貨。マスターショップで買い物ができる。=Una moneda especial que solo pueden obtener quienes hayan subido el Nv. de jugador al máximo.\nPuedes comprar en la Tienda Maestra.
+この世界での衣食住に不可欠なアストルムの流通通貨。ギルドハウスのショップで買い物ができる。=La moneda de Astrum, indispensable para la comida, vestimenta y refugio en este mundo.\nPuedes comprar en la tienda de la Casa de Gremio.
+バトルアリーナに挑戦した者のみが獲得できる特別な通貨。アリーナショップで買い物ができる。=Una moneda especial que solo pueden obtener quienes desafían la Arena de Batalla.\nPuedes comprar en la tienda de Arena.
+プリンセスアリーナに挑戦した者のみが獲得できる特別な通貨。Pアリーナショップで買い物ができる。=Una moneda especial que solo pueden obtener quienes desafían la Arena de Princesa.\nPuedes comprar en la tienda de Arena P.
+様々な物質に宿る力の源で、キャラの成長には欠かせない。ショップで買い物もできる。=Es una fuente de poder que reside en diversas sustancias y es indispensable para el crecimiento de los personajes.\nTambién puedes usarla en la tienda.
+ダンジョンに挑戦した者のみが獲得できる特別な通貨。ダンジョンショップで買い物ができる。=Una moneda especial que solo obtienen quienes desafían la mazmorra.\nPuedes comprar en la tienda de Mazmorra.
+クランバトルに挑戦した者のみが獲得できる特別な通貨。クランショップで買い物ができる。=Una moneda especial que solo pueden obtener quienes desafían la Batalla de Clan. Puedes comprar en las tiendas de Clan.
+
+EX装備(アクセサリー)を分解するこ\nとで獲得できる特別な通貨。EX装備\nショップで買い物ができる。=Una moneda especial obtenida al desmantelar equipo EX (accesorio). Puedes comprar en las tiendas de equipo EX.
+EX装備(防具)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=Una moneda especial obtenida al desmantelar equipo EX (armadura). Puedes comprar en las tiendas de equipo EX.
+EX装備(武器)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=Una moneda especial obtenida al desmantelar equipo EX (arma). Puedes comprar en las tiendas de equipo EX.
+
+
+銅枠（RANK2～4）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO (RANGO 2-4).
+銀枠（RANK3～8）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos plateados (RANGO 3-8).
+金枠（RANK6～11）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos dorados (RANGO 6-11).
+紫枠（RANK10～18）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos morados (RANGO 10-18).
+赤枠（RANK17～21）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos rojos (RANGO 17-21).
+緑枠（RANK20～24）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos verdes (RANGO 20-24).
+橙枠（RANK23～28）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos naranjas (RANGO 23-28).
+空枠（RANK27～32）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos azul claro (RANGO 27-32).
+桃枠（RANK31～36）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos rosa (RANGO 31-36).
+黄枠（RANK39～）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Un material valioso que se puede usar como sustituto de los fragmentos y planos necesarios al crear equipo de RANGO para marcos amarillos (RANGO 39~).
+
+
+EX★5装備を分解することで獲得できる特別な通貨。EX装備ショップでEX★5装備と交換ができる。=Una moneda especial que se puede obtener al desmantelar equipo EX★5. Se puede intercambiar por equipo EX★5 en la Tienda de Equipo EX.
+EX装備の錬成に使用することができる。=Se puede usar para sintetizar equipo EX.
+ランダムなEX★5装備が獲得できる。=Se puede obtener equipo EX★5 aleatorio.
+ランダムEX★5装備BOX=Caja de Equipo EX★5 Aleatorio
+
+虹色に輝く不思議な力をまとった宝石。=Una joya con un misterioso poder de color arcoíris.
+
+ランダムな原鉱が獲得できる。=Puedes obtener mineral aleatorio.
+ランダム原鉱BOX=Caja de Mineral Aleatorio
+
+ランダムなEXPポーションが獲得できる。=Se pueden obtener Pociones de EXP aleatorias.
+ランダムEXPポーションBOX=Caja de Poción de EXP Aleatoria
+
+EX装備の強化に使用すると、強化Ptが1加算される。=Cuando se usa para mejorar el equipo EX, se añade 1 Pt de mejora.
+オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=Póster de Promoción Regional de Ohma
+王宮騎士団×ランフェス求人ポスター=Póster de Reclutamiento de Caballeros Reales × Lan-Fest
+ストーリー閲覧で獲得したアイテムです。=Es un objeto obtenido al leer la historia.
+『ナッシュカッツェ』の招き猫=Maneki Neko de Nashkatze
+
+マイページに設定できるフレーム画像。=Imagen de marco que se puede configurar en Inicio.
+オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=Póster de Pesca de Atún de Año Nuevo para el Desarrollo Regional de Ohma
+カスタムマイページのフレーム=Marco de Inicio Personalizado
+銀だこハイボール酒場コラボ記念カスタムマイページ=Inicio Personalizado Conmemorativo de la Colaboración con Gindaco Highball Tavern
+
+
+
+
+アストラルスフィアBOX=Caja de Esfera Astral
+各属性のアストラルスフィアが獲得できる。=Puedes obtener Esferas Astrales de cada elemento.
+コネクトオーブ・アーツ、コネクトオーブ・ソウル、コネクトオーブ・ガードが獲得できる。=Puedes obtener Orbe de Connect: Artes, Orbe de Connect: Alma y Orbe de Connect: Guardia.
+コネクトオーブBOX=Caja de Orbe de Connect
+
+
+
+TANITAコラボ記念カスタムマイページ=Inicio Personalizado para conmemorar la colaboración con Tanita
+TANITAコラボログイン=Inicio de sesión de colaboración TANITA
+
+7周年記念カスタムマイページ=Inicio Personalizado del 7.º Aniversario
+追想のデフラグ カスタムマイページ=Inicio Personalizado de Desfragmentación de Reminiscencia
+豊島園 庭の湯コラボ記念カスタムマイページ　クロエ=Inicio Personalizado Conmemorativo de la Colaboración con Toshimaen Garden Spa: Chloe
+豊島園 庭の湯コラボ記念カスタムマイページ　チエル=Inicio Personalizado Conmemorativo de la Colaboración con Toshimaen Garden Spa: Chieru
+豊島園 庭の湯コラボ記念カスタムマイページ　ユニ=Inicio Personalizado Conmemorativo de la Colaboración con Toshimaen Garden Spa: Yuni
+豊島園 庭の湯コラボ記念カスタムマイページ　【なかよし部】=Inicio Personalizado Conmemorativo de la Colaboración con Toshimaen Garden Spa: [Club de Amistad]
+
+
+主さま、カスタムマイページのフレームを獲得いたしましたよ。\nフレームを設定してマイページを飾ってみましょう。=Mi señor, hemos obtenido el marco de Inicio Personalizado. Configura el marco y decora tu página.
+
+アストラルスフィア=Esfera Astral
+世界を構成している属性の力であるアストラルの結晶。内に秘めた属性が未分化の不安定な状態ゆえに励起されると莫大な属性の力を放つ。=Un cristal astral que es el poder de los elementos que componen el mundo. Como los elementos ocultos dentro están en un estado inestable y no diferenciado, cuando se excitan, liberan una enorme cantidad de poder elemental.
+世界を構成している属性の力であるアストラルのうち闇の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Un orbe cristalizado compuesto por los elementos de oscuridad de astral que componen el mundo. Al usarlo, puedes activar el elemento correspondiente.
+世界を構成している属性の力であるアストラルのうち光の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Un orbe cristalizado compuesto por los elementos de luz de astral que componen el mundo. Al usarlo, puedes activar el elemento correspondiente.
+世界を構成している属性の力であるアストラルのうち風の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Un orbe cristalizado compuesto por los elementos de viento de astral que componen el mundo. Al usarlo, puedes activar el elemento correspondiente.
+世界を構成している属性の力であるアストラルのうち水の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Un orbe cristalizado compuesto por los elementos de agua de astral que componen el mundo. Al usarlo, puedes activar el elemento correspondiente.
+世界を構成している属性の力であるアストラルのうち火の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Un orbe cristalizado compuesto por los elementos de fuego de astral que componen el mundo. Al usarlo, puedes activar el elemento correspondiente.
+
+古の王が遺した、女神の聖像。込められた祈りによって微かな恵みが灯る。コネクトRANKの強化上限を解放するために必要。=Una estatua sagrada de la diosa dejada por un rey antiguo. Las plegarias imbuidas en ella encienden una leve bendición. Necesaria para desbloquear el límite de mejora del RANK de Connect.
+キャラの中に眠る闘志の力を呼び醒まし、立ち向かう勇気を湧き上がらせる小さなオーブ。使用すると　　コネクトRANKを強化できる。=Un pequeño orbe que despierta el poder de espíritu combativo que duerme dentro de un personaje, infundiendo el valor para luchar. Al usarlo, mejora el RANK de Connect del personaje.
+キャラの中に眠る才気の力を呼び醒まし、技巧を洗練させる小さな　　オーブ。使用するとコネクトRANKを強化できる。=Un pequeño orbe que despierta el poder de talento que duerme dentro de un personaje, refinando sus técnicas. Al usarlo, mejora el RANK de Connect del personaje.
+不安定な世界の歪みから誕生した特異個体の精霊。数奇な擦れ違いを端に暴走し、他の精霊たちを巻き込んで里に壊滅の音色を響かせる。=Un espíritu único nacido de las distorsiones de un mundo inestable. Desencadenado por un extraño giro del destino, se descontrola, arrastrando a otros espíritus consigo y haciendo resonar una melodía de devastación por el pueblo.
+古の王が遺した、銀色に輝く女神の聖像。心まで澄む白銀の輝きには清らかな祝福が宿る。コネクトRANKの強化上限を解放するために必要。=Una estatua sagrada de la diosa de brillo plateado dejada por un rey antiguo. Su pura luz plateada lleva una bendición que limpia incluso el corazón. Necesaria para desbloquear el límite de mejora del RANK de Connect.
+キャラの中に眠る加護の力を呼び醒まし、守りを強固なものとする小さなオーブ。使用するとコネクト　　RANKを強化できる。=Un pequeño orbe que despierta el poder de protección divina que duerme dentro de un personaje, reforzando sus defensas. Al usarlo, mejora el RANK de Connect del personaje.
+古の王が遺した、黄金に輝く女神の聖像。煌めく星の恩寵が進むべき道を示す。コネクトRANKの強化上限を解放するために必要。=Una estatua sagrada de la diosa de brillo dorado dejada por un rey antiguo. La bendición de las estrellas brillantes guía el camino a seguir. Necesaria para desbloquear el límite de mejora del RANK de Connect.
+
+
+
+---Anillo dedicado---
+sr:"^([べ-ヺー＆＝]+)(（.+）)?\s?専用リング$"=Anillo dedicado de $1$2

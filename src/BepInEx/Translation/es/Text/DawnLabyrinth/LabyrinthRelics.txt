@@ -1,0 +1,399 @@
+## Reliquia Inicial ##
+ＨＰ＋15％物理/魔法与ダメ＋15％=HP Máx. +15%\n►Daño F/M +15%
+お使いの端末は正常です=Tu dispositivo está sano
+
+プリンセスエンチャント=Encanto de Princesa
+物理/魔法攻撃力アップ（加入キャラ数×4％、最大100％）=Bonus de ATQ. Físico/Mágico (Personajes Reclutados x4%, máx. 100%)
+r:"^物理/魔法攻撃力アップ（加入キャラ数×4％、最大100％）（現在(\d+)人）$"=Bonus de ATQ. Físico/Mágico (Personajes Reclutados x4%, máx. 100%)(Actualmente $1)
+
+アストラルブースト=Impulso Astral
+属性ボーナス＋50％=Bono Elemental +50%
+
+トゥインクルブレス=Aliento Twinkle
+ボスバトルを除いて一度だけバトル敗北を免除=Exento de derrota en batalla una vez, excluyendo las batallas contra jefes
+
+サレンディアエンゲージ=Compromiso Sarendia
+ショップの販売価格－10％=Precio de Tienda -10%
+
+サレンディアノーブル=Noble Sarendia
+通常攻撃強化アップ（アルファルピ所持数×0.01、最大100）=Mejora de Ataque Normal + (αRupias en Posesión x0.01, Máx. 100)
+r:"^通常攻撃強化アップ（アルファルピ所持数×0.01、最大100）（現在(\d+)枚）$"=Mejora de Ataque Normal + (αRupias en Posesión x0.01, Máx. 100)(Actualmente $1)
+
+ナイツオブフェイス=Noches de Fe
+物理/魔法クリダメ＋50％物理/魔法クリティカル－25％=Daño Crít. F/M +50%\n►Prob. de Crít. F/M -25%
+
+レジーナガーラ=Regina Gear
+敵の物理/魔法被ダメ＋25％味方の物理/魔法被ダメ＋25％=Daño F/M del Enemigo +25%\n►Daño F/M del Aliado +20%
+
+ラビリンスオーソリティ=Autoridad del Laberinto
+挑戦開始時にラビリスタが加入=Labyrista se une al inicio del desafío
+
+マスターオブラビリンス=Maestro del Laberinto
+挑戦開始時にランダムな★1の迷宮遺物を１個獲得=Obtén una Reliquia de Laberinto ★1 aleatoria al inicio del desafío
+
+イルミネイトカルミナ=Ilumina Carmina
+物理/魔法攻撃力＋15％バフ強化＋15=ATQ. F/M +15%\n►Mejora de Potenciación +15
+
+ヴォイスフォーユー=Voz para Ti
+30秒ごとに物理/魔法攻撃力ダウン解除=Se elimina la Reducción de ATQ. F/M cada 30 segundos
+
+
+ディアボロスフィアー=Esfera Diablos
+敵のＴＰ上昇－15=Aumento de TP del Enemigo -15
+
+ブルートナハト=Blutnacht
+15秒ごとにＴＰ固定量100回復\n敵のＴＰ100ダウン=Cada 15 segundos:\n►Recupera 100 de TP de los aliados.\n►Reduce 100 de TP de los enemigos en rango.
+
+エリザベスガーディアン=Guardiana Elizabeth
+バトル開始時に最もＨＰが多いキャラが敵を挑発=Al inicio de la batalla, el personaje con más HP [Provoca] al enemigo.
+
+ドングリースピリット=Espíritu de Bellota
+行動不能無効１回=Anulación de incapacitación una vez
+
+ノブレスウィスタリア=Nobleza Wistaria
+初期アルファルピ+3000\nアルファルピ獲得量－10%=αRupias Iniciales +3,000\n►Cantidad de Adquisición de αRupias -10%
+
+リヴァイアサンコール=Llamada de Leviatán
+物理/魔法クリダメアップ（アルファルピ所持数×0.01%、最大100%）=Daño Crít. F/M + (αRupias en Posesión x0.01, Máx. 100)
+r:"^物理/魔法クリダメアップ（アルファルピ所持数×0.01%、最大100%）（現在(\d+)枚）$"=Daño Crít. F/M + (αRupias en Posesión x0.01, Máx. 100)(αRupias en Posesión x0.01, Máx. 100)(Actualmente $1)
+
+兵法二海一流=Hyōpo Nikai Ichiryu
+
+バインディングローズ=Rosa Atada
+敵への継続ダメージアップ（加入キャラ数×10％、最大50万ダメージ）=Daño Continuo + (Personajes Reclutados x10%, máx. 500,000 de daño)
+r:"^敵への継続ダメージアップ（加入キャラ数×10％、最大50万ダメージ）（現在(\d+)人）$"=Daño Continuo + (Personajes Reclutados x10%, máx. 500,000 de daño)(Actualmente $1)
+
+迷宮遺物詳細=Detalles de la Reliquia
+
+【美⾷殿】と共に迷宮を冒険するための遺物。王家の装備を精巧に模しており、味方の⾝体能⼒を⼤きく向上させてくれる。=Una reliquia para explorar la mazmorra con 【Gremio Gourmet】. Réplica experta del equipo real, mejora enormemente las capacidades físicas de los aliados.
+【美⾷殿】と共に迷宮を冒険するための遺物。冒険の道中で絆を結べば結ぶほどに、味⽅の攻撃⼒を⾼めてくれる。=Una reliquia para explorar la mazmorra con 【Gremio Gourmet】. Cuanto más fuertes sean los vínculos forjados durante la aventura, más aumenta el poder de ataque de los aliados.
+
+【トゥインクルウィッシュ】と共に迷宮を冒険するための遺物。３人のアストラルに呼応して、属性の力を増幅させてくれる。=Una reliquia para explorar la mazmorra con 【Twinkle Wish】. Resonando con tres seres Astrales, amplifica el poder elemental.
+【トゥインクルウィッシュ】と共に迷宮を冒険するための遺物。ギルドマスターの諦めない心が、味方を一度だけ敗北から守る。=Una reliquia para explorar la mazmorra con 【Twinkle Wish】. El espíritu inquebrantable de la maestra del gremio protege a los aliados de la derrota una vez.
+
+【サレンディア救護院】と共に迷宮を冒険するための遺物。主人が築いた信頼関係のおかげで、商品の価格を値引きしてもらえる。=Una reliquia para explorar la mazmorra con 【Orfanato Sarendia】. Construida sobre la confianza forjada por su dueña, otorga descuentos en la mercancía.
+【サレンディア救護院】と共に迷宮を冒険するための遺物。主人の気品を漂わせる剣は、築いた富を⼒に変転させる効果を持つ。=Una reliquia para explorar la mazmorra con 【Orfanato Sarendia】. Una espada imbuida de la elegancia de su dueña, convierte la riqueza acumulada en poder.
+
+【王宮騎士団】と共に迷宮を冒険するための遺物。団長の愛⽤品を模し会⼼率と引き換えに、会⼼時の威⼒を⾼めてくれる。=Una reliquia para explorar la mazmorra con 【Nightmare】. Réplica del equipo favorito de la capitana, aumenta el Daño Crítico a costa de la probabilidad de crítico.
+【王宮騎士団】と共に迷宮を冒険するための遺物。副団長の催す闘争の宴は、敵味⽅が受けるダメージをみな悉く増加させる。=Una reliquia para explorar la mazmorra con 【Nightmare】. El festín de batalla de la vicecapitana aumenta todo el daño recibido tanto por aliados como por enemigos.
+
+【ラビリンス】と共に迷宮を冒険するための遺物。迷宮女王はその権能でナイトがどこに居ようとも即座に参戦してくれる。=Una reliquia para explorar la mazmorra con 【Labyrinth】. La Reina del Laberinto usa su autoridad para unirse a Kishi instantáneamente dondequiera que esté.
+【ラビリンス】と共に迷宮を冒険するための遺物。マスターの⼒を冠した剣は、開発者権限の⼀部を解放し、遺物を即座に獲得する。=Una reliquia para explorar la mazmorra con 【Labyrinth】. Una espada coronada con el poder de la Maestra desbloquea privilegios de desarrollador para adquirir reliquias al instante.
+
+【カルミナ】と共に迷宮を冒険するための遺物。これを振るう者の熱き声援は、ステージに立つ者の能力をより一層高めてくれる。=Una reliquia para explorar la mazmorra con 【Carmina】. Los apasionados ánimos de quien la empuña mejoran enormemente las habilidades de quienes están en el escenario.
+【カルミナ】と共に迷宮を冒険するための遺物。ハンドマイクを通じて拡がっていく歌声は、味方の疲労をふき飛ばす。=Una reliquia para explorar la mazmorra con 【Carmina】. Las canciones proyectadas a través del micrófono de mano eliminan la fatiga de los aliados.
+
+【悪魔偽王国軍】と共に迷宮を冒険するための遺物。紅き両刃から禍々しく迸る魔力の前では、いかなる敵だろうと戦意を失う。=Una reliquia para explorar la mazmorra con 【Diabolos】. La siniestra magia que brota de las hojas gemelas carmesí hace que cualquier enemigo pierda la voluntad de luchar.
+【悪魔偽王国軍】と共に迷宮を冒険するための遺物。重く振りかざす一撃は、斬り裂いた獲物の生気を我が物とする。=Una reliquia para explorar la mazmorra con 【Diabolos】. Cada golpe pesado absorbe la vitalidad de la presa cortada.
+
+【牧場】と共に迷宮を冒険するための遺物。被ったらたちまちその場で最も目立つ存在となり、すべての攻撃を引きつけてしまう。=Una reliquia para explorar la mazmorra con 【Elizabeth Park】. Al usarla, convierte al usuario en el objetivo más visible, atrayendo todos los ataques.
+【牧場】と共に迷宮を冒険するための遺物。持ち主のやる気を呼び起こし、ぐうたらさを１回だけ無効化できる。あくまで１回だけ。=Una reliquia para explorar la mazmorra con 【Elizabeth Park】. Despierta la motivación del dueño, anulando la pereza una vez. Solo una vez.
+
+【メルクリウス財団】と共に迷宮を冒険するための遺物。人から決して多く受け取らず、生まれ持った財のみで戦いぬく高潔さの証。=Una reliquia para explorar la mazmorra con 【Fundación Mercurius】. Prueba de integridad: nunca tomar mucho de los demás, luchando solo con la riqueza innata.
+【メルクリウス財団】と共に迷宮を冒険するための遺物。富を積めば積むほど精神を集中させ、必殺の一突きを敵に見舞う。=Una reliquia para explorar la mazmorra con 【Fundación Mercurius】. Acumular riqueza agudiza el enfoque para asestar una estocada fatal.
+
+【トワイライトキャラバン】と共に迷宮を冒険するための遺物。さまざまな者たちの個性を学習し、敵を苦しめる術に転化する。=Una reliquia para explorar la mazmorra con 【Caravana Crepuscular】. Aprende los rasgos de varios individuos y los convierte en técnicas para atormentar a los enemigos.
+【トワイライトキャラバン】と共に迷宮を冒険するための遺物。二本の刀が見せる煌めきは、悪党どもの気炎を容易く挫く。=Una reliquia para explorar la mazmorra con 【Caravana Crepuscular】. El destello de las hojas gemelas aplasta fácilmente la arrogancia de los villanos.
+
+## Nivel de Tipo de Reliquia ##
+【会心】=【Enfoque】
+【会心+1】=【Enfoque +1】
+【会心+2】=【Enfoque +2】
+【会心+3】=【Enfoque +3】
+【会心+5】=【Enfoque +5】
+
+【加速】=【Aceleración】
+【加速+1】=【Aceleración +1】
+【加速+2】=【Aceleración +2】
+【加速+3】=【Aceleración +3】
+【加速+5】=【Aceleración +5】
+
+【守備】=【Defensa】
+【守備+1】=【Defensa +1】
+【守備+2】=【Defensa +2】
+【守備+3】=【Defensa +3】
+【守備+5】=【Defensa +5】
+
+【弱体】=【Debilitación】
+【弱体+1】=【Debilitación +1】
+【弱体+2】=【Debilitación +2】
+【弱体+3】=【Debilitación +3】
+【弱体+5】=【Debilitación +5】
+
+【強化】=【Potenciación】
+【強化+1】=【Potenciación +1】
+【強化+2】=【Potenciación +2】
+【強化+3】=【Potenciación +3】
+【強化+5】=【Potenciación +5】
+
+## Efecto ## 
+
+r:"^ダメージを受けるたびＴＰ(\d+)回復（最大(.)回）$"=Recupera $1 de TP al recibir daño\n(Máx. $2 vez/veces)
+r:"^バトル開始時、物理/魔法攻撃力アップフィールド展開（現在値[＋+]([0-9.%％]+)％）$"=Al inicio de la batalla, despliega un Campo de Aumento de ATQ. FÍS./MÁG.\n(Valor actual +$1%)
+r:"^バトル開始時ＴＰ(\d+)回復$"=Recupera $1 de TP al inicio de la batalla
+r:"^敵の物理/魔法与ダメ[－\-]([0-9.%％]+)\n?敵の物理/魔法被ダメ[＋+]([0-9.%％]+)$"=Daño F/M del Enemigo infligido -$1\n►Daño F/M del Enemigo recibido +$2
+r:"^敵の物理/魔法攻撃力[－\-]([0-9.%％]+)$"=Reduce el ATQ. FÍS./MÁG. de los enemigos en $1
+r:"^敵の物理/魔法被クリダメ[＋+]([0-9.%％]+)$"=Aumenta el Daño Crít. F/M recibido por los enemigos en $1
+r:"^敵の物理/魔法防御力[－\-]([0-9.%％]+)$"=Reduce la DEF. FÍS./MÁG. de los enemigos en $1
+r:"^物理/魔法クリダメ[＋+]([0-9.%％]+)$"=Daño Crít. F/M +$1
+
+r:"^物理/魔法攻撃力アップ（先頭キャラの物理防御力×(\d+)）$"=Aumenta el ATQ. FÍS./MÁG. (DEF. FÍS. del personaje de vanguardia ×$1)
+r:"^物理/魔法攻撃力アップ（先頭キャラの魔法防御力×(\d+)）$"=Aumenta el ATQ. FÍS./MÁG. (DEF. MÁG. del personaje de vanguardia ×$1)
+r:"^物理/魔法攻撃力[＋+]([0-9.%％]+)$"=ATQ. FÍS./MÁG. +$1
+r:"^物理/魔法防御力[＋+]([0-9.%％]+)$"=DEF. FÍS./MÁG. +$1
+r:"^物理/魔法クリティカル[＋+]([0-9.%％]+)$"=Crítico Físico/Mágico +$1
+r:"^状態異常命中[＋+]([0-9.%％]+)$"=Precisión de Alteraciones de Estado +$1
+r:"^通常攻撃強化[＋+]([0-9.%％]+)$"=Aumento de Ataque Normal +$1
+r:"^通常攻撃強化[＋+]([0-9.%％]+)\nＨＰ吸収[＋+]([0-9.%％]+)$"=Aumento de Ataque Normal +$1\n►Absorción de HP +$2
+r:"^重複可能の行動速度[＋+]([0-9.%％]+)$"=Velocidad de Acción Apilable +$1
+r:"^ＨＰ吸収[＋+]([0-9.%％]+)$"=Absorción de HP +$1
+r:"^ＴＰ上昇[＋+]([0-9.%％]+)$"=Aumento de TP +$1
+r:"^ＴＰ消費軽減[＋+]([0-9.%％]+)$"=Reducción de Costo de TP +$1
+
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）$"=Recuperación Continua de HP (recuento de 【Defensa】 ×1000 por segundo)
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）（現在(\d+)個）$"=Recuperación Continua de HP (recuento de 【Defensa】 ×$1 por segundo) (Actual: $2)
+
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）$"=Recuperación Continua de HP (recuento de 【Defensa】 ×$1 por segundo)
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）（現在(\d+)個）$"=Recuperación Continua de HP (recuento de 【Defensa】 ×$1 por segundo) (Actual: $2)
+
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）$"=Recuperación Continua de HP (recuento de 【Defensa】 ×$1 por segundo)
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）（現在(\d+)個）$"=Recuperación Continua de HP (recuento de 【Defensa】 ×$1 por segundo) (Actual: $2)
+
+r:"^敵全体に毒付与（毎秒【弱\n?体\n?】\n?数×(\d+)ダメージ）$"=Envenena a todos los enemigos\n(Inflige recuento de 【Debilitación】 ×$1 de daño por segundo)
+r:"^敵全体に毒付与（毎秒【\n?弱\n?体\n?】\n?数×(\d+)ダメージ）（\n?現\n?在\n?(\d+)個）$"=Envenena a todos los enemigos (recuento de 【Debilitación】 ×$1 de daño por segundo) (Actual: 0)
+
+r:"^敵全体に呪い付与（毎秒【弱\n?体\n?】\n?数×(\d+)ダメージ）$"=Maldice a todos los enemigos\n(Inflige recuento de 【Debilitación】 ×$1 de daño por segundo)
+r:"^敵全体に呪い付与（毎秒【弱\n?体\n?】\n?数×(\d+)ダメージ）（\n?現\n?在\n?(\d+)個）$"=Maldice a todos los enemigos (recuento de 【Debilitación】 ×$1 de daño por segundo) (Actual: $2)
+
+
+
+r:"^(\d+)秒ごとに物理無効バリア展開（【守備】数×(\d+)無効）（現在(\d+)個）$"=Despliega una Barrera de Anulación Física cada $1s (recuento de 【Defensa】 ×$2 anulación) (Actual: $3)
+r:"^(\d+)秒ごとに魔法無効バリア展開（【守備】数×(\d+)無効）（現在(\d+)個）$"=Despliega una Barrera de Anulación Mágica cada $1s (recuento de 【Defensa】 ×$2 anulación) (Actual: $3)
+
+r:"^(\d+)秒ごとに物理無効バリア展開（【守備】数×(\d+)無効）$"=Despliega una Barrera de Anulación Física cada $1s\n(Anula recuento de 【Defensa】 ×$2)
+r:"^(\d+)秒ごとに魔法無効バリア展開（【守備】数×(\d+)無効）$"=Despliega una Barrera de Anulación Mágica cada $1s\n(Anula recuento de 【Defensa】 ×$2)
+
+r:"^物理/魔法攻撃力アップ（加入キャラ数×(\d+)％、最大(\d+)％）（現在(\d+)人）$"=Bonus de ATQ. F/M (Personajes Reclutados x$1%, máx. $1%) (Actualmente $3 personas)
+
+鋼装堅鎧=Armadura de Acero Resistente
+獲得ボーナス=Bonos adquiridos
+ジャッジメントアロー=Flecha del Juicio
+
+## Compra ##
+r:"^\[3C404E\]アルファルピ×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n以下のアイテムを購入しますか？\[-\]$"=[3C404E]¿Te gustaría usar [FFBB00,CE4F00]$1[-] αRupias para comprar estos objetos?[-]
+sr:"^\[3C404E\]アルファルピ×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)を購入しました。\[-\]$"=[3C404E]Gastaste [FFBB00,CE4F00]$1[-] αRupias para comprar [FFBB00,CE4F00]$2[-].
+アルファルピが不足しています。=αRupias insuficientes
+
+## Nombre de Reliquia ##
+アブゾーブハチェット=Hacha Absorbente
+インヘイルアックス=Hacha Inhalante
+エレメントサージオーブ=Orbe de Oleada Elemental
+オオトリノカタナ=Otorinokatana
+キラースピア=Lanza Asesina
+クリティカルアーク=Arco Crítico
+クリーヴフィスト=Puño Hendidor
+クレナイノタチ=Kurenainotachi
+シリーズなし=Sin serie
+スカイストライク=Golpe del Cielo
+ハナミノカタナ=Katana de Observación de Flores
+フェイタリティ=Letalidad
+ラプチャーガントレット=Guantelete del Éxtasis
+リーサルハルバード=Alabarda Letal
+再生ノ腕輪=Brazalete Regenerativo
+冷玉の杖=Báculo de la Gema Fría
+創世緑杖=Báculo Verde de la Creación
+加速の玉飾り=Balada de Aceleración
+回生杖=Kaiseijou
+天戴冠のゼニスブレード=Hoja Cénit
+崩刀ヤマツキ=Kuzuretou Yamatsuki
+幻獣飾テンタシオン=Pegasus Tentasion
+幽玄煌装・絶魔=Yugen Kouzou: Zema
+強化のジェム=Gema de Fortalecimiento
+影刃剣プラール=Espada de Sombra Prar
+抗鉄のプレート=Placa Anti-Hierro
+抗魔のドレス=Vestido Anti-Demonio
+斬赤刃ディバイド=Hoja Roja Cortante Divide
+断刃拒絶のアルギュロス=Argyros el Rechazo de la Decapitación
+断壁鎖刃フラグメント=Fragmento de Cadena Cortante
+星明りの儀杖=Báculo Ritual de Luz Estelar
+星涙の輝盾=Escudo Brillante de Lágrima Estelar
+暗剣ポワゾン=Espada Oscura Veneno
+桜堅牢のコート=Abrigo Robusto de Sakura
+極醒のアミュレット=El Amuleto Definitivo
+水蓮の盾=Escudo de Suiren
+永天鏡の王笏=Eitenkyo no Oshaku
+泉湧命環・豊穣=Izumi-no-mikoto-kan: Cosecha Abundante
+流烈の耳飾り=Pendiente Fluyente
+海宝華の煌盾=Escudo Brillante de la Flor Marina
+深淵蝕杖マリディクト=Báculo Corrosivo del Abismo Maridict
+滅刻凶刃ヴェノマス=Venomas la Hoja Destructiva
+炎王のグレートソード=La Gran Espada del Rey de la Llama
+熾天使の翔靴=Zapato del Ángel
+燦然御纏アノラ・ベイラ=Sanzen Mimaro Anola Baila
+疾風の翼靴=Zapatos de Alas de Vendaval
+白光輝鎧・断壁=Armadura de Resplandor Blanco: Muro Cortante
+瞬閃蝶の月飾り=Mariposa Relampagueante Luna
+破守帽ディスペル=Sombrero Rompebarreras Dispel
+碧貴石の聖輪=Anillo Sagrado de Gema Azur
+空命護珠=Joya Protectora de la Vida Celestial
+紅反鋼のアーマー=Armadura de Acero Carmesí
+紫晶ビザリオ=Amatista Vizario
+緋華栄華のグラナート=Granate de Esplendor Escarlata
+緑護ノ盾輪=Anillo Escudo Protector Esmeralda
+聖減術のテラドレス=Vestido Terra de Reducción Sagrada
+華舞玲瓏のハルナデシコ=Baile Floral Exquisito Rosa
+蒼珠の腕輪=Brazalete de Perla Azur
+薔薇飾帽イレース=Sombrero Adornado con Rosas Irace
+蛇紋のツルギ=Espada de Patrón de Serpiente
+覇光帝龍のグローリア=Gloria del Dragón Emperador de Luz Tirana
+豊命輪=Anillo de Vida Abundante
+輪廻ノ翡翠珠輪=Anillo de Joya Esmeralda del Samsara
+鉄防甲=Armadura de Defensa de Hierro
+闇至宝アノマリーラ=Tesoro Oscuro Anomalyra
+防守のメイル=Cota del Defensor
+霜影虚装アビスモナーク=Equipo de Sombra de Escarcha Abyssmonarch
+青輝の環=Anillo de Resplandor Azur
+風渡りの靴=Botas del Caminante del Viento
+風神の護風恩寵=Favor del Dios del Viento
+魔封衣=Túnica de Sellado Mágico
+魔杖メジナエ=Báculo Mágico Mejinae
+魔護霊装=Atuendo de Protección Demoníaca
+進化のイヤリング=Pendiente de la Evolución
+邪眼杖ドゥーム=Báculo del Ojo Malvado Doom
+妖精霊杖・癒光=Báculo de Hada: Luz Sanadora
+天命授環・伊邪那=Anillo de Bendición Celestial: Izana
+セレスティアルエイジ=Edad Celestial
+アースデストラクション=Destrucción de la Tierra
+
+薔薇彩鎧カリスティア=Armadura Color Rosa Kalistia
+薔薇織衣エリュシオン=Ropa Tejida de Rosas Elysion
+薔薇夜装アイオニオス=Vestido Nocturno de Rosas Ionios
+薔薇天装セレスティア=Atuendo Celestial de Rosas Celestia
+
+## Descripción de Reliquia ##
+効果詳細=Detalles del Efecto
+迷宮内で見つかった槍。鋭い一撃で敵に深い傷を負わせる。=Una lanza encontrada dentro del laberinto. Sus afilados golpes infligen heridas profundas a los enemigos.
+迷宮内で見つかった刀。致命の攻撃を与えたときの威力を高める。=Una hoja desenterrada de las profundidades del laberinto. Amplifica el daño infligido por los golpes críticos.
+迷宮内で見つかった籠手。強化された一撃を放つことができる。=Guanteletes descubiertos en el laberinto. Potencian los ataques del portador con mayor fuerza.
+迷宮内で⾒つかった⼸。装備すると致命の一射を与えやすくなる。=Un arco encontrado dentro del laberinto. Mejora la probabilidad de golpes críticos al disparar.
+迷宮内で⾒つかったドレス。装備者の抗魔の才を攻撃⼒に換える。=Un vestido encontrado dentro del laberinto. Convierte la resistencia mágica del portador en poder de ataque.
+迷宮内で見つかった大剣。装備者の攻撃力を強化する。=Una gran espada encontrada dentro del laberinto. Mejora el poder de ataque del portador.
+迷宮内で⾒つかった杖。癒しの⼒を高めてくれる。=Un báculo encontrado dentro del laberinto. Aumenta la potencia de la magia curativa.
+迷宮内で見つかった指輪。装備者の生命力を強化する。=Un anillo encontrado dentro del laberinto. Aumenta la salud máxima del portador.
+迷宮内で見つかったローブ。装備者を魔法攻撃から守る。=Una túnica encontrada dentro del laberinto. Protege al portador de los ataques mágicos.
+迷宮内で見つかった腕輪。装備者に再生の力を与える。=Un brazalete encontrado dentro del laberinto. Otorga al portador habilidades regenerativas.
+迷宮内部で発見された円盾の形をした遺物。装備者に星の癒しを与え攻撃をエネルギーに変換する。=Una reliquia en forma de escudo redondo descubierta dentro del laberinto. Proporciona sanación y convierte el daño recibido en energía para el portador.
+迷宮内部で発⾒された杖の遺物。封じられた星々の神秘が、力の消耗を肩代わりしてくれる。=Una reliquia de báculo descubierta dentro del laberinto. Reduce el consumo de maná de las habilidades del portador, aprovechando el poder de estrellas selladas.
+迷宮内部で発見された、翼の生えた靴形の遺物。装備した者に疾風の力を施し、行動を速める。=Una reliquia en forma de zapatos alados, encontrada dentro del laberinto. Otorga al portador rapidez, mejorando su velocidad en batalla.
+迷宮内部で発⾒された、⾸飾りの遺物。宝⽯の輝きで敵を虜にし、怪異をもたらすという。=Una reliquia de collar descubierta dentro del laberinto. Encanta a los enemigos con su deslumbrante gema, infligiéndoles dolencias misteriosas.
+迷宮内部で発見された、杖の形をした遺物。杖先のコアから流れる邪気が敵に呪いを付与する。=Una reliquia en forma de báculo encontrada dentro del laberinto. Maldice a los enemigos con la energía maligna que emana de su núcleo.
+迷宮内部で発見された、短剣の形をした遺物。刃に仕込まれた毒が気化し、接敵と共に毒を与える。=Una reliquia en forma de daga descubierta dentro del laberinto. Libera vapores tóxicos de su hoja, envenenando a los enemigos con cada golpe.
+迷宮内部で発見された、帽子の形をした遺物。絡みつく茨の様に、敵の攻撃力を阻害する。=Una reliquia en forma de sombrero encontrada dentro del laberinto. Debilita las capacidades ofensivas de los adversarios, como si estuvieran atados por enredaderas espinosas.
+迷宮内部で発見された、刀の形をした遺物。秋の紅を映す美しき刃は致命の攻撃をさらに強化する。=Una reliquia en forma de espada descubierta dentro del laberinto. Mejora la potencia de los golpes críticos, su hoja tan llamativa como las hojas carmesí del otoño.
+迷宮内部で発⾒された籠⼿の遺物。装備者は研ぎ澄まされた強力な一撃を放つことができる。=Una reliquia de guantelete descubierta dentro del laberinto. Potencia los golpes del portador con una fuerza refinada y devastadora.
+迷宮内部で発⾒された斧の遺物。繰り出される⼀撃は、掠めるだけで獲物の魂を吸い取る。=Una reliquia de hacha descubierta dentro del laberinto. Drena la esencia vital de los enemigos con cada golpe, por leve que sea.
+迷宮内部で発⾒された、ドレスの遺物。精霊の加護が、防魔結界から力を集めてくれる。=Una reliquia de vestido descubierta dentro del laberinto. Aprovecha la resistencia mágica del portador para mejorar sus habilidades.
+迷宮内部で発見された、大剣の形をした遺物。湧き出る炎の力が、攻撃の能力を大きく高める。=Una reliquia en forma de gran espada encontrada dentro del laberinto. Imbuye al portador con poder ígneo, aumentando enormemente su fuerza ofensiva.
+迷宮内部で発⾒された鎧の遺物。千年咲く桜の如く、盤石な堅牢さを装備者に与える。=Una reliquia de armadura descubierta dentro del laberinto. Otorga al portador la resistencia de un antiguo cerezo, mejorando enormemente sus capacidades defensivas.
+迷宮内部で発⾒された杖の遺物。装備者に⼤樹の恵みを施し、治癒術の才覚を授けてくれる。=Una reliquia de báculo descubierta dentro del laberinto. Mejora la magia curativa del portador con el poder nutritivo del gran árbol.
+迷宮内部で発見された、指輪の形をした遺物。装備者を天空の護りで包み込み生命力を増幅させる。=Una reliquia en forma de anillo encontrada dentro del laberinto. Envuelve al portador en protección celestial, aumentando su salud y resistencia.
+迷宮内部で発⾒された、ローブの遺物。神樹の蔦が織り込まれ、装備者を魔法から護る。=Una reliquia de túnica descubierta dentro del laberinto. Proporciona una formidable defensa mágica, su tela entrelazada con enredaderas sagradas.
+迷宮内部で発⾒された、腕輪の遺物。溢れ出す⾃然の⼒は装備者に生命の息吹をもたらす。=Una reliquia de brazalete descubierta dentro del laberinto. Infunde al portador con energía vital, promoviendo una rápida recuperación y vigor.
+迷宮の奥深くに眠る宝石を飾った円盾。海のような青き魔力は装備者に庇護を与え、迫り来る脅威すらエネルギーへと昇華させる。=Un escudo redondo adornado con gemas que duerme en lo profundo del laberinto. Protege al portador con magia oceánica, convirtiendo el daño en una fuente de poder.
+迷宮の奥深くに眠る聖なる腕輪。失われた技術で装飾された宝石が装備者に加護を齎し、危機が迫ると膨大な力を分け与える。=Un brazalete sagrado que duerme en lo profundo del laberinto. Potencia al portador con poder ancestral, especialmente cuando el peligro se acerca.
+迷宮の奥深くに眠る、かつて天界に伝えられし杖。天にかざすと鏡⽟に篭められた祈りが溢れ出して尽きることなき力を授ける。=Un báculo que duerme en lo profundo del laberinto, una vez transmitido desde los reinos celestiales. Canaliza energía divina al levantarse hacia el cielo, liberando un poder mágico ilimitado.
+迷宮の奥深くに眠る、幻獣を象る首飾り。この宝石の神秘に魅せられた者は、一切の異変や脅威に抗うことができなくなってしまう。=Un collar con forma de bestia mítica, que duerme en lo profundo del laberinto. Hechiza a los enemigos con su atractivo arcano, despojándolos de sus resistencias.
+迷宮の奥深くに眠る、⽩⾦の鎧。⽩⻯の鱗を繋ぎ合わせた外装が盟友の力を集結させる効果を持ち強力無比な一撃を可能にする。=Armadura de platino que duerme en lo profundo del laberinto. Aprovecha el poder colectivo de los compañeros, liberando golpes devastadores.
+迷宮の奥深くに眠る、栄華の象徴として仕立てられたドレス。深紅に咲き乱れる花の加護は、装備者の絶魔の⼒を攻撃⼒へ変換する。=Un vestido confeccionado como símbolo de gloria, que duerme en lo profundo del laberinto. Transforma la resistencia mágica del portador en poder ofensivo, adornado con motivos florales carmesí.
+迷宮の奥深くに眠る、光⿓の⼒を授かりし⼤剣。その⼀振りはかつての栄光の羽ばたきを想起させ、極限の覇気を世界に放つ。=Una gran espada bendecida con el poder del dragón de luz, que duerme en lo profundo del laberinto. Empuña el poder del dragón de luz, cada golpe un testimonio de triunfos pasados y poder abrumador.
+迷宮の奥深くに眠る、妖精の輝きを封じた杖。宝⽟から無限の⽣命⼒が溢れ出し、増幅された快癒の⼒であらゆる苦しみを取り除く。=Un báculo que sella el resplandor de las hadas, que duerme en lo profundo del laberinto. Canaliza la magia de las hadas para proporcionar sanación ilimitada, curando incluso las heridas más graves.
+迷宮の奥深くに眠る、翠緑に彩られた指輪。装備者に、かつて豊穣に溢れた楽園の光景を想起させ、際限なき⽣命⼒を与える。=Un anillo adornado de verde esmeralda, que duerme en lo profundo del laberinto. Imbuye al portador con la vitalidad infinita de un Edén perdido, mejorando enormemente su salud.
+迷宮の奥深くに眠る、白金の輝きを放つ鎧。顕現する翅は、意思を持つかのよう、装備者に呼応して物理攻撃を断つ障壁を展開する。=Armadura que irradia brillo de platino, que duerme en lo profundo del laberinto. Invoca alas etéreas que protegen al portador del daño físico, como si estuvieran guiadas por la conciencia.
+迷宮の奥深くに眠る、翠宝玉をあしらった腕輪。常に滾々とマナが湧き出し、生命力を湛え続ける。=Un brazalete adornado con gemas esmeralda, que duerme en lo profundo del laberinto. Otorga maná y vitalidad infinitos, sus gemas una fuente de vida y magia.
+迷宮の奥深くに眠っていた月を象る耳飾り。内部から発する魔力は装備者に蝶のような瞬麗さを授け活力加速を大きく上昇させる。=Un pendiente con forma de luna, que duerme en lo profundo del laberinto. Mejora la velocidad y gracia del portador, como si estuviera dotado de la rapidez de una mariposa.
+迷宮の奥深くに眠る、⼑⾝に鎖を這わせた妖⼑。主の意思に逆らい暴れる鎖が怨敵の守りを打ち崩し紫黒の凶刃が悉くを断ち斬る。=Una espada maldita con cadenas arrastrándose por su hoja, que duerme en lo profundo del laberinto. Una hoja malévola cuyas cadenas interrumpen las defensas enemigas, permitiendo que su borde oscuro corte cualquier oposición.
+迷宮の奥深くに眠る、伝説に語られる極みの一振り。鳳凰の力を宿した真紅の刃は、焔の如き赫く激烈な一撃を与える。=La espada definitiva de la que hablan las leyendas, que duerme en lo profundo del laberinto. Empuña el poder ígneo del fénix, cada golpe una llama de destrucción legendaria.
+迷宮の奥深くに眠る、幽庵の煌きを宿す鎧。顕現する翅は、意思を持つかのよう、装備者に呼応して魔法攻撃を絶つ障壁を展開する。=Armadura que alberga el brillo del retiro, que duerme en lo profundo del laberinto. Conjura alas espectrales que protegen contra los asaltos mágicos, sintonizadas con las necesidades del portador.
+迷宮の奥深くに眠る、月を蝕む杖存在するだけで、絶えず呪力の奔流を溢れさせ、近づく全ての敵を呪いで浸食していく。=Un báculo que eclipsa la luna, que duerme en lo profundo del laberinto. Irradia un aura de maldición, maldiciendo a cualquier adversario que se acerque.
+迷宮の奥深くに眠る、東の国に伝わりし聖鎧。玉の様に透き通る輝きを放つ鎧は、装備者に華の加護を授け、守護の力を高める。=Armadura sagrada transmitida en las tierras del este, que duerme en lo profundo del laberinto. Otorga al portador la gracia protectora de las flores en flor, su lustre reminiscente de jade pulido.
+迷宮の奥深くに眠る、炎天の魔力を封じた耳飾り。潜在能力を究極まで呼び覚まし、強化の力を大幅に上昇させる。=Un pendiente que sella la magia del cielo ardiente, que duerme en lo profundo del laberinto. Libera las fortalezas ocultas del portador, magnificando el impacto de todas las potenciaciones.
+迷宮の奥深くに眠る、黒刃の刺剣刃に埋め込まれた宝玉が、絶え間なく邪毒を撒き散らし、破滅へと刻々と時を数える。=Un estoque de hoja negra que duerme en lo profundo del laberinto. Inflige una toxina creciente a los enemigos, su hoja un presagio de fatalidad inevitable.
+迷宮中枢部に隠された黎明の秘宝データ保管のため属性の⼒の断⽚が封じられており、内なるアストラルを著しく上昇させる。=Un tesoro del alba, escondido en el núcleo del laberinto. Aumenta las afinidades elementales del portador, aprovechando el poder almacenado desde el amanecer de los tiempos.
+迷宮内で⾒つかった鎧。同朋の強靭を、自身の攻撃に変換する。=Armadura encontrada dentro del laberinto. Aprovecha la durabilidad de los aliados para reforzar las capacidades ofensivas del portador.
+迷宮内で⾒つかった靴。装備した者は迅速に動くことができる。=Zapatos encontrados dentro del laberinto. Otorgan al portador agilidad y rapidez mejoradas.
+迷宮内で見つかったイヤリング。装備者に活力加速を与える。=Un pendiente encontrado dentro del laberinto. Aumenta la energía del portador, permitiendo acciones más rápidas en batalla.
+迷宮内で見つかった斧。攻撃と共に敵の体力を吸い取る力を宿す。=Un hacha encontrada dentro del laberinto. Roba vida de los enemigos con cada golpe, reponiendo la vitalidad del portador.
+迷宮内で見つかった耳飾り。装備者の強化効果を高める。=Un accesorio de oreja encontrado dentro del laberinto. Intensifica los beneficios de todas las potenciaciones aplicadas al portador.
+迷宮内で見つかった鎧。装備者を物理攻撃から守る。=Armadura encontrada dentro del laberinto. Protege al portador contra el daño físico.
+迷宮内で見つかった鎧。装備者の守りの力を高めることができる。=Armadura encontrada dentro del laberinto. Refuerza las defensas del portador.
+迷宮内部で発⾒された、⼑の遺物血で⾚く染まった⼑⾝で、敵の装甲をたやすく断ち割る。=Una reliquia de espada descubierta dentro del laberinto. Desgarra las defensas con su borde carmesí, como si la armadura fuera mera tela.
+迷宮内部で発⾒された、⼸の遺物装備者は烈⾵の⼒を授かり、獲物の急所を貫きやすくなる。=Una reliquia de arco descubierta dentro del laberinto. Mejora la precisión y la probabilidad de golpe crítico, guiada por vientos tempestuosos.
+迷宮内部で発⾒された、鎧の遺物紅き鋼の加護は、守備力を攻撃力へと変換する力を持つ。=Una reliquia de armadura descubierta dentro del laberinto. Transforma las estadísticas defensivas del portador en poder de ataque adicional.
+迷宮内部で発⾒された腕輪の遺物あしらわれた蒼珠が、敵を感知し力を授ける。=Una reliquia de brazalete descubierta dentro del laberinto. Alerta al portador de los enemigos cercanos y lo fortalece en consecuencia.
+迷宮内部で発見された、槍の遺物特殊な形の穂先が、敵により深い傷を刻み込む。=Una reliquia de lanza descubierta dentro del laberinto. Inflige heridas graves con su diseño distintivo, asegurando que cada estocada sea más letal.
+迷宮内部で発見された、耳飾りの形をした遺物。魔石に込められた魔力が強化の力を増幅させる。=Una reliquia en forma de pendiente descubierta dentro del laberinto. Mejora la potencia de todas las potenciaciones, aprovechando su gema encantada.
+迷宮内部で発見された、鎧の形をした遺物。高度な技術で精錬された鋼は、物理攻撃から身を護る。=Una reliquia en forma de armadura descubierta dentro del laberinto. Ofrece una defensa superior contra los golpes físicos, elaborada con artes de herrería perdidas.
+迷宮内部で発見された耳飾りの形をした遺物。流水の激しさのように、活力加速を増幅させる。=Una reliquia en forma de pendiente descubierta dentro del laberinto. Aumenta la velocidad del portador, tan rápida e implacable como un río furioso.
+迷宮深層部に静眠せし虚影の装衣深淵から出でし蝕影は、存在全てを霜雪の如く凍てつかせ、抗う敵の剣盾両翼を虚壊させる。=Una prenda de sombras ilusorias, que duerme silenciosamente en las capas profundas del laberinto. Envuelve al portador en sombras heladas que inmovilizan y desarman a los enemigos con un frío aterrador.
+迷宮深淵部に佇む歴戦無敗の⼤剣台座から剣を⼿にした者は天そのものを冠すかの如き全能感を得て千軍を容易く退ける剛⼒を得る。=La gran espada invicta de muchas batallas, que se alza en las profundidades abismales del laberinto. Confiere a su portador un poder divino, haciéndolo invencible contra cualquier enemigo.
+迷宮最深部に残された久遠の遺物神代の大戦より聖騎士に脈々と受け継がれ、装備者へ戦いの記憶とともに不滅の力を分け与える。=Una reliquia eterna dejada en la parte más interna del laberinto. Imbuye al portador con la sabiduría y el poder de guerreros legendarios, asegurando que su legado perdure.
+迷宮最奥部に鎮祀されし神業の遺物。風を司る神々の恩寵が宿されており、装備者は無尽蔵の活力が疾風の如き速さで体を駆け巡る。=Una reliquia divina consagrada en la parte más profunda del laberinto. Otorga al portador energía incansable y reflejos veloces como el rayo, como si estuviera bendecido por el viento mismo.
+迷宮最下層に供奉された伝承の環選ばれし者がひとたび⼿にすれば創造神話の如く、千万無量の⽣命⼒を齎すと云われる。=Un anillo de leyenda ofrecido en el nivel más bajo del laberinto. Confiere al portador elegido una vitalidad divina, como si fuera una deidad de la vida misma.
+迷宮内で見つかった円盾。受けた攻撃をエネルギーに変換できる。=Un escudo redondo encontrado dentro del laberinto. Transforma los golpes entrantes en una fuente de poder para el portador.
+迷宮内で見つかった腕輪。戦いの始まりとともに、装備者にエネルギーを与える。=Un brazalete encontrado dentro del laberinto. Energiza al portador cuando comienza la batalla, asegurando que esté listo para el combate.
+迷宮内で⾒つかった杖。装備者に力を温存させる効果をもたらす。=Un báculo encontrado dentro del laberinto. Ayuda al portador a preservar sus reservas mágicas, haciendo los hechizos más eficientes.
+迷宮内で見つかった刀。敵の守りを断ち崩す力がある。=Una espada encontrada dentro del laberinto. Corta las defensas con facilidad, dejando a los enemigos vulnerables.
+迷宮内で見つかった帽子。装備すると敵の攻撃を弱体させる。=Un sombrero encontrado dentro del laberinto. Amortigua la fuerza de los golpes adversarios, protegiendo al portador.
+迷宮内で見つかった短剣。持つだけで敵を毒にすることができる。=Una daga encontrada dentro del laberinto. Envenena a los enemigos con cada golpe, su toxina filtrándose de la hoja.
+迷宮内で見つかった杖。所持するだけで敵を呪うことができる。=Un báculo encontrado dentro del laberinto. Maldice a los adversarios con su mera presencia, afligiéndolos con magia oscura.
+迷宮内で見つかった首飾り。敵に異常を与えやすくなる。=Un collar encontrado dentro del laberinto. Mejora la capacidad del portador para debilitar a los enemigos, haciéndolos más susceptibles a las dolencias.
+迷宮の奥深くに眠る、天使の加護を宿した戦靴。装備するだけで神性を授かり、天使のような自在さで空を翔ることができる。=Botas de combate imbuidas con la bendición de un ángel, que duermen en lo profundo del laberinto. Otorgan divinidad al equiparlas, permitiendo al portador volar por los cielos con libertad angelical.
+迷宮の奥深くに眠る、宝飾をあしらったベール。蔽布の下から滲み出るオーラが、相手の敵意を解きほぐし、無力化させてしまう。=Un velo enjoyado que duerme en lo profundo del laberinto. El aura que se filtra bajo su tela desarma la hostilidad, dejando a los enemigos impotentes.
+迷宮の奥深くに眠る、地神の力を宿した烈槍。大地の力を糧に放つ無比の一閃は、地に立つすべての敵に甚大なダメージを与える。=Una lanza feroz imbuida con el poder del dios de la tierra, que duerme en lo profundo del laberinto. Alimentada por el poder de la tierra, su corte incomparable inflige un daño masivo a todos los enemigos en el suelo.
+迷宮の奥深くに眠る、地核のエネルギーを封じた籠手。振るう一撃は、世界を破壊するかの如く、通常攻撃を大きく強化する。=Guanteletes que sellan la energía del núcleo de la tierra, que duermen en lo profundo del laberinto. Cada golpe, como si pudiera destrozar el mundo, mejora enormemente los ataques normales.
+
+
+
+reliquia
+黎明光鎧アルファレゾルテ=Armadura de Luz del Alba Alfa Resolte
+黎明風鎧アルファレゾルテ=Armadura de Viento del Alba Alfa Resolte
+黎明水鎧アルファレゾルテ=Armadura de Agua del Alba Alfa Resolte
+黎明火鎧アルファレゾルテ=Armadura de Fuego del Alba Alfa Resolte
+黎明闇鎧アルファレゾルテ=Armadura de Oscuridad del Alba Alfa Resolte
+【自警団】と共に迷宮を冒険するための遺物。護りの奥義が記されており、読み込めば攻撃から身を守る技術を得ることができる。=Una reliquia para aventurarse por el laberinto junto a los [Caon]. Contiene técnicas defensivas secretas, y estudiarla otorga la habilidad de protegerse de los ataques.
+【自警団】と共に迷宮を冒険するための遺物。姫さま親衛隊の精鋭隊員たちで、仲間をより増やすために日夜勤しんでいる。=Una reliquia para aventurarse por el laberinto junto a los [Caon]. Los miembros de élite de la Guardia de la Princesa trabajan día y noche para reclutar aún más compañeros.
+
+【ルーセント学院】と共に迷宮を冒険するための遺物。誘惑した相手の生気を少しずつ削ぎ、気付かぬ間に甘い終焉を迎えさせる。=Una reliquia para aventurarse por el laberinto junto a [Academia Lucent]. Drena gradualmente la vitalidad de aquellos a quienes seduce, llevándolos a un dulce final antes de que se den cuenta.
+【ルーセント学院】と共に迷宮を冒険するための遺物。悪魔的なほどに真紅の艶めきは、見た者の目を釘付けにし、二度と逃さない。=Una reliquia para aventurarse por el laberinto junto a [Academia Lucent]. Su lustre carmesí diabólicamente cautivador atrapa la mirada de todos los que lo ven, sin dejar que se escape.
+
+【フォレスティエ】と共に迷宮を冒険するための遺物。森の息吹を内に秘め、所持しているだけで味方に調和の力を授ける。=Una reliquia para aventurarse por el laberinto junto a [Forestier]. Contiene el aliento del bosque, otorgando a los aliados el poder de la armonía simplemente por llevarla.
+【フォレスティエ】と共に迷宮を冒険するための遺物。きらりと輝く流れ星が、多くのアイテムを手に入れる幸運を呼び寄せる。=Una reliquia para aventurarse por el laberinto junto a [Forestier]. La estrella fugaz brillante atrae la buena fortuna, ayudando a obtener muchos objetos.
+
+【リトルリリカル】と共に迷宮を冒険するための遺物。中に宿っている強い絆が、どこにいても３人をふたたび繋いでくれる。=Una reliquia para aventurarse por el laberinto junto a [Little Lyrical]. El fuerte vínculo que reside en su interior reconecta a las tres sin importar dónde estén.
+【リトルリリカル】と共に迷宮を冒険するための遺物。履くと元気が溢れ出し、走り回ってより多くの仲間を勧誘できる。=Una reliquia para aventurarse por el laberinto junto a [Little Lyrical]. Usarla desborda al portador de energía, permitiéndole correr y reclutar más compañeros.
+
+挑戦開始時にミソギ＆ミミ＆\nキョウカが加入=Misogi, Mimi y\nKyouka se unen al inicio del desafío
+絆のリボン=Cinta de Vínculos
+トリックランナー=Corredora Traviesa
+コネクトサインマスの抽選回\n数+1（1回）=Recuento de sorteo de la Casilla de\nSeñal de Conexión +1 (1 vez)
+
+【会心】9以上：\n敵全体に物理/魔法被クリダメアップ（【会心】数×5％）\nダメージブースト（【会心】数×2％）\n=[Enfoque]9 o superior:\nAumenta el Daño Crít. F/M recibido por todos los enemigos (recuento de [Crítico] × 5%)\nImpulso de Daño (recuento de [Crítico] × 2%)\n
+【会心】4以上：\n物理/魔法クリダメアップ（【会心】数×10％）\n物理/魔法クリティカルアップ（【会心】数×400）\n=[Enfoque]4 o superior:\nAumenta el Daño Crít. F/M (recuento de [Crítico] × 10%)\nAumenta la Prob. de Crít. F/M (recuento de [Crítico] × 400)\n
+【会心】15以上：\n攻撃時追加ダメージ（【会心】数×2％）\n=[Enfoque]15 o superior:\nDaño adicional al atacar (recuento de [Crítico] × 2%)\n
+
+バトル勝利後時の仲間キャラ\n加入数+1（3回）=Después de la victoria en batalla, recuento de reclutamiento\nde personajes aliados +1 (3 veces)
+姫さま親衛隊勧誘係=Oficial de Reclutamiento de la Guardia de la Princesa
+バトル開始時に先頭キャラに\n物理/魔法防御力+50%=Al inicio de la batalla, otorga al personaje más frontal\n+50% de Defensa Física/Mágica
+琉球犬甲唄=Canción del Perro Guardián de Ryukyu
+
+迷宮遺物マスの抽選回数+1\n（1回）=Recuento de sorteo de la Casilla de Reliquia de Laberinto +1\n(1 vez)
+フォーチュンミーティア=Meteoro de la Fortuna
+バトル開始時に調和状態=Entrar en estado de Armonía al inicio de la batalla
+フォレストハーモニー=Armonía del Bosque
+
+【守備】9以上：\nＨＰ回復量ダウン耐性付与\n味方からバフを受けるか、敵から攻撃を受けるたびに【闘\n志】＋１（最大50）\n【闘志】の数に応じて与ダメアップ（【闘志】数×3％）\n=[Defensa]9 o superior:\nOtorga resistencia a la Reducción de Recuperación de HP\nGana +1 [Espíritu de Lucha] cada vez que recibes una potenciación de aliados o eres atacado por enemigos (máx. 50)\nAumenta el daño infligido según el recuento de [Espíritu de Lucha] ([Espíritu de Lucha] × 3%)\n
+【守備】15以上：\n残りＨＰ割合に応じたダメージブースト（最大60％）\nＨＰが0になった場合、戦闘不能になる前にＨＰを100％回復（1回）\n=[Defensa]15 o superior:\nImpulso de Daño según la proporción de HP restante (máx. 60%)\nCuando el HP llega a 0, recupera el 100% del HP antes de ser derrotado (1 vez)\n
+ベルベットルージュ=Terciopelo Rojo
+チャームファタール=Encanto Fatal
+敵の誘惑時間+50％=Duración de Encanto del enemigo +50%
+1秒ごとに誘惑状態の敵に最\n大ＨＰの5％の魔法割合ダ\nメージ（最大50万ダメー\nジ）=Cada segundo, inflige daño mágico proporcional igual al 5% del HP máximo a los enemigos Encantados\n(máx. 500,000 de daño)

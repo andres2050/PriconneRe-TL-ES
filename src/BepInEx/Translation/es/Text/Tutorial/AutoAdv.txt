@@ -1,0 +1,2 @@
+未達成=No completado
+主さま、オート進行が使えるようになりましたよ。\nオート進行は未クリアや★3未達成のメインクエストで使用できます。=Amo, ahora puedes usar el Avance Automático.\nEl avance automático puede usarse en misiones principales o de evento sin completar.

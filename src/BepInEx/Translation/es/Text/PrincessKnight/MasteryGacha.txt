@@ -1,0 +1,20 @@
+マスタリーガチャレベル=Nivel del Gacha de Maestría
+マスタリーチケットを集めて、マスタリーをGET！=¡Reúne Boletos de Maestría y Consigue Maestrías!
+マスタリーガチャ=Gacha de Maestría
+次のレベルまで=Hasta el siguiente nivel
+はい、お疲れ様。\nここではマスタリーチケットを\n使って、マスタリー強化素材を\n手に入れることができるわよ。=Sí, buen trabajo. Aquí, puedes usar el Boleto de Maestría para obtener Materiales de Mejora de Maestría.
+マスタリーチケットが付与されました。=Se han otorgado boletos de maestría.
+ガチャ演出のスキップの設定です。=Configuración para omitir las escenas del gacha.
+演出スキップ設定=Configuración de omisión de escenas
+「まとめて引く」で引くガチャの回数の設定です。=Esto establece el número de tiradas de gacha que puedes hacer al seleccionar "Tirada múltiple".
+まとめてガチャ回数設定=Establecer el número de gachas a la vez
+スキップ設定をONにすると全ての演出が再生されなくなります。=Si activas la Configuración de omisión, todas las escenas ya no se reproducirán.
+所持マスタリーチケット=Mi boleto de maestría
+マスタリーガチャLvアップまで=Hasta la Subida de Nivel del Gacha de Maestría
+ガチャ結果へ=Ir a los resultados del gacha
+入手マスタリー 一覧=Lista de Maestrías Obtenidas
+オールマスタリー=Toda la Maestría
+ガチャ結果詳細=Detalles de los Resultados del Gacha
+マスタリーチケットが不足しています。=Se están agotando los boletos de maestría.
+
+r:"^([0-9\,]+)回$"=$1 veces

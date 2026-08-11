@@ -1,0 +1,4 @@
+第1条件=1.er orden
+条件設定=Ajuste de orden y filtro
+第2条件=2.º orden
+設計図・欠片=Plano/Fragmento

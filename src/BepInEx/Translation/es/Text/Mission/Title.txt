@@ -1,0 +1,12 @@
+sr:"^(\[[0-9A-F]{6}\])?([べ-ヺー＆＝]+)(（.+）)?を★([1-6])にしよう(\[-\])?$"="$1Asciende a $2$3 a $4★[-]"
+sr:"^(\[[0-9A-F]{6}\])?(.+)の合計絆ランクを([0-9]+)にしよう(\[-\])?$"="$1Alcanza un nivel de vínculo total de $3 $2[-]"
+
+聖テレサ女学院（なかよし部）の合計絆ランクを10にしよう=Alcanza un nivel de vínculo total de 10 en el Club de Amistad
+エリザベスパークの合計絆ランクを10にしよう=Alcanza un nivel de vínculo total de 10 en Elizabeth Park
+sr:"^(\[[0-9A-F]{6}\])?([べ-ヺー＆＝]+) ?(（.+）)?を仲間にしよう(\[-\])?$"="$1Recluta a $2$3$4"
+r:"^(\[[0-9A-F]{6}\])?メインストーリー第([0-9]+)章第([0-9]+)話を読もう(\[-\])?$"="$1Lee el episodio $3 del capítulo $2 de la historia principal[-]"
+
+r:"^(\[[0-9A-F]{6}\])?([0-9]+)人とフレンドになろう(\[-\])?$"="$1Hazte amigo de $2 personas [-]"
+
+回勝利しよう=Gana la ronda
+r:"^(\[[0-9A-F]{6}\])?プリンセスナイトRANKを(\d+)まで上げよう(\[-\])?$"=$1Sube el RANGO de Caballero Princesa a $2$3

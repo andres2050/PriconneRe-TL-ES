@@ -1,0 +1,8 @@
+音量=Volumen\n(Sonido)
+
+各種音量とミュートの設定は、ムービーにも適応されます。=Los ajustes de volumen y silencio también se aplicarán a los vídeos.
+
+※音量の初期設定値はすべて「7」です。=*Todos los ajustes de volumen están en 7 por defecto.
+
+効果音=Efectos de sonido
+ボイス=Voz

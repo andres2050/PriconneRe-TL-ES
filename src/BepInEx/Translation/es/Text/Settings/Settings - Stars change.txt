@@ -1,0 +1,5 @@
+パーティ呼び出し時の★変更確認=Confirmación de cambio de ★ al seleccionar equipo
+パーティ呼び出し時の★変更のチェックボックス=Casilla de verificación de cambio de ★
+パーティ呼び出し時に★の設定が異なるキャラがいる場合、確認ダイアログを表示するか設定します。=Si hay un personaje con un ajuste de ★ diferente al usar un equipo predefinido, muestra el diálogo de confirmación.
+
+パーティ呼び出し時に★の設定が異なるキャラがいる場合に表示される確認ダイアログのチェックボックス\n「選択したパーティの★に変更する」の初期値を設定します。\n※パーティ呼び出し時の★変更確認の設定が「表示しない」の場合もこの設定で呼び出します。=Configura el valor inicial de la casilla en el diálogo de confirmación que aparece cuando hay un personaje\ncon un ajuste de ★ diferente al llamar al equipo, a «Cambiar al ★ del equipo seleccionado».\n※Este ajuste también se usa cuando la confirmación de cambio\nde ★ al llamar al equipo está configurada como «No mostrar».

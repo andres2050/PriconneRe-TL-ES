@@ -1,0 +1,2 @@
+まとめてスキップのチェック引継ぎ確認ダイアログ表示=Omitir verificación, transferir, verificar, mostrar diálogo
+まとめてスキップで深域クエストのチェックが引継がれたことの確認ダイアログを表示するか設定します。=Configura si omitir para mostrar el diálogo de confirmación de que la Misión Profunda ha sido verificada.
