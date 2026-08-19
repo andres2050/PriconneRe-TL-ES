@@ -4,10 +4,10 @@ function New-ReleaseTag {
     do {
         $char = [char]$charNumber
         if ($charNumber -eq 64) {
-            $ReleaseTag = $Date
+            $ReleaseTag = "ES-$Date"
         }
         else {
-            $ReleaseTag = $Date + $char.ToString().ToLower()
+            $ReleaseTag = "ES-$Date" + $char.ToString().ToLower()
         }
         $charNumber++
     }
@@ -17,8 +17,12 @@ function New-ReleaseTag {
 }
 
 $ReleaseTag = New-ReleaseTag
-$ReleaseTitle = "Pricone UI EN DMM v$ReleaseTag"
-$PreviousTag = git describe --tags --abbrev=0
+$ReleaseTitle = "Pricone UI ES DMM v$ReleaseTag"
+# Buscar el tag ES anterior (excluye los tags del proyecto original sin prefijo)
+$PreviousTag = git tag -l "ES-*" --sort=-v:refname | Select-Object -First 1
+if (-not $PreviousTag) {
+    $PreviousTag = git describe --tags --abbrev=0
+}
 "RELEASE_TAG=$ReleaseTag" >> $Env:GITHUB_ENV
 "RELEASE_TITLE=$ReleaseTitle" >> $Env:GITHUB_ENV
 "PREVIOUS_TAG=$PreviousTag" >> $Env:GITHUB_ENV
@@ -27,5 +31,6 @@ Write-Output @"
 ::group::Logs
 Tag: $ReleaseTag
 Title: $ReleaseTitle
+Previous: $PreviousTag
 ::endgroup::
 "@

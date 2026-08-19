@@ -35,9 +35,9 @@ function Get-Footer {
     $PreviousTag = $ENV:PREVIOUS_TAG
 
     $Footer = 
-    "`r`n### [Github release](<https://github.com/ImaterialC/PriconneRe-TL/releases/tag/$LatestTag>) " +
-    "| [Download](<https://github.com/ImaterialC/PriconneRe-TL/releases/download/$LatestTag/PriconneTL_$LatestTag.zip>) " +
-    "| [What's changed?](<https://github.com/ImaterialC/PriconneRe-TL/compare/$PreviousTag...$LatestTag>)"
+    "`r`n### [Github release](<https://github.com/andres2050/PriconneRe-TL-ES/releases/tag/$LatestTag>) " +
+    "| [Download](<https://github.com/andres2050/PriconneRe-TL-ES/releases/download/$LatestTag/PriconneTL_$LatestTag.zip>) " +
+    "| [What's changed?](<https://github.com/andres2050/PriconneRe-TL-ES/compare/$PreviousTag...$LatestTag>)"
 
     return $Footer
 }

@@ -61,7 +61,7 @@ jobs:
         run: |
           #"`r`n# Download`r`n" >> "./RELEASE_NOTE"
           #"Choose a version:`r`n" >> "./RELEASE_NOTE"
-          "|[Download](https://github.com/ImaterialC/PriconneRe-TL/releases/download/${{ env.RELEASE_TAG }}/PriconneTL_${{ env.RELEASE_TAG }}.zip)|`r`n|-|" >> "./RELEASE_NOTE"
+          "|[Download](https://github.com/andres2050/PriconneRe-TL-ES/releases/download/${{ env.RELEASE_TAG }}/PriconneTL_${{ env.RELEASE_TAG }}.zip)|`r`n|-|" >> "./RELEASE_NOTE"
           Write-Output "::group::Release Note"
           Get-Content -Raw "./RELEASE_NOTE"
           Write-Output "::endgroup::"
@@ -79,7 +79,7 @@ jobs:
       - name: Create compare link
         if: inputs.release_note_compare
         run: |
-          "`r`n`r`n**Full Changelog:** https://github.com/ImaterialC/PriconneRe-TL/compare/${{ env.PREVIOUS_TAG }}...${{ env.RELEASE_TAG }}" >> ./RELEASE_NOTE
+          "`r`n`r`n**Full Changelog:** https://github.com/andres2050/PriconneRe-TL-ES/compare/${{ env.PREVIOUS_TAG }}...${{ env.RELEASE_TAG }}" >> ./RELEASE_NOTE
 
       - name: Generating artifact
         run: |

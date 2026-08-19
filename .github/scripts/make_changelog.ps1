@@ -1,7 +1,12 @@
 $InformationPreference = 'Continue'
 
 function Get-ChangedFiles {
-    $LatestTag = git describe --tags --abbrev=0
+    # Usar el tag ES anterior si está disponible (calculado en initialize.ps1),
+    # para no comparar contra los tags del proyecto original.
+    $LatestTag = $Env:PREVIOUS_TAG
+    if (-not $LatestTag) {
+        $LatestTag = git describe --tags --abbrev=0
+    }
     $ChangedFiles = git diff --find-renames --name-status $LatestTag
     $Blacklist = Get-Content .\.github\scripts\changelog_blacklist.txt | Where-Object { $_ -notmatch "^#|^(\s|$null)$" } | Join-String -Separator "|"
     
