@@ -71,24 +71,23 @@ git rev-parse upstream/master
 | `Text/System/` | ✅ Completado | System, Error codes, Update |
 | `Text/Dimension/` | ✅ Completado | Dimension, Boss, Mission, Prolog |
 | `Text/Settings/` | ✅ Completado | 19 archivos |
-| `Text/Seasonal/` | ⏳ Pendiente | |
 | `Text/Caravan/` | ✅ Completado | 5 archivos |
-| `Text/MiniGames/` | ⏳ Pendiente | |
+| `Text/MiniGames/` | ✅ Completado | 5 archivos |
 | `Text/Mission/` | ✅ Completado | 6 archivos |
-| `Text/PrincessKnight/` | ⏳ Pendiente | |
-| `Text/Adventure/` | ⏳ Pendiente | |
+| `Text/PrincessKnight/` | ✅ Completado | 8 archivos |
+| `Text/Adventure/` | ✅ Completado | 7 archivos |
 | `Text/Album/` | ✅ Completado | 5 archivos |
-| `Text/Tutorial/` | ✅ Completado | 24 archivos |
+| `Text/Tutorial/` | ✅ Completado | 24 archivos (movidos a `Story/Tutorial/`) |
 | `Text/Item/` | ✅ Completado | 10 archivos |
 | `Text/Enemy/` | ⏳ Pendiente | |
 | `Text/GuildHouse/` | ⏳ Pendiente | |
 | `Text/Ex Equip/` | ✅ Completado | 4 archivos |
 | `Text/Abyss Battle/` | ✅ Completado | 1 archivo |
-| `Text/DawnLabyrinth/` | ⏳ Pendiente | |
+| `Text/DawnLabyrinth/` | ✅ Completado | 6 archivos |
 | `Text/Home Screen/` | ⏳ Pendiente | |
 | `Text/Character/` | ⏳ Pendiente | 352 archivos |
 | `Text/Event/` | ⏳ Pendiente | 389 archivos |
-| `Text/Story/` | ⏳ Pendiente | 543 archivos |
+| `Text/Story/` | ⏳ Pendiente | Contiene `Tutorial/` (✅) y `Seasonal/` (⏳ Pendiente) |
 
 ---
 

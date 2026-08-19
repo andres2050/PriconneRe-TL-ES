@@ -1,0 +1,404 @@
+黎明界ラビリンス=Laberinto del Reino del Alba
+黎明界ラビリンスβ=Laberinto del Reino del Alba β
+黎明界ラビリンスβに挑戦しよう=Desafiemos el Laberinto del Reino del Alba β
+
+r:"^残り(\d+)セット購入可能！$"=¡Solo quedan $1 sets!
+所持パスポート=Pase
+挑戦中=En Progreso
+出発=Partir
+アルファ強化=Mejora Alfa
+遺物図鑑=Compendio de Reliquias
+アルファボーナス=Bono Alfa
+所持ラビリンスコイン=Moneda de Laberinto en Posesión
+
+パスポートを所持していません。=Pase insuficiente.
+
+遺物効果結果=Resultados del Efecto de Reliquia
+「トゥインクルブレス」の迷宮遺物効果により、\nバトル結果が敗北から勝利へと変更されました。=Debido al efecto de la Reliquia de Laberinto "Aliento Twinkle",\nel resultado de la batalla ha cambiado de derrota a victoria.
+
+
+挑戦を終了してラビリンスTOPに戻りますか？\n\n※「撤退する」を選択すると、報酬が獲得できない\n代わりにラビリンスパスポートが返却されます。=¿Te gustaría terminar el desafío y volver a la parte superior del Laberinto?\n\n※Si seleccionas "Retirarse", no recibirás recompensas.\nEn su lugar, tu Pase de Laberinto te será devuelto.
+
+有効効果=Recomendado
+ボスへの\n有効効果=Efectivo\ncontra este jefe
+バリア=Barrera
+対象のキャラがいません。=No hay personaje objetivo.
+効果所有キャラ=Personajes Recomendados en Posesión
+タグ詳細=Detalles de Etiqueta
+
+Menú Shizuru y Rino
+呼ばれて飛び出てお姉ちゃんだよ♪\nたとえ火の中、水の中、迷宮の中っ\nこのダンジョンを踏破できるよう\n弟くんを応援してあげるからねっ♪=¡La hermana mayor siempre responderá a tu llamada♪ Incluso a través del fuego, el agua o una mazmorra profunda en un laberinto, siempre apoyaré a mi hermanito♪
+ほんとーに不思議な場所ですね～\nお兄ちゃんが冒険をがんばれるよう\nおまじないをかけてあげますねっ\nフレーフレー、お・兄・ちゃんっ♪=Este realmente es un lugar extraño～ Lanzaré un hechizo de buena suerte para que puedas hacer tu mejor esfuerzo en tus aventuras. ¡Adelante, Onii-chan～
+
+tutorial laby
+やぁ少年、まさか今になって、こーんな懐かしいエリアが見つかっちゃう\nなんてね？　ま、いい機会だし挑戦していってよ。キミとキミの仲間たち\nなら、きっとこの迷宮も攻略できるはずだから、さ。=Oye, chico. No pensé que encontrarías un área tan nostálgica, pero es una buena oportunidad para que la pruebes. Estoy seguro de que tú y tus aliados podrán superar este laberinto.
+迷宮の中はルートを選択して進んでいくことになるよ。止まりたいマスを\n選択して進路を決定しよう！　止まったマスに応じた出来事が\n発生するから、くれぐれも先を見据えて行動するよーに！=En el laberinto, tendrás que decidir una ruta para progresar. ¡Elige la casilla en la que quieras detenerte para decidir tu ruta! Asegúrate de planificar tus rutas, porque el evento que obtendrás dependerá de las casillas en las que caigas.
+最終エリアで待つボスを倒すか、帰還を選ぶことで挑戦を終了できる。\n成果に応じたスコアや報酬が得られるから、好成績目指して頑張ろう！\nうまくいかなかったら撤退を選ぶこともできる、安心設計だよ！=Terminarás después de derrotar al jefe en el área final o eligiendo regresar en cualquier momento. Según tus resultados, ganarás puntuaciones y recompensas, ¡así que intenta obtener una buena! Si las cosas no van bien, siempre puedes elegir retirarte. ¡Es un diseño sin estrés!
+やっぱりさー、ダンジョン攻略の醍醐味といえば報酬の獲得、だよね！\n安心してよ、この迷宮──黎明界にもちゃんとお宝を仕込んであるから。\nそれこそ、ここでしか手に入らない高レア装備なんてものも……ね♪=Como pensaba, ¡lo divertido de desafiar mazmorras son las recompensas que obtienes! Pero no te preocupes, este laberinto──el Reino del Alba también tiene tesoros preparados. Así es... hay equipos de alta rareza que solo puedes encontrar aquí♪
+あーそうそう、黎明界ラビリンスに挑戦するためには特別なアイテムが\n必要なんだ。いや、持ってなくても中に入ることはできるんだけど……\nその代わり報酬は持ち帰れなくなっちゃうから、忘れずに覚えておいて。=Ah, cierto. Necesitarás un objeto especial para desafiar el Laberinto del Alba. Aún puedes entrar incluso si no lo tienes, pero... no podrás llevarte las recompensas, tenlo en cuenta.
+マップにはいろんなマスが用意されているよ。「バトルマス」は文字通り\n魔物と戦うマスだ。見事勝利すれば報酬獲得♪　「ボスバトルマス」では\n３パーティで強敵に挑戦しよう！　戦力を整えて挑むよ～に！=Hay una variedad de casillas en el mapa. "Casilla de Batalla", como su nombre indica, es una casilla para luchar contra monstruos. Si ganas, obtendrás una recompensa♪ En la "Casilla de Batalla contra el Jefe", ¡usa 3 equipos y enfréntate a oponentes fuertes! ¡Prepara tu fuerza para vencerlo!
+もちろん、バトル以外のマスも配置してるよ。止まった先で選択を\n迫られる……なんてこともあるから、状況に応じて選ぶといい！\nまさかテキトーに進めちゃうなんてことは……しないよね？=Por supuesto, también hay casillas que no son de batalla. Podrías verte obligado a tomar una decisión después de detenerte en una casilla... ¡así que decide según tu situación! No avanzarías perezosamente sin pensar... ¿verdad?
+迷宮内で手に入る遺物たちは、ラビリンス攻略における助けとなるはずだ\nよ。それぞれが便利な効果を持つ上に、複数集めたら追加される効果なん\nてのもあるからね。見事揃えられたら七冠の力も凌駕しちゃったりして♪=Las reliquias que obtienes en el laberinto deberían ayudarte a conquistarlo. No solo cada una tiene efectos útiles, sino que sus efectos se vuelven más fuertes cuando reúnes varias juntas. Si puedes completar la serie, ¡podría incluso superar el poder de las 7C♪
+
+報酬は多ければ多いほどやる気が出るってー？　うんうん、それはごもっ\nともだ。ってなわけで、お題の達成や特定のアイテムを持ち帰ってきたら\n追加のご褒美もあげちゃおう！　専用のショップもオープンしてるよ。=¿Cuántas más recompensas, más motivado estás? Sí, sí, eso tiene sentido. De todos modos, ¡te daré una recompensa adicional cuando completes una tarea o traigas un objeto específico! Nuestra propia tienda personal también está abierta.
+
+報酬・ミッション=Misión de Recompensa
+全て受け取る=Tómalo todo
+シリーズ効果=Efecto de Serie
+迷宮遺物効果=Efecto de Reliquia
+詳細表示する迷宮遺物を\n選択してください。=Selecciona una Reliquia de Laberinto para mostrar los detalles.
+迷宮遺物を獲得すると、各詳細を確認できます。=Obtén una Reliquia de Laberinto para ver los detalles.
+ラビリンス内で拾った迷宮遺物は、専用の図鑑に登録されていくからね。\n未発見の遺物を入手した際はご褒美をあげちゃうよ！　あ、でも、図鑑を\n埋めるのに執心しすぎて攻略がお留守にならないよう注意、だけどね！=Cualquier reliquia de laberinto que recojas en el Laberinto se registrará en tu propia guía personal. ¡Obtendrás una recompensa por cada reliquia no obtenida que consigas! Oh, pero no te concentres demasiado en completar la guía y descuides tus misiones.
+
+バフ強化ステータス=Estadísticas de Mejora de Potenciación
+デバフ強化ステータス=Estadísticas de Mejora de Debilitación
+
+r:"^難易度ボーナス ×([0-9.]+)$"=Bono de Dificultad x$1
+特殊効果なし=Sin efecto
+r:"^難易度(\d+)$"=Dif. $1
+まだ解放されていない難易度です。=Esta dificultad aún no ha sido desbloqueada.
+累計=Total
+同行するギルドを選択してください。=Selecciona un gremio para que te acompañe.
+
+アルファルピ=αRupias
+
+挑戦終了時報酬=Recompensa de Desafío Completado
+挑戦時アイテム=Objeto de Desafío
+ギルド詳細=Detalles del Gremio
+
+獲得可能な報酬=Recompensa Obtenible
+出発ボーナス=Bono de Partida
+挑戦終了時に確率で以下のアイテムが獲得できます。=Al final del desafío, puedes obtener los siguientes objetos:
+宝箱からは以下を含む報酬が抽選されます。=Se sortearán recompensas que incluyen lo siguiente del cofre.
+挑戦開始時に以下のアイテムが獲得できます。=Los siguientes objetos se pueden obtener al inicio del desafío:
+
+
+sr:"^【(.+)】のセレクトサイン$"=Selección de Personajes de $1
+
+sr:"^\[3C404E\]ラビリンスパスポートを1枚消費して\[FFBB00,CE4F00\]【(.+)】\[-\]と一緒に出発します。\nよろしいですか？\[-\]$"=[3C404E] Consume un Pase de Laberinto y parte con[FFFBB00, SE4F00] [$1][-]?[-]
+
+sr:"^\[3C404E\]\[FFBB00,CE4F00\]【(.+)】\[-\]と一緒に出発します。\nよろしいですか？\[-\]$"=[3C404E]partir con[FFFBB00, SE4F00] [$1][-]?[-]
+
+所持ラビリンスパスポート=Pase de Laberinto en Posesión
+ラビリンスパスポートを所持していないため報酬は獲得できません。=No puedes reclamar una recompensa sin un Pase de Laberinto.
+ギルド選択確認=Confirmación de Selección de Gremio
+開始時に獲得できる迷宮遺物=Reliquias de Laberinto obtenidas al inicio
+
+
+シリーズ効果詳細=Detalles del Efecto de Serie
+
+
+
+ＴＰ回復や行動速度アップにより、キャラのスキルやユニ\nオンバーストの発動数が増加する=Aumenta el uso de UB y Habilidades con la Recuperación de TP y los Impulsos de Velocidad.
+【加速】4以上：ＴＰ上昇＋30重複可能の行動速度＋100％=[Aceleración] 4+:\n►Aumento de TP +30.\n►Impulso de VEL apilable +100%.\n
+【加速】9以上：ユニオンバースト発動時に【烈風】＋１（最大99）20秒ごとに物理/魔法与ダメアップフィールド展開（【烈風】数×1％）=[Aceleración] 9+:\n►Al activar UB, gana +1 [Vendaval] (máx. 99).\nCada 20s, despliega un Campo de Aumento de Daño F/M\n(1% por acumulación de [Vendaval]).\n
+【加速】9以上：ユニオンバースト発動時に【烈風】＋１（最大99）20秒ごとに物理/魔法与ダメアップフィールド展開（【烈風】数×１％）=[Aceleración] 9+:\n►Al activar UB, gana +1 [Vendaval] (máx. 99).\nCada 20s, despliega un Campo de Aumento de Daño F/M\n(1% por acumulación de [Vendaval]).\n
+
+【加速】15以上：9秒ごとにＴＰ1000回復=[Aceleración] 15+:\n►Recupera 1000 de TP cada 9s.\n
+【加速】15以上：９秒ごとにＴＰ1000回復=[Aceleración] 15+:\n►Recupera 1000 de TP cada 9s.\n
+
+【加速】4以上：重複可能の行動速度アップ（【加速】数×5％）=[Aceleración] 4+:\nOtorga un aumento de velocidad de acción apilable (acumulaciones de [Aceleración] × 5%).
+【加速】9以上：\nユニオンバースト発動時に【烈風】＋１（最大20）\nＴＰ上昇アップ（【烈風】数×2）=[Aceleración] 4+:\nGana +1 [Vendaval] al activar un Estallido de Unión (hasta 20)\nAumenta el Aumento de TP (acumulaciones de [Vendaval] × 2).
+
+クリティカルや通常攻撃強化により、攻撃性能を強化する=Fortalece el poder ofensivo a través de Críticos y Aumentos de Ataque Normal.
+【会心】4以上：物理/魔法クリダメ＋100％=[Enfoque] 4+:\n►Daño Crít. F y M +100%.\n
+【会心】4以上：物理/魔法クリダメ＋150％=[Enfoque] 4+:\n►Daño Crít. F y M +150%.\n
+【会心】9以上：物理/魔法クリティカル＋2000=[Enfoque] 9+:\n►Prob. de Crít. F y M +2000.\n
+【会心】9以上：物理/魔法クリティカル＋2000物理/魔法クリダメ＋150％=[Enfoque] 9 o superior\n►Prob. de Crít. F y M +2000.\n►Daño Crít. F y M +150%.\n
+【会心】15以上：クリティカルヒット時【看破】＋１（最大99）20秒ごとにランダムな敵１体に固定ダメージ×５回（毎回5万＋対象の【看破】数×5万ダメージ）=[Enfoque] 15 o superior:\n►Cuando infliges un golpe crítico, aumenta la acumulación de [Penetración] en +1 (máx. 99). Cada 20s, inflige daño 5 veces a 1 enemigo aleatorio.\n(Inflige 50,000 + acumulación de [Penetración] x 50,000 como daño en cada golpe).\n
+【会心】15以上：クリティカルヒット時【看破】＋１（最大99）20秒ごとにランダムな敵１体に固定ダメージ×５回（毎回５万＋対象の【看破】数×５万ダメージ）=[Enfoque] 15 o superior:\n►Cuando infliges un golpe crítico, aumenta la acumulación de [Penetración] en +1 (máx. 99). Cada 20s, inflige daño 5 veces a 1 enemigo aleatorio.\n(Inflige 50,000 + acumulación de [Penetración] x 50,000 como daño en cada golpe).\n
+
+
+敵に継続ダメージ系状態異常や弱体効果を付与し、敵を弱体化させる=Debilita al enemigo infligiendo alteraciones de estado de daño continuo y debilitaciones.
+【弱体】4以上：敵全体に黒炎付与（毎秒1万ダメージ、毎回5％ずつダメージ上昇）=[Debilitación] 4+:\n►Otorga la debilitación "Llama Negra" a todos los enemigos (10k de daño/s, aumenta un 5% en cada tick).\n
+【弱体】4以上：敵全体に黒炎付与（毎秒１万ダメージ、毎回５％ずつダメージ上昇）=[Debilitación] 4+:\n►Otorga la debilitación "Llama Negra" a todos los enemigos (10k de daño/s, aumenta un 5% en cada tick).\n
+【弱体】9以上：敵への継続ダメージ＋1000％（最大50万ダメージ）=[Debilitación] 9+:\n►Daño continuo +1000% (hasta 500,000 de daño)\n
+【弱体】9以上：敵への継続ダメージ＋2000％（最大30万ダメージ）=[Debilitación] 9+:\n►Daño continuo +2000% (hasta 300,000 de daño)\n
+【弱体】15以上：弱体効果数に応じて敵の被ダメアップ（対象の弱体効果数×50％、最大＋500％）さらに敵への継続ダメージ＋1000％（最大50万ダメージ）=[Debilitación] 15+:\n►Aumenta el daño recibido según el número de debilitaciones (50% por debilitación, hasta +500%)\n►Daño continuo infligido a los enemigos +1000% (hasta 500,000 de daño).\n
+【弱体】15以上：弱体効果数に応じて敵の被ダメアップ（対象の弱体効果数×20％、最大＋200％）=[Debilitación] 15+:\n►Aumenta el daño recibido según el número de debilitaciones (20% por debilitación, hasta +200%)\n
+【会心】4以上：物理/魔法クリダメアップ（【会心】数×5％）物理/魔法クリティカルアップ（【会心】数×200）=[Crítico] 4 o superior: Aumenta el Daño Crítico Físico/Mágico (recuento de [Crítico] × 5%) Aumenta el Crítico Físico/Mágico (recuento de [Crítico] × 200)
+【会心】9以上：クリティカルするたびに敵に【看破】＋１（最大99）敵の物理/魔法被クリダメアップ（【看破】数×1％）=[Crítico] 9 o superior: Cada vez que ocurre un Golpe Crítico, inflige +1 [Exponer] al enemigo (máx. 99) Aumenta el Daño Crítico Físico/Mágico recibido por el enemigo (recuento de [Exponer] × 1%)
+【会心】15以上：敵の【看破】99：攻撃時追加ダメージ＋30％=[Crítico] 15 o superior: [Exponer] del enemigo 99: +30% de Daño Adicional al atacar
+
+【弱体】4以上：敵への継続ダメージアップ（【弱体】数×50％）=[Debilitación] 4 o superior: Aumenta el Daño Continuo infligido a los enemigos (recuento de [Debilitación] × 50%)
+【弱体】9以上：敵にデバフを付与するたびに敵に【衰弱】＋１（最大66）敵の物理/魔法被ダメアップ（【衰弱】数×2％）=[Debilitación] 9 o superior: Cada vez que se inflige una debilitación a un enemigo, inflige +1 [Debilitar] (máx. 66) Aumenta el Daño Físico/Mágico recibido por el enemigo (recuento de [Debilitar] × 2%)
+【弱体】15以上：敵の【衰弱】66：１秒ごとに最大ＨＰの5％の割合ダメージ（最大100万）=[Debilitación] 15 o superior: [Debilitar] del enemigo 66: Inflige daño proporcional igual al 5% del HP máximo cada segundo (máx. 1,000,000)
+
+【強化】4以上：ダメージブーストアップ（【強化】数×2％）=[Potenciación] 4 o superior: Aumenta el Impulso de Daño (recuento de [Potenciación] × 2%)
+【強化】9以上：味方からバフを受けるたびに【高揚】＋１（最大99）物理/魔法攻撃力アップ（【高揚】数×1％）=[Potenciación] 9 o superior: Cada vez que se recibe una potenciación de un aliado, gana +1 [Exaltación] (máx. 99) Aumenta el Ataque Físico/Mágico (recuento de [Exaltación] × 1%)
+【強化】15以上：【高揚】99：１秒ごとに物理/魔法攻撃力ダウンと物理/魔法防御力ダウン効果解除物理/魔法攻撃力アップ（現在値＋10％）=[Potenciación] 15 o superior: [Exaltación] 99: Cada segundo, elimina los efectos de Reducción de Ataque Físico/Mágico y Reducción de Defensa Física/Mágica y aumenta el Ataque Físico/Mágico (valor actual +10%)
+
+【加速】15以上：【烈風】20：【烈風】をすべて消費してＴＰ1000回復ダメージブースト＋10％=[Aceleración] 15 o superior: [Vendaval] 20: Consume todas las acumulaciones de [Vendaval] para recuperar 1000 de TP y ganar +10% de Impulso de Daño
+
+
+攻撃力や防御力アップのバフ効果を用いて、キャラを強化する=Fortalece a tus personajes con efectos de potenciación de ATQ y DEF.
+【強化】4以上：バトル開始20秒後、物理/魔法攻撃力アップフィールド展開（現在値＋30％）敵へのダメージ減衰量緩和=[Potenciación] 4+:\n►20s después de que comience la batalla, despliega un campo de Aumento de ATQ. F/M (Valor actual +30%).\n►Reduce la atenuación de daño contra los enemigos.\n
+【強化】9以上：さらにバトル開始40秒後、物理/魔法攻撃力アップフィールド展開（現在値＋50％）さらに敵へのダメージ減衰量緩和=[Potenciación] 9+:\n►Además, 40s después de que comience la batalla, despliega un campo de Aumento de ATQ. F/M (Valor actual +50%).\n►Reduce la atenuación de daño contra los enemigos.\n
+【強化】15以上：さらにバトル開始60秒後、物理/魔法攻撃力アップフィールド展開（現在値＋70％）さらに敵へのダメージ減衰量緩和=[Potenciación] 15+:\n►Además, 60s después de que comience la batalla, despliega un campo de Aumento de ATQ. F/M (Valor actual +70%).\n►Reduce la atenuación de daño contra los enemigos.\n
+
+
+ＨＰアップやバリア展開により、耐久性能を強化する=Fortalece la durabilidad de tu equipo con Aumentos de HP y Barreras.
+【守備】4以上：全ダメージ33％カット=[Defensa] 4+:\n►Reduce todo el daño recibido en un 33%.\n
+【守備】9以上：15秒ごとに前から敵１体に物理と魔法固定ダメージ（味方全体の現在ＨＰ合計×200ダメージ）=[Defensa] 9+:\n►Cada 15s, inflige daño fijo FÍS. y MÁG. a 1 enemigo desde el frente (Daño igual al HP actual total del equipo ×200).\n
+【守備】9以上：15秒ごとに前から敵1体に物理と魔法固定ダメージ（味方全体の現在ＨＰ合計×400ダメージ）=[Defensa] 9+:\n►Cada 15s, inflige daño fijo FÍS. y MÁG. a 1 enemigo desde el frente (Daño igual al HP actual total del equipo ×400).\n
+【守備】15以上：15秒ごとに物理/魔法与ダメアップフィールド展開（味方全体の現在ＨＰ合計×0.0001％、最大200％）=[Defensa] 15+:\n►Cada 15s, despliega un campo de Aumento de Daño F/M (HP actual total del equipo ×0.0001%, hasta 200%).\n
+【守備】15以上：15秒ごとに物理/魔法与ダメアップフィールド展開（味方全体の現在ＨＰ合計×0．0004％、最大200％）=[Defensa] 15+:\n►Cada 15s, despliega un campo de Aumento de Daño F/M (HP actual total del equipo ×0.0004%, hasta 200%).\n
+
+【守備】4以上：全ダメージカット（【守備】数×2％）=[Defensa] 4+: Reduce todo el daño recibido ([Defensa] × 2%).
+【守備】9以上：敵から攻撃かデバフを受けるたびに【闘志】＋１（最大15）与ダメアップ（【闘志】数×5％）ＨＰ吸収アップ（【闘志】数×5）=[Defensa] 9+: Cada vez que se recibe un ataque o debilitación de un enemigo, gana +1 [Espíritu de Lucha] (máx. 15). Aumenta el daño infligido ([Espíritu de Lucha] × 5%) y la absorción de HP ([Espíritu de Lucha] × 5).
+【守備】15以上：【闘志】15：【闘志】をすべて消費して与ダメ＋50％ダメージブースト＋25％=[Defensa] 15+: Cuando [Espíritu de Lucha] llega a 15, consume todo el [Espíritu de Lucha] para aumentar el daño infligido en un 50% y el Impulso de Daño en un 25%.
+
+
+仲間=Aliados
+インベントリ=Inventario
+迷宮遺物=Reliquia de Laberinto
+
+Detalles de Dificultad
+難易度詳細=Detalles de Dificultad
+防御力（ダウン不可）アップ=Defensa + (No se Puede Reducir) 
+すべてのモンスターの物理/魔法防御力をアップさせる。この効果は物理/魔法防御力ダウンの影響を受けない。=Aumenta la Defensa Física/Mágica de todos los monstruos. Este efecto no se ve afectado por la Reducción de Defensa Física/Mágica.
+全ダメージカット=Reducción de Todo el Daño
+すべてのモンスターが受けるダメージを一定値カットさせる。=Reduce todo el daño recibido por todos los monstruos.
+与ダメージアップ=Bonus de Daño Infligido
+すべてのモンスターの与えるダメージをアップさせる。=Aumenta el daño infligido por todos los monstruos.
+防御力アップ=Defensa +
+すべてのモンスターの物理/魔法防御力をアップさせる。=Aumenta la Defensa Física/Mágica de todos los monstruos.
+クリティカルダウン=Crítico Reducido
+すべてのキャラの物理/魔法クリティカルをダウンさせる。=Reduce la estadística de Crítico Físico/Mágico de todos los aliados.
+
+すべてのモンスターの物理/魔法防御力をアップさせる。=Aumenta la Defensa Física/Mágica de todos los monstruos.
+与ダメージアップ=Bonus de Daño Infligido
+すべてのモンスターの与えるダメージをアップさせる。=Aumenta el daño infligido por todos los monstruos.
+全ダメージカット=Reducción de Todo el Daño
+すべてのモンスターが受けるダメージを一定値カットさせる。=Reduce todo el daño recibido por todos los monstruos.
+防御力（ダウン不可）アップ=Defensa + (No se Puede Reducir) 
+すべてのモンスターの物理/魔法防御力をアップさせる。この効果は物理/魔法防御力ダウンの影響を受けない。=Aumenta la Defensa Física/Mágica de todos los monstruos. Este efecto no se ve afectado por la Reducción de Defensa Física/Mágica.
+クリティカルダウン=Crítico Reducido
+すべてのキャラの物理/魔法クリティカルをダウンさせる。=Reduce la estadística de Crítico Físico/Mágico de todos los aliados.
+
+エリア=Área
+　 撤退する\n （報酬なし）=　 Retirarse\n (sin recompensas)
+　 帰還する\n （報酬あり）=　 Regresar\n (con recompensas)
+勧誘する=Reclutar
+選択したキャラを仲間に勧誘します。=Recluta al personaje seleccionado en tu equipo.
+以下のキャラが仲間に加わりました。=Los siguientes personajes se han unido a tu equipo.
+キャラ加入=Personaje Unido
+このマスには移動できません。=No puedes moverte a esta casilla.
+バトルマス（NORMAL）に移動します。\nよろしいですか？=¿Moverte a la Casilla de Batalla (NORMAL)?
+バトルマス（EXTREME）に移動します。\nよろしいですか？=¿Moverte a la Casilla de Batalla (EXTREMA)?
+バトルマス（HELL）に移動します。\nよろしいですか？=¿Moverte a la Casilla de Batalla (INFERNAL)?
+移動先確認=Confirmación de Destino
+バトルマス=Casilla de Batalla
+マップを見る=Ver Mapa
+物理・魔法防御下限=Límite de Defensa Física/Mágica
+
+コネクトサインマスに移動します。\nよろしいですか？=¿Moverte a la Casilla de Señal de Conexión?
+イベントマスに移動します。\nよろしいですか？=¿Moverte a la Casilla de Evento?
+迷宮遺物マスに移動します。\nよろしいですか？=¿Moverte a la Casilla de Reliquia de Laberinto?
+火属性のランダムサイン\n=Personaje Aleatorio de Fuego
+光属性のランダムサイン\n=Personaje Aleatorio de Luz
+闇属性のランダムサイン\n=Personaje Aleatorio de Oscuridad
+風属性のランダムサイン\n=Personaje Aleatorio de Viento
+水属性のランダムサイン\n=Personaje Aleatorio de Agua
+
+獲得するコネクトサインを選択してください。=Selecciona una Señal de Conexión para obtener.
+獲得可能なキャラがいません。=No hay personajes disponibles.
+勧誘可能キャラ一覧=Lista de Personajes Reclutables
+このコネクトサインでは以下のキャラが勧誘できます。=Puedes reclutar los siguientes personajes con esta Señal de Conexión:
+
+獲得する迷宮遺物を選択してください。=Selecciona una Reliquia de Laberinto para obtener.
+
+50％で★2迷宮遺物×1\n50％で★3迷宮遺物=50% para Reliquia de Laberinto ★2 x1.\n50% para Reliquia de Laberinto ★3.
+用心して近づきましょう=Acércate con cuidado
+50％でランダムなロールの\nセレクトサイン×1\n50％でオールセレクトサイン=50% Selección de Personaje de Rol Aleatorio x1.\n50% Selección de Todo Personaje.
+
+触っても\n大丈夫かな……？=Me pregunto si está\nbien tocarlo...?
+不思議な石板を発見！どうする？=¡Encontramos una extraña losa de piedra! ¿Qué hacemos?
+
+勧誘できるキャラがいません。=No hay personaje que pueda reclutar.
+秘宝を所持していません。=No tienes ningún tesoro en tu posesión.
+加入しているキャラがいません。=No hay personajes en este equipo.
+
+現在の状況=Situación Actual
+
+ラビリンスパスポートは返却されます。=El Pase de Laberinto será devuelto.
+ラビリンスパスポート=Pase de Laberinto
+報酬を獲得せず挑戦を終了します。\n\nよろしいですか？=¿Completar el desafío sin una recompensa?
+終了確認=Confirmación de Finalización
+
+現在の挑戦を終了し、獲得済みの報酬を持ち帰ります。\n\nよろしいですか？=¿Terminar tu desafío actual y regresar con las recompensas que has ganado?
+
+ショップマスに移動します。\nよろしいですか？=¿Moverte a la Casilla de Tienda?
+r:"^(\d+)で更新$"=$1 para Volver a Sortear
+
+必要アルファルピ=αRupias Necesarias
+アルファルピを消費してラインナップを更新しますか？=¿Te gustaría usar αRupias para volver a sortear?
+更新確認=Confirmación de Nuevo Sorteo
+
+アタッカーロールのキャラか\nらランダムに1人仲間にでき\nる。=Puedes obtener 1 persona aleatoria de los personajes del Rol Atacante.
+アタッカーロールのランダムサイン=Personaje Aleatorio del Rol Atacante
+ブレイカーロールのキャラか\nらランダムに1人仲間にでき\nる。=Puedes obtener 1 persona aleatoria de los personajes del Rol Rompedor.
+ブレイカーロールのランダムサイン=Personaje Aleatorio del Rol Rompedor
+バッファーロールのキャラか\nらランダムに1人仲間にでき\nる。=Puedes obtener 1 persona aleatoria de los personajes del Rol Potenciador.
+バッファーロールのランダムサイン=Personaje Aleatorio del Rol Potenciador
+タンクロールのキャラからラ\nンダムに1人仲間にできる。=Puedes obtener 1 persona aleatoria de los personajes del Rol Tanque.
+タンクロールのランダムサイン=Personaje Aleatorio del Rol Tanque
+ヒーラーロールのキャラから\nランダムに1人仲間にでき\nる。=Puedes obtener 1 persona aleatoria de los personajes del Rol Sanador.
+ヒーラーロールのランダムサイン=Personaje Aleatorio del Rol Sanador
+デバッファーロールのキャラ\nからランダムに1人仲間にで\nきる。=Puedes obtener 1 persona aleatoria de los personajes del Rol Debilitador.
+デバッファーロールのランダムサイン=Personaje Aleatorio del Rol Debilitador
+ジャマーロールのキャラから\nランダムに1人仲間にでき\nる。=Puedes obtener 1 persona aleatoria de los personajes del Rol Saboteador.
+ジャマーロールのランダムサイン=Personaje Aleatorio del Rol Saboteador
+ブースターロールのキャラか\nらランダムに1人仲間にでき\nる。=Puedes obtener 1 persona aleatoria de los personajes del Rol Impulsor.
+ブースターロールのランダムサイン=Personaje Aleatorio del Rol Impulsor
+
+ショップから退出します。\n\nよろしいですか？=¿Salir de la tienda?
+一度退出すると入り直すことはできません。=No se puede volver a entrar después de salir.
+ショップ確認=Confirmación de Tienda
+ボスバトルマスに移動します。\nよろしいですか？=¿Moverte a la Casilla de Batalla contra el Jefe?
+ボスバトルマス=Casilla de Batalla contra el Jefe
+守備=Defensa
+加速=Aceleración
+会心=Enfoque
+
+アルファルピでアイテムを購入することができます。=Puedes comprar objetos usando αRupias.
+所持アルファルピ=αRupias en Posesión
+
+シリーズ効果が発動していません。=El efecto de serie no se ha activado.
+シリーズ効果一覧=Lista de Efectos de Serie
+未編成のパーティがあっても挑戦できます。=Incluso si tienes un equipo sin organizar, aún puedes desafiarlos.
+リタイアするとバトル前の状態に戻ります。\n\nよろしいですか？=¿Retirarte y volver al estado previo a la batalla?
+
+クリアスコア=Puntuación de Victoria
+迷宮遺物獲得スコア=Puntuación de Reliquia de Laberinto Adquirida
+キャラ加入スコア=Puntuación de Personaje Unido
+踏破スコア=Puntuación de Recorrido
+獲得した迷宮遺物=Reliquias de Laberinto Obtenidas
+加入したキャラ=Personajes Reclutados
+獲得上限に達しました。=Has alcanzado el límite.
+獲得ラビリンスコイン=Moneda de Laberinto Adquirida
+必要ラビリンスコイン=Moneda de Laberinto Requerida
+獲得アルファシャード=Fragmento Alfa Adquirido
+獲得ラビリンストークン=Ficha de Laberinto Adquirida
+宝箱開封結果=Resultados de Apertura del Cofre
+迷宮から持ち帰った宝箱を開封しました。=Abriste el cofre que trajiste del laberinto.
+
+ラビリンスコイン=Moneda de Laberinto
+難易度解放=Dificultad Desbloqueada
+
+貴方と冒険すること=Una aventura contigo.
+
+解放可能地点へ=Ir al punto de desbloqueo
+まとめて解放=Desbloquear
+
+時には、迷宮攻略に詰まってしまう……なーんてこともあるかも。\nそんなときは、アルファ強化を試してみようか。解放したノードに応じて\nラビリンス内での恩恵が得られるよ～？　どーんどん解放しちゃおう！=A veces... te quedarás atascado intentando superar el laberinto. Si ese es el caso, ¿por qué no pruebas la Mejora Alfa? Los nodos que desbloquees darán beneficios dentro del laberinto, ¿sabes? ¡Así que sigamos desbloqueando nodos!
+所持アルファシャード=Fragmento Alfa en Posesión
+消費アルファシャード=Costo de Fragmento Alfa
+選択したノードの詳細です。\n未解放の前提ノードは自動で解放されます。=Detalles de los nodos seleccionados. Los nodos previos no desbloqueados se desbloquearán automáticamente.
+
+挑戦中は難易度を変更できません。=No se puede cambiar la dificultad durante el desafío.
+
+アタッカーロールのキャラから\n1人選んで仲間にできる。=Puedes elegir 1 personaje del Rol Atacante como tu aliado.
+アタッカーロールのセレクトサイン=Selección de Personaje del Rol Atacante
+ブレイカーロールのキャラから\n1人選んで仲間にできる。=Puedes elegir 1 personaje del Rol Rompedor como tu aliado.
+ブレイカーロールのセレクトサイン=Selección de Personaje del Rol Rompedor
+バッファーロールのキャラか\nら1人選んで仲間にできる。=Puedes elegir 1 personaje del Rol Potenciador como tu aliado.
+バッファーロールのセレクトサイン=Selección de Personaje del Rol Potenciador
+タンクロールのキャラから\n1人選んで仲間にできる。=Puedes elegir 1 personaje del Rol Tanque como tu aliado.
+タンクロールのセレクトサイン=Selección de Personaje del Rol Tanque
+ヒーラーロールのキャラから\n1人選んで仲間にできる。=Puedes elegir 1 personaje del Rol Sanador como tu aliado.
+ヒーラーロールのセレクトサイン=Selección de Personaje del Rol Sanador
+デバッファーロールのキャラから\n1人選んで仲間にできる。=Puedes elegir 1 personaje del Rol Debilitador como tu aliado.
+デバッファーロールのセレクトサイン=Selección de Personaje del Rol Debilitador
+ジャマーロールのキャラから\n1人選んで仲間にできる。=Puedes elegir 1 personaje del Rol Saboteador como tu aliado.
+ジャマーロールのセレクトサイン=Selección de Personaje del Rol Saboteador
+ブースターロールのキャラか\nら1人選んで仲間にできる。=Puedes elegir 1 personaje del Rol Impulsor como tu aliado.
+ブースターロールのセレクトサイン=Selección de Personaje del Rol Impulsor
+
+ラビリンストークンが不足しています。=Fichas de Laberinto insuficientes.
+この報酬は受け取り済みです。=Ya has recibido esta recompensa.
+
+全ギルド=Todos los Gremios
+対象のギルドがありません。=No hay gremio para el objetivo.
+パスポート=Pase
+スキップ可能ギルド一覧=Lista de Gremios Omitibles
+1ギルドあたりの\n使用パスポート数=Pases por Gremio
+
+
+50％でアルファルピ×1500\n50％でアルファルピ=50%: αRupias×1500\n50%: αRupias
+ぷうきち\nフルスイ～ング☆=Pukichi\nFull Swing☆
+箱の中から声が聞こえる……=Puedo oír voces que vienen de dentro de la caja...
+お兄ちゃん\nこっちですよ♪=Onii-chan\npor aquí♪
+弟くん\nこっちこっち♪=Hermanito\npor aquí♪
+★1～3迷宮遺物×１=Reliquia de Laberinto ★1~3 x1
+r:"^現在：(\d+)$"=Actual: $1
+ラビリンス内\n未加入=Dentro del\nLaberinto\nNo Unido
+
+代償=Costo
+r:"^([0-9\,]+)消費$"=Consumir $1
+r:"^([0-9\,]+)％でアルファルピ×([0-9\,]+)\nさらに次のイベントへ$"=$1%: αRupias×$2\ny al siguiente evento.
+やってやるですよ！=¡Lo haré!
+スロットマシンだ！挑戦する？=¡Es una máquina tragamonedas! ¿Quieres probar?
+今日はツイてるです！=¡Tengo suerte hoy!
+挑戦終了=Desafío completado
+もうこの辺で……=Ya por aquí...
+もう一勝負だ！=¡Una vez más!
+50％でアルファルピ=50%: αRupias
+今日のあたしは\n負け知らずです！=¡Hoy no voy\na perder!
+そろそろやめた方が……=Mejor paremos ya...
+ラスト一発！=¡Último intento!
+
+加入済みのキャラがいません。=No hay personajes actualmente unidos.
+
+ラビリンスショップ=Tienda del Laberinto
+
+パスポートを消費して、以下のギルドおよび難易度でスキップを実行します。よろしいですか？=Usarás un pase para omitir a los siguientes gremios y niveles de dificultad. ¿Estás seguro?
+
+スキップするギルド=Omitir Gremio
+
+消費パスポート=Costo de Pase
+
+ギルド検索=Búsqueda de Gremio
+
+チェックしたギルドがありません。=No se encontraron gremios marcados
+Imagen
+パスポート不足のため\nスキップを実行できないギルドがあります。=Hay gremios que no se pueden omitir debido a pases insuficientes.
+
+ダークなあたし=La Yo Oscura
+じゃんけん……ぽん！=Piedra, papel... ¡tijera!
+グー！！！=¡¡¡Piedra!!!
+勝つとアルファルピ×3000\n負けるとアルファルピ=Ganar: Obtén αRupias×3000       \nPerder: Obtén αRupias
+チョキにしよう=Elegimos Tijera
+パーにしようかな=Quizás juegue Papel
+
+50％でオールセレクトサイン×２=50% para Selección de Todo Personaje x2
+
+ノブレスウィスタリアの効果により、以下のアイテムを入手しました。=Gracias a los efectos de Nobleza Wistaria,\nhas obtenido los siguientes objetos:
+
+r:"^すべてのモンスターが一度の行動で受けるダメージの値が「(\d+)」以上の場合、ダメージの値に応じてダメージ量を減少させる。$"=Si el valor de daño recibido por todos los monstruos en una sola acción es $1 o más, la cantidad de daño se reducirá según el valor del daño.
+魔法クリティカルデバフ=Debilitación de Crítico Mágico
+
+sr:"^すべてのキャラの(.+)をダウンさせる。$"=Reduce el $1 de todos los aliados.
+
+
+
+挑戦開始時のコネクトサイン追加=Añadir Señal de Conexión al Inicio del Desafío
+挑戦開始時、選択したギルドに応じた[-][FFBB00,CE4F00]コネクトサイン[-][3C404E]を追加獲得できる=[3C404E]Al inicio de un desafío, puedes obtener adicionalmente [FFBB00,CE4F00]Señales de Conexión[-] según el Gremio seleccionado[-]
+
+挑戦開始時、アルファルピを[-][FFBB00,CE4F00]2000[-][3C404E]多く所持して出発できる=[3C404E]Al inicio de un desafío, puedes comenzar con [FFBB00,CE4F00]2000[-] αRupias adicionales[-]
+
+
+黎明光衣アルファレディアンス=Vestidura de Luz del Alba Alfa Radiance
+アルファルピ獲得量ダウン=Adquisición de αRupias Reducida
+バトル勝利時のアルファルピ獲得量がダウンする。=Reduce la cantidad de αRupias obtenidas al ganar una batalla.
+すべてのモンスターが受ける継続ダメージの発生間\n隔と効果時間が延長される。=Extiende el intervalo y la duración del daño continuo recibido por todos los monstruos.
+継続ダメージ発生間隔/効果時間延長=Extensión de Intervalo/Duración del Daño Continuo
+NPCキャラのEX装備は変更できません。=El Equipo EX de los personajes PNJ no se puede cambiar.
+
+
+パス=Pase
+パスを利用できないマスです。=Esta Casilla no se puede omitir.
+
+究極錬成‐氷炎融合‐=Refinamiento Definitivo - Fusión de Hielo y Llama -
+パス確認=Confirmar Pase
+[FF7C4E,D62146]スコアとバトル報酬を獲得せず[-][3C404E]に\nこのバトルをパスします。\nよろしいですか？[-]=[FF7C4E,D62146]Omitirás esta batalla sin recibir la puntuación ni las recompensas de batalla.[-][3C404E]\n¿Estás seguro?[-]
