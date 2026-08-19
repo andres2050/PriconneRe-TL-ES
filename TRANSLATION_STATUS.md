@@ -8,7 +8,7 @@ Este archivo documenta en qué versión del proyecto original ([ImaterialC/Prico
 
 | Campo | Valor |
 |-------|-------|
-| **Commit base del upstream** | `e4e0640b78eee57b571d16bff7dd0b356e9d13c6` |
+| **Commit base del upstream** | `66eb6f9812b327a398ef56b2c39414139bf7ce4b` |
 | **Asunto del commit base** | `A` |
 | **Fecha del commit base** | 2026-08-10 18:07:38 +0700 |
 | **BepInEx (doorstop)** | 4.0.0 |
@@ -41,10 +41,10 @@ git fetch upstream
 
 ```bash
 # Lista de archivos modificados/añadidos desde el commit base
-git diff --name-status e4e0640b78eee57b571d16bff7dd0b356e9d13c6 upstream/master -- src/BepInEx/Translation/en/Text/
+git diff --name-status 66eb6f9812b327a398ef56b2c39414139bf7ce4b upstream/master -- src/BepInEx/Translation/en/Text/
 
 # Ver el contenido nuevo/modificado de un archivo concreto
-git diff e4e0640b78eee57b571d16bff7dd0b356e9d13c6 upstream/master -- "src/BepInEx/Translation/en/Text/<archivo>"
+git diff 66eb6f9812b327a398ef56b2c39414139bf7ce4b upstream/master -- "src/BepInEx/Translation/en/Text/<archivo>"
 ```
 
 ### 4. Traducir solo los archivos nuevos/modificados
