@@ -22,10 +22,10 @@ on:
         required: true
         default: true
       kokkoro_message:
-        type: tring
+        type: string
         description: Kokkoro's Message
         required: false
-        default: Aruji-sama, look like there is a new update dropped, why don't we check it out?
+        default: Aruji-sama, parece que ha salido una nueva actualización, ¿por qué no la revisamos?
       test_mode:
         type: boolean
         description: Test mode
@@ -100,15 +100,15 @@ jobs:
             --title "${{ env.RELEASE_TITLE }}"`
             ${{ env.RELEASE_TAG }} `
             PriconneTL_${{ env.RELEASE_TAG }}.zip `
-  announce:
-    name: Discord Announcement
-    if: inputs.test_mode == false
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Announcing new release
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        uses: Ilshidur/action-discord@0c4b27844ba47cb1c7bee539c8eead5284ce9fa9
-        with:
-          args: "<@&1349491054214385816> ${{ inputs.kokkoro_message }} \n${{ needs.build.outputs.changes }}\n"
+  # announce:
+  #   name: Discord Announcement
+  #   if: inputs.test_mode == false
+  #   needs: build
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Announcing new release
+  #       env:
+  #         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+  #       uses: Ilshidur/action-discord@0c4b27844ba47cb1c7bee539c8eead5284ce9fa9
+  #       with:
+  #         args: "<@&1349491054214385816> ${{ inputs.kokkoro_message }} \n${{ needs.build.outputs.changes }}\n"

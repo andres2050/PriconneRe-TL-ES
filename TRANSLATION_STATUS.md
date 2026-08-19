@@ -79,15 +79,52 @@ git rev-parse upstream/master
 | `Text/Album/` | ✅ Completado | 5 archivos |
 | `Text/Tutorial/` | ✅ Completado | 24 archivos (movidos a `Story/Tutorial/`) |
 | `Text/Item/` | ✅ Completado | 10 archivos |
-| `Text/Enemy/` | ⏳ Pendiente | |
-| `Text/GuildHouse/` | ⏳ Pendiente | |
+| `Text/Enemy/` | ⏳ Pendiente | 15 archivos |
+| `Text/GuildHouse/` | ⏳ Pendiente | 37 archivos |
 | `Text/Ex Equip/` | ✅ Completado | 4 archivos |
 | `Text/Abyss Battle/` | ✅ Completado | 1 archivo |
 | `Text/DawnLabyrinth/` | ✅ Completado | 6 archivos |
-| `Text/Home Screen/` | ⏳ Pendiente | |
-| `Text/Character/` | ⏳ Pendiente | 352 archivos |
+| `Text/Home Screen/` | ⏳ Pendiente | 208 archivos |
+| `Text/Character/` | ⏳ Pendiente | 353 archivos |
 | `Text/Event/` | ⏳ Pendiente | 389 archivos |
-| `Text/Story/` | ⏳ Pendiente | Contiene `Tutorial/` (✅) y `Seasonal/` (⏳ Pendiente) |
+| `Text/Story/` | ⏳ Pendiente | 587 archivos (contiene `Tutorial/` ✅ y `Seasonal/` ⏳) |
+
+---
+
+## Desglose de carpetas grandes
+
+### `Text/Character/` — 353 archivos (sin subcarpetas)
+Todos los archivos están directamente en la carpeta (uno por personaje).
+
+### `Text/Event/` — 389 archivos
+- **25 archivos directos** + **364 en subcarpetas** numeradas (1, 15, 24, 27, 29, 31, 36, 37, 47–101, etc.) + `ZombieLand Raid/` (2).
+- Subcarpetas más grandes: `71/` (33), `83/` (18), `62/` (15), `74/` (13), `76/` (13), `64/` (13), `65/` (13), `75/` (12), `63/` (12), `51/` (12), `37/` (11), `67/` (11), `70/` (10).
+
+### `Text/Story/` — 587 archivos
+| Subcarpeta | Archivos |
+|------------|----------|
+| `Character/` | 245 |
+| `Seasonal/` | 136 |
+| `3_/` | 93 |
+| `2_/` | 19 |
+| `Quest/` | 17 |
+| `3rd anni/` | 16 |
+| `Tutorial/` | 24 ✅ |
+| `Tower of Luna/` | 11 |
+| `Dungeon/` | 4 |
+| `Alces Atelier/` | 3 |
+| `Guild/` | 1 |
+
+### `Text/Enemy/` — 15 archivos
+- **10 directos**: `AscendTrial`, `BossDesc`, `CBBoss`, `ChadYuuki`, `EnemySkillDesc`, `Mobs`, `MobsRegex`, `ShadowRegex`, `ShadowUncatagorized`, `TrialRoom`.
+- **`Dungeon/`** (5): `Dungeon`, `Ex5`, `Ex6`, `Ex7`, `Ex7MiniBoss`.
+
+### `Text/GuildHouse/` — 37 archivos
+- **23 directos** (diálogos de personajes en la casa del gremio, muebles, BGM, etc.).
+- **`Birthday/`** (3): `1103`, `djeeta2023`, `others`.
+- **`Game Table/`** (11): minijuegos de mesa (Carmina Summer Live, Dash to Eternal Summer, Kaoris Soulful Dojo, etc.).
+
+### `Text/Home Screen/` — 208 archivos (sin subcarpetas)
 
 ---
 
