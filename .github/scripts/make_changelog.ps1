@@ -177,8 +177,8 @@ $Value
 
 $ChangedFiles = Get-ChangedFiles
 
-$Text = Get-Changelog ($ChangedFiles -match "src/BepInEx/Translation/en/Text/" )
-$Texture = Get-Changelog ($ChangedFiles -match "src/BepInEx/Translation/en/Texture/" )
+$Text = Get-Changelog ($ChangedFiles -match "src/BepInEx/Translation/es/Text/" )
+$Texture = Get-Changelog ($ChangedFiles -match "src/BepInEx/Translation/es/Texture/" )
 $Other = Get-Changelog $ChangedFiles.Where({ $_ -match "src/" -and $_ -notmatch "src/BepInEx/Translation/" })
 
 Write-Output "::group::Final Changelog`n"
